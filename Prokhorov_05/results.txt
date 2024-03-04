@@ -1,0 +1,137 @@
+hehe
+Cluster 1 created with 712 files with size 255.822Mb.
+Function: create_cluster
+Took: 128.764683 seconds
+Cluster 2 created with 636 files with size 255.9129Mb.
+Function: create_cluster
+Took: 227.160468 seconds
+Cluster 3 created with 648 files with size 255.6457Mb.
+Function: create_cluster
+Took: 192.778068 seconds
+Cluster 4 created with 743 files with size 255.8853Mb.
+Function: create_cluster
+Took: 199.647891 seconds
+Cluster 5 created with 532 files with size 195.3268Mb.
+Function: create_cluster
+Took: 134.801242 seconds
+Cluster 6 created with 1 files with size 250.5978Mb.
+Function: create_cluster
+Took: 10.984723 seconds
+Cluster 7 created with 1 files with size 242.7395Mb.
+Function: create_cluster
+Took: 10.732390 seconds
+Cluster 8 created with 1 files with size 198.477Mb.
+Function: create_cluster
+Took: 8.750417 seconds
+Cluster 9 created with 1 files with size 190.8267Mb.
+Function: create_cluster
+Took: 8.191475 seconds
+Cluster 10 created with 1 files with size 179.717Mb.
+Function: create_cluster
+Took: 7.800934 seconds
+Cluster 11 created with 1 files with size 171.5758Mb.
+Function: create_cluster
+Took: 7.406656 seconds
+Cluster 12 created with 1 files with size 157.8965Mb.
+Function: create_cluster
+Took: 6.526759 seconds
+Cluster 13 created with 1 files with size 146.6195Mb.
+Function: create_cluster
+Took: 6.220764 seconds
+Cluster 14 created with 1 files with size 138.0206Mb.
+Function: create_cluster
+Took: 5.843682 seconds
+Cluster 15 created with 1 files with size 134.9882Mb.
+Function: create_cluster
+Took: 5.726864 seconds
+Cluster 16 created with 1 files with size 133.4032Mb.
+Function: create_cluster
+Took: 5.785683 seconds
+Cluster 17 created with 2 files with size 243.345Mb.
+Function: create_cluster
+Took: 10.430595 seconds
+Cluster 18 created with 2 files with size 205.0505Mb.
+Function: create_cluster
+Took: 8.820714 seconds
+Cluster 19 created with 3 files with size 248.582Mb.
+Function: create_cluster
+Took: 10.818314 seconds
+Cluster 20 created with 4 files with size 222.2678Mb.
+Function: create_cluster
+Took: 9.660162 seconds
+Cluster 21 created with 33 files with size 255.8221Mb.
+Function: create_cluster
+Took: 20.977983 seconds
+Cluster 22 created with 751 files with size 255.8008Mb.
+Function: create_cluster
+Took: 208.972305 seconds
+Cluster 23 created with 584 files with size 255.9395Mb.
+Function: create_cluster
+Took: 185.831187 seconds
+Cluster 24 created with 648 files with size 255.9719Mb.
+Function: create_cluster
+Took: 198.563752 seconds
+Cluster 25 created with 668 files with size 255.2411Mb.
+Function: create_cluster
+Took: 215.934753 seconds
+Cluster 26 created with 632 files with size 255.8673Mb.
+Function: create_cluster
+Took: 182.335149 seconds
+Cluster 27 created with 640 files with size 255.2892Mb.
+Function: create_cluster
+Took: 170.153160 seconds
+Cluster 28 created with 646 files with size 255.8749Mb.
+Function: create_cluster
+Took: 172.626984 seconds
+Cluster 29 created with 670 files with size 255.8991Mb.
+Function: create_cluster
+Took: 201.279603 seconds
+Cluster 30 created with 702 files with size 255.8404Mb.
+Function: create_cluster
+Took: 191.726493 seconds
+Cluster 31 created with 740 files with size 255.744Mb.
+Function: create_cluster
+Took: 205.162584 seconds
+Cluster 32 created with 638 files with size 255.4372Mb.
+Function: create_cluster
+Took: 182.868984 seconds
+Cluster 33 created with 703 files with size 255.8867Mb.
+Function: create_cluster
+Took: 194.401134 seconds
+Cluster 34 created with 660 files with size 255.6496Mb.
+Function: create_cluster
+Took: 191.516099 seconds
+Cluster 35 created with 625 files with size 255.8925Mb.
+Function: create_cluster
+Took: 186.422736 seconds
+Cluster 36 created with 675 files with size 255.856Mb.
+Function: create_cluster
+Took: 188.470059 seconds
+Cluster 37 created with 730 files with size 255.5661Mb.
+Function: create_cluster
+Took: 193.208910 seconds
+Cluster 38 created with 705 files with size 255.693Mb.
+Function: create_cluster
+Took: 173.425976 seconds
+Cluster 39 created with 732 files with size 255.9258Mb.
+Function: create_cluster
+Took: 175.198747 seconds
+Cluster 40 created with 721 files with size 255.8613Mb.
+Function: create_cluster
+Took: 198.403300 seconds
+Cluster 41 created with 641 files with size 255.617Mb.
+Function: create_cluster
+Took: 185.933725 seconds
+Cluster 42 created with 640 files with size 255.9724Mb.
+Function: create_cluster
+Took: 188.535524 seconds
+Cluster 43 created with 763 files with size 255.9944Mb.
+Function: create_cluster
+Took: 203.295584 seconds
+Cluster 44 created with 547 files with size 201.4611Mb.
+Function: create_cluster
+Took: 122.282439 seconds
+Function: divide_files
+Took: 5350.963721 seconds
+Function: merge
+Took: 36.404020 seconds

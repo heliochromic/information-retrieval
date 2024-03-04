@@ -1,0 +1,4824 @@
+The Project Gutenberg EBook of Timon von Athen, by William Shakespeare
+#37 in our series by William Shakespeare
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Timon von Athen
+
+Author: William Shakespeare
+
+Release Date: January, 2005 [EBook #7226]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on March 28, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBERG EBOOK TIMON VON ATHEN ***
+
+
+
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 7-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+
+
+
+Timon von Athen.
+
+William Shakespeare
+
+Uebersetzt von Christoph Martin Wieland
+
+
+Personen.
+
+Timon, ein edler Athenienser.
+Lucius, Lucullus, Sempronius und Ventidius, Schmeichler und falsche
+Freunde des Timon.
+Alcibiades, ein General der Athenienser.
+Apemanthus, ein Cynischer Philosoph.
+Flavius, Timons Verwalter.
+Flaminius, Lucilius und Servilius, Bediente des Timon.
+Caphis, Varro, Philo, Titus, Lucius und Hortensius, Bediente von
+den Glaeubigern des Timon.
+Ein Poet.
+Ein Mahler.
+Ein Juweelen-Haendler.
+Ein Galanterien-Kraemer.
+Ein Kauffmann.
+Drey Diebe.
+Etliche Senatoren.
+Cupido und Masken.
+Phrynia und Timandra, Maitressen des Alcibiades.
+Verschiedne Bediente, Soldaten, und andre als stumme Personen.
+Die Scene, Athen, und ein nicht weit davon gelegner Wald.
+
+
+
+
+Erster Aufzug.
+
+
+
+Erste Scene.
+(Eine Halle in Timons Hause.)
+(Der Poet, der Mahler, der Juweelen-Haendler, der Kauffmann, und
+ der Galanterie-Kraemer treten durch verschiedne Thueren auf.)
+
+
+Poet.
+Guten Tag, mein Herr.
+
+Mahler.
+Ich erfreue mich ueber euer Wohlbefinden.
+
+Poet.
+Ich hab' euch lange nicht gesehen; wie geht's in der Welt?
+
+Mahler.
+So dass es besser seyn koennte, mein Herr.
+
+Poet.
+Nun, das ist etwas bekanntes.  Aber was giebt es vor besondere
+Seltenheiten?* Was ist so ausserordentlich, wovon wir nicht in den
+Urkunden der Welt mehr als ein Beyspiel finden?--Seht, o Zauberey
+der Freygebigkeit!  Alle diese Geister hat deine Macht
+zusammenbeschworen, dir aufzuwarten--Ich kenne den Kauffmann.
+
+Mahler.
+Ich kenne beyde; der andere ist ein Juweelen-Haendler.
+
+Kauffmann.
+O!  es ist ein wuerdiger Edelmann!
+
+Juweelen-Haendler.
+Das ist ausgemacht.
+
+Kauffmann.
+Ein recht unvergleichlicher Mann, von einer unerschoepflichen und
+immerwaehrenden Guetigkeit beseelt.  Er uebertrift --
+
+
+Juweelen-Haendler.
+Ich habe hier ein Juweel--
+
+Kauffmann.
+O ich bitte euch, lasst mich's sehen--Fuer den Lord Timon, mein Herr?
+
+Juweelen-Haendler.
+Wenn er es so hoch bezahlt als es geschaezt ist; doch was das
+betrift --
+
+Poet.
+Wenn wir um Lohn den Lasterhaften singen,
+So wird auch des Gerechten Lobes Glanz
+Dadurch beflekt, das wir der Tugend bringen--
+
+Kauffmann
+
+(indem er das Juweel betrachtet.)
+
+
+Es ist schoen geschnitten.
+
+Juweelen-Haendler.
+Und reich; was das fuer ein Wasser ist!  Seht ihr?
+
+Mahler (zum Poeten.)
+Mein Herr, ihr seyd, daeucht mich, im Enthusiasmus, ueber irgend
+einem Werk, das diesem grossen Mann gewidmet werden soll.
+
+Poet.
+Es ist eine Kleinigkeit, die mir in einer muessigen Stund' entgangen
+ist.  Unsre Poesie ist wie ein Gummi, das daher entspringt, woher es
+genaehrt wird.  Das Feuer in dem Kiesel zeigt sich nicht eher bis es
+herausgeschlagen wird; unsre anmuthige Flamme entzuendet sich von
+selbst, und ueberstroemt wie ein reissendes Wasser jeden Damm, der
+sie einzwaengen will.  Was habt ihr hier?
+
+Mahler.
+Ein Gemaehlde, mein Herr--Wenn kommt euer Werk ans Licht?
+
+Poet.
+An den Fersen meiner Gegenwart, mein Herr.  Lasst mich euer Stuek
+sehen.
+
+Mahler.
+Es ist ein gutes Stuek.
+
+Poet.
+Das ist es; das reicht an vortrefflich.
+
+Mahler.
+Ertraeglich.
+
+Poet.
+Bewundernswuerdig!  Was fuer eine Wahrheit, welch ein Anstand in
+dieser Stellung!  Was fuer eine geistige Kraft schiesst aus diesem
+Auge!  Was fuer eine schwangre Einbildungskraft bewegt sich in diesen
+Lippen!  Selbst die stumme Gebehrde wird hier zum Ausdruk --
+
+
+Mahler.
+Es ist eine ganz artige Nachaeffung der Natur; hier ist ein Strich--
+Was sagt ihr davon?
+
+Poet.
+Ich will nichts sagen, als, er meistert die Natur selbst; eine
+kuenstliche Bewegung lebt in diesen Strichen, die lebhafter ist als
+das Leben selbst.  (Einige Senatoren zu den Vorigen.)
+
+Mahler.
+Wie viel Aufwart dieser Herr hat!
+
+Poet.
+Die Senatoren von Athen!  Glueklicher Mann!
+
+Mahler.
+Seht, noch etliche.
+
+Poet.
+Ihr seht diesen Zusammenfluss, diese grosse Fluth von Besuchern--Ich
+habe in diesem rohen Werk einen Mann entworffen, den diese
+Unterwelt mit ueberschwenglicher Hochachtung umfasst, und in die Arme
+schliesst.  Meine freye Absicht haelt keinen besondern Lauf, sondern
+bewegt sich selbst in einer weiten See von Wachs; keine gesaeurte
+Bosheit vergiftet ein einziges Comma in dem Lauf den ich halte:
+sondern er fliegt einen Adler-Flug, kuehn, in einem fort, und laesst
+keine Spur zuruek.
+
+Mahler.
+Wie soll ich euch verstehen?
+
+Poet.
+Ich will es euch aufrigeln.  Ihr seht wie alle Staende, wie alle
+Arten von Leute, sowohl die von glatter und schluepfriger als die
+von sproeder und herber Beschaffenheit, ihre Dienste zu den Fuessen
+des Lord Timon legen: Sein grosser Reichthum, der an seiner
+leutseligen und guetigen Gemuethsart haengt, ueberwaeltigt alle Arten
+von Herzen, und macht sie zu seinen freywilligen Unterthanen; ja,
+von dem Spiegelartigen Schmeichler bis zum Apemanthus, der wenige
+Dinge so sehr liebt als sich selbst zu verabscheuen; aber auch
+dieser giesst sich auf die Knie vor ihm hin, und kehrt vergnuegt, und
+durch ein Kopfniken des Timons, in seinen Gedanken, hoechst glueklich
+von ihm zuruek.
+
+Mahler.
+Ich sah sie mit einander reden.
+
+Poet.
+Ich dichte also das Gluek, auf einem hohen und anmuthigen Huegel
+gethront.  Der Fuss des Berges ist mit allen Arten von Personen und
+Verdiensten dicht umgeben, die sich bestreben sich auf dem Busen
+dieser Sphaere festzusezen.  Unter allen diesen Wesen, deren Augen
+auf diese allgewaltige Beherrscherin geheftet sind, personificire
+ich einen in Timons Gestalt, den Fortuna mit ihrer elfenbeinernen
+Hand zu sich winkt, und durch diese Gunst in ebendemselben
+Augenblik alle seine Nebenbuhler zu seinen Dienern und Sclaven
+macht.
+
+Mahler.
+Eine mahlerische Idee!  Dieser Thron, diese Fortuna und dieser Huegel,
+mit einem Manne, dem aus den uebrigen untenstehenden emporgewinkt
+wird, und der sein Haupt gegen den schrofen Berg beugt, um zu
+seinem Gluek hinaufzuklettern, wuerde, nach unsrer Kunst, wohl
+ausgesonnen seyn.
+
+Poet.
+Nein, hoert mich nur weiter: Alle diese, die so kuerzlich erst seines
+gleichen waren, einige besser als er, folgen in diesem Augenblik
+seinen Schritten, draengen sich aufwartsam um ihn her, regnen
+fluesternde Schmeichlereyen in sein Ohr, machen sogar seine
+Schuhriemen zu einem Heiligthum, und trinken die freye Luft durch
+ihn.
+
+Mahler.
+Zum Henker, was wollt ihr mit diesen?
+
+Poet.
+Sobald nun Fortuna, in einem Anstoss von Wankelmuth den, der kaum
+ihr Liebling war, mit Fuessen tritt; so seht ihr, wie alle seine
+Verehrer, die mit Knien und Haenden sich auf den Gipfel des Berges
+hinaufarbeiteten, ihn hinunter schluepfen lassen, ohne dass nur ein
+einziger seinen ausglitschenden Fuss begleiten wollte.
+
+Mahler.
+Das ist gemein; ich kan euch tausend moralische Gemaehlde zeigen,
+die dergleichen ploezliche Glueks-Streiche weit lebhafter vorstellen
+sollen, als Worte.  Doch thut ihr wohl, dem Lord Timon zu zeigen,
+dass es schon begegnet ist, dass erniedrigte Augen den Fuss ueber dem
+Kopf gesehen haben.  * Unser Autor hat, wie der Augenschein zeigt,
+seinen Poeten in diesem Stueke zu einem schlechten Kerl gemacht.
+Damit sein Charakter aber nicht der Profession selbst nachtheilig
+sey, so hat er ihn zu einem eben so schlechten Poeten gemacht, als
+er ein schlechter Mann ist.  Ein untruegliches Kennzeichen von dem
+falschen Geschmak und unreiffen Urtheil, so er ihm beylegt, ist
+seine Liebe zu allem was seltsam, erstaunlich und abentheurlich,
+und eine Verachtung alles dessen, was gewoehnlich oder der Natur
+gemaess ist.  Warbuerton.
+
+(Inspicere tanquam in speculum jubeo)--    (Terent.)
+
+
+
+Zweyte Scene.
+(Trompeten.  Timon tritt auf, und wendet sich auf eine leutselige
+ Art an die verschiednen Personen, die ihm die Aufwartung machen.)
+
+
+Timon (zu einem Boten.)
+Er sizt im Gefaengniss, sagt ihr?
+
+Bote.
+Ja, gnaediger Herr; Seine Schulden belauffen sich auf fuenf Talente,
+seine Mittel sind sehr knapp, seine Glaubiger sehr dringend; er
+bittet euch, an diejenige, die ihn eingesezt haben, zu seinem Behuf
+zu schreiben, und wuerde ohne allen Trost seyn, wenn ihr ihm diese
+Gunst versagen wuerdet.
+
+Timon.
+Der edle Ventidius!  Gut!  Ich bin nicht von der Art, meinen Freund
+zu verlassen, wenn er meiner am meisten noethig hat.  Ich weiss, er
+ist ein Edelmann, der wohl verdient, dass man ihm aushelfe; ich will
+es thun, ich will die Schuld bezahlen, und ihn befreyen.
+
+Bote.
+Euer Gnaden verpflichtet sich ihn auf ewig.
+
+Timon.
+Empfehlt mich ihm; ich will ihm seine Ranzion schiken, und ihn,
+wenn er wieder frey seyn wird, zu mir einladen.  Es ist nicht genug,
+dem Schwachen aufzuhelfen, man muss ihm auch den Arm zum Gehen
+leyhen.  Lebt wohl.
+
+Bote.
+Ich wuensche Euer Gnaden tausend Wohlergehen.
+
+(Geht ab.)
+
+
+(Ein alter Athenienser tritt auf.)
+
+Alter Athenienser.
+Lord Timon, hoert mich reden.
+
+Timon.
+Rede frey, mein guter alter Vater.
+
+Alter Athenienser.
+Du hast einen Diener, namens Lucilius.
+
+Timon.
+So ist's; was soll er dann?
+
+Alter Athenienser.
+Sehr edler Timon, lass diesen Mann sogleich vor dich kommen.
+
+Timon.
+Ist er hier oder nicht?--Lucilius!--(Lucilius tritt auf.)
+
+Lucilius.
+Hier, was befehlen Euer Gnaden?
+
+Alter Athenienser.
+Dieser Bursche hier, Lord Timon, dieser dein Diener besucht des
+Nachts mein Haus.  Ich bin ein Mann, der von der Jugend an sich Mueh
+gegeben hat, etwas zu erwerben, und mein Vermoegen erheischt einen
+gewichtigern Erben, als einen der auf einem hoelzernen Teller isst.
+
+Timon.
+Gut; was weiter?
+
+Alter Athenienser.
+Ich hab' eine einzige Tochter, und sonst keinen Anverwandten, dem
+ich vermachen koennte was ich erworben habe.  Das Maedchen ist huebsch,
+so jung als eine Braut seyn kan, und ich habe keine Kosten gespart,
+sie zu den besten Eigenschaften zu erziehen.  Dieser dein Diener
+bewirbt sich um ihre Liebe; ich bitte dich, edler Lord, vereinige
+dich mit mir, ihm ihren Umgang zu untersagen; ich selbst hab' es
+fruchtlos gethan.
+
+Timon.
+Der Mann ist ein ehrlicher Mann.
+
+Alter Athenienser.
+So wird er's auch hierinn seyn, Timon.  Seine Ehrlichkeit belohnt
+ihn durch sich selbst, sie soll ihm nicht meine Tochter kuppeln.
+
+Timon.
+Liebt sie ihn?
+
+Alter Athenienser.
+Sie ist jung und mannbar; unsre eigene ehmalige Leidenschaften
+lehren uns, wie leichtsinnig die Jugend ist.
+
+Timon (zu Lucilius.)
+Liebt ihr das Maedchen?
+
+Lucilius.
+Ja, mein Gnaediger Herr, und sie ist es zufrieden.
+
+Alter Athenienser.
+Wenn sie einander ohne meine Einwilligung heurathen, so rufe ich
+die Goetter zu Zeugen, dass ich meinen Erben aus den Bettlern auf der
+Strasse waehlen, und ihnen alles entziehen will.
+
+Timon.
+Wieviel soll sie zum Brautschaz haben, wenn sie einen Mann
+heurathete, der ihr an Vermoegen gleich waere?
+
+Alter Athenienser.
+Drey Talente fuers Gegenwaertige, und kuenftig alles.
+
+Timon.
+Dieser wakere Mann hat mir lange gedient; um sein Gluek zu machen,
+will ich mich ein wenig angreiffen; es ist eine Pflicht der
+Menschlichkeit.  Gieb ihm deine Tochter; so viel du ihr giebst, will
+ich ihm auch geben, um zu machen, dass er so viel waegen soll als sie.
+
+Alter Athenienser.
+Sehr edler Lord, verspreche mir das auf euer Ehrenwort, so soll er
+sie haben.
+
+Timon.
+Hier hast du meine Hand, mein Ehrenwort ist mein Versprechen.
+
+Lucilius.
+Ich danke Euer Gnaden demuethigst; nimmer moege mir das Gluek gedeyhen,
+welches ich nicht eurer Guete schuldig zu seyn erkenne.
+
+(Lucilius und der Alte Athenienser gehen ab.)
+
+
+
+Poet.
+Nehmet diese Arbeit so guetig auf, als die Wuensche, die ich fuer Euer
+Gnaden langes Leben thue.
+
+Timon.
+Ich danke euch, ihr sollt gleich mehr von mir hoeren; geht nicht weg--
+Was habt ihr hier, mein Freund?
+
+Mahler.
+Ein Gemaehlde, welches ich Euer Gnaden bitte anzunehmen.
+
+Timon.
+Mahlerey ist mir allezeit willkommen.  Seitdem die Falschheit mit
+der Natur des Menschen ein Gewerbe treibt, ist ein gemahlter Mensch
+soviel als ein natuerlicher; gemahlte Figuren sind gerade das, wofuer
+sie sich geben.  Euer Werk gefaellt mir, und ihr sollt finden, dass es
+mir gefaellt; wartet, bis ihr wieder von mir hoert.
+
+Mahler.
+Die Goetter erhalten euch!
+
+Timon.
+Lebt wol, mein Herr; gebt mir eure Hand, wir muessen heute mit
+einander zu mittagessen.  Mein Herr, euer Juweel hat von
+allzugrossem Lob gelitten.
+
+Juweelen-Haendler.
+Wie, Milord?  Ist es missfaellig?
+
+Timon.
+Es ist mir bis zum Ekel angepriesen worden.  Wenn ich es bezahlen
+sollte, wie es geschaezt wird, so muesste ich mich zu Grunde richten.
+
+Juweelen-Haendler.
+Gnaediger Herr, es ist so geschaezt wie diejenige, die es verkauffen,
+es gerne gaeben; ihr wisst aber wol, dass Dinge von gleichem Werth,
+wenn sie ungleiche Eigenthuemer haben, nach ihren Besizern geschaezt
+werden; glaubt mir, Gnaediger Herr, das Juweel wuerde einen noch
+groessern Werth erhalten, wenn ihr es trueget.
+
+Timon.
+Ihr scherzet mit mir, mein guter Mann.
+
+Kauffmann.
+Nein, Gnaediger Herr, er redt nur die gemeine Sprache, die alle
+Leute mit ihm reden.
+
+Timon.
+Seht, wer hier kommt--Wollt ihr ausgescholten seyn?
+
+
+
+Dritte Scene.
+(Apemanthus)* (zu den Vorigen.)
+
+{ed.-* Sehet diesen Character eines Cynikers, sehr fein vom Lucian in
+seinem Ausruf der Philosophen gezeichnet, und wie gut Shakespear
+ihn copirt hat.  Warbuerton.}
+
+
+Juweelen-Haendler.
+Wir wollen's mit Euer Gnaden theilen.
+
+Kauffmann.
+Er wird keinen verschonen.
+
+Timon.
+Guten Morgen, mein angenehmster Apemanthus.
+
+Apemanthus.
+Warte du auf einen Gegengruss, bis ich angenehm werde.
+
+Poet.
+Wenn werden wir das Gluek haben, das zu erleben?
+
+Apemanthus.
+Wenn du Timons Hund seyn wirst, und diese Schelmen ehrlich.
+
+Timon.
+Warum nennst du sie Schelme?  Du kennst sie nicht.
+
+Apemanthus.
+Sind sie nicht Athenienser?
+
+Timon.
+Ja.
+
+Apemanthus.
+So nehm' ich mein Wort nicht zuruek.
+
+Juweelen-Haendler.
+Ihr kennt mich, Apemanthus.
+
+Apemanthus.
+Du weissst dass ich dich kenne, ich nannte dich bey deinem Namen.
+
+Timon.
+Du bist stolz, Apemanthus.
+
+Apemanthus.
+Auf nichts so sehr, als das ich dem Timon nicht aehnlich bin.
+
+Timon.
+Wo willt du hin?
+
+Apemanthus.
+Einem ehrlichen Athenienser das Hirn ausschlagen.
+
+Timon.
+Das waer' eine That, wofuer du sterben muesstest.
+
+Apemanthus.
+Richtig, wenn das Gesez eine Todesstrafe auf nichts thun sezt.
+
+Timon.
+Wie gefaellt dir dieses Gemaehlde, Apemanthus?
+
+Apemanthus.
+Am besten, weil es nichts boeses thut.
+
+Timon.
+Arbeitete der nicht gut, der es mahlte?
+
+Apemanthus.
+Der arbeitete noch besser, der den Mahler machte; und doch ist er
+nur ein schlechtes Stuek Arbeit.
+
+Mahler.
+Ihr seyd ein Hund.
+
+Apemanthus.
+Deine Mutter ist von meinem Stamme; was war sie, wenn ich ein Hund
+bin?
+
+Timon.
+Apemanthus, willt du mit mir zu mittagessen?
+
+Apemanthus.
+Nein, ich esse keine grosse Herren.
+
+Timon.
+Wenn du es thaetest, wuerden die Damen ueber dich boese werden.
+
+Apemanthus.
+O!  die verschlingen gar die grossen Herren, und kriegen dike Baeuche
+davon.
+
+Timon.
+Das ist ein unzuechtiger Einfall.
+
+Apemanthus.
+So nimmst du ihn auf; nimm ihn fuer deine Muehe.
+
+Timon.
+Wie gefaellt dir dieses Juweel, Apemanthus?
+
+Apemanthus.
+Nicht so wol wie Aufrichtigkeit, die doch einen keinen Heller
+kostet.
+
+Timon.
+Wie viel meynst du, dass es werth sey?
+
+Apemanthus.
+Nicht werth dass ich darauf denke.  Wie steht's, Poet?
+
+Poet.
+Wie steht's Philosoph?
+
+Apemanthus.
+Du luegst.
+
+Poet.
+Bist du keiner.
+
+Apemanthus.
+Ja.
+
+Poet.
+So lueg' ich nicht.
+
+Apemanthus.
+Bist du nicht ein Poet?
+
+Poet.
+Ja.
+
+Apemanthus.
+So luegst du also: schau in dein leztes Werk; worinn du dichtest,
+dass er ein wuerdiger Mann sey.
+
+Poet.
+Das ist nicht gedichtet, er ist es.
+
+Apemanthus.
+Ja, er ist deiner wuerdig, und wuerdig dich fuer deine Arbeit zu
+bezahlen.  Wer sich gerne schmeicheln laesst, ist seines Schmeichlers
+wuerdig.  Goetter!  moecht' ich nur ein grosser Herr seyn!
+
+Timon.
+Was wolltest du denn thun, Apemanthus?
+
+Apemanthus.
+Eben das was Apemanthus izt thut, einen grossen Herrn hassen.
+
+Timon.
+Wie, dich selbst?
+
+Apemanthus.
+Ja.
+
+Timon.
+Warum denn?
+
+Apemanthus.
+Das ich nicht mehr Verstand haette, als ein grosser Herr zu seyn--
+Bist du nicht ein Kauffmann?
+
+Kauffmann.
+Ja, Apemanthus.
+
+Apemanthus.
+Die Handelschaft verderbe dich, wenn es die Goetter nicht thun
+wollen!
+
+Kauffmann.
+Wenn es die Handelschaft thut, so thun es die Goetter.
+
+Apemanthus.
+Die Handelschaft ist dein Gott, und dein Gott verderbe dich!  (Man
+hoert Trompeten.  Ein Bote tritt auf.)
+
+Timon.
+Was fuer Trompeten sind das?
+
+Bote.
+Es ist Alcibiades mit etlichen zwanzig Reitern, die ihn begleiten.
+
+Timon.
+Ich bitte euch, geht ihnen entgegen, ladet sie zu mir ein--ihr muesst
+schlechterdings mit mir zu mittagessen--Geht nicht von hier bis ich
+euch gedankt habe, und nach dem Essen, zeigt mir dieses Stuek; ich
+erfreue mich euch zu sehen.  (Alcibiades und seine Begleiter treten
+auf.) Sehr willkommen, mein Herr.
+
+(Sie bueken sich, und umarmen einander.)
+
+Apemanthus.
+So, so!  dass euch die Gicht laehme und ausdoerre, ihr biegsamen
+Gelenke!  Warum sollten auch diese artigen suessen Schelmen einander
+nicht lieb haben!  Wahrhaftig das menschliche Geschlecht wird zu
+lauter Affen und Meerkazen.
+
+Alcibiades.
+Ich sehnte mich so sehr euch zu sehen, dass ich es nicht satt werden
+kan.
+
+Timon.
+Sehr willkommen, mein Herr; ehe wir scheiden, wollen wir einige
+Tage mit allerhand Lustbarkeiten zubringen.  Ich bitte euch, lasst
+uns hinein gehen.
+
+(Sie gehen ab.)
+
+
+
+Vierte Scene.
+(Apemanthus bleibt; zu ihm Lucius und Lucullus.)
+
+
+Lucius.
+Wie viel ist die Zeit, Apemanthus?
+
+Apemanthus.
+Zeit ehrlich zu seyn.
+
+Lucius.
+Diese Zeit ist immer.
+
+Apemanthus.
+Ein desto schlimmerer Bube bist du, dass du sie immer vorbeylaessest.
+
+Lucullus.
+Gehst du zu des Lord Timons Gastmahl?
+
+Apemanthus.
+Ja, um zu sehen, wie Speisen Schelme faellen, und Wein Narren erhizt.
+
+Lucius.
+Lebe wohl, lebe wohl.
+
+Apemanthus.
+Du bist ein Narr, dass du mir zweymal lebe wohl sagst.
+
+Lucullus.
+Warum, Apemanthus?
+
+Apemanthus.
+Du haettest eines fuer dich selbst behalten sollen, denn von mir
+kriegst du keines.
+
+Lucius.
+Haeng' dich auf!
+
+Apemanthus.
+Nein, ich will nichts thun, das du mir sagst; mache deine
+Fordrungen an deinen Freund.
+
+Lucius.
+Hinweg du unvertraeglicher Hund, oder--ich stosse dich mit den
+Fuessen hinaus.
+
+Apemanthus.
+Ich will fliehen, wie ein Hund vor den Hinterfuessen eines Esels.
+
+Lucius.
+Er ist ein Antipode der Menschlichkeit.  Kommt, wollen wir
+hineingehen, und an Lord Timons Freygebigkeit Antheil nehmen?  In
+der That er uebertrift die Guete selbst.
+
+Lucullus.
+Das thut er.  Plutus, der Gott des Reichthums ist nur sein Haus-
+Hofmeister: Das kleinste Verdienst, das sich jemand um ihn macht,
+bezahlt er siebenfaeltig ueber seinen Werth; und das kleinste
+Geschenk das er annimmt, zieht dem Geber eine Erstattung zu, die
+alle gewoehnliche Erkenntlichkeit uebertrift.
+
+Lucius.
+Er hat das edelste Gemueth, das jemals einen Mann regiert hat.
+
+Lucullus.
+Moeg' er lang' in diesem glueklichen Stande leben, wollen wir hinein?
+
+Lucius.
+Ich will euch Gesellschaft leisten.
+
+(Sie gehen ab.)
+
+
+
+Fuenfte Scene.
+(Ein grosser Saal in Timons Hause.)
+(Eine Musik mit Hautbois; Es wird ein grosses Banquet aufgetragen;
+ Timon, Lucius, Lucullus, Sempronius und andre Atheniensische
+ Senatoren, treten mit Ventidius auf.  Wenn alle herein gekommen sind,
+ schlendert auch Apemanthus, mit missvergnuegtem Gesicht, hinter
+ ihnen drein.)
+
+
+Ventidius.
+Hoechstgeehrter Timon!  es hat den Goettern gefallen, meinen alten
+Vater in seine Ruhe eingehen zu lassen.  Er ist glueklich vom
+Schauplaz gegangen, und hat mich reich hinterlassen.  Ich gebe euch
+also, wie die Dankbarkeit gegen euer grossmuethiges Herz mich
+verpflichtet, diese Talente, durch deren Huelf ich meine Freyheit
+wieder erlangt, mit verdoppeltem Dank und Erbietung meiner
+Gegendienste zuruek.
+
+Timon.
+O, das kan nicht seyn, mein rechtschaffner Ventidius; ihr misskennet
+meine Freundschaft: Ich gab sie mit willigem Herzen hin; und wer
+kan mit Wahrheit sagen, dass er gebe, wenn er wieder empfaengt?  Wenn
+hoehere als wir sind es thun, so steht es doch uns nicht an.
+
+Apemanthus.
+Ahme ihnen kuehnlich nach; nuezliche Laster sind schoen.
+
+Ventidius.
+Welch eine edle Denkungsart!
+
+Timon,
+
+(indem er sieht, dass seine Gaeste viele Complimente und Umstaende
+machen, eh sie sich sezen.)
+
+
+Ceremonien sind nur erfunden worden, um falschen Thaten, holen
+Bewillkommungen, und erzwungner Gutthaetigkeit eine Glasur zu geben;
+aber, wo wahre Freundschaft ist, bedarf es nichts dergleichen.  Ich
+bitte euch, nehmet Plaz; ihr seyd mir willkommner zu meinem
+Wohlstand, als er mir selbst ist.
+
+(Sie sezen sich.)
+
+Lucius.
+Wir sind immer davon ueberzeugt gewesen.
+
+Apemanthus.
+Ho, ho, ueberzeugt gewesen?  Dass ihr gehangen waer't!
+
+Timon.
+Ha, Apemanthus!  Ihr seyd willkommen.
+
+Apemanthus.
+Ich will es aber nicht seyn; ich komme nur, dass du mich zur Thuere
+hinausstossest.
+
+Timon.
+Pfui, wie grob du bist!  Ihr habt da einen Humor angenommen, der
+einem Mann nicht gut laesst; es ist gar nicht huebsch.  Man sagt sonst,
+meine Herren, (ira furor brevis est), aber dieser Mann dort ist
+immer entruestet.
+
+Apemanthus.
+Lass mich auf deine Gefahr da bleiben, Timon; ich komme,
+Beobachtungen zu machen, ich will dich gewarnt haben.
+
+Timon.
+Und ich gebe dir keine Acht; du bist ein Athenienser, und also
+willkommen; ich moechte fuer mich selbst kein Vermoegen haben--Ich
+bitte dich, lass meine Schuesseln dich zum Stillschweigen bringen.
+
+Apemanthus.
+Ich verschmaehe deine Schuesseln; ich wollt' eher dran erworgen, eh
+ich dir jemals schmeicheln wollte.  O ihr Goetter, wieviel Leute
+essen den Timon, und er sieht sie nicht!  Es schmerzt mich, ihrer so
+viele zu sehen, die ihren Bissen in eines einzigen Mannes Blut
+tauchen; und das unsinnigste ist, dass er sie noch dazu aufmuntert.
+Mich wundert nur, dass es Menschen giebt, die sich bey andern
+Menschen sicher halten.  Sie sollten einander ohne Messer einladen,
+es waere gut fuer ihre Schuesseln, und sichrer fuer ihr Leben.  An
+Beyspielen fehlt es nicht; der Bursche, zum Exempel, der hier zu
+naechst an ihm sizt, das Brodt mit ihm theilt, und thut als ob er
+auch den Athem mit ihm theilen wollte, ist alle Augenblike
+bereitwillig, ihm einen Dolch in das Herz zu stossen.  Es sind
+Beweise davon da.  Waer' ich ein grosser Herr, ich haette das Herz
+nicht zu trinken, aus Furcht, sie moechten ausspaehen, wo sie meiner
+Luftroehre am besten beykommen koennten; grosse Herren sollten nicht
+anders trinken, als mit einem Harnisch um ihre Gurgel.
+
+Timon (indem er dem Lucullus zutrinkt.)
+Milord, von Herzen; lasst die Gesundheit herumgehen.
+
+Lucullus.
+Lasst sie diesen Weg gehen, mein werthester Lord.
+
+Apemanthus.
+Diesen Weg gehen--Ein braver Kerl; er weiss die Zeit wol in Acht zu
+nehmen; diese Gesundheiten werden noch machen, dass du und dein
+Vermoegen die Schwindsucht kriegen werden, Timon.
+
+(Er langt ein Stuek Brodt und einen Krug mit Wasser aus seiner
+Tasche.)
+
+Hier ist etwas, das zu schwach ist, ein Suender zu seyn, ehrliches
+Wasser, das noch niemand in den Schuld-Thurm gebracht hat.  Mein
+Essen schikt sich zu meinem Trank--
+
+(Er stellt sich hin, das Tisch-Gebett zu sprechen.)
+
+Gastmaehler sind zu stolz, den Goettern Dank zu sagen.
+
+Apemanthus (betet:)
+(Ihr Goetter, ich spreche euch um keine Reichthuemer an, denn ich
+achte sie fuer Quark; ich bitte fuer niemand, als mich selbst.
+Verleihet, dass ich niemals so ein guter Narr werde, einem Mann auf
+seinen Eyd zu trauen, oder einer Hure auf ihre Thraenen, oder einem
+Hund, der zu schlafen scheint, oder meinen Freunden, wenn ich ihrer
+noethig habe; Amen, Amen.) Izt zugegriffen!  Reiche Leute suendigen,
+und ich esse Wurzeln.
+
+Timon.
+General Alcibiades, mich daeucht, euer Herz ist diesen Augenblik im
+Felde.
+
+Alcibiades.
+Mein Herz ist allenthalben zu euern Diensten, Milord.
+
+Timon.
+Ihr waeret lieber bey einem Fruehstuek von Feinden, als bey einem
+Mittag-Essen von Freunden gewesen.
+
+Alcibiades.
+Wenn sie so frisch bluten, so ist kein besseres Gericht als sie;
+ich wollte meinen Freund zu einem solchen Schmaus wuenschen.*
+
+Apemanthus.
+Ich wollte also, dass alle diese Schmarozer deine Feinde waeren,
+damit du sie umbraechtest, und mich darauf zu Gaste baetest.
+
+Lucullus.
+Moechten wir nur das Gluek haben, Milord, dass ihr uns einmal durch
+etwas auf die Probe sezen wolltet, wobey wir euch unsre Ergebenheit
+in etwas zeigen koennten; es wuerde uns nichts mehr zu wuenschen uebrig
+bleiben.
+
+Timon.
+O, meine guten Freunde, ich zweifle keinen Augenblik, dass die
+Goetter fuer Gelegenheiten gesorgt haben, wo ich eben so viel Huelfe
+von euch erhalten werde; wie waeret ihr sonst meine Freunde gewesen?
+Warum trueget ihr diesen herzruehrenden Namen, vor tausenden, wenn
+ihr mein Herz nicht naeher angienget?  Ich habe ueber diesen Punct
+mehr von euch zu mir selbst gesagt, als ihr mit Bescheidenheit zu
+euerm eignen Behuf sagen koenntet.  Ihr Goetter, denke ich, wozu
+brauchten wir Freunde zu haben, wenn wir sie niemals noethig haetten;
+sie wuerden wie liebliche Instrumente seyn, die in Futteralen
+aufgehangen sind, und ihre Toene fuer sich selbst behalten.  Mein
+Vertrauen zu euch geht so weit, dass ich mich oft aermer gewuenscht
+habe, damit ich euch naeher kommen moechte; wir sind dazu gebohren,
+Gutes zu thun.  Und was koennen wir gewisser und eigentlicher unser
+eigen nennen, als die Reichthuemer unsrer Freunde?  O!  was fuer ein
+unschaezbarer Trost ist das, so viele zu haben, die, wie Brueder,
+einer ueber des andern Gluek und Vermoegen schalten koennen!  O Freude,
+die schon eine Freude ist, eh sie gebohren werden kan!  Meine Augen
+koennen nicht Wasser halten, daeucht mich; ihren Fehler zu verbessern,
+trink ich euch zu!
+
+Apemanthus.
+Du weinst nur, um zu machen, dass sie dich trinken.
+
+Lucullus.
+Das Vergnuegen ward auf die nemliche Art in unsern Augen empfangen,
+und kam in demselben Augenblik wie ein neugebohrnes Kind hervor.
+
+Apemanthus.
+Ho, ho!  ich muss lachen, wenn ich denke, dass dieses Kind ein Bastard
+ist.
+
+Ein andrer von den Gaesten.
+Ich versichre euch, ihr habt mich ausserordentlich geruehrt.
+
+Apemanthus.
+Ausserordentlich!
+
+(Man hoert einen Trompeten-Stoss.)
+
+Timon.
+Was will diese Trompete?  was giebt's?  (Ein Bedienter kommt herein.)
+
+Bedienter.
+Gnaediger Herr, es sind etliche Frauenzimmer draussen, welche gerne
+vorgelassen werden moechten.
+
+Timon.
+Frauenzimmer?  Was wollen sie?
+
+Bedienter.
+Sie bringen einen Vorredner mit, der das Amt traegt, ihr Gewerb
+anzubringen.
+
+Timon.
+Ich bitte, lasst sie hereinkommen.  * Diese Scytische Art zu reden,
+ist nicht im Character eines Atheniensers, noch des Alcibiades.  Der
+Alcibiades unsere Autors in diesem Stuek gleicht dem Alcibiades, den
+Plutarch schildert, wie ein Affe einem Menschen; er ist ein Held in
+Ostadens Geschmak gemahlt, oder wie--(Dieu le Pere dans sa gloire
+eternelle, peint galamment dans le gout de Wateau.)
+
+
+
+Sechste Scene.
+(Cupido mit etlichen Weibspersonen, die als Amazonen gekleidet
+ sind, und ein Balletformiren.)
+
+
+Cupido.
+Heil dir, wuerdiger Timon, und euch allen, die seine Guetigkeiten
+schmeken!  Die fuenf vorzueglichsten Sinnen erkennen dich fuer ihren
+Gutthaeter, und kommen, deiner ueberfliessenden Grossmuth Dank zu
+erstatten.  Das Ohr, der Geschmak, der Geruch und das Gefuehl stehen
+befriedigt von deiner Tafel auf, diese hier kommen nun, deinen
+Augen einen Schmaus zu geben.
+
+Timon.
+Sie sind alle willkommen; lasst ihnen freundlich begegnet werden;
+lasst Musik ihren Willkomm machen.
+
+Lucius.
+Ihr sehet, Milord, wie ausserordentlich ihr geliebt werdet.
+
+Apemanthus.
+Heyda!  Was fuer ein Geschweif von Eitelkeit zieht daher!  Sie tanzen,
+sie sind dem Tollhaus entloffen, glaub' ich.*
+
+{ed.-* Apemanthus faehrt hier im Original in etlichen Zeilen fort, ueber
+die Weltfreuden und die Schmeichler loszuziehen; es ist aber,
+ungeachtet der Bemuehung des Hrn.  Warbuerton, so wenig Zusammenhang
+in dieser corrupten Rede, dass man sie lieber gar weggelassen; da es
+ohnehin weiter nichts als eine ganz alltaegliche Capucinade ist, an
+der man wenig verliehrt.}
+
+(Nach geendigtem Tanz stehen die Gaeste von der Tafel auf, und
+machen dem Timon eine Menge feyrlicher Ehrenbezeugungen: Ein jeder
+liesst sich sodann eine Amazonin aus, und so tanzen sie paarweise
+einen oder Zween muntre Taenze, und hoeren auf.)
+
+Timon.
+Meine schoenen Damen, ihr habt unserer Lustbarkeit einen Reiz
+gegeben, ohne den sie nicht halb so schoen und anmuthig war.  Eure
+Gegenwart hat ihr erst einen Werth und lebhaften Glanz gegeben, und
+das Vergnuegen vollkommen gemacht, das ich meinen Gaesten zu
+verschaffen gewuenscht habe.  Ich bin euch sehr dafuer verbunden.
+
+Lucius.
+Milord, ihr nehmt sie uns gerade wie es am besten gegangen waere.
+
+Timon.
+Mesdames, es ist hier in dem Nebenzimmer eine kleine Tafel fuer euch
+gedekt.  Nehmet einige Erfrischungen, wenn es euch beliebt.
+
+Alle Frauenzimmer.
+Mit vielem Dank, Milord.
+
+(Sie gehen ab.)
+
+Timon.
+Flavius--
+
+Flavius.
+Gnaediger Herr--
+
+Timon.
+Bringt mir das kleine Kaestchen her.
+
+Flavius.
+Ja, Gnaediger Herr.
+
+(Bey Seite.)
+
+Noch mehr Juweelen?  Man darf ihm nicht einreden, wenn er in einer
+Laune ist, sonst sollt ich ihm sagen--Gut!--In der That ich sollte;
+wenn es zu spaete seyn wird, wird er selbst wuenschen, dass man ihm
+eingeredet haette.  Es ist zu bedauren, dass die Freygebigkeit hinten
+am Kopf keine Augen hat, damit ein ehrlicher Mann nicht durch ein
+allzu gutes Herz unglueklich werden koennte.
+
+Lucullus.
+Wo sind unsre Leute?
+
+Bedienter.
+Hier, Gnaediger Herr.
+
+Lucullus.
+Unsre Pferde!
+
+Timon.
+O meine guten Freunde!
+
+(zu Lucullus.)
+
+Ich hab' euch nur ein Wort zu sagen: Sehet hier Mylord; ich bitte
+euch, erweisst mir die Ehre, dieses Kleinod anzunehmen und zu tragen,
+mein guetiger Lord!
+
+Lucullus.
+Ich bin schon so sehr euer Schuldner--
+
+Alle.
+Das sind wir alle.
+
+(Lucius, Lucullus, und die uebrigen gehen ab.)
+
+
+
+Siebende Scene.
+(Ein Bedienter zu Timon.)
+
+
+Bedienter.
+Gnaediger Herr, etliche Edelleute, die kuerzlich in den Senat
+befoerdert worden, wollen euch ihren Besuch machen.
+
+Timon.
+Sie sind hoechstens willkommen.  (Flavius kommt wieder zuruek.)
+
+Flavius.
+Ich bitte Euer Gnaden, erlaubet mir ein Wort; es geht euch sehr nah
+an.
+
+Timon.  Mich?  Nun, so will ich dich ein andermal anhoeren.  Ich bitte,
+sorge davor, dass wir ihnen mit etwas aufwarten koennen.
+
+Flavius (vor sich.)
+Ich weiss kaum womit.  (Ein andrer Bedienter.)
+
+2. Bedienter.
+Mit Euer Gnaden Erlaubniss, Lord Lucius macht euch aus Freundschaft
+und Erkenntlichkeit ein Geschenk von vier milchweissen Pferden, mit
+Silber angeschirrt.
+
+Timon.
+Ich werde sie auf eine edle Art annehmen;
+
+(zu Flavius.)
+
+Sorget davor, dass ihnen wohl gewartet werde.  (Ein dritter
+Bedienter.) Was giebt's?  was neues?
+
+3. Bedienter.
+Mit Euer Gnaden Erlaubniss, der hochgebohrne Lord Lucullus bittet
+sich Euere Gesellschaft morgen auf eine Jagd aus, und hat Euer
+Gnaden zwo Kuppeln Windhunde hergeschikt.
+
+Timon.
+Ich will mit ihm jagen; ich will sie annehmen, und nicht vergessen,
+ihm einen schoenen Ersaz zu thun.
+
+Flavius (vor sich.)
+Wo will das hinkommen?  Er befiehlt uns immer Provisionen zu machen,
+und macht grosse Praesente, und alles aus einer leeren Kiste.  Und
+doch will er nicht leiden, dass ich ihm zeige, was fuer ein Bettler
+seine Freygebigkeit ist; seine Versprechungen fliegen soweit ueber
+sein Vermoegen hinaus, dass er fuer alles was er spricht, fuer jedes
+Wort, schuldig werden muesste.  Er ist so gut, dass er Intressen
+bezahlt, um Andern Freygebigkeiten zu erzeigen.  Alle seine Gueter
+stehen in den Schuldbuechern seiner Glaeubiger.  Gut!  ich wollte ich
+wuerde mit einer guten Art meines Diensts entsezt, eh ich gezwungen
+werde ihn zu verlassen.  Glueklicher ist wer gar keine Freunde zu
+fuettern hat, als solche, die noch schlimmer sind als seine
+erklaerten Feinde selbst.  Mein Herz blutet mir vor meinen Herren.
+
+(Er geht ab.)
+
+Timon.
+Ihr thut euch selbst unrecht, ihr verringert eure Verdienste zu
+sehr.  Hier, Milord, ein kleines Merkmal unsrer Freundschaft.
+
+1. Lord.
+Ich nehm' es mit hoechstem Dank an.
+
+2. Lord.
+Er hat das grossmuethigste Herz von der Welt.
+
+Timon.
+Ah, ich erinnere mich erst izt, Milord, dass euch neulich das
+Castanien-braune Pferd, worauf ich ritt, wohl zu gefallen schien:
+Es ist euer, weil es euch gefaellt.
+
+3. Lord.
+O ich bitte euch um Verzeihung, Milord, was das betrift.
+
+Timon.
+Nehmt mein Wort dafuer, Milord; ich weiss, niemand kan etwas nach
+Verdienst loben, als was er liebt.  Ich schaeze meines Freundes
+Geschmak nach meinem eignen!  ich spreche in vollem Ernst--Meine
+Herren, ich werde mich bey euch melden lassen.
+
+Alle Lords.
+O!  niemand wird uns so willkommen seyn.
+
+Timon.
+Alle Besuche, und besonders die eurigen, sind mir so werth und
+angenehm, dass es nicht genug ist, wenn ich euch davor danke; ich
+koennte Koenigreiche unter meine Freunde austheilen, und es nie muede
+werden.  Alcibiades, du bist ein Soldat, und also selten reich;
+deine Einkuenfte sind unter den Todten, und deine Laendereyen ligen
+in einem Schlachtfeld --
+
+Alcibiades.
+Es ist noch Land's genug einzunehmen, Milord.
+
+1. Lord.
+Wir sind euch so gaenzlich verpflichtet--
+
+Timon.
+Das bin ich euch.
+
+2. Lord.
+So unendlich verbunden--
+
+Timon.
+Alles auf meiner Seite.  Lichter, mehr Lichter!
+
+3. Lord.
+Wir wuenschen euch eine bestaendige Dauer der vollkommensten
+Gluekseligkeit, Lord Timon.
+
+Timon.
+Zum Dienst meiner Freunde.
+
+(Die Lords gehen ab.)
+
+
+
+Achte Scene.
+
+
+Apemanthus.
+Was das fuer ein Gelerm ist, fuer ein Geschnaebel, und fuer Scharr-
+Fuesse!  Ich zweifle, ob ihre Beine das Geld werth sind, das man fuer
+sie ausgegeben hat.  Freundschaft ist voller Hefen; mich daeucht,
+falsche Herzen sollten niemals gesunde Beine haben.  So tauschen
+ehrliche Narren ihr Geld an Complimente.*
+
+{ed.-* Wenn in dieser Rede wenig Sinn und Zusammenhang ist, so muss man
+wissen, dass sie im Original in Reimen geschrieben ist, wie viele
+andre in diesem Stueke.  Die Reime scheinen dem Shakespear viel zu
+schaffen gemacht zu haben; sein freyer und feuriger Genie geht
+darinn wie ein Laeuffer in Courier-Stiefeln.}
+
+Timon.
+Nun, Apemanthus, wenn du nicht muerrisch waerest, so wollt' ich gut
+gegen dich seyn.
+
+Apemanthus.
+Nein, ich will nichts; denn wenn ich auch noch bestochen wuerde, so
+bliebe niemand uebrig, der dich durch die Hechel ziehen wuerde, und
+denn wuerdest du noch mehr suendigen.  Du verschenkst so lange, Timon,
+besorg' ich, dass du in kurzem dich selbst weggeben wirst.  Wozu
+sollen alle diese Gastmaehler, dieser Prunk und dieser eitle Aufwand?
+
+Timon.
+O wenn du anfaengst ueber alle Geselligkeit loszuziehen, so schwoer
+ich, ich will dir keinen Blik mehr goennen.  Lebe wohl, und komme mit
+einer bessern Musik wieder.
+
+Apemanthus.
+So--du willt mich izt nicht hoeren, du sollst auch nicht!  Ich will
+dir das einzige Mittel entziehen, was dich noch retten koennte.  O,
+dass die Ohren der Leute nur fuer guten Rath taub sind, und nicht fuer
+Schmeicheley.
+
+(Geht ab.)
+
+
+
+
+Zweyter Aufzug.
+
+
+
+Erste Scene.
+(Ein oeffentlicher Plaz in der Stadt.)
+(Ein Senator tritt auf.)
+
+
+Senator.
+Und unlaengst, fuenf tausend; dem Varro und dem Isidorus ist er
+neuntausend schuldig, und dann meine vorhergehende Schuld; das
+macht zusammen fuenf und zwanzig--Nimmt denn die Wuth der
+Verschwendung kein Ende bey ihm?  Es kan nicht dauern, es kan nicht.
+Wenn ich Geld brauche, so darf ich nur einen Bettler-Hund stehlen,
+und ihn dem Timon geben; der Hund muenzt mir Geld.  Wenn ich gern
+mein Pferd verkaufte, um zehen bessere dafuer zu kauffen, gut, so
+geb ich mein Pferd dem Timon; ich verlange nichts, ich schenk es
+ihm, gleich wirft es mir zehen tuechtige Pferde.  Er hat keinen
+Thuerhueter an seiner Pforte, sondern einen Kerl der immer laechelt
+und alles einlaedt, was vorbey geht.  Das kan nicht dauern; es ist
+vernuenftigerweise unmoeglich, dass eine solche Wirthschaft dauern
+koennte.  Caphis, he!  Caphis, sag ich.  (Caphis tritt auf.)
+
+Caphis.
+Hier, mein Herr, was habt ihr zu befehlen?
+
+Senator.
+Zieh deinen Rok an, und geh in Eile zu dem Lord Timon; treib ihn
+fuer die Bezahlung der Gelder, die er mir schuldig ist; lass dich
+durch keine schlechte Weigerung abweisen, oder durch ein: Mein
+Compliment an euern Herrn, zum Schweigen bringen, und dir mit der
+Mueze in der rechten Hand die Thuere weisen, so--sondern sag ihm, ich
+hab es unumgaenglich noethig; der Termin sey verstrichen, und die
+Frist die ich ihm gegeben, habe schon meinen Credit geschwaecht; Ich
+liebe und ehre ihn, aber es sey mir nicht zuzumuthen, dass ich den
+Hals breche, um seinen Finger zu heilen; Meine Beduerfnisse seyen
+dringend, und koennen durch Vertroestungen nicht befriediget werden,
+sondern erheischen unmittelbare Huelfe.  Geh; nimm eine ungestueme
+Mine an, mach' ein Anforderungs-Gesicht; denn ich besorge, wenn
+jede Feder in ihrem eignen Fluegel steken wird, so wird Lord Timon,
+der izt wie ein Phoenix schimmert, nur eine nakte Moewe uebrig bleiben--
+Geh, sag ich.
+
+Caphis.
+Ich gehe, Herr.
+
+Senator.
+Ich gehe, Herr?--Nehmt die Verschreibungen mit euch, und gebt wohl
+auf die Datums Acht.
+
+Caphis.
+Ich will, Herr.
+
+Senator.
+Geh.
+
+(Sie gehen ab.)
+
+
+
+Zweyte Scene.
+(Verwandelt sich in Timons Halle.)
+(Flavius tritt mit verschiednen Obligationen in der Hand auf.)
+
+
+Flavius.
+Keine Sorge, kein Maass noch Ziel!  Er bekuemmert sich so wenig um
+seine Ausgaben, dass er weder darauf denkt wie er sie bestreiten,
+noch wie er diesem Strom von Verschwendung Einhalt thun wolle.
+Niemals ist so viel Guete mit so viel Thorheit in einem Menschen
+beysammen gewesen--Was ist zu thun?--Er wird nicht hoeren, bis er
+fuehlt; ich muss freymuethig mit ihm sprechen, wenn er von der Jagd
+heimkommt!  O!  weh!  weh!  weh!  (Caphis, Isidor und Varro treten auf.)
+
+Caphis.
+Guten Abend, Varro; wie, kommt ihr auch um Geld zu fordern?
+
+Varro.
+Das wird vermuthlich euer Geschaeft auch seyn?
+
+Caphis.
+Es ist nicht anders, und euers auch, Isidor?
+
+Isidor.
+So ist es.
+
+Caphis.
+Ich wollte, wir waeren alle bezahlt.
+
+Varro.
+Mir ist nicht wohl bey der Sache.
+
+Caphis.
+Hier kommt der Lord.  (Timon und sein Gefolge treten auf.)
+
+Timon.
+Sobald wir zu Mittag gegessen haben, wollen wir wieder fort.  Mein
+Alcibiades--Nun, was ist euer Begehren.
+
+(Sie bieten ihm ihre Handschriften hin.)
+
+Caphis.
+Gnaediger Herr, hier ist eine Rechnung von gewissen Schulden --
+
+Timon.
+Schulden?  Woher seyd ihr?
+
+Caphis.
+Von Athen, hier, Gnaediger Herr.
+
+Timon.
+Geht zu meinem Verwalter.
+
+Caphis.
+Euer Gnaden wollen mir's zu gut halten, er hat mich diesen ganzen
+Monat durch von einem Tag auf den andern vertroestet; mein Herr wird
+durch eine dringende Veranlassung genoethiget, das Seinige
+einzufordern, und bittet demuethig, Euer Gnaden moechte, nach dero
+bekannten Grossmuth ihm sein Recht angedeyhen lassen.
+
+Timon.
+Mein ehrlicher Freund, komm den naechsten Morgen wieder.
+
+Caphis.
+Nein, Gnaediger Herr--
+
+Timon.
+Maessige dich, guter Freund.
+
+Varro.
+Eines gewissen Varro's Bedienter, gnaediger Herr.
+
+Isidor.
+Von Isidor, er bittet um schleunige Bezahlung.
+
+Caphis.
+Wenn Euer Gnaden die Noth wuesste, worinn mein Herr stekt.  --
+
+
+Varro.
+Die Verschreibung, gnaediger Herr, ist schon vor sechs Wochen
+verfallen --
+
+
+Isidor.
+Euer Haushofmeister weisst mich ab, und ich bin ausdrueklich zu Euer
+Gnaden geschikt worden.
+
+Timon.
+Lasst mich nur zu Athem kommen,--
+
+(zu seinen Begleitern)
+
+Ich bitte euch, meine werthesten Herren, gehet hinein, ich werde
+euch in einem Augenblik aufwarten--
+
+(Die Lords gehen ab.)
+
+Kommt hieher;
+
+(zu Flavius)
+
+Wie geht das zu, dass ich auf eine so schimpfliche Art mit
+ungestuemen Anfordrungen wegen Schulden, verfallnen Handschriften,
+und Vorenthaltung laengst richtig zumachender Zahlungen angefallen
+werde?
+
+Flavius.
+Mit eurer Erlaubniss, meine Herren; es ist izt keine gelegne Zeit
+fuer euer Geschaefte; wartet bis nach Mittag, damit ich Seiner Gnaden
+inzwischen begreiflich machen kan, warum ihr noch nicht bezahlt
+seyd.
+
+Timon.
+Thut das, meine Freunde.
+
+(zu Flavius.)
+
+Seht, dass ihnen wohl begegnet werde.
+
+(Timon geht ab.)
+
+Flavius.
+Ich bitte euch, kommt herein.
+
+(Flavius geht ab.)
+
+
+
+Dritte Scene.
+(Apemanthus und ein Harlequin zu den Vorigen.)
+
+
+Caphis.
+Wartet, wartet, hier kommt der Narr mit Apemanthus, wir wollen ein
+wenig Spass mit ihnen haben.
+
+Varro.
+An den Galgen mit ihm, er wird uns eins anhaengen.
+
+Isidor.
+Dass ihn die Pest,--den Hund!
+
+Varro.
+Wie geht's, Narr?
+
+Apemanthus.
+Redst du mit deinem Schatten?
+
+Varro.
+Ich rede nicht mit dir.
+
+Apemanthus.
+Das ist wahr, du redst mit dir selbst.  Komm, lass uns gehn.
+
+(Zum Narren.)
+
+Isidor.
+Der Narr hangt schon an deinem Rueken.
+
+Apemanthus.
+Nein, du stehst einzeln.
+
+Caphis.
+Weil du noch nicht an ihm bist.  Wo ist der Narr hingekommen?
+
+Apemanthus.
+Er hat die lezte Frage gethan.  Arme Schelme und Wucherers Sclaven!
+Kuppler zwischen Geld und Mangel!
+
+Alle.
+Was sind wir, Apemanthus?
+
+Apemanthus.
+Esel.
+
+Alle.
+Was?
+
+Apemanthus.
+Wenn ihr euch selbst kenntet, so brauchtet ihr mich nicht zu fragen.
+Rede du mit ihnen, Narr.
+
+Harlequin.
+Was lebt ihr gutes, meine Herren?
+
+Alle.
+Grossen Dank, Narr; was macht eure Frau?
+
+Narr.
+Sie sezt eben Wasser ueber, um solche Huehnchen abzubruehen, wie ihr
+seyd.  Ich wuenschte wir koennten das Vergnuegen haben, euch zu
+Corinth* zu sehen.
+
+{ed.-* Ein unter gewissen Leuten uebliches Wort anstatt Bordell,
+vermuthlich von der Ausgelassenheit dieser alten Griechischen Stadt
+hergenommen; wovon (Alexander ab Alexandro) sagt:(Corinthi super
+mille Prostitutae in templo Veneris assiduae degere &amp;
+inflammata libidine quaestui meretricio operam dare &amp; velut
+Sacrorum ministrae Deae famulari solebant.) Warbuerton.}
+
+Apemanthus.
+Grossen Dank fuer den guten Wunsch!  (Ein Page zu den Vorigen.)
+
+Narr.
+Seht, hier kommt meiner Frauen Page.
+
+Page.
+Wie geht's, Capitain, Was macht ihr in dieser weisen Gesellschaft?
+Wie befindst du dich, Apemanthus?
+
+Apemanthus.
+Ich wollt', ich haette eine Ruthe in meinem Maul, um dir eine
+heilsame Antwort geben zu koennen.
+
+Page.
+Ich bitte dich Apemanthus, lies mir die Aufschrift auf diesen
+Briefen; ich weiss nicht, wem jeder gehoert.
+
+Apemanthus.
+Kanst du nicht lesen?
+
+Page.
+Nein.
+
+Apemanthus.
+Es wird also an dem Tag, da du gehaengt werden wirst, nicht viel
+Gelehrtheit sterben--Dieser ist an Lord Timon, dieser an Alcibiades.
+Geh, du wardst ein Huren-Sohn gebohren, und wirst als ein Huren-
+Wirth sterben.
+
+Page.
+Und du wardst als ein Hund geworffen, und wirst verhungern, wie ein
+Hund.  Antworte mir nicht, ich gehe.
+
+(Er geht ab.)
+
+Apemanthus.
+Narr, ich will mit euch zum Lord Timon gehn.
+
+Harlequin.
+Wollt ihr mich dort verlassen?
+
+Apemanthus.
+Wenn Timon bey Hause ist--Ihr drey dient bey drey Wucherern?
+
+Alle.
+Ich wollte, sie dienten uns.
+
+Apemanthus.
+Das wollt' ich auch--Ein so feiner Streich, als jemals ein Henker
+einem Dieb gespielt hat!
+
+Harlequin.
+Seyd ihr Drey Wucherers-Leute?
+
+Alle.
+Ja, Narr.
+
+Harlequin.
+Ich glaub', es giebt in der ganzen Welt keinen Wucherer, der nicht
+einen Narren zum Diener hat.  Meine Frau gehoert auch in diese Zunft,
+und ich bin ihr Narr; wenn die Leute zu euern Herren gehn um Geld
+zu borgen, so kommen sie traurig, und gehn lustig fort; aber in
+meiner Frauen Haus gehn sie lustig hinein, und traurig wieder fort.
+Wisst ihr die Ursach?
+
+Varro.
+Ich koennte wol eine sagen.
+
+Harlequin.
+So thue es dann, damit wir sehen, dass du ein Hurenjaeger und ein
+Lumpenhund bist; wofuer du aber, auch ohne das, nichts desto minder
+gehalten werden sollst.
+
+Varro.
+Was ist ein Hurenjaeger, Narr?
+
+Harlequin.
+Ein Narr in huebschen Kleidern, und dir in etwas aehnlich.  Es ist ein
+Geist; zuweilen laesst er sich in Gestalt eines Edelmanns sehen,
+zuweilen in Gestalt eines Advocaten, zuweilen in Gestalt eines
+Philosophen, mit zwey Steinen, ohne den Stein der Weisen zu rechnen.
+Sehr oft nimmt er die Gestalt eines Soldaten an, und ueberhaupt ist
+keine Gestalt, worinn der Mensch von achtzig Jahren bis zu dreyzehn,
+nur immer gesehen werden mag, in welcher dieser Geist nicht spueke.
+
+Varro.
+Du bist nicht ganz ein Narr.
+
+Harlequin.
+Und du nicht ganz gescheidt; ich habe gerade so viel Narrheit, als
+dir an Gescheidtheit mangelt.
+
+Apemanthus.
+Das ist eine Antwort, deren Apemanthus sich nicht zu schaemen haette.
+
+Alle.
+Auf die Seite, auf die Seite, der Lord Timon kommt.  (Timon und
+Flavius treten auf.)
+
+Apemanthus.
+Komm mit mir, Narr, komm mit.
+
+Harlequin.
+Einem Liebhaber, einem aeltern Bruder, und einem Weibsbild folg' ich
+nicht allemal; izt will ich einmal einem Philosophen folgen.
+
+Flavius
+
+(zu den Vorigen.)
+
+
+Seyd so gut, und spaziert ein wenig dort, ich will gleich mit euch
+reden.
+
+(Die Glaeubiger, Apemanthus und Harlequin, treten ab.)
+
+
+
+Vierte Scene.
+(Timon.  Flavius.)
+
+
+Timon.
+Ihr sezt mich in Erstaunen: Warum habt ihr mir denn meine Umstaende
+nicht eher vollstaendig vorgelegt, damit ich meine Ausgaben nach dem
+Ertrag meiner Mittel haette einrichten koennen?
+
+Flavius.
+Ich hab euch in manchen muessigen Stunden daran erinnert, aber ihr
+wolltet mich nicht anhoeren.
+
+Timon.
+Ausfluechte!  Ihr habt vielleicht gerade die Augenblike ausgesucht,
+da ich nicht bey guter Laune war; und izt bedient ihr euch dessen,
+euch selbst auf meine Unkosten zu entschuldigen.
+
+Flavius.
+O!  mein gnaediger Herr, ich brachte meine Rechnungen manchmal, und
+legte sie euch vor; ihr warfet sie weg, und sagtet, ihr verlasset
+euch auf meine Ehrlichkeit.  Wenn ihr, fuer irgend ein nichtswuerdiges
+Geschenk von euern Freunden, mir so oder so viel dagegen zu geben
+befahlet, schuettelt' ich den Kopf und weinte; ja, ich uebertrat oft
+die Geseze des Wohlstands und bat euch, ein wenig sparsamer im
+Austheilen zu seyn: Ich bekam nicht selten und nicht kleine
+Verweise, wenn ich Euch die Ebbe euers Vermoegens, und die grosse
+Fluth eurer Schulden vorstellte.  Mein allerliebstes Herr, ob ihr
+gleich izt zu spaet hoeret, so ist doch noch izt eine Zeit; die Summe
+alles dessen, was ihr habt, mangelt nur eine Helfte, um alle eure
+Schulden zu bezahlen.
+
+Timon.
+Lasst alle meine ligende Gueter verkauft werden.
+
+Flavius.
+Sie sind meistens versezt, einige gar schon verfallen, oder sonst
+veraeussert; und der Rest wird kuemmerlich zureichen, die
+dringendsten Schulden zu verstopfen; die kuenftige Zeit ruekt heran;
+wovon sollen wir unterdessen leben, und wie werden wir zulezt mit
+unsrer Rechnung bestehen koennen?
+
+Timon.
+Meine Laendereyen erstrekten sich bis nach Lacedaemon.
+
+Flavius.
+Ach, mein Gnaediger Herr, die Welt ist nur ein Wort; waere sie ganz
+euer, so dass ihr sie in einem Athemzug weggeben koenntet, wie
+schnell wuerde sie weg seyn!
+
+Timon.
+Ihr habt recht.
+
+Flavius.
+Wofern ihr einigen Verdacht in meine Wirthschaft oder Treue sezet,
+so fordert mich vor die schaerfesten Richter, und stellt mich auf
+die Probe.  Die Goetter seyen mir gnaedig, so wie ich die Wahrheit
+sage!  Wenn alle eure Vorraths-Kammern von schwelgerischen Prassern
+erschoepft wurden; wenn die Gewoelbe und Deken in euern Saelen von
+Wein traeuffelten, der in trunknem Muthwillen versprizt wurde; wenn
+jedes Zimmer von Lichtern funkelte, und von Spielleuten zertrappt
+wurde; zog ich mich oft in einen dunkeln Winkel unter dem Dach
+zuruek, um meinen Thraenen freyen Lauf zu lassen.
+
+Timon.
+Ich bitte dich, nichts mehr,
+
+Flavius.
+Himmel!  rief ich aus!  wie guetig dieser Herr ist!  Wie manche
+verschwenderische Bissen haben in dieser Nacht Sclaven und Bauren
+verschlukt!  Wer ist izt nicht Timons?  Welches Herz, welcher Kopf,
+welches Schwerdt, welches Vermoegen und Ansehen steht nicht zu
+Timons Diensten?  des grossen, des edeln, wuerdigen, koeniglichen
+Timons?  Aber wenn die Mittel hin sind, die diese Lobsprueche
+erkauften, so ist auch der Athem hin, woraus diese Lobsprueche
+gemacht waren--Lasst nur eine einzige Winterwolke schaudern, so
+ligen alle diese Fliegen.
+
+Timon.
+Komm, es ist genug geprediget!  Mein Herz kan mir doch wegen meiner
+Guetigkeit keinen Vorwurf machen.  Unweislich, nicht unedel hab' ich
+weggegeben; warum weinst du?  Kanst du faehig seyn, dir einzubilden,
+es werde mir jemals an Freunden fehlen?  Beruhige dich!  Wenn ich die
+Gefaesse meiner Liebe anzapfen, und den Inhalt ihrer Herzen durch
+Borgen auf die Probe sezen wollte, ich koennte mich ihrer Personen
+und ihres Vermoegens so frey bedienen, als ich dir befehlen kan zu
+reden.
+
+Flavius.
+Die Goetter geben dass die Erfahrung eure Hoffnung erfuelle!
+
+Timon.
+Und gewisser Maassen leisten mir diese Beduerfnisse einen Dienst,
+der sie in meinen Augen zu grossen Vortheilen macht; denn durch sie
+werd' ich Freunde bewaehren.  Ihr werdet sehen, wie sehr ihr euch
+ueber meine Glueks-Umstaende betruegt; ich bin an Freunden reich.
+Herein, he!  Flaminius, Servilius!
+
+
+
+Fuenfte Scene.
+(Flaminius, Servilius, und andre Bediente treten auf.)
+
+
+Servilius.
+Gnaediger Herr--
+
+Timon.
+Ich will euch an verschiedne Orte schiken; Ihr zu Milord Lucius--
+ihr zu Lord Lucullus, mit dem ich heut auf der Jagd war--ihr zu
+Sempronius; empfehlt mich ihrer Freundschaft; sagt ihnen, ich sey
+stolz darauf, dass ich endlich Gelegenheit finde, ihre Beyhuelfe in
+einem mir zugestossnen Geldmangel gebrauchen zu koennen; begehrt
+fuenfzig Talente.
+
+Flaminius.
+Nach Euer Gnaden Befehl.
+
+(Flaminius und Bediente gehen ab.)
+
+Flavius (bey seite.)
+Lord Lucius und Lucullus!  Hum!
+
+Timon.
+Ihr, mein Herr, geht zu den Senatoren, von denen ich, mit des
+Staats groestem Vortheil, eine solche Gefaelligkeit wohl verdient
+habe: Sagt ihnen, sie moechten mir augenbliklich tausend Talente
+schiken.
+
+Flavius.
+Ich bin so kuehn gewesen, (weil ich wusste, dass dieses der
+gewoehnlichste Weg ist) euern Namen und euer Sigel zu einem solchen
+Ansuchen bereits zu gebrauchen; allein, sie schuettelten die Koepfe,
+und ich kam nicht reicher zuruek.
+
+Timon.
+Was sagst du?  Ist das wahr?  Ist's moeglich?
+
+Flavius.
+Sie antworteten alle aus einem Mund und mit einer vereinigten
+Stimme, sie seyen eben nicht versehen, sie brauchten Geld, koennten
+nicht thun was sie wollten; es sey ihnen leid--Ihr seyt ein Mann
+von Verdiensten--Aber doch moechten sie gewuenscht haben--Sie wissen
+nicht--Es haette etwas anders seyn moegen--ein edles Naturell koenne
+sich verschlimmern--Waere zu wuenschen es waer' alles gut--Sey zu
+bedauren--Und hiemit geriethen sie ueber andre ernsthafte Materien,
+nachdem sie mich durch unfreundliche Blike und diese harten Brueche,
+mit gewissen halben Winken, und einem kaltsinnigen Kopfniken, zu
+erstarrendem Stillschweigen gebracht hatten.
+
+Timon.
+Ihr Goetter, vergeltet's ihnen!--Ich bitte dich, Mann, sey ruhig!
+Die Undankbarkeit ist bey diesen alten Gesellen etwas natuerliches.
+Ihr Blut ist geronnen, es ist kalt, es fliesst selten; der Mangel an
+freundlicher Waerme macht sie unfreundlich; die Natur, so wie sie
+nach und nach zur Erde herab sinkt, nimmt auch ihre Eigenschaften
+an, und wird schwer und unempfindlich.  Geh zum Ventidius--Ich bitte
+dich, sey nicht traurig, du bist redlich und ohne Falsch; ich
+spreche von Herzen: Es ist nichts an dir auszusezen--Ventidius hat
+kuerzlich seinen Vater begraben, durch dessen Tod er zu einem
+grossen Vermoegen gekommen ist; wie er arm, im Gefaengniss, und von
+jedermann verlassen war, half ich ihm mit fuenf Talenten aus der
+Noth.  Gruess' ihn in meinem Namen; sag ihm, irgend ein dringendes
+Beduerfniss sey seinem guten Freunde zugestossen, welches ihn noethige
+sich dieser fuenf Talente zu erinnern.  Wenn du sie hast, so gieb sie
+diesen Leuten, die diesen Augenblik ihre Bezahlung fordern.  Sage
+nur niemals, und denk' es auch nicht, dass Timons Glueksstand mitten
+unter seinen Freunden, einsinken koenne.
+
+(Er geht ab.)
+
+
+
+Flavius.
+Wollte Gott, ich koennt' es nicht denken!  Wie geneigt ist ein edles
+und guetiges Herz, alle andern auch dafuer zu halten.
+
+(Er geht ab.)
+
+
+
+
+Dritter Aufzug.
+
+
+
+Erste Scene.
+(Des Lucullus Haus in Athen.)
+(Flaminius wartet auf Antwort, um vorgelassen zu werden; ein
+ Bedienter kommt zu ihm.)
+
+
+Bedienter.
+Ich hab euch bey meinem gnaedigen Herrn angemeldt; er kommt eben
+selbst herab.
+
+Flaminius.
+Ich danke euch.  (Lucullus tritt auf.)
+
+Bedienter.
+Hier ist Milord.
+
+Lucullus.
+Einer von Lord Timons Leuten?  ein Praesent, denk' ich; nun, es trift
+recht artig zu; ich traeumte diese Nacht von einem silbernen
+Handbeken und einer Giesskannen.  Flaminius, ehrlicher Flaminius, ihr
+seyd recht besonders willkommen, mein Herr;--(bringt mir einen
+Becher mit Wein)--Und wie befindet sich dann der wuerdigste,
+vollkommenste, grossmuethigste Edelmann in ganz Athen, dein sehr
+guetiger lieber Herr und Meister?
+
+Flaminius.
+Er ist ganz wohl auf, was seine Gesundheit betrift.
+
+Lucullus.
+Nun das freut mich ja recht, dass er wohl auf ist--und was hast du
+hier unter deinem Mantel, mein lieber Flaminius?
+
+Flaminius.
+Mein Treue, nichts als einen leeren Beutel, Gnaediger Herr, Euer
+Gnaden zu bitten, dass ihr ihn aus Freundschaft fuer meinen Herrn
+fuellen moechtet; der, da ihm eben eine dringende Noth zugestossen,
+mich zu Euer Gnaden geschikt hat, mit Bitte, ihm mit fuenfzig
+Talenten auszuhelfen; nicht zweiflend, dass ihr ihm eure schleunige
+Beyhuelfe nicht versagen werdet.
+
+Lucullus.
+La, la, la, la,--Nicht zweiflend, sagt ihr?  Ach, leider!  der gute
+Herr, er ist ein wakrer Edelmann, das ist wahr; wenn er nur nicht
+eine so kostbare Haushaltung fuehrte.  Ich hab' oft und viel mit ihm
+zu Mittag gegessen, und es ihm gesagt, und bin wieder zum
+Nachtessen zu ihm gekommen, um es zu wiederholen, dass er seine
+Ausgaben einschraenken sollte: Allein er wollte nie keinen guten
+Rath annehmen, und liess sich meine Besuche nicht zur Warnung dienen.
+Jedermann hat seine Fehler, der seinige ist zuviel Ehrlichkeit.
+Ich hab' es ihm oft gesagt, aber ich konnte nie was ueber ihn
+erhalten.  (Ein Bedienter kommt mit Wein.)
+
+Bedienter.
+Gnaediger Herr, hier ist der Wein.
+
+Lucullus.
+Flaminius, ich habe dich allezeit fuer einen verstaendigen jungen
+Menschen gehalten;--Auf deine Gesundheit!
+
+Flaminius.
+Ich danke Euer Gnaden.
+
+Lucullus.
+Ich hab immer bemerkt, dass du einen muntern fertigen Kopf hast, und
+dass du gescheidt genug bist, dich selbst nicht zu vergessen, und
+dich der Zeit zu bedienen, wenn sie dir Gelegenheit dazu giebt.  Du
+hast huebsche Gaben--
+
+(Zu seinem Bedienten)
+
+Geh deines Weges, Schurke--Komm naeher, ehrlicher Flaminius; dein
+Herr ist ein guetiger Edelmann, aber du bist verstaendig, und
+begreifst wol, (ob du gleich zu mir gekommen bist,) dass es izt
+keine Zeit ist Geld auszuleihen, zumal auf blosse Freundschaft,
+ohne Sicherheit.  Hier hast du drey Goldgulden, mein guter Junge;
+verstehe mich wol, und sage deinem Herrn, du habest mich nicht
+gesehen.  Lebe wohl.
+
+Flaminius.
+Ist's moeglich, dass die Welt sich in so kurzer Zeit so veraendert
+hat?  Weg, verdammte Niedertraechtigkeit,
+
+(er schmeisst das Geld weg)
+
+geh' zu dem, dessen Abgott du bist.
+
+Lucullus.
+Ha!  Nun seh' ich dass du auch ein Narr bist, und wol zu deinem Herrn
+taugst.
+
+(Lucullus geht ab.)
+
+Flaminius.
+Moege geschmolznes Geld deine Strafe in der Hoelle seyn, und diese
+Goldstueke zu den uebrigen kommen, die dir gluehend in den Rachen
+gegossen werden sollen, du verfluchter Heuchler von einem Freund--
+Hat Freundschaft ein so schwaches milchichtes Herz, das in weniger
+als zwo Naechten gerinnt?  O ihr Goetter, ich fuehle den Zorn, worinn
+dieses meinen Herrn sezen wird.  Dieser Nichtswuerdige hat in diesem
+Augenblik noch meines Herren Mahlzeit im Leibe!  Lasst es, anstatt
+ihn zu naehren, sich in Gall und Gift verwandeln!  Lasst es nichts als
+Krankheiten in ihm zeugen, und wenn er auf den Tod darnieder ligt,
+o!  so lasst jedes Theilchen von Nahrungssaft, wofuer mein Herr
+bezahlt hat, aller seiner heilsamen Kraft beraubt, zu nichts anderm
+dienen als durch langsame Pein seine lezte Stunde zu verzoegern!
+
+(Geht ab.)
+
+
+
+Zweyte Scene.
+(Eine oeffentliche Strasse.)
+(Lucius tritt mit dreyen Fremden auf.)
+
+
+Lucius.
+Wer?  der Lord Timon?  Er ist mein sehr guter Freund, und ein
+wuerdiger Edelmann.
+
+1. Fremder.
+Wir kennen ihn nicht anders, ob wir ihm gleich unbekannt sind.  Aber
+ich kan euch soviel sagen, Milord, und ich hab' es von dem
+allgemeinen Geruechte, dass Lord Timons gluekliche Tage vorbey sind,
+und dass er sich in schlimmen Umstaenden befindet.
+
+Lucius.
+Ey, nein, glaubt das nicht!  Es kan ihm nicht an Gelde fehlen.
+
+2. Fremder.
+Seyd versichert, Milord, es ist noch nicht lange, so war einer von
+seinen Leuten bey dem Lord Lucullus, und wollte fuenfzig Talente von
+ihm entlehnen; er betrieb es ungemein, und machte die Noth sehr
+dringend, und doch wurd' es ihm abgeschlagen.
+
+Lucius.
+Wie?
+
+2. Fremder.
+Was ich euch sage, abgeschlagen, Milord!
+
+Lucius.
+Das ist ein seltsamer Zufall!  Nun, bey den Goettern!  ich schaeme mich
+fuer den Lucullus.  Einem so angesehnen wakern Mann abzuschlagen!  Er
+hat sehr wenig Ehre davon, wahrhaftig.  Was mich betrift so muss ich
+bekennen, ich habe einige kleine Hoeflichkeiten von ihm empfangen,
+Geld, Silbergeschirr, Juweelen und dergleichen Kleinigkeiten, die
+in der That in keinen Vergleich mit demjenigen kommen, was Lucullus
+von ihm hat; aber haett er ihn vorbeygegangen und zu mir geschikt,
+ich wollt ihm gewiss fuenfzig Talente nicht abgeschlagen haben, ob
+die Summe gleich nicht gering ist.  (Servilius zu den Vorigen.)
+
+Servilius.
+Zu gutem Gluek, find' ich hier den Lord Lucius; ich sucht' ihn schon
+in der ganzen Stadt--Gnaediger Herr!
+
+Lucius.
+Servilius!  Es freut mich euch zu sehen.  Lebt wohl, empfehlt mich
+euerm wuerdigen, tugendhaften Herrn, meinem sehr werthen Freund.
+
+Servilius.
+Mit Euer Gnaden Erlaubniss, mein Herr schikte--
+
+Lucius.
+Ha!  was schikt er?  Ich bin euerm Herrn schon so viel verpflichtet,
+er schikt immer: Wie kan ich ihm meine Erkenntlichkeit bezeugen,
+meynst du?  Und was schikt er mir dann?
+
+Servilius.
+Er schikt Euer Gnaden nur seinen Gruss, mit Bitte, ihm wegen einem
+dringenden Anlas der ihm zugestossen, mit fuenfzig Talenten
+auszuhelfen.
+
+Lucius.
+Ich weiss, dass Se.  Gnaden nur Scherz mit mir treibt; es kan ihm
+nicht an fuenfzigmal fuenfhundert Talenten fehlen.
+
+Servilius.
+Indessen fehlt es ihm doch dissmal an einer viel kleinern Summe,
+Gnaediger Herr.  Wenn er sie nicht so nothwendig brauchte, wuerd' ich
+nicht halb so eifrig mich darum bewerben.
+
+Lucius.
+Sprichst du im Ernst, Servilius?
+
+Servilius.
+Bey meiner Seele, Milord, es ist Ernst.
+
+Lucius.
+Was fuer ein verwuenschtes dummes Thier war ich, dass ich mich auf
+eine so gute Gelegenheit so sehr an Geld entbloesst habe, wo ich
+haette zeigen koennen, dass ich ein Mann bin, der auf Ehre haelt!  Wie
+unglueklich es doch zutreffen muss, dass er mich gerad in einer Zeit
+auf die Probe sezt, da ich ausser Stand bin--In der That, Servilius,
+bey den Goettern, ich bin ausser Stand--(ein desto dummeres Vieh,
+sag ich) Ich wollte diesen Augenblik selbst zum Lord Timon schiken,
+und ihn um eine Summe Gelds ansprechen, diese Herren koennen
+Zeugschaft geben: Aber izt wollt' ich nicht um alles Geld in Athen,
+dass ich es gethan haette.  Empfehlt mich Sr.  Gnaden zu geneigtem
+Wohlwollen, und ich hoffe, Se.  Gnaden werde keine schlimmere
+Meynung desswegen von mir fassen, weil ich nicht im Stande bin, ihm
+meine Dienstwilligkeit zu zeigen.  Und sagt ihm in meinem Namen, ich
+rechne es unter meine groesten Widerwaertigkeiten, dass ich einem so
+wuerdigen Edelmann nicht zu Gefallen seyn koenne.  Mein guter
+Servilius, wollt ihr so viel Freundschaft fuer mich haben, und ihm
+meine eignen Worte hinterbringen?
+
+Servilius.
+Ja, Herr, ich will.
+
+(Servilius geht ab.)
+
+Lucius.
+Ich will euch eine ziemliche Streke nachsehen, Servilius--Es ist,
+wie ihr sagtet; Timon ist hin, in der That; wer kan helfen?  Euer
+Diener, meine Herren.
+
+(Er geht ab.)
+
+1. Fremder.
+Merkt ihr das, Hostilius?
+
+2. Fremder.
+Nur gar zu wohl.
+
+1. Fremder.
+Das ist der Lauf der Welt; so denken alle Schmeichler: Wer kan den
+seinen Freund nennen, der in Eine Schuessel mit ihm taucht?  Denn,
+wie mir bekannt ist, war Lord Timon wie ein Vater zu diesem Herrn;
+er unterhielt seinen Credit und seine Haushaltung aus seinem Beutel,
+und bezahlte sogar seinen Bedienten ihren Lohn.  Er trinkt nie,
+ohne dass Timons Silber seine Lippen druekt; und dennoch--o!  was fuer
+ein Ungeheuer ist der Mensch, wenn er aus einer undankbaren Gestalt
+hervorgukt!  Er schlaegt ihm ab, was gutthaetige Leute Bettlern nicht
+versagen.
+
+3. Fremder.
+Die Menschlichkeit schauert vor einer solchen Gefuehllosigkeit.
+
+1. Fremder.
+Was mich betrift, so hab' ich in meinem Leben niemals die geringste
+Gutthat von Timon genossen, die mich vor andern verbaende, sein
+Freund zu seyn; und doch versichre ich, um seines edeln und
+wohlthaetigen Gemueths willen, und aus Hochachtung fuer seine Tugend,
+wollt' ich ihm die Helfte meines Vermoegens geschenkt haben, wenn er
+sich in seinem Beduerfniss an mich gewendet haette, so sehr lieb' ich
+sein Herz; allein, so wie die Welt geht, muss man sein Mitleiden
+zuruekhalten lernen; denn Klugheit geht ueber Gewissen.
+
+(Sie gehen ab.)
+
+
+
+Dritte Scene.
+(Ein dritter Bedienter des Timon mit Sempronius.)
+
+
+Sempronius.
+Musst' er denn gerade mich damit beunruhigen?  Vor allen andern?  Er
+haett' es bey Lord Lucius oder Lucullus versuchen koennen, und nun
+ist auch Ventidius reich, den er aus dem Gefaengniss erledigt hat;
+alle diese drey haben ihm ihr Vermoegen zu danken.
+
+Bedienter.
+O Gnaediger Herr, sie sind alle auf die Probe gesezt und falsch
+befunden worden; sie haben ihn alle abgewiesen.
+
+Sempronius.
+Wie?  Abgewiesen?  Ventidius und Lucullus, beyde ihn abgewiesen?  Und
+nun schikt er zu mir?  Drey!  hum--Es zeigt wenig Freundschaft oder
+Vernunft auf seiner Seite an.  Muss ich seine lezte Zuflucht seyn?
+Seine Freunde, die gleich Aerzten sich auf seine Unkosten
+bereichert haben, geben ihn au?  Muss ich nun die Cur uebernehmen?  er
+hat mir eine schlechte Ehre damit angethan; es verdriesst mich, er
+haette wol wissen koennen, wer ich bin; ich kan keinen Grund erdenken,
+warum er nicht zuerst an mich gekommen ist, wenn er jemands Huelfe
+noethig hatte.  Auf mein Gewissen, ich war der erste unter allen die
+iemals Gutes von ihm genossen haben; und denkt er denn so unbillig
+von mir, dass ich der lezte seyn werde, es wett zu machen?  Es wird
+allen uebrigen eine Materie zum Lachen geben, und ich werde der Narr
+unter dem Atheniensischen Adel seyn.  Ich wollte dreymal so viel als
+er von mir verlangt darum geben, er haette zu mir zuerst geschikt,
+wenn es auch nur gewesen waere, um meiner Gemuethsart Gerechtigkeit
+wiederfahren zu lassen; ich waere so geneigt gewesen ihm Gutes zu
+thun.  Aber so geh' nur wieder heim, und seze zu den abschlaegigen
+Antworten der uebrigen, in meinem Namen, noch dieses hinzu: Wer
+meiner Ehre zu nahe tritt, soll nimmermehr mein Geld zu sehen
+kriegen.
+
+(Er geht ab.)
+
+Bedienter.
+Vortreflich!  Euer Gnaden ist ein feiner Spizbube.  Der Teufel wusste
+gewiss nicht was er that, wie er die Leute politisch machte; er
+schadete sich selbst dadurch; und ich kan nichts anders als glauben,
+am Ende werden sie ihn selbst mit ihren Schelmenstreichen zum
+Narren machen.--Das waren nun diejenigen, auf die mein Herr seine
+besten Hoffnungen gesezt hatte; nun sind alle zuruekgetreten, und
+ausser den Goettern bleibt ihm niemand uebrig.  Seine Freunde sind
+todt.  Thueren, die so manches gluekliche Jahr her nie mit ihren
+Schloessern bekannt worden, muessen nun gebraucht werden, ihren Herrn
+vor dem Ungestuem seiner Glaubiger sicher zu stellen.  Das ist alles,
+was er von seiner Freygebigkeit davon traegt!
+
+(Er geht ab.)
+
+
+
+Vierte Scene.
+(Verwandelt sich in Timons Vorhaus.)
+(Varro, Titus, Hortensius, Caphis, und andre Bediente von Timons
+ Glaeubigern treten auf, um auf sein Ausgehen zu warten.)
+
+
+Varro.
+Treffen wir uns hier an?  Guten Morgen, Titus und Hortensius.
+
+Titus.
+Ebenmaessig, mein werther Varro.
+
+Hortensius.
+Caphis, sehen wir einander auch hier?
+
+Caphis.
+Ich denke wir haben alle einerley Verrichtung.  Die meinige ist,
+Geld zu fordern.
+
+Titus.
+Das ist die unsrige auch.  (Philo zu den Vorigen.)
+
+Caphis.
+Da kommt auch Herr Philo.
+
+Philo.
+Guten Tag allerseits.
+
+Caphis.
+Willkommen, Bruder.  Wie viel, denkt ihr, ist es an der Zeit?
+
+Philo.
+Nicht weit von neun Uhr.
+
+Caphis.
+Schon so viel?
+
+Philo.
+Hat sich Milord noch nicht sehen lassen?
+
+Caphis.
+Noch nicht.
+
+Philo.
+Das wundert mich, er pflegte sonst um sieben Uhr schon zu scheinen.
+
+Caphis.
+Ja, aber die Tage haben bey ihm abgenommen; ihr muesst bedenken, dass
+der Lauf eines Verschwenders dem Sonnenlauf gleich ist, aber ich
+fuerchte mit dem Unterscheid, dass er nicht wieder von vornen anfangt.
+Es ist tiefster Winter in Timons Sekel; das ist, es mag einer tief
+genug hinunter langen, und doch nicht viel finden.
+
+Philo.
+Das besorg' ich auch.
+
+Titus.
+Ihr koennt bey dieser Gelegenheit eine feine Beobachtung machen:
+Euer Herr hat euch geschikt, den Timon um Geld anzufodern.
+
+Hortensius.
+So ist's.
+
+Titus.
+Und er traegt in diesem Augenblik Juweelen, die ihm Timon geschenkt
+hat, wofuer ich die Bezahlung fordern soll.
+
+Hortensius.
+Ich thue es ungern genug.
+
+Caphis.
+Das ist seltsam, dass Timon mehr bezahlen soll, als er schuldig ist;
+und es kommt eben so heraus, als ob euer Herr kostbare Kleinode
+truege, und schikte um Geld dafuer.
+
+Hortensius.
+Die Goetter sind meine Zeugen, dass mich diese Verrichtung recht
+sauer ankommt; ich weiss, mein Herr hat dem Timon geholfen, sein
+Vermoegen durchzubringen; seine Undankbarkeit macht, dass es izt
+aerger ist, als wenn er's ihm gestohlen haette.
+
+Varro.
+Meine Forderung ist dreytausend Cronen; wie viel ist die eurige?
+
+Caphis.
+Fuenftausend.
+
+Varro.
+Das ist viel; aus der Summe sollte man schliessen, euer Herr habe
+mehr Confidenz gehabt als der meinige, sonst haett' dieser gewiss
+seine Fordrung eben so gross gemacht.* (Flaminius zu den Vorigen.)
+
+Titus.
+Hier kommt einer von Timons Leuten.
+
+Caphis.
+Flaminius!  Herr, ein Wort; ich bitte euch, ist Milord noch nicht
+fertig heraus zu kommen?
+
+Flaminius.
+Nein, in der That, er ist nicht.
+
+Titus.
+Wir warten auf Se.  Gnaden, seyd so gut und sagt ihm das.
+
+Flaminius.
+Das hab ich nicht noethig ihm zu sagen, er kennt eure Aufwartsamkeit.
+(Flavius, in einen Mantel eingehuellt.)
+
+Caphis.
+Ha!  Ist das nicht der Verwalter, der so vermummt ist?  Er lauft wie
+in einem Sturm davon; ruft ihn, ruft ihn.
+
+Titus.
+Hoert ihr, Herr--
+
+Varro.
+Mit eurer Erlaubniss, Herr.
+
+Flavius.
+Was wollt ihr von mir, mein Freund?
+
+Titus.
+Wir warten hier wegen gewissen Geld-Summen, Herr.
+
+Flavius.
+Wenn euer Geld so gewiss waere als euer Warten, so waer' es sicher
+genug.  Warum wieset ihr denn eure Rechnungen und Schuld-
+Verschreibungen nicht damals vor, als eure verraethrischen Herren
+aus meines Herrn Schuesseln assen?  Damals konnten sie seine Schulden
+anlaecheln, und die Interessen in ihren heisshungrigen Rachen
+hinunter schluken.  Ihr thut euch nur selbst Schaden, wenn ihr mich
+aufreizet; lasst mich in Ruhe meines Wegs gehen.  Glaubt mir, Milord
+und ich sind fertig; ich habe nichts mehr zu rechnen, und er nichts
+mehr auszugeben.
+
+Caphis.
+Schon recht, aber die Antwort dient nicht--
+
+Flavius.
+Wenn sie nicht dienen mag, so ist sie nicht so niedertraechtig als
+ihr; denn ihr dient Schelmen.
+
+(Er geht ab.)
+
+Varro.
+Wie?  was brummt seine verwalterische Herrlichkeit?
+
+Titus.
+Lasst es gehen--er ist arm, und das ist Straffe genug.  Wer darf sich
+breiter machen, als einer der kein Haus hat, wo er seinen Kopf
+hinein steken kan?  Solche Leute duerfen sich wol ueber Palaeste
+aufhalten.  (Servilius zu den Vorigen.)
+
+Titus.
+O, hier ist Servilius; nun werden wir doch eine Antwort kriegen.
+
+Servilius.
+Wenn ich euch bitten duerfte, meine Herren, zu einer andern Zeit
+wieder zu kommen, so wuerdet ihr mir einen Gefallen thun.  Denn bey
+meiner Seele, Milord ist auf eine seltsame Art unmuthig; sein
+leutseliges Wesen hat ihn ganz verlassen, er ist gar nicht wohl auf,
+er huetet das Zimmer.
+
+Caphis.
+Manche hueten das Zimmer, die nicht krank sind; und wenn es so uebel
+mit seiner Gesundheit steht, so daeucht mich, sollt' er seine
+Schulden nur desto eher bezahlen, und sich einen offnen Weg zu den
+Goettern machen.
+
+Servilius.
+Ihr guetigen Goetter!
+
+Titus.
+Das koennen wir fuer keine Antwort nehmen.
+
+Flaminius (hinter der Buehne.)
+Servilius, helft--Milord, Milord!  * Ein Wortspiel mit (Confidence),
+welches im Englischen Zutrauen und Unverschaemtheit heissen kan.
+
+
+
+Fuenfte Scene.
+(Timon lauft in der Wuth heraus.)
+
+
+Timon.
+Wie, ist mir nicht mehr erlaubt zu meiner Thuer heraus zu gehen?  Ich
+bin immer frey gewesen, und soll nun mein Haus mein Kerker werden?
+Muss mich die eisenherzige Grausamkeit der Menschen bis in den Plaz
+verfolgen, wo ich ihnen Bankette gab?
+
+Caphis.
+Bring dein Gewerb' izt an, Titus.
+
+Titus.
+Gnaediger Herr, hier ist meine Obligation.
+
+Caphis.
+Hier ist die meinige.
+
+Varro.
+Und hier die meinige, Milord.
+
+Philo und die Uebrigen.
+Und hier die unsrige.
+
+Timon.
+Schlagt mich damit zu Boden--Spaltet mich bis an den Guertel.
+
+Caphis.
+Aber, Milord--
+
+Timon.
+Schneid mein Herz in Stueke.
+
+Titus.
+Meine ist fuenfzig Talente.
+
+Timon.
+Rechne sie an meinem Blut ab.
+
+Caphis.
+Fuenftausend Cronen, Milord.
+
+Timon.
+Fuenftausend Tropfen zahlen das.  Wie viel ist eure--und eure?
+
+Varro.
+Milord!--
+
+Philo.
+Milord!--
+
+Timon.
+Hier nehmt mich, zerreisst mich, und die Goetter zerschmettern euch,
+und die so euch geschikt haben!
+
+(Er geht ab.)
+
+Hortensius.
+Bey meiner Treue, ich sehe, unsre Herren koennen ihre Kappen nach
+ihrem Gelde werfen; diese Schulden koennen wohl verzweifelt genennt
+werden, denn der sie bezahlen soll, ist wahnwizig.
+
+(Sie gehen ab.)
+
+
+(Timon und Flavius kommen zuruek.)
+
+Timon.
+Sie haben mich ganz ausser Athem gebracht, die Sclaven!  Glaeubiger!--
+Teufel!
+
+Flavius.
+Mein theurer Herr--
+
+Timon.
+Wie, wenn ich es so machte?
+
+Flavius.
+Mein theurer Herr--
+
+Timon.
+So soll es seyn!--Mein Verwalter!
+
+Flavius.
+Hier, Milord.
+
+Timon.
+Du bist schnell da--Geh, lade alle meine Freunde ein, Lucius,
+Lucullus, Sempronius, Alle!  Ich will diesen Galgenschwengeln noch
+einmal zu schmausen geben.
+
+Flavius.
+Ach, mein guetiger Herr, ihr sprecht in der Zerstreuung euers
+Gemueths; es ist nicht einmal so viel uebrig, als zu einer maessigen
+Mahlzeit noethig ist.
+
+Timon.
+Bekuemmre dich nicht um das; geh' und lade sie alle ein, lass die
+Fluth von Schelmen noch einmal herein; mein Koch und ich wollen
+schon davor sorgen.
+
+
+
+Sechste Scene.
+(Verwandelt sich in das Rath-Haus.)
+(Die Senatoren und Alcibiades.)
+
+
+1. Senator.
+Milord, ihr habt meine Stimme dazu, das Verbrechen ist blutig, er
+muss dafuer sterben; nichts muntert die Suenden mehr auf als
+Barmherzigkeit.
+
+2. Senator.
+Sehr richtig; das Gesez muss sie zerschmettern.
+
+Alcibiades.
+Heil, Ehre und Mitleiden dem Senat!
+
+1. Senator.
+Nun, Feldherr--
+
+Alcibiades.
+Ich komme, Euern Herrlichkeiten eine demuethige Bitte vorzutragen.
+Mitleiden ist der echte Geist der Geseze, und nur Tyrannen machen
+einen grausamen Gebrauch davon.  Zeit und Ungluek verfolgen einen von
+meinen Freunden, der in der Hize seines Blutes in das Gesez
+gefallen ist, welches fuer diejenige, die unvorsichtiger Weise
+hineinplaetschern, eine bodenlose Tieffe zu seyn pflegt.  Er ist,
+dieses Vergehen bey Seite gesezt, ein Mann von Ehre und Tugend, und
+dieses kauft seinen Fehler los.  Auch ist seine That mit keiner
+Niedertraechtigkeit beflekt; sondern mit einer edeln Wuth und einem
+ruhmwuerdigen Stolz sezt' er sich seinem Feind, der seiner Ehre eine
+toedtliche Wunde beygebracht hatte, entgegen; nachdem er lange genug
+seinen Zorn zuruek gehalten, und sich mit einem so gemaessigten Eifer
+vertheidigt hatte, als ob er nur einen academischen Saz behauptete.
+
+1. Senator.
+Ihr uebernehmt etwas allzu anstoessiges, indem ihr euch so viele Muehe
+gebt, einer haesslichen That einen schoenen Anstrich zu geben; ihr
+habt nicht anders gesprochen, als ob ihr im Sinn haettet, den
+Menschen-Mord in Schwang zu bringen, und Schlaegereyen auf Rechnung
+der Dapferkeit zu sezen, die doch bloss von einer unaechten
+Dapferkeit ihren Ursprung haben, und in die Welt kamen, eh noch
+buergerliche Geseze den neugebohrnen Factionen und Zerruettungen
+Einhalt gethan hatten.  Der ist wahrhaftig dapfer, der das aergste,
+was ein Mensch athmen kan, weislich ertraegt; und, anstatt
+Beleidigungen bis zu seinem Herzen dringen, und es in gefaehrliches
+Feuer sezen zu lassen, sie fuer Kletten ansieht, die nur an seinen
+Kleidern hangen bleiben --
+
+Alcibiades.
+Milord--
+
+1. Senator.
+Ihr koennt schwarze Verbrechen nicht weiss waschen; Nicht Rache,
+sondern Geduld ist Tapferkeit.
+
+Alcibiades.
+So vergebet mir dann, gnaedige Herren, wenn ich wie ein Soldat
+spreche.  Warum sind denn die Leute so albern und wagen ihr Leben in
+einem Treffen?  Und warum erdulden sie nicht lieber alle Drohungen
+des Feindes, schlaffen ruhig dabey ein, und lassen sich von den
+Feinden, ohne Wiederstand, die Haelse abschneiden?  Wenn im Erdulden
+eine so grosse Tapferkeit ist, was machen wir im Felde?  So sind
+also unleugbar die Weiber, die zu Hause bleiben, tapfrer als wir;
+so ist der Esel dapfrer als der Loewe; ja ein Kerl der eine Last von
+Eisen auf dem Rueken traegt, ist weiser dann ein Rathsherr, wenn im
+Tragen Weisheit ligt.  O, Milords, wie ihr gross seyd, so seyd auch
+guetig und mitleidig; wer kan nicht bey kaltem Blut das Vergehen
+eines heissen Bluts verdammen?  Morden, ich gesteh es, ist das
+schwerste Verbrechen; aber zu seiner Vertheidigung--Bey allem was
+billig ist, dieses macht es gerecht.  Sich seinem Zorn ueberlassen,
+ist Suende; aber wo ist der Mann, der nicht zornig werden kan?  Waegt
+das Verbrechen nur nach diesem ab.
+
+2. Senator.
+Du verschwendest deinen Athem umsonst.
+
+Alcibiades.
+Umsonst?  Die Dienste, die er zu Byzanz und Lacedaemon geleistet,
+sollten allein vermoegend seyn, seine Begnadigung zu erbitten.
+
+1. Senator.
+Was ist das?
+
+Alcibiades.
+Ich sage, Milords, er hat gute Dienste gethan, und in der Schlacht
+manchen von euern Feinden erschlagen.  Wie dapfer hielt er sich nur
+in dem lezten Treffen, und was fuer ergiebige Wunden macht' er nicht!
+
+2. Senator.
+Er ist ein vollkommen luederlicher Mensch; er hat noch eine andre
+boese Gewohnheit, die seine Dapferkeit oft in Wein ertraenkt; wenn
+gleich keine Feinde waeren, so waere das allein genug, ihn zu
+uebermannen.  Man weiss, dass er in dergleichen viehischer Raserey die
+groesten Ausschweiffungen begangen, und Tumult angefangen hat.  Es
+ist uns geklagt worden, seine Tage seyen unnueze, und seine im Trunk
+verbrausende Naechte gefaehrlich.
+
+1. Senator.
+Er muss sterben.
+
+Alcibiades.
+Hartes Schiksal!  Er haett' im Kriege sterben koennen.  Milords, wenn
+euch seine eigne Verdienste nicht bewegen koennen, (obgleich sein
+rechter Arm seine Sache gut machen sollte, ohne jemand anderm etwas
+schuldig zu werden) so nehmt meine Verdienste zu den seinigen; und
+da ich weiss, dass euer ehrwuerdiges Alter Sicherheit liebt, will ich
+euch meine Siege, meine Ehrenzeichen zum Pfand seiner Besserung
+geben.  Wenn er dieses Verbrechens halben sein Leben dem Gesez
+schuldig ist, so lasst ihn's im Krieg auf eine dapfre Art in Wunden
+ausstroemen; wenn das Gesez scharf ist, so ist es der Krieg nicht
+weniger.
+
+1. Senator.
+Wir sind um des Gesezes willen da, er stirbt, treib es nicht weiter,
+bey den strengsten Folgen unsers Missvergnuegens; Freund oder Bruder,
+wer eines andern Blut vergiesst, macht sich seines eignen verlustig.
+
+Alcibiades.
+Muss es denn seyn?  Es muss nicht seyn; Milords, ich bitte euch,
+misskennt mich nicht.
+
+2. Senator.
+Wie?
+
+Alcibiades.
+Erinnert euch meiner!
+
+3. Senator.
+Was?--
+
+Alcibiades.
+Ich kan nicht anders als denken, euer Alter muss mich vergessen
+haben; es waere sonst unmoeglich, dass ich so veraechtlich in euern
+Augen seyn sollte, um eine so gemeine Gnade zu bitten, und
+abgewiesen zu werden.  Meine Wunden schmerzen mich um euertwillen.
+
+1. Senator.
+Trozt ihr unserm Zorn--er braucht wenig Worte, aber die Wuerkung
+reicht weit--Wir verbannen dich auf ewig.
+
+Alcibiades.
+Mich verbannen?  Verbannt euern Aberwiz, verbannt den Wucher, die
+den Senat verachtenswuerdig machen!
+
+1. Senator.
+Wenn nach zween Tagen Athen dich noch enthaelt, so erwart' unser
+strengeres Urtheil.  Und damit dein unmaechtiger Stolz noch mehr
+aufschwelle, soll er diesen Augenblik hingerichtet werden.
+
+(Sie gehen ab.)
+
+Alcibiades.
+Die Goetter lassen euch alt genug werden, dass ihr nur noch in
+Knochen lebet, und euer Anblik alle Welt verscheuche!  Ich bin mehr
+als unsinnig; ich habe ihre Feinde von ihnen entfernt gehalten,
+indessen dass sie ihr Geld gezaehlt, und auf Wucher ausgeliehen haben;
+Wunden sind mein ganzer Gewinn dabey--Und alles das fuer diss?  Ist
+das der Balsam, den der filzichte Senat in eines Feldherrn Wunden
+giesst?  Ha!  Verbannung!  Doch es kommt nicht ungelegen; ich bin es
+zufrieden, verbannt zu seyn; es ist mir eine gerechte Ursache,
+Athen meine Wuth empfinden zu lassen.  Ich will meine missvergnuegten
+Truppen aufmuntern, und alles aufs Spiel sezen.  Es ist Ehre
+einzulegen, wenn man es mit einer ueberlegnen Anzahl aufnimmt.
+Soldaten schluken so wenig eine Beleidigung ein, als die Goetter.
+
+(Er geht ab.)
+
+
+
+Siebende Scene.
+(Verwandelt sich in Timons Haus.)
+(Verschiedene Senatoren treten durch verschiedne Thueren auf.)
+
+
+1. Senator.
+Guten Tag, mein Herr.
+
+2. Senator.
+Ebenfalls; ich denke dieser wuerdige Edelmann sezte uns lezthin nur
+auf die Probe.
+
+1. Senator.
+Ich dachte nur eben auch daran.  Ich hoffe, es steht nicht so
+schlimm mit ihm, als er vorgab, wie er seine Freunde auf die Probe
+sezte.
+
+2. Senator.
+Es sollte nicht seyn, wenn man von diesem neuen Banket schliessen
+darf.
+
+1. Senator.
+Ich kan nicht anders denken; er hat mir eine ernstliche Einladung
+zugesandt, die ich wegen vieler nothwendiger Geschaefte gerne
+abgelehnt haette; allein, er hat mich so anhaltend bitten lassen,
+dass ich kommen musste.
+
+2. Senator.
+Ich befand mich in gleichen Umstaenden, allein er wollte keine
+Entschuldigung gelten lassen.  Es ist mir leid, dass ich nicht
+versehen war, wie er um Geld zu mir schikte.
+
+1. Senator.
+Es verdriesst mich fuer meinen Theil nicht weniger, da ich nun merke,
+wie die Sachen stehen.
+
+2. Senator.
+Es ist keiner hier, dem es nicht eben so ist, wie uns.  Wie viel
+wollt' er von euch entlehnen?
+
+1. Senator.
+Fuenfzig Talente.
+
+2. Senator.
+Fuenfzig Talente?
+
+1. Senator.
+Wie viel von euch?
+
+2. Senator.
+Er schikte zu mir--Hier kommt er.  (Timon tritt mit seinem Gefolg
+auf.)
+
+Timon.
+Von Herzen willkommen, meine Herren beyderseits--und wie steht es?
+
+1. Senator.
+Aufs allerbeste, da wir gute Zeitungen von Eu.  Gnaden hoeren.
+
+2. Senator.
+Die Schwalbe folgt dem Sommer nicht williger, als wir Eu.  Gnaden.
+
+Timon (bey Seite.)
+Und verlaesst den Winter nicht lieber; solche Sommer-Voegel sind die
+Menschen--Meine Herren, unsre Mahlzeit wird nicht werth seyn, dass
+wir so lange drauf warten; Tractirt indessen eure Ohren mit der
+Musik, wenn Trompeten-Schall nicht eine zu harte Speise fuer sie ist;
+wir werden uns gleich sezen koennen.
+
+1. Senator.
+Ich hoffe Euer Gnaden werde keinen Unwillen gefasst haben, dass ich
+euch einen leeren Boten zuruekgeschikt habe.
+
+Timon.
+O mein Herr, lasst euch das nicht beunruhigen.
+
+2. Senator.
+Mein edler Lord--
+
+Timon.
+Ah, mein guter Freund, wie gehts?
+
+(Das Essen wird aufgetragen.)
+
+2. Senator.
+Mein hochgeehrtester Herr, ich bin ganz krank vor Schaam, dass ich
+so ein unglueklicher Bettler war, als Euer Gnaden neulich zu mir
+schikte.
+
+Timon.
+Denkt nicht an das, mein Herr.
+
+2. Senator.
+Haettet ihr nur zwo Stunden eher geschikt--
+
+Timon.
+Lasst euch das nicht von angenehmern Erinnerungen abhalten--He,
+stellt alles zugleich auf!
+
+2. Senator (zum Ersten.)
+Lauter bedekte Schuesseln?
+
+1. Senator.
+Ein Koenigliches Tractament, ich steh' euch dafuer.
+
+3. Senator.
+Daran ist kein Zweifel, was Geld und die Jahrszeit aufbringen
+koennen.
+
+1. Senator.
+Wie befindet ihr euch?  Was giebt's Neues?
+
+2. Senator.
+Alcibiades ist aus der Stadt verwiesen worden.
+
+1. Senator.
+Alcibiades verwiesen?
+
+3. Senator.
+Es ist nichts gewissers.
+
+1. Senator.
+Wie das?  wie das?
+
+2. Senator.
+Ich bitte euch, weswegen?
+
+Timon.
+Meine wuerdigen Freunde, wollt ihr nicht naeher kommen?
+
+3. Senator.
+Ich will's euch sogleich sagen--Wir haben ein praechtiges Gastmahl
+vor uns.
+
+2. Senator.
+Er ist noch immer der vorige Mann.
+
+3. Senator.
+Wird es dauern?  wird es dauern?
+
+2. Senator.
+Es wird, wenn Zeit und Gluek will, und so--
+
+3. Senator.
+Ich versteh euch.
+
+Timon.
+Ein jeder nehme seinen Plaz, so begierig, als ob er an die Lippen
+seiner Liebsten wollte; ihr werdet an allen Plaezen gleich gehalten
+werden.  Macht nicht eine Stadt-Gasterey daraus, und lasst das Essen
+kalt werden, eh man einig werden kan, wer zu oberst sizen soll.
+Sezt euch, sezt euch!  Die Goetter fordern unsern Dank: "Ihr grossen
+Wohlthaeter, besprengt unsre Gesellschaft mit Dankbarkeit.  Macht,
+dass ihr fuer eure Gaben gepriesen werdet; aber behaltet immer etwas,
+das ihr geben koennt, sonst moechten Eure Gottheiten in Verachtung
+gerathen.  Leihet einem jeden genug, damit keiner noethig habe dem
+andern zu leihen; denn wenn Eure Gottheiten selbst dazu kaemen, dass
+sie von Menschen entlehnen muessten, so wuerden die Menschen Atheisten
+seyn.  Macht die Mahlzeit beliebter, als den der sie giebt.  Lasst
+keine Versammlung von fuenfzehn ohne eine Mandel Boesewichter seyn.
+Wenn zwoelf Weiber an einem Tisch sizen, so lasst ein Duzend von
+ihnen seyn--was sie sind--den Rest eurer Feinde, o ihr Goetter, die
+Senatoren von Athen, nebst der Grund-Suppe des uebrigen Volks,
+zaehlet, ihr Goetter, dem Verderben zu.  Was diese meine Freunde
+betrift--So, wie sie fuer mich Nichts sind, so segnet sie auch mit
+Nichts, und zu Nichts sind sie mir willkommen."
+
+(Man dekt auf, und alle Schuesseln sind mit Hunden von verschiedner
+Gattung angefuellt.)
+
+Etliche von den Gaesten.
+Was meynen Se.  Gnaden damit?
+
+Andre.
+Das weiss ich nicht.
+
+Timon.
+Dass ihr nie keine bessere Mahlzeit sehet, ihr Maul-Freunde; Dampf
+und laues Wasser ist euer vollkommnes Ebenbild.  Das ist Timons Leze.
+Lebt lang, und von aller Welt verabscheut, ihr glatten, laechelnden,
+verwuenschten Schmarozer, ihr liebkosenden Zerstoerer,
+schmeichlerische Woelfe, zahme Baeren, ihr Glueks-Narren, Teller-Leker,
+und Fleisch-Fliegen, ihr Kopf- und Kniebeugenden Sclaven, dass alle
+ungezaehlten Krankheiten von Menschen und Vieh euch in diesem
+Augenblik ueberdeken!  Wo gehst du hin!  Sachte, nimm erst deine
+Arzney ein--du auch--und du --
+
+(Er wirft die Teller nach ihnen, und jagt sie hinaus.)
+
+Halt, ich will dir Geld leihen, ich will keines borgen.  Wie?  Alle
+in Bewegung?  Von nun an sey kein Gastmahl, wo ein Boesewicht nicht
+willkommen sey!  Brenn' auf den Grund ab, Haus; sink', Athen; und
+Timon hasse von nun an den Menschen, und alles was menschlich ist!
+
+(Geht ab.)
+
+(Die Senatoren kommen zuruek.)
+
+1. Senator.
+Wie gefaellt euch das, Milords?
+
+2. Senator.
+Kennt ihr die Beschaffenheit von Lord Timons Wuth?
+
+3. Senator.
+Zum Henker, habt ihr meine Mueze nicht gesehen?
+
+4.  Senator.
+Ich habe meinen Oberrok verlohren.
+
+1. Senator.
+Lord Timon ist nichts bessers als ein Narr, er laesst sich lediglich
+durch die Laune regieren.  Lezthin schenkt' er mir ein Kleinod, und
+nun hat er mir's von meiner Mueze abgeworfen.  Seht ihr mein Kleinod
+nicht?
+
+2. Senator.
+Habt ihr meine Mueze nicht gesehen?
+
+3. Senator.
+Hier ist sie.
+
+4.  Senator.
+Hier ligt mein Rok.
+
+1. Senator.
+Wir wollen uns nicht laenger aufhalten.
+
+2. Senator.
+Lord Timon ist verruekt.
+
+3. Senator.
+Das fuehl ich an meinen Beinen.
+
+4.  Senator.
+Den einen Tag giebt er uns Diamanten, und den andern Steine.
+
+(Sie gehen ab.)
+
+
+
+
+Vierter Aufzug.
+
+
+
+Erste Scene.
+(Ein Plaz ausser den Mauern von Athen.)
+(Timon tritt auf.)
+
+
+Timon.
+Lasst mich noch einmal nach euch zurueksehen, o ihr Mauern, die diese
+Woelfe umzingeln!  Versink' in den Erdboden, Athen!  ihr vermaehlten
+Frauen, werdet unkeusch!  ihr Kinder empoert euch wider eure Eltern,
+und Sclaven und wahnwizige moegen den ehrwuerdigen grauen Senat von
+seinen Baenken reissen, und an ihrer Stelle den Staat regieren!  Gieb
+dich der allgemeinen Unzucht Preiss, unreiffe Jungferschaft, thut es
+vor euerer Eltern Augen!  haltet fest, ihr Bankerotierer; eh ihr den
+Rueken kehret, die Messer heraus, und schneidet euern Glaeubigern die
+Kehlen ab!  Stehlt, ihr Sclaven; euere ehrsamen Herren sind nur
+Diebe mit laengern Haenden, und stehlen unter dem Schuz der Geseze.
+In deines Herrn Bette, Maedchen; deine Frau ist im Bordell.
+Sechszehnjaehriger Sohn, reiss deinem alten hinkenden Vater die Krueke
+aus der Hand, und schlag ihm damit das Hirn aus!  Furcht und
+Mitleiden, Scheu vor den Goettern, Friede, Gerechtigkeit, Wahrheit,
+haeusliche Zucht, Nacht-Ruhe, Nachbarschaft, Unterricht, Sitten,
+Religions-Gebraeuche, Unterschied der Staende, Herkommen,
+Gewohnheiten und Geseze, artet in euer zerruettendes Gegentheil aus,
+und nichts als die Zerruettung bestehe!--Ihr Plagen alle, deren der
+Mensch faehig ist, haeuffet eure gaehrenden anstekenden Fieber ueber
+Athen zusammen; es ist reif zum Untergang!  Du kalte Gicht, mach'
+unsre Rathsherren zu Krueppeln, damit ihre Glieder so lahm seyn
+moegen als ihre Auffuehrung!  Zaumlose Ueppigkeit und wilde Frechheit
+kriech in die Herzen und in das Mark unsrer Jugend, dass sie dem
+Strom der Tugend entgegen arbeiten, und sich selbst in
+Ruchlosigkeit ertraenken!  Kraeze und Eyterbeulen ueberdeken jeden
+Atheniensischen Busen, und ihr Kropf sey lauter Aussaz; ein Athem
+steke den andern an, damit ihre Gesellschaft (wie ihre
+Freundschaft) durch und durch vergiftet sey.  Nichts will ich aus
+dir hinaustragen als Naktheit, du abscheuliche Stadt!  Nimm noch,
+mit vervielfachten Fluechen, diese Versicherung: Timon will in den
+Wald, wo er die wildesten Thiere milder als den Menschen finden
+wird.  Die Goetter verderben (o hoert mich, ihr guten Goetter alle!)
+die Athenienser inner- und ausserhalb ihrer Mauern, und verleihen,
+dass mit jedem Tage seines Lebens Timons Hass gegen das ganze
+Geschlecht der Menschen wachse!
+
+(Geht ab.)
+
+
+
+Zweyte Scene.
+(Verwandelt sich in Timons Haus.)
+(Flavius mit zween oder dreyen Bedienten.)
+
+
+1. Bedienter.
+Hoert ihr, guter Herr Verwalter, wo ist unser Herr?  Sind wir
+verdorben, ist alles aus, ist nichts uebrig?
+
+Flavius.
+Ach, meine lieben Cameraden, was soll ich euch sagen?  So wahr als
+ich wuensche, dass die wohlthaetigen Goetter sich meiner erinnern, ich
+bin so arm als ihr.
+
+1. Bedienter.
+Dass ein solches Haus gebrochen, ein so edler Herr gefallen seyn
+soll!  Alles hin!  und nicht ein einziger Freund, der ihm in seinem
+Ungluek unter die Arme greiffe?
+
+2. Bedienter.
+Wie wir uns von einem Bekannten wegwenden, der in sein Grab gesenkt
+worden, so schleichen seine Freunde von seinem begrabnen Glueksstand
+alle hinweg, hinterlassen ihm ihre treulosen Schwuere und
+Versprechungen; und er selbst, ein dem freyen Himmel preissgegebner
+Bettler, mit einem Uebel das alle Welt von ihm scheucht, mit
+Duerftigkeit behaftet, geht, bleibt, gleich der Verachtung, allein.--
+Noch mehr von unsern Cameraden.  (Es treten noch einige Bediente auf.)
+
+Flavius.
+Lauter zerbrochnes Geraethe eines zerstoerten Hauses!
+
+3. Bedienter.
+Doch tragen unsre Herzen noch Timons Liverey, das seh' ich in euer
+aller Gesicht.  Wir sind noch alle Cameraden, die, da sie ihrem
+Herrn sonst nichts mehr dienen koennen, ihre Treu durch ihren Kummer
+zeigen.  Unsre Barke ist lek, und wir armen Tropfen stehen auf dem
+sinkenden Verdek, und hoeren die Wellen draeuen; wir muessen alle in
+dem Meer der weiten Luft, jeder so gut er kan, seine Rettung suchen.
+
+Flavius.
+Meine guten Cameraden, ich will das aeusserste meines Vermoegens mit
+euch theilen.  Wo wir uns jemals wieder antreffen, wollen wir, um
+Timons willen, immer gute Freunde seyn, unsre Koepfe schuetteln, und
+sagen: Wir haben bessere Tage gesehen.  Jeder nehme seinen Antheil;
+nein, streket alle eure Haende aus--Kein Wort mehr --
+
+(Er giebt ihnen Geld, sie umarmen einander und scheiden, der eine
+diesen, der andre einen andern Weg.)
+
+Wer wollte sich Reichthum wuenschen, wenn Reichthum in Elend und
+Verachtung aufhoert?  Wer wollte (nach diesem Beyspiel,) sich durch
+einen Traum von schimmerndem Gluek und Freundschaft taeuschen lassen?
+Durch ein Gepraenge von Herrlichkeit und Wohlleben, aber alles nur
+gemahlt, wie diese gefirnissten Freunde!  Mein armer redlicher Herr!
+durch sein eignes gutes Herz so weit herunter gebracht!  Durch Guete
+zu Grunde gerichtet!  Wie seltsam, dass zuviel Guete eines Menschen
+groeste Suende seyn soll!  Unbegraenzte Guete macht Goetter, und verderbt
+Menschen--Mein theurester Herr, einst so glueklich um desto elender,
+so reich um desto duerftiger zu seyn; dein grosser Wohlstand ist die
+Gelegenheit zu deinen groesten Widerwaertigkeiten worden!  Ach!  der
+guetige Herr!  Er ist in Wuth aus dem undankbaren Siz unnatuerlicher
+Freunde geflohen, und hat nichts mit sich genommen, was sein Leben
+unterhalten, oder diesen Unterhalt verschaffen kan.  Ich will ihm
+folgen und ihn aufsuchen; ich will ihm um seines Herzens willen
+immer mit bestem Willen dienen, und, so lang ich Gold habe, immer
+sein Verwalter bleiben.
+
+(Er geht ab.)
+
+
+
+Dritte Scene.
+(Der Wald.)
+(Timon tritt auf.)
+
+
+Timon.
+O Sonne, Quelle der segensvollesten Einfluesse, ziehe faule Duenste
+aus der Erde, und vergifte die Luft unter deiner Schwester Kreis--
+Zwillings-Brueder, zugleich gezeugt, von einer Mutter gebohren und
+gesaeugt, sind im Glueke getheilt.  Der Groessere verschmaeht den
+Kleinern.  Die menschliche Natur selbst, sie, die von so unzaehlbaren
+Uebeln belagert wird, kan zu keinem grossen Glueke kommen, ohne sich
+ihrer selbst zu schaemen.  Erhebt mir diesen Bettler und zieht mir
+diesen Lord aus, so wird der Lord so verachtet seyn, als ob er zum
+Bettler gebohren worden waere, und der Bettler geehrt werden, als ob
+er kein gebohrner Bettler waere.  Es ist die Weide, die des Widders
+Seiten spikt, und der Mangel, der ihn mager macht.  Wo ist der, dem
+die Aufrichtigkeit seiner eignen unverfaelschten Seele den Muth
+giebt aufzustehen, und zu sagen: Dieser Mann ist ein Schmeichler?
+Wenn einer es ist, sind es alle; denn jede Stuffe des Glueks findt
+ihre Schmeichler eine Stuffe niedriger; der gelehrte Kopf buekt sich
+vor dem goldnen Narren; alles ist krumm, es ist nichts gerades in
+unsrer verfluchten Natur, als unverbesserliche Bueberey.  So sey dann
+alle Gesellschaft und alle Gemeinschaft mit Menschen von mir
+verabscheut!  Alle von seiner Gattung, ja sich selbst hasset Timon.
+Verderben ueber das ganze Menschen-Geschlecht!--Erde, gieb mir
+Wurzeln.
+
+(Er graebt die Erde auf.)
+
+Wer etwas bessers von dir begehrt, dem wuerze den Rachen mit deinem
+wuerksamsten Gifte!--Was ist hier!  Gold!  gelbes, blinkendes, feines
+Gold?  Nein, ihr Goetter, das verlangt' ich nicht von euch; Wurzeln,
+guetiger Himmel!  Nur so viel von diesem hier ist genug, weiss,
+schwarz; schoen, haesslich; unrecht, recht; niedertraechtig, edel; ein
+altes Gesicht, jung; und eine feige Memme, tapfer zu machen.  Ihr
+Goetter, wozu das?  warum das?  Ihr Goetter!  wie, das kan eure Priester
+von eurer Seite loken, und Leute mit frischem Herzen ins Grab
+befoerdern; dieser gelbe Sclave kan geheiligte Buendnisse
+zusammenkuetten und aufloesen; dem Verfluchten Segnungen, und dem
+grindigen Aussaz Anbetung zuziehen; Diebe zu Ehrenstellen erheben
+und ihnen neben den Senatoren, Titel, Kniebeugungen und Beyfall
+geben: Diss ist's, was die bekuemmerte Wittwe wieder freyen macht,
+und was einer von Geschwueren und Krebsschaeden zerfressenen
+Candidatin des Siechenhauses, durch seine balsamische Kraft die
+frische Anmuth der Jugendbluethe wieder giebt.  Komm, du verdammte
+Erde, du gemeine Meze des menschlichen Geschlechts, die so viel
+Lermens unter der Rotte der Nationen macht--
+
+(Man hoert von fern einen Marsch.)
+
+Ha, eine Trummel--Du bist sehr lebendig, aber ich will dich doch
+begraben; wenn deine podagrische Besizer nicht mehr stehen, kanst
+du noch davon lauffen--Doch nein, bleib noch ein wenig da, ich will
+dich fuer Handgeld gebrauchen.
+
+(Er stekt eine Anzahl Goldstueke zu sich.)
+
+
+
+Vierte Scene.
+(Alcibiades zieht auf eine kriegrische Weise mit Trummel und
+ Pfeiffen auf; und Phrynia und Timandra.)
+
+
+Alcibiades.
+Wer bist du hier?  Sprich!
+
+Timon.
+Eine Bestie, wie du bist.  Dass der Krebs dein Herz dafuer durchfresse,
+dass du mir wieder ein menschliches Gesicht zu sehen giebst!
+
+Alcibiades.
+Wie ist dein Name?  Ist der Mensch dir so verhasst, und du bist
+selbst ein Mensch?
+
+Timon.
+Ich bin Misanthropos, und hasse das menschliche Geschlecht.  Was
+dich betrift, so wuenscht' ich, du waer'st ein Hund, damit ich dich
+ein wenig lieben koennte.
+
+Alcibiades.
+Ich kenne dich wol; aber was fuer Unfaelle dir zugestossen seyn
+muessen, davon weiss ich nichts.
+
+Timon.
+Ich kenne dich auch, und verlange nicht mehr von dir zu wissen, als
+ich weiss; zieh deiner Trummel nach, faerbe den Boden mit Menschen-
+Blut; roth, roth;--Religions-Gebraeuche, buergerliche Geseze sind
+grausam, was soll dann der Krieg seyn?  Diese faule Meze hier hat
+mit allen ihren Cherubin-Bliken mehr Zerstoerung in sich als dein
+Schwerdt.
+
+Phrynia.
+Dass dir die Lippen verfaulen!
+
+Timon.
+Das koennte nur begegnen wenn ich dich kuesste, und das will ich nicht.
+
+Alcibiades.
+Wie kam der edle Timon zu diesem Wechsel?
+
+Timon.
+Wie der Mond, weil er kein Licht mehr zu geben hatte; aber ich
+konnte mich nicht wieder erneuern wie der Mond, denn es waren keine
+Sonnen da, von denen ich haette borgen koennen.
+
+Alcibiades.
+Edler Timon, was fuer Freundschaft kan ich dir erweisen?
+
+Timon.
+Keine, als mich in meiner Meynung zu bestaerken.
+
+Alcibiades.
+Was ist diese, Timon?
+
+Timon.
+Mir Freundschaft zu versprechen, und keine zu halten.  Wenn du mir
+keine versprechen willst, so verderben dich die Goetter!  denn du
+bist ein Mensch; und wenn du sie haeltst, so sollen sie dich
+gleichfalls verderben, denn du bist ein Mensch.
+
+Alcibiades.
+Es sind mir einige verworrne Nachrichten von deinen Unglueksfaellen
+zu Ohren gekommen.
+
+Timon.
+Du sahst sie, wie ich im Wohlstand sass.
+
+Alcibiades.
+Ich seh sie izt, damals war eine gluekliche Zeit.
+
+Timon.
+Wie die deinige izt ist, zwischen einem Paar Mezen.
+
+Timandra.
+Ist das der allgemeine Liebling von Athen, von dem die Welt so viel
+ruehmliches sagte?
+
+Timon.
+Bist du Timandra?
+
+Timandra.
+Ja.
+
+Timon.
+Bleib immer eine Hure; die lieben dich nicht, die dich gebrauchen;
+haeng ihnen Krankheiten an, wenn sie ihre Lust mit dir gebuesst haben;
+mach einen guten Gebrauch von deinen bittern Stunden, bringe die
+Sclaven zu Schwiz-Kaesten und Baedern, bring die rosenwangichte
+Jugend zur Hunger-Cur*, und zur Diaet.
+
+{ed.-* (Tub-Fast), (Tonne-Fasten) im Englischen.  Der Autor zielt auf
+die Venerische Seuche und ihre Wuerkungen.  Die Cur derselben wurde
+in damaligen Zeiten entweder durch (Guaiacum), oder Mercurialische
+Salben gemacht; und in beyden Faellen wurde der Patient sehr warm
+und eingesperrt gehalten; das erste, damit der Schweiss befoerdert
+werde; und das andre, damit er sich nicht wieder erkaelte, welches
+gefaehrlich war.  Das Regimen beym Gebrauch des (Guaiacum), oder
+(Lignum Sanctum) (sagt Dr. Friend in seiner Geschichte der Arzney-
+Kunst, 2. Theil, S.  380.) war anfangs mit ausserordentlichen
+Umstaenden begleitet, und so strenge, dass der Patient in ein enges
+dunkles Loch gesperrt wurde, damit er desto besser schwizen moechte;
+und durch diese Veranstaltung wurde, wie sich Fallopius ausdrukt,
+der ganze Mensch bis auf die Knochen selbst durchgebeizt.  Wisemann
+sagt, in England habe man sich zu diesem Zwek, anstatt der
+anderwaerts ueblichen Keller, Bak-Ofen, u.  d.  gl.  einer Tonne bedient.
+Was die Unction betrift, so wurde sie zuweilen sieben und dreyssig
+Tage fortgesezt, wie er S.  375.  bemerkt, und waehrend dieser ganzen
+Zeit war eine ausserordentliche Abstinenz nothwendig.  Daher dann
+das Wort (Tub-Fast.) Warbuerton.  ** Ein Provinzial-Wort fuer das
+Englische (Slut), fuer welches dem Uebersezer kein hochdeutsches
+Wort bekannt ist.}
+
+Timandra.
+An den Galgen, du Ungeheuer.
+
+Alcibiades.
+Vergieb, meine liebe Timandra, seine Wiederwaertigkeiten haben
+seinen Verstand ueberwaeltiget.  Ich habe nur wenig Geld uebrig, wakrer
+Timon, und der Mangel daran verursacht taeglichen Aufruhr unter
+meiner abgemergelten Kriegs-Schaar.  Ich hoerte mit Bekuemmerniss, wie
+das verfluchte Athen, deiner Verdienste uneingedenk, und
+undankbarlich der Zeit vergessend, da sie ohne dein Schwerdt und
+deine Reichthuemer, von ihren Nachbarn mit Fuessen zertreten worden
+waeren --
+
+Timon.
+Ich bitte dich, lass deine Trummel ruehren, und geh' deines Wegs.
+
+Alcibiades.
+Ich bin dein Freund, und habe Mitleiden mit dir, mein liebster
+Timon.
+
+Timon.
+Wie kanst du Mitleiden mit dem haben, den du beunruhigest; ich
+wollte lieber allein seyn.
+
+Alcibiades.
+Nun, so fahr wohl; hier hast du Gold.
+
+Timon.
+Behalt es, ich kan es nicht essen.
+
+Alcibiades.
+Wenn ich das stolze Athen in einen Steinhauffen umgekehrt habe --
+
+
+Timon.
+Ziehst du gegen Athen?
+
+Alcibiades.
+Ja, Timon, und aus einer gerechten Ursache.
+
+Timon.
+Die Goetter verderben sie alle durch deine Hand, und wenn du sie
+vernichtet hast, dich auch!
+
+Alcibiades.
+Warum mich, Timon?
+
+Timon.
+Weil du gebohren wardst, durch Ermordung von Boesewichtern mein
+Vaterland zu Grunde zu richten.  Liess dein Gold wieder auf.  Geh
+weiter, hier ist noch mehr Gold, geh; sey wie eine Planetarische
+Seuche, wenn Jupiter ueber irgendeine lastervolle Stadt sein Gift in
+die sieche Luft aushaengt; lass dein Schwerdt nicht einen einzigen
+ueberspringen; schone dem ehrwuerdigen Greis nicht um seines weissen
+Barts willen, er ist ein Wucherer; schlage die Ehefrau nieder, ihr
+Kleid allein ist ehrlich, sie ist eine Kupplerin.  Lass nicht die
+jungfraeuliche Wange dein schneidendes Schwerdt stumpf machen;
+schone dieses milchweissen Busens nicht, der unter dem glaesernen
+Flor zu den Augen der Maenner emporschwillt, er ist ein schaendlicher
+Verraether.  Schone nicht des Saeuglings, dessen kindisches Laecheln
+Narren zur Erbarmung zwingt; denk es ist ein Bastard, von dem ein
+dunkles Orakel vorhergesagt hat, dass er dir die Kehle abschneiden
+soll, und zerhak' ihn ohne Bedenklichkeit.  Verschwoere dich wider
+jeden Gegenstand, der dein Herz erweichen koennte; leg' eine Ruestung
+um deine Ohren und deine Augen, deren Staehlung weder das Heulen der
+Muetter, das Geschrey der Jungfrauen, und das Wimmern der Kinder;
+noch der Anblik von Priestern, deren Blut ueber ihre heiligen
+Kleider herab stroemt, nur um eine Nadelspize durchdringen moege.
+Hier ist Gold, deine Soldaten zu bezahlen.  Verbreite Verderben um
+dich her, geh', und wenn du deine Wuth ausgelassen hast, so verdirb
+selbst!  Antworte nicht, geh!
+
+Alcibiades.
+Hast du noch Gold?  Ich nehme das Gold an, das du mir giebst, und
+lasse dir deinen Rath.
+
+Timon.
+Du folgest ihm oder nicht, so falle der Fluch des Himmels auf dich!
+
+Timandra, Phrynia.
+Gieb uns auch etwas Gold, guter Timon; hast du noch mehr?
+
+Timon.
+Genug, um zu machen dass eine Hure ihr Handwerk verschwoere und eine--
+Kupplerin werde.  Hebt auf, ihr Schluetten**, die Schuerze auf!  Ihr
+seyd nicht eydfaehig, ob ich gleich weiss, dass ihr schwoeren wuerdet;
+schwoeren, dass die unsterblichen Goetter die euch hoeren, vor Entsezen
+schaudern muessten.  Spart eure Schwuere, ich will euerm blossen
+Versprechen glauben.  Bleibt immer Huren, und dem, dessen frommer
+Zuspruch euch bekehren will, dem macht es dreymal aerger als den
+uebrigen; koedert ihn an, brennt ihn bis auf die Knochen; lasst nicht
+eher von ihm ab, biss euer Feuer ueber seinem Rauch Meister wird;
+doch sollt ihr dafuer alle Jahre sechs Monate eine ganz
+entgegengesezte Muehe haben.  Sezt euch falsche Haare an, und dekt
+eure arme duenne Schaedel mit Aufsaezen von Todten (wenn schon einige
+davon gehangen sind, das hindert nichts); tragt sie, betruegt damit,
+und h** immer auf ihren Credit hin; schminkt euch, bis ein Pferd in
+euerm Gesicht steken bleiben moechte; der Henker hole die Runzeln!
+
+Beyde.
+Gut, gut, nur mehr Gold; glaubt uns, um Gold thun wir was ihr nur
+wollt.
+
+Timon.
+Saeet Auszehrung in ihre marklosen Knochen, laehmet ihre duennen Beine,
+und daempfet den maennlichen Trieb.  Brecht die Stimme des Advocaten,
+dass er untuechtig werde schlimme Sachen zu fuehren, und Rabulisten-
+Streiche durch sein Geschrey gut zu machen; stekt den Priester an,
+der wider die Triebe des Fleisches eifert und sich selbst nicht
+glaubt; herab mit der Nase, platt ab, nehmt ihm den Nasenknoerpel
+ohne Verschonen, der, seinen Privat-Nuzen ausser Gefahr zu sezen,
+das gemeine Beste aufopfert.  Macht krauskoepfichte Spizbuben kahl,
+und lasst auch die jungen Eisenfresser nicht leer ausgehen, die mit
+ihren grossen Thaten pralen, und nur nicht eine Narbe davon
+aufzuweisen haben.  Verpestet alle Welt, und ruhet nicht, bis ihr
+die Quelle der Vermehrung selbst gaenzlich verstopft und
+ausgetroknet habt.--Hier ist mehr Gold fuer euch, bringt alle andre
+ins Verderben, dann verfaulet selbst und Misthauffen moegen euer
+aller Grab seyn.
+
+Beyde.
+Mehr Rath und mehr Geld, guter Timon.
+
+Timon.
+Ihr muesstet es erst besser verdienen; ihr habt nun euer Handgeld.
+
+Alcibiades.
+Ruehrt die Trummel, und gegen Athen zu.  Lebe wohl, Timon, wenn es
+mir gelungen seyn wird, will ich dich wieder besuchen.
+
+Timon.
+Wenn mich die Hoffnung nicht betruegt, werd ich dich nicht mehr
+sehen.
+
+Alcibiades.
+Ich that dir nie was zu leide.
+
+Timon.
+Ja, du redtest Gutes von mir.
+
+Alcibiades.
+Nennst du das beleidigen?
+
+Timon.
+Die Menschen erfahren es alle Tage.  Geh deines Weges, pake dich,
+und nimm deine Dachshunde mit.
+
+Alcibiades.
+Wir sind ihm nur beschwerlich; ruehrt die Trummel!
+
+(Alcibiades, Timandra und Phrynia gehen ab.)
+
+
+
+Fuenfte Scene.
+
+
+Timon.
+Dass die Natur noch zu eben der Zeit hungern soll, da der Unmuth
+ueber des Menschen Unbarmherzigkeit sie des Lebens ueberdruessig macht!--
+Allgemeine Mutter, du deren unermessliche Schoos und unbegrenzte
+Brust alles gebiehrt und saeuget; o du, deren nemliche Zeugungs-Hize,
+woraus der stolze Mensch aufdunset, die schwarze Kroete zeugt, und
+die blaue Schlange, die goldflekichte Eidechs und den blinden
+vergifteten Wurm mit allem andern verabscheuten Ungeziefer, das
+Hyperions Feuer belebt: Gieb dem der alle deine menschlichen Soehne
+hasset, gieb ihm aus deinem unerschoepflichen Busen eine einzige
+arme Wurzel.  Verstopfe deine fruchtbare gern empfangende Schooss;
+lass sie nichts mehr fuer den undankbaren Menschen hervorbringen.  Geh
+nur mit Tygern, Drachen, Woelfen und Baeren schwanger; schwill von
+neuen Ungeheuern auf, die dein emporgerichtetes Antliz dem
+umwoelbenden Himmel nie gezeigt hat!--O!  eine Wurzel--habet Dank,
+ihr Goetter!--trokne deine lokern Adern auf, und deine vom Pflug
+zerrissne Schollen, aus denen der undankbare Mensch diese geistigen
+Saefte und diese niedlichen Bissen zieht, die sein reines Gemueth mit
+einem Fett umgeben, woran alle Betrachtung abglitscht.
+
+
+
+Sechste Scene.
+
+
+Timon (zu Apemanthus.)
+Wieder ein Mensch?  Pest!  Pest!
+
+Apemanthus.
+Ich bin hieher gewiesen worden.  Die Leute sagen, du massest dich an,
+meine Lebensart nachzuahmen.
+
+Timon.
+So muss es desswegen seyn, weil du keinen Hund haeltst, den ich
+nachahmen koennte.  Dass du die Schwindsucht kriegtest!
+
+Apemanthus.
+Es ist an dir nur etwas erzwungnes, eine arme unmaennliche
+Melancholey, die bloss aus dem Wechsel deines Glueks entsprungen ist.
+Wozu dieses Grabscheit?  Warum in diesem Walde?  Warum dieser
+sclavenmaessige Aufzug?  Und diese kummervolle Blike?  Deine
+Schmeichler tragen indessen Seide, trinken Wein, ligen weich,
+schwimmen in lieblichen Geruechen, und haben vergessen, dass jemals
+ein Timon war.  Entehre diese Kleidung nicht, die dir das Ansehen
+und die Vorrechte eines Censors geben soll.  Sey du izt ein
+Schmeichler, versuch' es, dich nun durch eben dieses fortzubringen,
+was dich zu Grunde gerichtet hat; beuge deine Knie, und lass den
+blossen Athem dessen, dem du aufwartest, deine Mueze vom Kopf
+herabwehen; erhebe seine lasterhaftesten Ausschweiffungen, und
+nenne sie vortreflich.  So redte man mit dir; und du gabst deine
+Ohren dazu her, den Bierwirthen aehnlich, die Schelmen und alles was
+zu ihnen kommt willkommen heissen.  Es ist hoechst billig, dass du ein
+Spizbube werdest; haettest du noch Vermoegen, so wuerden Spizbuben es
+haben.  Affectire keine Gleichheit mit mir, sag ich dir!
+
+Timon.
+Wenn ich dir gleich waere, ich wollte mich selbst wegwerfen.
+
+Apemanthus.
+Du hast dich selbst weggeworffen, da du dir selbst gleich warst; so
+lang' ein Unsinniger, izt ein Narr!  Wie?  denkst du, die kalte Luft,
+dein ungestuemer Kammerherr, werde dir ein warmes Hemde reichen?
+Meynst du, diese bemoossten Baeume, die den Adler ueberlebt haben,
+werden wie Pagen hinter dir hertreten, und dir auf einen Wink
+zulauffen?  Wird der kalte, mit Eis candirte Bach dir ein Cordial
+zum Fruehstuek geben, um die Unverdaulichkeit der gestrigen
+Nachtmahlzeit zu verbessern?  Ruffe den nakten Geschoepfen, die der
+rauhen Witterung, und den kaempfenden Elementen ihre unverwahrten
+Ruempfe entgegen bieten; befiehl ihnen, dir zu schmeicheln; o, du
+wirst finden --
+
+Timon.
+Dass du ein Narr bist; zieh' ab.
+
+Apemanthus.
+Du bist mir izt lieber als jemals.
+
+Timon.
+Und du mir desto verhasster.
+
+Apemanthus.
+Warum?
+
+Timon.
+Du schmeichelst der Duerftigkeit.
+
+Apemanthus.
+Ich schmeichle nicht; ich sage nur, dass du ein elender Tropf bist.
+
+Timon.
+Warum suchst du mich auf?
+
+Apemanthus.
+Um dich zu scheeren.
+
+Timon.
+Das ist immer die Verrichtung eines Boesewichts, oder eines Narren.
+Daeucht sie dir kurzweilig?
+
+Apemanthus.
+Ja.
+
+Timon.
+Was fuer ein Schurke du bist!
+
+Apemanthus.
+Wenn du diesen schwermuethigen kalten Habit angezogen haettest,
+deinen Stolz zu zuechtigen, so haettest du wol daran gethan; aber du
+thust es aus Noth; du wuerdest ein Stuzer seyn, wenn du nicht ein
+Bettler waerest.  Freywillige Armuth ueberlebt ungewisses Wohlleben;
+dieses wird immer gefuellt und doch nie voll, jene erreicht ihren
+hoechsten Wunsch auf einmal; der glueklichste Stand ist missvergnuegt,
+der elendeste zufrieden.  (Du) solltest zu sterben wuenschen, weil du
+in einem so armseligen Zustand bist.
+
+Timon.
+Nicht weil mir's einer sagt, der noch armseliger ist.  Du bist ein
+Sclave, den das Gluek nie mit zaertlichen Armen an ihre Brust druekte;
+sondern zu einem Hund gebohren.  Waerest du wie wir, von der ersten
+Stuffe des Lebens an, durch alle die angenehmen Grade von
+Gluekseligkeit fortgeschritten, die diese kurze Welt denjenigen
+gewaehrt, die sich nur besinnen duerfen, was sie von allen ihren
+Waaren haben wollen: Du haettest dich in dem diksten Schlamm der
+Luederlichkeit herumgewaelzt, deine Jugend in den schaendlichsten
+Ausschweiffungen verschwendet, und nimmermehr die kalten
+Vorschriften der Maessigung und des Wohlstands beobachten gelernt,
+sondern wuerdest dem verzuekerten Spiel vor dir her blindlings
+nachgeloffen seyn.  Aber dass ich, fuer dessen Vergnuegen die ganze
+Welt arbeitete, der die Zungen, die Augen, die Herzen der Menschen
+zu seinem Gebot hatte, mehr als ich ihnen Verrichtungen erdenken
+konnte, an dem unzaehliche hiengen, wie die Blaetter an einer Eiche;
+die aber alle, von einem einzigen Winter-Anstoss, von ihren Zweigen
+abgefallen sind, und mich entbloesst und unbedekt jedem Sturm
+ausgesezt gelassen haben: Dass ich, der nie etwas anders als bessers
+gekannt hat, diss ertragen soll, ist etwas schwer.  Dein Wesen fieng
+mit Elend an, und die Zeit hat dich dazu abgehaertet.  Warum solltest
+du die Menschen hassen?  Sie haben dir nie geschmeichelt.  Was hast
+du ihnen geben koennen?  Wenn du fluchen willt, so muss dein Vater,
+der arme Lumpenhund, der Gegenstand seyn, der, in einem Anstoss von
+Brunst, irgend eine Bettlerin ueberfallen, und dich armseligen Erb-
+Lumpenhund zusammgeflikt hat--Hinweg, pake dich!--Waerest du nicht
+zum untersten unter allen Menschen gebohren, so wuerdest du ein
+Spizbube und Schmeichler gewesen seyn.
+
+Apemanthus.
+Bist du noch stolz?
+
+Timon.
+Ja, dass ich nicht du bin.
+
+Apemanthus.
+Und ich, dass ich kein Verschwender gewesen bin.
+
+Timon.
+Und ich, dass ich izt noch einer bin.  Waer' aller Reichthum, den ich
+hatte, in dir aufgeschuettet, so wollt' ich dir Erlaubniss geben, ihn
+aufzuhaengen.  Geh deines Weges--O!  dass das Leben von ganz Athen in
+dieser Wurzel waere!  So wollt' ich es essen.
+
+(Er isst eine Wurzel.)
+
+Apemanthus.
+Hier, ich will deine Mahlzeit verbessern.
+
+Timon.
+Verbessre erst meine Gesellschaft, und pake dich fort!
+
+Apemanthus.
+Was haettest du gern zu Athen--
+
+Timon.
+Dich, in einem Wirbelwind; wenn du willt, so sag ihnen, ich habe
+Gold; siehst du, dass ich habe.
+
+Apemanthus.
+Hier hat es keinen Nuzen.
+
+Timon.
+Den besten und sichersten; denn hier schlaeft es, und thut keinen
+gedungnen Schaden.
+
+Apemanthus.
+Wo ligst du des Nachts, Timon?
+
+Timon.
+Unter dem was ueber mir ist.  Wo futterst du des Tags, Apemanthus?
+
+Apemanthus.
+Wo mein Magen Speise findet, oder vielmehr wo ich sie esse.
+
+Timon.
+Ich wollte, das Gift muesste mir gehorchen, und wuesste meine Gedanken.
+
+Apemanthus.
+Wo wolltest du es hinschiken?
+
+Timon.
+Deine Schuesseln zu wuerzen.
+
+Apemanthus.
+Das Mittel der Menschlichkeit hast du nie gekannt, sondern nur das
+aeusserste von beyden Enden.  Wie du in deinen vergoldeten Zimmern,
+und von ausgesuchten Specereyen umduftet warst, da trieben sie ihr
+Gespoette ueber deine ausschweiffende Zaertlichkeit des Geschmaks; izt
+da du in Lumpen bist, hast du gar keine, sondern wirst des
+Gegentheils halben verabscheut.  Hier ist eine Mespel fuer dich, iss
+sie.
+
+Timon.
+Ich esse von nichts, was ich nicht leiden kan.
+
+Apemanthus.
+Kanst du die Mespeln nicht leiden?
+
+Timon.
+Nein, ob sie schon dir gleich sehen.
+
+Apemanthus.
+Haettest du sie frueher nicht leiden koennen, so wuerdest du izt besser
+mit dir selbst zufrieden seyn.  Hast du jemals einen Verschwender
+gekannt, den man noch geliebt hat, nachdem er um seine Mittel
+gekommen ist?
+
+Timon.
+Wen hast du jemals ohne diese Mittel, wovon du redst, beliebt
+gesehen?
+
+Apemanthus.
+Mich selbst.
+
+Timon.
+Ich verstehe dich, du hast einige Mittel, einen Hund zu halten.
+
+Apemanthus.
+Was fuer Dinge in der Welt findst du deinen Schmeichlern am
+aehnlichsten?
+
+Timon.
+Weiber--Was wolltest du mit der Welt thun, Apemanthus, wenn sie in
+deiner Gewalt waere?
+
+Apemanthus.
+Sie den wilden Thieren vorwerfen, damit ich der Menschen los wuerde.
+
+Timon.
+Wolltest du selbst auch das Schiksal der Menschen haben, oder unter
+den wilden Thieren ein wildes Thier werden?
+
+Apemanthus.
+Das lezte, Timon.
+
+Timon.
+Ein bestialischer Wunsch, den die Goetter dir gewaehren moegen!  Wenn
+du ein Loewe waerst, so wuerde dich der Fuchs betruegen; waerst du ein
+Lamm, so wuerde der Fuchs dich fressen; waerst du der Fuchs, so
+wuerdest du dem Loewen verdaechtig werden, wenn dich zufallsweis ein
+Esel anklagte; waerst du der Esel, so wuerde dich deine Dummheit
+plagen, und du lebtest immer als ein Fruehstuek fuer den Wolf.  Waerst
+du der Wolf, so wuerde dir deine Gefressigkeit zur Quaal werden, und
+du wuerdest oft dein Leben fuer dein Mittagessen wagen.  Waerst du das
+Einhorn, so wuerde dich Stolz und Grimm verderben, und in Ermanglung
+eines andern wuerdest du die Beute deiner eignen Wuth werden.  Waerst
+du ein Baer, so wuerde dich das Ross toedten; waerst du ein Ross, so
+wuerde dich der Leopard ergreiffen; waerst du ein Leopard, so waerst
+du des Loewen Vetter, und deine Fleken wuerden deine eigne Verwandten
+gegen dein Leben aufhezen.  Alle deine Sicherheit waer' in Entfernung,
+und dein Schuz in der Abwesenheit eines Feindes.  Was fuer ein Thier
+koenntest du seyn, das nicht einem Thier unterworffen waere?  Und was
+fuer ein Stuek Vieh bist du izt schon, dass du nicht siehst, wie viel
+du bey der Verwandlung verliehren wuerdest?
+
+Apemanthus.
+Wenn du mir durch irgend ein Gespraech gefallen koenntest, so haettest
+du es izt getroffen.  Das gemeine Wesen von Athen ist ein Wald von
+Thieren worden.
+
+Timon.
+Wie ist dann der Esel durch die Mauern gebrochen, dass du ausser der
+Stadt bist?
+
+Apemanthus.
+Dort kommt ein Poet und ein Mahler; die Pest der menschlichen
+Gesellschaft falle auf dich!  Ich besorge, dass sie mich ansteken
+moechte, und will mich mit der Flucht retten.  Wenn ich sonst nichts
+zu thun weiss, will ich dich wieder sehen.
+
+Timon.
+Wenn sonst nichts lebendiges mehr ist als du, sollt du mir
+willkommen seyn.
+
+Apemanthus.
+Du bist das Oberhaupt von allen iztlebenden Narren.
+
+Timon.
+Ich wollte, du waerest sauber genug, dass ich auf dich speyen koennte.
+Dass du die Kraenke haettest!
+
+Apemanthus.
+Du bist ein zu schlechter Kerl, als dass du jemandem fluchen
+koenntest.
+
+Timon.
+Alle Galgenschwengel werden rein, wenn sie neben dir stehen.
+
+Apemanthus.
+Es ist sonst kein Aussaz, als was du redst.
+
+Timon.
+Wenn ich dich nenne--Pruegeln will ich dich; doch, ich wuerde nur
+meine Haende kraezicht machen.
+
+Apemanthus.
+Ich wollte, meine Zunge koennte machen, dass sie abfaulten.
+
+Timon.
+Weg, du Gezuecht eines raeudigen Hunds.  Ich sterbe vor Zorn, dass du
+in der Welt bist; ich fall' in Unmacht, wenn ich dich ansehe.
+
+Apemanthus.
+Dass du bersten moechtest?
+
+Timon.
+Hinweg, du verabscheuter Raker; ich fuerchte, du treibst mir einen
+H*d*n ab.
+
+Apemanthus.
+Vieh!
+
+Timon.
+Sclave!
+
+Apemanthus.
+Kroete!
+
+Timon.
+Lumpenhund, Lumpenhund, etc.
+
+(Apemanthus zieht sich zuruek, als ob er gehe.)
+
+Ich bin dieser falschen Welt ueberdruessig, und will nichts in ihr
+lieben, als ihre blossen Nothwendigkeiten.  So zoegre dann nicht,
+Timon, dir dein Grab zu machen, dort, wo der leichte Meerschaum
+deinen Grabstein taeglich schlagen soll; mache deine Grabschrift,
+dass der Tod in mir ueber andrer Leben lache.
+
+(Er sieht auf das Gold, das zu seinen Fuessen ligt.)
+
+O du angenehmer Koenigs-Moerder!  du werthe Scheidung zwischen dem
+leiblichen Sohn und seinem Vater!  du schimmernder Besudler von
+Hymens keuschestem Bette!  du dapfrer Mars!  du immer junger,
+frischer, beliebter, und reizender Buhler, dessen Roethe den
+geheiligten Schnee, der auf Dianens Schooss ligt, zerschmelzt!  Du
+sichtbarer Gott, der Unmoeglichkeiten zusammenfuegt, und einander
+kuessen macht!  der jede Sprache zu jeder Absicht reden kan!  O du
+Probstein der Herzen; denke, dein Sclave, der Mensch, empoere sich
+wider dich, und seze sie durch deine Macht in eine so zerruettende
+Zwietracht, bis die Herrschaft ueber die Welt den Thieren bleibt.
+
+Apemanthus.
+Ich wollt' es waere so, aber nicht eher, als bis ich todt bin!  Ich
+will sagen, du habest Gold; was fuer einen Zulauff, du augenbliklich
+bekommen wirst!
+
+Timon.
+Einen Zulauf?
+
+Apemanthus.
+Ja.
+
+Timon.
+Deinen Rueken, ich bitte dich.
+
+Apemanthus.
+Leb' und liebe dein Elend!
+
+Timon.
+Leb lange so und stirb so!  Ich bin quitt.
+
+Apemanthus.
+Schau, mehr Dinge die wie Menschen aussehen--iss, Timon, und
+verabscheue sie.
+
+(Apemanthus geht ab.)
+
+
+
+Siebende Scene.
+(Die Diebe treten auf.)
+
+
+1. Dieb.
+Wo mag er wol sein Geld haben?  Es wird irgend ein armseliges
+Fragment, irgend ein uebriges Bisschen sein, das er noch davon
+gebracht hat.  Nichts anders, als der Mangel an Geld, und der Undank
+seiner Freunde, hat ihn zu dieser Melancholey gebracht.
+
+2. Dieb.
+Das Geruecht geht, er hab' einen Schaz gefunden.
+
+3. Dieb.
+Wir wollen einen Versuch machen; wenn er nichts darnach fragt; wird
+er's uns gutwillig geben; aber wenn er so geizig ist, dass er's fuer
+sich allein behalten will, was ist dann zu thun?
+
+2. Dieb.
+Er wird den Schaz nicht bey sich tragen; er wird ihn verstekt haben.
+
+1. Dieb.
+Ist der nicht Timon?
+
+Alle.
+Wo?
+
+2. Dieb.
+Der Beschreibung nach ist er's.
+
+3. Dieb.
+Er ists, ich kenn' ihn.
+
+Alle.
+Gruess dich Gott, Timon.
+
+Timon.
+He, Diebe.
+
+Alle.
+Soldaten, keine Diebe.
+
+Timon.
+Beydes, und von Weibern gebohren.
+
+Alle.
+Diebe sind wir nicht, aber Leute, die sehr viel Beduerfnisse haben.
+
+Timon.
+Euer groestes Beduerfniss ist, was ihr aller Orten finden koennet: Was
+solltet ihr beduerfen?  Seht, die Erde hat Wurzeln; innert einer
+Meile um uns her entspringen hundert Quellen; die Eichen tragen
+Eicheln, die Gestraeuche, Hambutten; die gutthaetige Hausmutter,
+Natur, legt auf jedem Busch ihren ganzen Kram vor euch aus--
+Beduerfnisse?  Warum Beduerfnisse?
+
+1. Dieb.
+Wir koennen nicht von Gras, Beeren und Wasser leben; wie Thiere,
+Voegel und Fische.
+
+Timon.
+Auch nicht von den Thieren, Voegeln und Fischen selbst; ihr muesst
+Menschen essen.  Doch muss ich euch Dank dafuer sagen, dass ihr
+offenbare Diebe seyd, und euch nicht in heiligere Gestalten
+einhuellet; denn es herrscht grenzenlose Dieberey auch in
+gesezmaessigen Lebensarten.  Galgenschwengel, Diebe, hier ist Gold!
+
+(Er giebt ihnen Geld.)
+
+Geht, saugt das fluechtige Blut der Traube, bis das hizige Fieber
+euer Blut zu Schaum kocht, und entgeht dadurch dem Galgen.  Vertraut
+euch keinem Arzt, seine Arzneyen sind Gift, er toedtet mehr Menschen
+als ihr beraubt, und nimmt ihnen ihr Geld mit samt dem Leben.
+Treibt eure Bubenstueke, treibt sie, weil ihr euch dazu bekennt, wie
+ein andres Handwerk; ich will euch Beyspiele genug von Dieberey
+geben.  Die Sonn' ist ein Dieb, und beraubt durch ihre starke
+Anziehung das weite Welt-Meer.  Der Mond ist ein ausgemachter Dieb,
+und mausst sein blasses Licht der Sonne.  Das Meer ist ein Dieb,
+dessen schmelzende Wellen Daemme in salzichte Thraenen aufloesen.  Die
+Erde ist ein Dieb, die uns das Futter, wovon sie lebt, aus dem
+Unrath aller Dinge zusammenstiehlt; ein jedes Ding ist ein Dieb.
+Die Geseze, die euch binden und mit Ruthen streichen, haben
+ungestraften Diebstahl in ihrer rauhen Gewalt.  Liebt euch selbst
+nicht, hinweg, beraubt einander, hier habt ihr mehr Gold; schneidet
+Kehlen ab; alle die euch begegnen sind Diebe: Geht nach Athen,
+brecht in offne Buden ein, denn ihr koennt nichts stehlen; das nicht
+von Dieben verlohren wird; stehlt nichts desto minder, weil ich
+euch Gold gebe, und Gold verderbe euch, Amen!
+
+(Er geht ab.)
+
+3. Dieb.
+Er hat mir mein Handwerk schier erleidet, indem er mich dazu
+aufmunterte.
+
+1. Dieb.
+Das ist die allgemeine Bosheit der Menschen; er giebt uns einen
+Rath, in Hoffnung, dass er uns an den Galgen bringen werde.
+
+2. Dieb.
+So will ich ihm glauben wie einem Feind, und meine Profession
+aufgeben.
+
+1. Dieb.
+Wir wollen erst warten, bis zu Athen Fried' ist.
+
+2. Dieb.
+Es ist kein so schlimmer Zustand, worinn ein Mensch nicht noch gut
+werden kan.
+
+(Sie gehen ab.)
+
+
+
+
+Fuenfter Aufzug.
+
+
+
+Erste Scene.
+(Der Wald und Timons Hoele.)
+(Flavius tritt auf.)
+
+
+Flavius.
+O ihr Goetter, ist jener verworfne, zerstoerte Mann mein Herr?  So
+abgezehrt, so eingefallen!  O!  ein Denkmal, ein Wunder von
+uebelangewandten Gutthaten!  Was fuer eine Veraenderung hat eine
+verzweiflungsvolle Duerftigkeit in seiner Gemuethsart gemacht!  Was
+fuer ein schaendlicheres Ding ist auf der Erde als Freunde, die das
+edelste Gemueth zu einem solchen Verfall bringen koennen!  Wie wohl
+schikt sich das Gebott, dass wir unsre Feinde lieben sollen*, fuer
+unsre Zeiten!  Wenn es mir auch frey stuende, wollt' ich sie doch
+eher lieben als Schmeichler.--Er hat mich wahrgenommen; ich will
+ihm meinen redlichen Kummer zeigen, und bis zum lezten Athemzug
+sein treuer Diener bleiben.
+
+{ed.-* Hier vergisst unser Autor, dass seine Personen keine Christen sind,
+noch seyn koennen; kein Wunder, da er durch das ganze Stuek
+vergessen hat, dass sie Athenienser sind.}
+
+(Timon kommt aus seiner Hoele hervor.)
+
+Mein theurester Herr.
+
+Timon.
+Weg!  Wer bist du?
+
+Flavius.
+Habt ihr mich vergessen, mein Herr?
+
+Timon.
+Wie magst du fragen?  Ich habe alle Menschen vergessen; wenn du also
+gestehen musst, das du ein Mensch bist, so hab ich dich vergessen.
+
+Flavius.
+Ein ehrlicher Diener--
+
+Timon.
+So kenn ich dich nicht: ich habe niemals ehrliche Leute um mich
+gehabt; alle die ich hatte waren Spizbuben, um Galgenschwengeln
+beym Essen aufzuwarten.
+
+Flavius.
+Die Goetter sind Zeugen, dass niemals ein armer Verwalter einen
+aufrichtigern Schmerz fuer seinen zu Grunde gerichteten Herrn
+gefuehlt hat, als meine Augen fuer euch.
+
+(Er weint.)
+
+Timon.
+Wie?  weinst du?  Komm naeher, so will ich dich denn lieben, weil du
+ein Weib bist; du kanst aus Mitleiden weinen; das kan das
+kieselsteinerne Herz des maennlichen Geschlechts nicht; wenn ihre
+Augen uebergehen, so geschieht es vor Lachen oder boeser Lust.
+
+Flavius.
+Ich bitte euch, mein guetiger Herr, mich nicht abzuweisen, und mir
+zu verstatten, dass ich euern Kummer theile, und so lange dieser
+arme Reichthum daurt,
+
+(er zeigt ihm einen Beutel mit Geld,)
+
+euer Verwalter bleibe.
+
+Timon.
+Hatt' ich einen Verwalter, der so getreu, so redlich, und nun so
+huelfreich ist?  Diss koennte mein verwildertes Gemueth beynahe zahm
+machen.  Lass mich dein Gesicht sehen; wahrlich, dieser Mann ist von
+einem Weibe gebohren.  Verzeihet mir mein allgemeines, keine
+Ausnahme machendes, zu rasches Urtheil, ihr unsterblichen, weisen
+Goetter!  Ich gestehe nun einen ehrlichen Mann zu; verstehet mich wol,
+nur Einen; keinen mehr, ich bitte euch; und der einzige ist ein
+Verwalter!  Wie gerne wollt' ich das ganze Menschen-Geschlecht
+gehasset haben, und du kaufst dich los; doch alle andre, dich
+ausgenommen, moegen meine Flueche treffen!  Mich daeucht, du seyest
+mehr ehrlich als klug; denn, wenn du mich betrogen und verrathen
+haettest, so haettest du desto baelder eine andre Bedienstung erhalten
+koennen; viele kommen auf diese Art zu ihren zweyten Herren, auf
+ihres ersten Herrn Naken.  Aber sage mir aufrichtig, (denn ich muss
+immer zweifeln, ob ich gleich niemals weniger Ursach dazu hatte;)
+ist nicht diese deine Zaertlichkeit listig und eigennuezig, eine
+wuchernde Zaertlichkeit, wie reiche Leute Geschenke machen, um
+zwanzig mal so viel dafuer zuruek zu bekommen?
+
+Flavius.
+Nein, mein wuerdiger Herr, (in dessen Brust Zweifel und Argwohn, ach
+leider!  zu spaet Plaz nehmen;) ihr haettet falsche Freundschafts-
+Versicherungen vermuthen sollen, da ihr Bankette gabt.  Das was ich
+euch zeige, der Himmel weiss es, ist lauter Liebe, Pflicht und
+Ergebenheit gegen ein Herz, das seines gleichen nicht hat, Sorge
+fuer euern Unterhalt und euer Leben; und glaubt mir, es ist kein
+Vortheil weder gegenwaertig, noch den ich hoffen koennte, den ich
+nicht um diesen einzigen Wunsch vertauschen wollte, euch wieder in
+Gluek und Wohlstand zu sehen.
+
+Timon.
+Gut, ich glaube dir, es ist so; du einzelner ehrlicher Mann, hier,
+nimm.
+
+(Er giebt ihm einen Sak mit Gold.)
+
+Die Goetter haben dir aus meinem Elend einen Schaz zugeschikt.  Geh,
+lebe reich und glueklich; aber mit dieser Bedingung, dass du von den
+Menschen abgesondert wohnen sollst.  Hass' alle, verwuensch' alle,
+thue keinem Gutes; lass einem Bettler eh sein verhungertes Fleisch
+von den Knochen fallen, eh du ihm ein Almosen gaebest.  Gieb den
+Hunden, was du den Menschen versagst.  Dass Gefaengnisse sie
+verschlingen, dass sie in Schulden verderben, dass die Menschen einem
+verdorrten Walde gleich sehen, und verpestete Krankheiten ihr
+falsches Blut aufleken!  Und hiemit lebe wohl, und gedeyhe!
+
+Flavius.
+O lasst mich bey euch bleiben, mein guetiger Herr, und euch
+unterstuezen --
+
+Timon.
+Wenn du meinem Fluch ausweichen willst, so saeume dich nicht, flieh;
+flieh, weil du noch gesegnet und frey bist.  Sieh du keinen Menschen
+mehr, und lass dich nimmer vor mir sehen.
+
+(Sie gehen auf verschiedne Seiten ab.)
+
+
+
+Zweyte Scene.
+(Der Poet und der Makler treten auf.)
+
+
+Mahler.
+Nach der Erkundigung, die ich von dem Ort eingezogen habe, kan er
+nicht weit von hier sich aufhalten.
+
+Poet.
+Was soll man von ihm denken?  bestaettigt sich das Geruecht, dass er
+soviel Gold haben soll?
+
+Mahler.
+Er hat; Alcibiades erzaehlt es, Phrynia und Timandra haben Gold von
+ihm bekommen; er schenkt' auch etlichen armen verlaufenen Soldaten
+eine grosse Menge davon.  Man sagt, er gab seinem Verwalter eine
+starke Summe.
+
+Poet.
+So war folglich diese Bankrutt nur eine Pruefung seiner Freunde.
+
+Mahler.
+Nichts anders; ihr werdet ihn bald in Athen unter den Ersten wieder
+glaenzen sehen.  Es wird also nicht uebel gethan seyn, wenn wir ihm in
+dem Unglueks-Stand', worinn man ihn versunken glaubt, unsre
+Freundschaft bezeugen; es wird uns das Ansehen eines edelmuethigen
+Betragens geben; und es ist sehr wahrscheinlich, dass es uns zu
+unserm Zwek fuehren wird, wenn es wahr ist, dass er so reich seyn
+soll.
+
+Poet.
+Was habt ihr bey euch, womit ihr ihm aufwarten wollet?
+
+Mahler.
+Nichts fuer dissmal als meinen Besuch; allein ich will ihm ein
+vortrefliches Stuek versprechen.
+
+Poet.
+Ich will ihn auf die nemliche Art bedienen.
+
+Mahler.
+So ist's am besten.  Versprechen oeffnet das Auge der Erwartung, und
+macht sich oft fuer etwas, das niemals gehalten wird, zum voraus
+bezahlt.  Halten ist allemal der Narr in seinem eignen Spiel; sobald
+ein Versprechen gehalten ist, so nuezt es, ausser bey der
+einfaeltigern Art von Leuten, dem Geber nichts mehr.  Versprechen ist
+hofmaennisch, und ein Stuek von der feinen Lebensart; Halten ist eine
+Art von leztem Willen oder Testament, welches bey dem, der es macht,
+eine grosse Krankheit--am Verstand anzeigt.  (Timon kommt, ohne dass
+ihn die vorigen Personen gewahr werden, aus der Hoele hervor.)
+
+Timon (vor sich.)
+Vortreflicher Kuenstler!  du kanst keinen so schlechten Kerl mahlen
+als du selbst bist.
+
+Poet.
+Ich besann' mich, was ich sagen will, das ich fuer ihn in der Arbeit
+habe--Es muss eine Vorstellung von ihm selbst seyn; eine Satyre ueber
+die Weichlichkeit, die eine Folge des Wohlstands zu seyn pflegt;
+mit einer Entdekung der unendlichen Schmeicheleyen, die das Gefolge
+von Jugend und Reichthum sind.
+
+Timon.
+Must du dich dann in deinem eignen Werk als einen Nichtswuerdigen
+abschildern?  Willt du deine eigne Laster auf andrer Leute Rueken
+peitschen?  Thue es, ich habe Gold fuer dich.
+
+Poet.
+Wir wollen ihn aufsuchen.
+
+Wer einen Vortheil einzuholen
+Zu spaet kommt, hat sich selbst bestohlen.
+
+Mahler.
+Ihr habt recht.
+
+Poet.
+Such', was dir fehlt, bey Tag, der unbezahlt dir scheint;
+Die Nacht im schwarzen Flor ist niemands Freund.
+
+Kommt!
+
+Timon.
+Ich will euch beym Umkehren entgegen kommen--Was fuer ein Gott ist
+Gold, dass er in Tempeln verehrt wird, die veraechtlicher sind als
+die Oerter, wo Schweine ihre Speise suchen.  Du bist es der das
+Schiff ausrehdet, und die beschaeumten Wellen pfluegt; du verschaffst
+dem Sclaven Bewundrung und Ehrfurcht; niemals moege dein Dienst
+abnehmen, und verderbliche Plagen sollen deine Anbeter umkraenzen!--
+Izt ist es Zeit, ihnen entgegen zu kommen.
+
+Poet.
+Heil dir, wuerdiger Timon.
+
+Mahler.
+Einst unser edler Gebieter.
+
+Timon.
+Wie, erleb' ich es, noch zween ehrliche Maenner zu sehen?
+
+Poet.
+Mein Herr, da wir so viel Gutes von euch genossen haben, und
+vernehmen mussten, dass ihr euch entfernt, und dass alle eure Freunde
+abgefallen, fuer deren undankbare Gemuether--(oh,
+verabscheuungswuerdige Seelen!) alle Ruthen des Himmels nicht
+hinreichend sind--Was?  von euch?  dessen Stern-gleiche Grossmuth
+Leben und Einfluesse ihrem ganzen Wesen gab?  Ich komme ganz ausser
+mich, und kan keine Worte gross genug finden, die ungeheure Groesse
+dieser Undankbarkeit darein zu kleiden.
+
+Timon.
+Lasst sie nakend gehen, so sehen die Leute sie desto besser; ihr,
+die ihr ehrliche Maenner seyd, macht durch das, was ihr seyd, das
+was sie sind am besten sichtbar.
+
+Mahler.
+Er und ich haben in dem grossen Regen eurer Freygebigkeit gereisst,
+und ihn auf eine angenehme Art empfunden.
+
+Timon.
+Ja, ihr seyd ehrliche Maenner.
+
+Mahler.
+Wir sind hieher gekommen, euch unsre Dienste anzubieten.
+
+Timon.
+Sehr ehrliche Maenner!  Wie kan ich's euch wett machen?  Koennt ihr
+Wurzeln essen, und kaltes Wasser trinken?  Nein.
+
+Beyde.
+Wir wollen thun, was wir nur immer koennen, um euch Dienste zu
+leisten.
+
+Timon.
+Ihr seyd ehrliche Maenner; ihr habt gehoert, dass ich Gold habe; ich
+bin versichert, ihr habt's gehoert; sagt die Wahrheit, ihr seyd
+ehrliche Maenner.
+
+Mahler.
+So sagt man, mein edler Lord; allein desswegen kam ich und mein
+Freund nicht hieher.
+
+Timon.
+Guter ehrlicher Mann; du mahlst das beste Portrait unter allen
+Mahlern in Athen; du bist, in der That, der beste; du mahlst
+vortreflich nach dem Leben.
+
+Mahler.
+So, so, Gnaediger Herr.
+
+Timon.
+Eben so, mein Herr, wie ich sagte.
+
+(Zum Poet.)
+
+Und was deine Gedichte betrift, deine Verse fliessen so voll und
+lieblich, dass du in deiner Kunst eben so natuerlich bist.  Allein
+eben darum, meine ehrlich-gesinnten Freunde, muss ich euch sagen,
+ihr habt einen kleinen Fehler; der aber in der That euch nicht sehr
+entstellt; auch wuenscht' ich nicht, dass ihr euch grosse Muehe gaebet,
+ihn zu verbessern.
+
+Beyde.
+Wir bitten Euer Gnaden ihn uns bekannt zu machen.
+
+Timon.
+Ihr moechtet es uebel aufnehmen.
+
+Beyde.
+Mit hoechstem Dank, Gnaediger Herr.
+
+Timon.
+Ist das euer Ernst?
+
+Beyde.
+Zweifelt nicht daran, Milord.
+
+Timon.
+Es ist niemals einer von euch allein, ohne sich einem Spizbuben
+anzuvertrauen, der euch gewaltig hinter's Licht fuehrt.
+
+Beyde.
+Thun wir das, Gnaediger Herr?
+
+Timon.
+Das thut ihr, und ihr hoert seine Schmeicheleyen; seht wie er sich
+verstellt, kennt seine groben Schelmstueke, und doch liebt ihr ihn,
+gebt ihm zu essen, und tragt ihn in euerm Busen; aber seyd
+versichert, er ist ein ausgemachter Spizbube.
+
+Mahler.
+Ich kenne keinen solchen, Gnaediger Herr.
+
+Poet.
+Noch ich.
+
+Timon.
+Schaut ihr, ihr seyd mir lieb, ich will euch Gold geben, wenn ihr
+mir diese Schelmen aus eurer Gesellschaft ausstossen wollt; haengt
+sie oder erstecht sie, gebt ihnen Gift ein, oder schaft sie sonst
+auf eine Art aus der Welt, und kommt wieder zu mir, so will ich
+euch Gold genug geben.
+
+Beyde.
+Nennet sie, Gnaediger Herr, wir moechten sie kennen.
+
+Timon.
+Geht ihr auf diese Seite, und ihr auf diese--Aber es sollte jeder
+allein seyn--wenn jeder von euch ganz allein und einzeln ist, so
+haelt ihm doch ein Erz-Spizbube Gesellschaft.
+
+(Zum Mahler.)
+
+Wenn da wo du bist, nicht zween Spizbuben seyn sollen, so komm ihm
+nie zu nah--
+
+(Zum Poet.)
+
+Wenn du nirgends seyn willt, als wo nur ein Spizbube ist, so
+verlass ihn.  Fort, pakt euch, hier ist Gold;
+
+(Er giebt ihnen Schlaege.)
+
+ihr kamet um Gold zu kriegen, ihr Sclaven; ihr habt Arbeit fuer
+mich;--hier ist eure Bezahlung--Fort--Ihr seyd ein Alchymist, macht
+Gold aus diesem; fort, ihr Lumpenhunde!
+
+(Er pruegelt sie, und jagt sie fort.)
+
+
+
+Dritte Scene.
+(Flavius und zween Senatoren treten auf.)
+
+
+Flavius.
+Es ist umsonst, wenn ihr den Timon sprechen wollt; denn er ist so
+gaenzlich auf sich allein eingeschraenkt, dass er nichts was einem
+Menschen gleich sieht, ausser sich selbst, um sich leiden kan.
+
+1. Senator.
+Fuehrt uns zu seiner Hoele; es ist unser Auftrag, und wir haben uns
+den Atheniensern dazu verpflichtet, mit Timon zu reden.
+
+2. Senator.
+Die Menschen sind nicht zu allen Zeiten gleich; Umstaende und Kummer
+haben ihm diesen Humor gegeben; die Zeit, die ihm nun die
+Gluekseligkeiten seiner ehmaligen Tage wieder anbietet, kan ihn
+wieder zu dem vorigen Mann machen; fuehrt uns zu ihm, es mag gehen
+wie es will.
+
+Flavius.
+Hier ist seine Hoele!  Fried' und Zufriedenheit wohne hier, Lord
+Timon!  Timon, schaue heraus, und rede mit Freunden; die Athenienser
+gruessen dich durch zwey Mitglieder ihres hoechst ehrwuerdigen Senats;
+rede mit ihnen, edler Timon.  (Timon kommt aus seiner Hoele heraus.)
+
+Timon.
+Du Sonne, anstatt zu erquiken, brenne!--Redet, und dann geht an den
+Galgen!  wenn ihr fuer jedes wahre Wort eine Blatter kriegtet, und
+fuer jedes falsche bis auf die Wurzel eurer Zunge gebrannt wuerdet,
+so wuerd' euer Vortrag nicht lange dauern.
+
+1. Senator.
+Wuerdiger Timon--
+
+Timon.
+Ja, solcher Leute wuerdig wie ihr seyd, und ihr des Timons.
+
+2. Senator.
+Die Senatoren von Athen gruessen dich, Timon.
+
+Timon.
+Ich dank' ihnen, und wollt' ihnen die Pest dafuer zuruek schiken,
+wenn ich sie kriegen koennte.
+
+1. Senator.
+O vergiss dessen, an was wir selbst ohne Schaam und Kummer nicht
+denken koennen; die Senatoren ruffen dich mit einhelliger
+Freundschaft nach Athen zuruek, und sind darauf bedacht, dich mit
+den ansehnlichsten Ehrenstellen zu ueberhaeuffen, die fuer dich
+erledigt ligen.
+
+2. Senator.
+Sie bekennen, dass ihre Unachtsamkeit auf deine Verdienste zu
+allgemein, zu gross gewesen; die ganze Republik, (die sonst selten
+Palinodien zu singen pflegt,) hat durch das Gefuehl, wie sehr ihr
+Timon mangelt, eine lebhafte Empfindung von dem Unrecht bekommen,
+das sie sich selbst angethan, indem sie dem Timon ihren Beystand
+entzogen; und sendet uns nun, dir darueber ihre reuvolle Bekuemmerniss
+zu bezeugen, und dir zugleich einen Ersaz anzubieten, den ihr
+Vergehen nicht um eine Drachme ueberwiegen soll; ja so ueberhaeufte
+Summen von Liebe, Ansehn und Reichthum, dass sie jede Spur der
+vergangnen Kraenkungen in deinem Andenken ausloeschen, und die
+Figuren ihrer Liebe so tief in dich eindrueken sollen, dass sie auf
+ewig unausloeschlich dauern werden.
+
+Timon.
+Ihr bezaubert mich, ueberrascht mich durch eure Beredsamkeit beynahe
+zu Thraenen; leiht mir eines Narren Herz, und die Augen eines Weibs,
+so will ich ueber diese troestlichen Sachen weinen, wuerdige Senatoren.
+
+1. Senator.
+Lass dir also gefallen mit uns zuruek zu kehren, und die Ober-
+Befehlhabers-Stelle ueber unser Athen, dein und unser Athen,
+anzunehmen: Du sollt mit allgemeinen Dankbezeugungen eingeholt, und
+mit dem voelligen Ansehn der hoechsten Gewalt bekleidet werden; so
+werden wir bald die wilden Anfaelle des Alcibiades zuruek getrieben
+haben, der izt, wie ein ergrimmter Baer, den Frieden seines
+Vaterlands aufwuehlt,
+
+2. Senator.
+und sein draeuendes Schwerdt gegen die Mauern von Athen gezuekt haelt.
+
+1. Senator.
+Daher, Timon--
+
+Timon.
+Gut, mein Herr, ich will; daher will ich, mein Herr; so, nemlich--
+Wenn Alcibiades meine Landsleute umbringt, so lasst den Alcibiades
+vom Timon dieses wissen, dass Timon sich nichts darum bekuemmert.
+Wenn er das schoene Athen zu einem Steinhauffen macht, wenn er eure
+wakern alten Maenner bey den Baerten zieht, und eure keuschen
+Jungfrauen der Beflekung des schaamlosen, viehischen, wuethenden
+Kriegs Preiss giebt, so lasst ihn wissen--und sagt ihm, Timon hab' es
+gesagt--Aus Mitleiden mit euern Alten und mit eurer Jugend kan ich
+nicht anders als ihm sagen lassen, dass ich--nichts darnach frage.
+Und lasst es ihn im schlimmsten Sinn nehmen als er will, denn ihre
+Messer fragen auch nichts darnach, dass ihr Gurgeln zum Antworten
+habt.  Was mich selbst betrift, so ist in seinem ganzen zaumlosen
+Lager kein so kleines Taschen-Messer, das ich nicht hoeher schaeze
+und liebe, als die ehrwuerdigste Gurgel in Athen.  Und hiemit ueberlass
+ich euch der Obhut der Goetter, wie Diebe ihren Huetern.
+
+Flavius.
+Bleibet nicht laenger, es ist alles umsonst.
+
+Timon.
+Wie, ich war eben im Begriff, meine Grabschrift zu schreiben;
+morgen wird man sie sehen koennen.  Meine lange Krankheit an
+Gesundheit und Leben faengt an sich zu bessern, und Nichts bringt
+mir Alles.--Geht, lebt immerhin; Alcibiades sey eure Geissel, ihr
+die seinige; und so daurt einander aus, so lang es moeglich ist!
+
+1. Senator.
+Alles, was wir reden koennten ist umsonst.
+
+Timon.
+Und doch lieb' ich mein Vaterland noch; und bin keiner, der an dem
+allgemeinen Schiffbruch seine Freude hat, wie die Sage von mir geht.
+
+1. Senator.
+Das ist wol gesprochen.
+
+Timon.
+Empfehlt mich meinen werthesten Mitbuergern.
+
+1. Senator.
+Das sind Worte, die euern Lippen wol anstehen!
+
+2. Senator.
+Und in unsre Ohren, wie triumphierende Sieger durch ihre
+zujauchzenden Thore, eingehen.
+
+Timon.
+Empfehlt mich ihnen, und sagt ihnen, um ihnen in ihren bekuemmerten
+Umstaenden, ihrer Furcht vor feindlichen Streichen, ihren Drangsalen,
+ihrem grossen Verlust, ihren Liebes-Aengsten, und andern
+dergleichen zufaelligen Wehen, die das zerbrechliche Gefaess der
+menschlichen Natur in der ungewissen Reise des Lebens auszustehen
+hat, einige Linderung zu verschaffen, woll' ich ihnen noch eine
+Probe von meiner guetigen Gemuethsart geben, und ihnen ein Mittel
+sagen, wodurch sie dem Grimm des Alcibiades zuvorkommen koennen.
+
+2. Senator (leise.)
+Das geht ganz gut; er wird mit uns zuruek kommen.
+
+Timon.
+Ich habe einen Baum, der hier in meinem Einfang waechsst, und den ich
+zu meinem eignen Gebrauch naechstens faellen muss.  Sagt meinen
+Freunden, den Atheniensern, allen ohne Ausnahm, von dem Hoechsten
+bis zum Niedrigsten; dass ein jeder der Lust habe, allem seinem Leid
+ein Ende zu machen, unverzueglich hieher kommen, und eh noch mein
+Baum die Axt gefuehlt hat, sich daran aufhaengen soll--Ich bitte euch,
+richtet es wohl aus.
+
+Flavius.
+Beunruhigt ihn nicht laenger, ihr werdet ihn nie anders finden.
+
+Timon.
+Kommt nicht wieder zu mir, sondern sagt den Atheniensern: Timon
+habe seine immerwaehrende Wohnung an dem aeussersten Strande der
+gesalznen Fluth genommen, wo die ungestuemen Wellen sie alle Tage
+einmal mit ihrem schwellenden Schaum bedeken werden.  Dahin kommt,
+und lasst meinen Grabstein euer Orakel seyn.  Schliesset euch nun,
+meine Lippen, und macht euern Verwuenschungen ein Ende; Pest und
+Verderben vollende, was ihr vergessen habt; Graeber allein seyen der
+Menschen Arbeit, und Tod ihr Gewinn!  Sonne, verbirg deine Stralen!
+Timon hat seinen Lauf vollbracht.
+
+(Timon geht ab.)
+
+1. Senator.
+Sein Unwille und Gram ist auf eine unzertrennliche Art mit seinem
+Wesen zusammengewachsen.
+
+2. Senator.
+Unsre Hoffnung auf ihn ist todt; lasst uns zuruek kehren, und sehen,
+was fuer andre Mittel uns in dieser aeussersten Gefahr noch uebrig
+sind.
+
+1. Senator.
+Wir haben keinen Augenblik zu versaeumen.
+
+
+
+Vierte Scene.
+(Die Mauern von Athen.)
+(Zween andre Senatoren mit einem Boten treten auf.)
+
+
+1. Senator (zum Bot.)
+Du hast grosse Muehe bey deiner Auskundschaftung gehabt; sind denn
+seine Linien so voll wie man sagt?
+
+Bote.
+Ich habe die geringste Zahl angegeben; zudem, so macht er Anstalten,
+unmittelbar vor die Stadt anzurueken.
+
+2. Senator.
+Wir sind in grosser Gefahr, wenn sie den Timon nicht mit sich
+bringen.
+
+Bote.
+Ich begegnete unterwegs einem Courier, einem alten guten Freund von
+mir; wir sind zwar von entgegenstehenden Partheyen; allein unsre
+alte Liebe hatte doch Staerke genug, zu machen, dass wir wie gute
+Freunde mit einander sprachen.  Dieser Mann war in Eile von
+Alcibiades nach Timons Hoele abgeschikt mit Briefen, worinn er ihn
+einlud, seine Parthey wider eure Stadt zu verstaerken, um so mehr
+als das Unrecht, so dem Timon angethan worden, eine von den
+Ursachen sey, die ihn in Waffen gesezt habe.  (Andre Senatoren zu
+den Vorigen.)
+
+1. Senator.
+Hier kommen unsre Brueder.
+
+3. Senator.
+Redet nicht von Timon, erwartet nichts von ihm; man hoert schon die
+Trummeln der Feinde, und das fuerchterliche Stampfen ihrer Tritte
+fuellt die Luft mit Staub.  Hinein, und macht euch gefasst; ich
+besorge, unsre Gegenwehr werde wenig helfen.
+
+(Sie gehen ab.)
+
+(Ein Soldat geht in den Wald hinein, und sucht den Timon.)
+
+Soldat.
+Der Beschreibung nach muss dieses der Ort seyn.  Wer ist hier?
+Antworte!  he!  Keine Antwort?--was ist diss?--ha!  Timon todt
+ausgestrekt?  Irgend ein wildes Thier muss dieses Grabmal aufgewuehlt
+haben, denn hier lebt kein Mensch.  Er ist todt, so ist's, und diss
+ist sein Grab--Was ist auf diesem Stein?  Ich kan nicht lesen; aber
+ich will die Schrift in Wachs abdruken; unser General versteht
+alles, er ist alt an Wissenschaft, obgleich jung an Tagen; anstatt
+ihm seinen Freund zu bringen, bring ich ihm seine Grabschrift.
+
+(Er geht ab.)
+
+
+
+Fuenfte Scene.
+(Vor den Mauern von Athen.)
+(Trompeten.  Alcibiades zieht mit seinem Heer auf.)
+
+
+Alcibiades.
+Verkuendigt dieser feigen und von Wollust aufgeloesten Stadt unsre
+fuerchterliche Ankunft.
+
+(Man hoert Schamade schlagen.
+Die Senatoren lassen sich auf den Mauern sehen.)
+
+Bis izt habt ihr ohne Scheu euerm ausschweiffenden Uebermuth den
+Zuegel gelassen, und eure Willkuehr zum Zwek der Geseze gemacht.
+Lange genug sind ich und andre, die im Schatten eurer Gewalt
+schliefen, mit verkehrten Waffen, wie Nachtwandrer, herumgeirret,
+und haben unsre Bedruekung umsonst in Klagen ausgehaucht.  Nun ist
+die Zeit gekommen, da das ueberladne Mark unter der uebermaessigen
+Last ausruft: Es ist genug*; nun soll die keuchende Beleidigung
+sich in eure grosse Lehnstuehle werfen, und ausschnauben; und der
+aufgeschwollne Uebermuth vor Angst allen seinen Wind fahren lassen,
+und mit emporstraeubenden Haaren davon lauffen.
+
+{ed.-* Das Mark wurde fuer die Quelle der Staerke gehalten.  Das Bild ist
+von einem Cameel hergenommen, welches auf den Knien ligt, um seine
+Last aufzunehmen; und gleich aufsteht, wenn man ihm mehr auflegen
+will, als es tragen kan.  Warbuerton.}
+
+1. Senator.
+Edler Juengling, da deine ersten Beschwerden nur noch Gedanken waren,
+eh du Macht hattest oder wir Ursache hatten dich zu fuerchten;
+sandten wir zu dir, deinen Zorn zu besaenftigen, und versprachen,
+unsre Undankbarkeit mit ueberschwaenglicher Liebe auszuloeschen.
+
+2. Senator.
+Wir hielten auch durch eine demuethige Gesandtschaft, und mit
+versprochner Besserung, bey dem verwandelten Timon an, unsrer Stadt
+seine Liebe wieder zu schenken; wir sind nicht alle undankbar, und
+verdienen nicht alle unter dem allgemeinen Streich des Krieges zu
+sinken.
+
+1. Senator.
+Diese unsre Mauern sind nicht von den Haenden derjenigen aufgefuehrt
+worden, von denen ihr Beleidigungen empfangen habt; und es waere
+nicht billig, dass diese schoenen Thuerme, diese Tropheen und diese
+Schulen, um der Missethat etlicher Privatleute willen fallen
+sollten.
+
+2. Senator.
+Diejenigen sind nicht einmal mehr am Leben, deren Bestraffung der
+erste Beweggrund euers Auszugs war.  Schaam und Verdruss ueber die
+Folgen ihrer Unbesonnenheit hat ihnen das Herz gebrochen.  Ziehe nur,
+o edler Lord, mit fliegenden Fahnen in unsre Stadt ein; lass, wenn
+deine Rache nach einer Nahrung hungert, wovor der Natur grauet, lass
+durch das fatale Loos den zehnten Mann sterben, und schone der
+uebrigen.
+
+1. Senator.
+Nicht alle haben gesuendiget; es ist nicht billig, an den
+Unschuldigen die Rache zu nehmen, die nur die Schuldigen verdient
+haben.  Verbrechen werden nicht mit den Guetern geerbt.  Fuehr' also,
+theurer Mitbuerger, deine Schaaren herein, aber lass deinen Zorn
+voraussen; schone deiner Atheniensischen Wiege, und dieser
+Geschlechter, die in dem Ungestuem deines Grimms mit denen, so
+gesuendigt haben, fallen muessten.  Komm, gleich einem Schaefer, in die
+Huerden, um die angestekten auszusondern, nicht alle zusammen zu
+erwuergen.
+
+2. Senator.
+Wozu willst du dein Schwerdt wieder uns ziehen, da du uns durch
+dein Laecheln leichter zu allem was du willst, zwingen kanst?
+
+1. Senator.
+Seze nur deinen Fuss gegen unsre verrigelten Thore, und sie sollen
+sich oeffnen, wenn du dein guetiges Herz vorausschiken willst, uns zu
+versichern, dass du als Freund einziehen werdest.
+
+2. Senator.
+Zieh deinen Handschuh, oder gieb uns ein andres Pfand deines
+Ehrenworts, dass du deine Macht nur zu deiner eignen
+Wiederherstellung, nicht zu unsrer Zerstoerung, gebrauchen wollest;
+alle deine Kriegsschaaren sollen so lange in unsern Mauern ligen
+bleiben, biss deinen Fordrungen voellig genug geschehen seyn wird.
+
+Alcibiades.
+So ist dann hier mein Handschuh.  Steigt herab, und oeffnet eure
+wehrlosen Thore; diese Feinde des Timon und die meinige, deren
+Verurtheilung euch selbst uebergeben seyn soll, diese allein sollen
+fallen; und euch zu zeigen, dass ihr von meinen edlern Gesinnungen
+nichts zu besorgen habt, so soll keiner von meinen Leuten sein
+angewiesenes Quartier ueberschreiten, oder den Lauf der buergerlichen
+Ordnung in den Bezirken eurer Stadt stoeren, ohne von den
+oeffentlichen Gesezen zur schaerfsten Verantwortung gezogen zu werden.
+
+Beyde.
+Diss ist sehr edel gesprochen.
+
+Alcibiades.
+Kommet herab, und haltet euer Wort.  (Ein Soldat tritt auf.)
+
+Soldat.
+Mein edler Obrister, Timon ist todt; an dem aeussersten Ufer des
+Meers ist sein Grab, und auf dem Grabstein diese Aufschrift, die
+ich in Wachs mit mir genommen habe, damit dieser Abdruk der
+Dolmetscher meiner armen Unwissenheit sey.
+
+Alcibiades (liesst die Grabschrift:)
+
+Hier ligt ein unglueklicher Leichnam, von einer
+unglueklichen Seele verlassen; sucht meinen Namen nicht!  Verderben
+ueber euch Boesewichter alle, die ich hinter mir lasse!  Hier ligt
+Timon, der alle Menschen hassete; geh' vorbey, und fluch' ihm bis
+du genug hast, nur verweile dich nicht hier.  Dieses druekt die
+lezten Bewegungen deiner Seele wohl aus; ob du gleich unser
+menschliches Mitleid verabscheuet, und die Thraenen verschmaehest,
+die der kargen Natur entfallen; so lehrte dich doch ein edler Stolz,
+den ungeheuern Neptun fuer ewig auf dein niedriges Grab weinen zu
+lassen--Wohlan--die Fehler sollen vergeben seyn--Der edle Timon ist
+todt; und sein Gedaechtniss soll eine unsrer Sorgen seyn--Fuehrt mich
+in eure Stadt, und ich will mein Schwerdt mit Oelzweigen umwinden!--
+Ruehrt die Trummeln, und ruekt ein--
+
+(Sie ziehen ab.)
+
+
+Ende dieses Projekt Gutenberg Etextes Timon von Athen, von William
+Shakespeare (Uebersetzt von Christoph Martin Wieland).
+
+
+
+
+
+End of the Project Gutenberg EBook of Timon von Athen, by William Shakespeare
+
+*** END OF THE PROJECT GUTENBERG EBOOK TIMON VON ATHEN ***
+
+This file should be named 7gs3710.txt or 7gs3710.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 7gs3711.txt
+VERSIONS based on separate sources get new LETTER, 7gs3710a.txt
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

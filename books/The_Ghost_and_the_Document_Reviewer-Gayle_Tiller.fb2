@@ -1,0 +1,1915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+<description>
+    <title-info>
+        <genre>antique</genre>
+        <author><first-name>Gayle</first-name><last-name>Tiller</last-name></author>
+        <book-title>The Ghost and the Document Reviewer</book-title>
+        <coverpage><image l:href="#img_0"/></coverpage>
+        <lang>en</lang>
+        <keywords>detective</keywords>
+        <annotation><p>Sarah has been working as a lawyer in Silicon Valley for many years. She is involved in many projects at the same time and often changes them. The woman dreams of at least some stability in life and finances. But right now she can only wish for it. What is even worse, Sarah does not have any close friends to whom she could talk heart to heart. After another failure, Sarah is fired from the latest project. A little bit later something unusual happens. Sarah meets a ghost named Jack. His story is very strange. Jack was charged with the murder of a sheriff's wife sixty-five years ago. Now he has to find the real killer before the anniversary of his own death. Otherwise, he will be forced to remain a ghost forever. Sarah decides to help him.</p></annotation>
+    </title-info>
+    <document-info>
+        <author><first-name>Gayle</first-name><last-name>Tiller</last-name></author>
+        <program-used>calibre 4.5.0</program-used>
+        <date>3.12.2022</date>
+        <id>2c359f1f-73c8-4f2c-b8bd-a5be6630a859</id>
+        <version>1.0</version>
+    </document-info>
+    <publish-info>
+        <publisher>Amazon</publisher>
+    </publish-info>
+</description>
+<body>
+<section>
+<p>CHAPTER ONE</p>
+<empty-line/>
+<p>Thursday, November 22, 2012 9:43 a.m.</p>
+<empty-line/>
+<p>Sarah's head was splitting. Her morning coffee hadn't cured last night's drinking binge. She was seated at a wooden folding table that wasn't more than three feet long. An ancient laptop and a plain, black generic mouse served as her work tools.</p>
+<p>Twenty-four other temporary doc review attorneys sat at their tiny tables in the windowless room on the eighth floor of the Silicon Valley law firm of Zyles, Mithie, and Kristle. Most were dressed in jeans and wore ear buds that played music while they reviewed electronic documents for a civil lawsuit. Poshlin Creative was suing TrueAge Innovations for allegedly stealing its trade secrets.</p>
+<p>Sarah and the other doc reviewers were assigned to the legal defense team for TrueAge. The Silicon Valley startup had a product line called TrueAge dolls. The dolls' lifelike skin and hair would age over a two-week period. Smooth skin and hair would wrinkle, thin, and gray.</p>
+<p>The best-selling TrueAge doll was Dynita. Dynita was about three feet tall and weighed 30 pounds. Dynita looked like a vibrant 18-year-old girl with full breasts, small waist, toned legs, and thick dark hair. By the time Dynita reached 80, she would have sagging breasts, a potbelly, stooped shoulders, and cottage cheese like thighs. Her once youthful face would be transformed to jowls and numerous wrinkles. And her previously luscious hair would become dull, wispy, and white.</p>
+<p>Tech bloggers called TrueAge dolls "incredibly realistic," "brilliant," and "cutting-edge." Tweens, teenagers, and college students loved the dolls. Who wouldn't want a doll that could turn into their mama or great-grandma? TrueAge dolls were the coolest dolls to own.</p>
+<p>Senior citizens' groups called the dolls "ageist" and "an affront to elders." America's premiere senior rights leader Molly Pamphey had organized an online petition asking that TrueAge pull its dolls from the market. So far, the petition had generated more than a million signatures.</p>
+<p>TrueAge didn't care about the petition. Since the beginning of the year, the company had sold three million dolls. Christmas sales were projected to be another six or seven million.</p>
+<p>TrueAge's opponent Poshlin sold state-of-the-art toys and electronic goods. In the height of Poshlin's day, it had churned out revenues of $20 billion annually. After the 2000 dot-com bust, Poshlin moved from Silicon Valley to Sacramento. The company valued "maturity and commitment" over "inexperience and impulsiveness." During the recession, Poshlin became a refuge for older Silicon Valley high tech workers.</p>
+<p>Poshlin claimed that TrueAge had hacked into its computers and had stolen its ideas to develop lifelike aging dolls. Poshlin wanted TrueAge to pay $1.5 billion.</p>
+<p>TrueAge scoffed at Poshlin's allegations. TrueAge was a young company and they weren't interested in an old company's ideas. TrueAge's CEO Sheila Zhang Trysdale was 26 years old and she was Silicon Valley's hottest sensation. Sheila and her team had developed the TrueAge dolls. No one on Sheila's team was even remotely connected to Poshlin.</p>
+<p>Poshlin's attorneys had sent a request for production (RFP) of documents relating to the TrueAge dolls. TrueAge's relevant documents that weren't privileged would be released to Poshlin's attorneys. Sarah's job was to review TrueAge's documents, mark the relevant documents as responsive, and tag the issues for the relevant documents.</p>
+<p>Sarah stared at her computer screen. She had no idea whether the document she viewed was responsive to the RFP. Sarah scanned her notes and she still couldn't figure out the answer. She clicked responsive because the doc reviewers had been told to mark responsive when they weren't sure.</p>
+<p>Sarah peered at the issue tags. There were about a dozen issues in the case. Sarah scratched her head. The document didn't appear to relate to any of them. Sarah changed the responsive tag to non-responsive and clicked her mouse to review the next document.</p>
+<p>A man called out Sarah's name. Sarah turned around. It was the doc review's project manager Jim. "I need to see you outside," he said.</p>
+<p>Sarah nodded, got up from her chair, and followed him into the hallway. Jim was short and scrawny. Sarah towered over him by several inches and outweighed him by at least 30 pounds.</p>
+<p>"We QC'd your docs," Jim said while looking up at Sarah. "You missed a lot of the privileged calls. For Christ's sake, we made it easy for you. All you had to do was tag the docs with the attorneys' names highlighted in red as privileged. Instead, you're doing the opposite."</p>
+<p>Sarah winced. "What are you talking about? I've been doing that since the first day. The only docs I don't mark privileged are the ones that have an opposing party or attorney because they're no longer protected and we can release them to the other side."</p>
+<p>"Well, you may have the rules right, but your docs show the opposite. Over 80 percent are wrong."</p>
+<p>"Then they're not mine," Sarah said in an indignant tone.</p>
+<p>"The docs are yours. Your user account is associated with the docs and no one else's," Jim replied angrily.</p>
+<p>That didn't make sense. Sarah had been careful with the privileged docs. But maybe she had gotten the tags confused somehow. Sarah sighed. "I won't let it happen again. I'll double check from now on."</p>
+<p>"It's too late for that," Jim fumed. "We're letting you go. You need to get your stuff and leave."</p>
+<p>Sarah wanted to scream at Jim and tell him to go to hell. Instead, she nodded and walked back to her desk. Sarah stuffed her phone into her purse, shut down her laptop, and put on her black quilted jacket.</p>
+<p>Sarah walked back to the hallway. Jim was gone. A couple of her coworkers were chatting on their phones. They stared at Sarah.</p>
+<p>Sarah ignored their stares. She didn't care that they knew she'd been fired. Being cut was just a part of being a doc reviewer. In her last project, Sarah had been let go because they had too many attorneys. Another project had ended early because they ran out of docs to review.</p>
+<p>Sarah walked passed her coworkers and went into the women's restroom. She felt a bit queasy. She walked into a stall and latched its door. Sarah grasped her stomach and then leaned over the toilet. She threw up several times. Her vomit smelled like a putrid mix of vodka, coffee, and eggs. With each heave, she began to feel a little bit better. After a few minutes, her stomach was completely empty.</p>
+<p>Sarah wiped her mouth with a tissue and flushed the toilet. She unlatched the toilet's stall door and exited.</p>
+<p>Sarah glanced at her reflection in the restroom's mirror. She had her mother's dimples and olive complexion. From her father, she had inherited his high cheekbones and hazel eyes.</p>
+<p>Sarah took a small bottle of eyes drops from her purse and poured a few drops into her bloodshot eyes. Within a couple of minutes, her eyes were clear. Sarah washed her face and patted it dry.</p>
+<p>She dug into her purse and searched for her mouthwash. After a minute, she found the mouthwash and gargled. She always carried a small bottle for bad days like this. Sarah put the bottles of the mouthwash and eye drops back into her purse and pulled out a wide-tooth comb.</p>
+<p>She tamed her dark brown, thick curly hair. Sarah patted her hair and put the comb back into her purse. Now, she looked decent.</p>
+<p>Sarah walked out of the restroom and back into the hallway. To her surprise, no one was there. She glanced at the elevator. The idea of a stomach-churning ride to the first floor didn't sound appealing.</p>
+<p>Sarah walked to the door of the stairway at the end of the hallway. It was eight flights of stairs, but she knew the walking would relieve the stress of being fired. She opened the door and started to walk down the stairs. A minute later, she heard footsteps coming from above.</p>
+<p>She looked up and saw an African-American man dressed in a navy blue, pinstriped suit. He was probably in his late thirties, which wasn't much younger than she was.</p>
+<p>He was handsome. Clean-shaven with a nice square jaw and full lips. And tall. Good three or four inches taller than her, from what she could tell at her angle. That would make him about 6'1" or 6'2". But Sarah didn't want to talk to him. He was probably one of the law firm's partners. Sarah turned her head and started to walk briskly down the stairs.</p>
+<p>The man increased his pace until he was a couple of steps from Sarah. He then stopped abruptly.</p>
+<p>"Miss, can I ask you a question?" the man asked.</p>
+<p>"Sure," Sarah answered while glancing down at the man's ring-less fingers. What was wrong with her? She just had been fired and now she was checking out some stranger. She needed to slow down.</p>
+<p>"Are you a lawyer?"</p>
+<p>"Why would you ask me that?"</p>
+<p>"Because we're in a law firm's building," the man replied in a matter-of-fact tone.</p>
+<p>"Yeah, I am," Sarah answered while glancing at the man. His business suit looked expensive. She felt underdressed in her jeans, black cowl neck sweater, quilted jacket, and brown leather boots. She wished she looked like a real lawyer and not a Silicon Valley doc reviewer. "Are you a partner here?"</p>
+<p>"No, ma'am," he answered. "I'm not a lawyer at all, but I need one for my case. Maybe we can meet in your office."</p>
+<p>"I don't have an office."</p>
+<p>"Don't you work here?"</p>
+<p>"I did until a few minutes ago."</p>
+<p>The man stared at Sarah for a few seconds. "Good, that means you'll have time to work on my case," he said while displaying a gapped tooth smile.</p>
+<p>Work on his case? He had to be kidding. She was just a doc reviewer. "I'm not taking on clients."</p>
+<p>The man eyeballed Sarah suspiciously. "What kind of lawyer doesn't want clients?"</p>
+<p>"I need to find a job."</p>
+<p>"What kind of law do you do?"</p>
+<p>"Document review."</p>
+<p>The man raised his eyebrows. "Document review? I've never heard of that."</p>
+<p>"I review documents that have been uploaded to a database," Sarah replied. "The docs may be emails, presentations, spreadsheets, and other communications. I figure out whether the docs are responsive, privileged, and tag them for issues for legal matters."</p>
+<p>"Do you ever go to court?" the man asked.</p>
+<p>Sarah shook her head. "No, all I do is check boxes and that's it."</p>
+<p>The man looked at Sarah with a puzzled expression. "Check boxes? What does that mean?"</p>
+<p>"There's a menu in the doc review program. If a doc is responsive, you check it. If not, you pick nonresponsive."</p>
+<p>"Got it," the man said. "How long have you been doing this?"</p>
+<p>"For a while."</p>
+<p>"Are you good at it?"</p>
+<p>"Apparently not, I was just fired," Sarah replied in an exasperated tone.</p>
+<p>The man touched his brow with his left hand. "This document review sounds really boring. You need to find something you're passionate about."</p>
+<p>"Thanks for the advice," Sarah said tersely.</p>
+<p>"Now that you're not working, can you handle my case?" the man asked.</p>
+<p>Sarah had enough issues of her own. "You need to find someone else because all I know how to do is doc review." Sarah turned and started to walk briskly down the final flight of stairs. The man walked behind Sarah at an even pace.</p>
+<p>Sarah stopped at the end of the stairwell, turned around, and looked at the man. "Can you stop following me?"</p>
+<p>"I have a deadline and there's no time to find anyone else," he pleaded.</p>
+<p>"I already told you I can't help you," Sarah snapped.</p>
+<p>Tears welled up in the man's dark brown eyes. "All I want is fifteen minutes of your time," he begged. "After that if you don't want to help me, you can tell me."</p>
+<p>Sarah stared at the man. He looked so helpless. Like a nine-year-old who had lost his puppy. "Fine, we can meet for a bit," she said. "There's a park a few blocks away from here. I'm sure we can find an empty bench."</p>
+<p>The man's face fell. "I was hoping for something a little more private," he said. "How about if we meet at your house?"</p>
+<p>There was no way she was bringing a stranger to her apartment. He might be tall, handsome, and single, but it wasn't appropriate. And besides, her place was an utter mess.</p>
+<p>"No, it's the park or nothing."</p>
+<p>The man looked at Sarah slowly up and down. "Then it's the park," the man said. "Lady, I really appreciate it."</p>
+<p>Sarah felt the heat rising to her face. Why was she was so attracted to this man when she only had known him for a few minutes? "You're welcome," she replied.</p>
+<p>"By the way, I'm Jack Shadelin."</p>
+<p>"Sarah Claysworth."</p>
+<p>The two shook hands and left the law firm's building.</p>
+<empty-line/>
+<p>CHAPTER TWO</p>
+<p>The November mid-morning gray sky hovered over St. James Park in downtown San Jose. Several dozen homeless people were scattered throughout the area. A few had shopping carts full of newspapers, clothes, blankets along with an assortment of other things.</p>
+<p>One man had a raggedy bike and a dark green trash bag containing his belongings. An older woman was asleep underneath a dirty gray blanket. A middle-aged, toothless man watched over her.</p>
+<p>Jack winced. "Can't we find a better place?"</p>
+<p>"They're harmless," Sarah replied. "They won't bother you."</p>
+<p>"Okay," Jack responded. "Sarah, where do you want to sit?"</p>
+<p>Sarah pointed to an empty bench that was in the middle of the park. There was no one near it. Sarah and Jack walked to the bench and sat down.</p>
+<p>"Tell me about your case," Sarah said.</p>
+<p>"Years ago, I was unfairly accused of killing a woman," he replied.</p>
+<p>"Where did it happen?"</p>
+<p>"Here in San Jose."</p>
+<p>"Were you convicted?"</p>
+<p>"No."</p>
+<p>"Were you found not guilty?"</p>
+<p>"No."</p>
+<p>"So, the charges must have been dropped," Sarah said.</p>
+<p>"Sarah, no offense but I feel like you're cross examining me," Jack said in an irritable tone. "Can you just let me tell my story?"</p>
+<p>"Go ahead."</p>
+<p>"Like I was telling you before, I was accused of killing a woman. Her name was Mabel Belford and she was the sheriff's wife."</p>
+<p>"Belford?" Sarah looked at Jack with a puzzled expression. "I've lived in San Jose my entire life and I've never heard of Sheriff Belford. Did her husband have a different last name?"</p>
+<p>"No, his name was Belford. Harvey Belford."</p>
+<p>"Are you sure?"</p>
+<p>"Absolutely."</p>
+<p>"When did this happen?" Sarah asked.</p>
+<p>"A long time ago," Jack responded.</p>
+<p>Sarah looked at Jack. He had a peculiar look on his face. She pulled out her phone from her purse and performed a search. She pulled up an article and quickly scanned it.</p>
+<p>Her face became contorted. "Harvey Belford was the sheriff in the 1940s," she said angrily. "And both he and his wife died in 1947. That was sixty-five years ago. There's no way you could have known them."</p>
+<p>Jack glared at Sarah. "I knew them both."</p>
+<p>"You're lying to me," Sarah said with a look of disgust. "You can't be more than 40."</p>
+<p>"I was 39 when I died back in 1947," Jack replied. "All these years, I've been a ghost and I haven't aged since."</p>
+<p>"Sweet Jesus," Sarah howled. "I hate liars. There's no such thing as ghosts."</p>
+<p>"I can prove it to you," Jack argued. "Does your phone have a camera?"</p>
+<p>Sarah nodded. "What do you want me to do with it?" she asked.</p>
+<p>"Take your picture."</p>
+<p>Sarah raised her phone to her face and snapped the camera's button.</p>
+<p>"Now, look at the picture. What do you see?"</p>
+<p>Sarah retrieved the picture. It was a bad photo of her. She immediately deleted it.</p>
+<p>"My picture," she said angrily. "What's your point?"</p>
+<p>"Now, take a picture of me," he ordered.</p>
+<p>Sarah got up from the bench. She raised the phone to her eyes and saw Jack. He smiled. She pushed the camera's button.</p>
+<p>"Now, look at the photo. What do you see?"</p>
+<p>Sarah retrieved the photo. To her surprise, it showed an empty bench with trees and grass in the background.</p>
+<p>"You're not in the photo," she gasped. "Oh my god, it must be some kind of trick. You're a magician."</p>
+<p>"I'm just a simple ghost," Jack said quietly. "And nothing more."</p>
+<p>"I don't believe you."</p>
+<p>"Then ask anyone in this park if they can see me," Jack responded.</p>
+<p>"Let's do it now," Sarah demanded. Jack got up from the bench and followed Sarah.</p>
+<p>From the corner of Sarah's eye, she saw three men sitting on the grass at the edge of the park. "Let's ask them."</p>
+<p>Jack shrugged his shoulders. "That sounds good to me."</p>
+<p>Sarah and Jack walked toward the men. Two of them were smoking cigarettes and another was reading a flier.</p>
+<p>Sarah approached the man reading the flier. "Sir, I was wondering if you could describe my friend who's standing next to me."</p>
+<p>The man looked at Sarah in bewilderment. "Lady, I don't see nobody," he replied. He turned to his buddies. "Tom and Jessie, do you all see this lady's friend?"</p>
+<p>The men shook their heads. Jack smiled. "See I told you no one could see me."</p>
+<p>The man with the flier looked at Sarah. "You're a nice lady," he said. "You probably forgot to take your meds today. If you need some, I can share mine with you."</p>
+<p>"No, I'm good," Sarah replied as she felt her face heating with embarrassment.</p>
+<p>Jack stared at the two men smoking. He nudged Sarah. "Can you ask them for a cigarette?" I hadn't had one in years. And I've got this craving."</p>
+<p>Sarah glared at Jack. "Cigarettes are bad for you," she said with disgust. "You don't need them."</p>
+<p>"It's not like they can hurt me. I'm already dead."</p>
+<p>"Very funny," Sarah replied. "I can't stand the smell of cigarettes. So, you can't have any."</p>
+<p>"Fine," Jack said angrily. "Deprive a man of his only happiness."</p>
+<p>The burly man with a cigarette looked at Sarah strangely. "A nice lady like you shouldn't be talking to herself," he said. "It just ain't natural. If you want a cigarette, we can give you one."</p>
+<p>"No, I'm fine," Sarah replied. "I don't smoke."</p>
+<p>The man with the flier said, "And lady, if you need meds, just let me know."</p>
+<p>"No really, I'm good," Sarah said. "I really have to go now."</p>
+<p>Sarah turned her back on the men. She and Jack walked back to the bench and sat down.</p>
+<p>Jack smiled. "Told you I was a ghost."</p>
+<p>"Either that or I'm losing my mind."</p>
+<p>"You're perfectly fine," Jack replied. "You and I are connected somehow. That's why you can communicate with me."</p>
+<p>"That's just dandy," Sarah said in an exasperated voice while cupping her chin with her left hand.</p>
+<p>"Jack, we've already wasted a lot of time. Just tell me your story."</p>
+<p>"Like I said before, I was falsely accused of murdering the sheriff's wife. I met Mabel while I was working at a gas station."</p>
+<p>"What did you do there?"</p>
+<p>"I was a gas station attendant," Jack replied. "My job was to pump gas, check the oil, and tires. You know things like that."</p>
+<p>"And when did you meet Mabel?"</p>
+<p>"It was during the war. Sometime in February or March 1944."</p>
+<p>Sarah raised her eyebrows. "You mean World War Two?"</p>
+<p>"Yes, ma'am."</p>
+<p>"Were you in the military?"</p>
+<p>"No, ma'am. The army turned me down due to me having flat feet."</p>
+<p>"All right. What was your relationship with Mabel?"</p>
+<p>"When I met Mabel, I was a widower. Before the war, my wife died in childbirth and our baby didn't survive."</p>
+<p>"I'm sorry. But what does this have to do with your relationship with Mabel?"</p>
+<p>"Sarah, you need to be patient and let me finish," Jack demanded. "Both Mabel and I were childless. The sheriff blamed her for not being able to get pregnant. He would treat her poorly and call her vile names."</p>
+<p>"Was he ever violent with her?"</p>
+<p>Jack lowered his head. "He'd beat her sometimes when he was drunk. One time he broke her nose and another time he choked her."</p>
+<p>"Did Mabel ever report the incidents?"</p>
+<p>Jack narrowed his eyes. "Mabel was too afraid. With her husband being the Sheriff, she wasn't sure if anyone would believe her, and she thought that he would kill her if she did anything."</p>
+<p>"Were you and Mabel just friends?"</p>
+<p>"Mabel and I would talk sometimes when she came by to get gas. And then she started to visit me at home. She would bring me homemade meals and desserts."</p>
+<p>Jack rubbed his stomach. "That woman could cook. My favorite was mouth-watering crispy fried chicken with biscuits and gravy, macaroni and cheese, collard greens, and coleslaw along with a big slice of sweet potato pie."</p>
+<p>Jack paused for a few seconds and then continued. "I know it's not right to want another man's wife, but I started to get feelings for her. She had the sweetest smile and the greatest pair of gams I've ever seen."</p>
+<p>"What are gams?"</p>
+<p>"That's what we used to call women's legs back in my day."</p>
+<p>Sarah grimaced. "Jack, did something happen between you and Mabel?"</p>
+<p>Jack nodded. "Yeah, we bonded both spiritually and physically. We fell in love. I asked Mabel to divorce her husband, but she refused."</p>
+<p>"Why?"</p>
+<p>"Because she knew we couldn't get married."</p>
+<p>Sarah rolled her eyes. "You said that you were widowed. If Mabel divorced her husband, you two could get married, right?"</p>
+<p>"No, because back then, Negroes and whites couldn't marry in California. So, Mabel thought it was pointless in leaving in her husband."</p>
+<p>The word "Negroes" made Sarah bristle. It sounded so archaic. But then again, Jack was from a different time. She decided to overlook his use of the word. "Did you continue to see Mabel after that?"</p>
+<p>"Yeah, I did until something happened." Jack paused. He looked down at the ground and then back up at Sarah. "Mabel got pregnant. She didn't know who the father was. I told Mabel I didn't care. I just wanted to be with her, but Mabel wasn't interested. Mabel felt the only right thing was to end our relationship. She told me she had made mistake and decided to give her husband the child he always wanted. After that, we stopped seeing each other."</p>
+<p>"Any contact after that?"</p>
+<p>"Not until she had the baby," Jack replied. "Mabel gave birth to a beautiful brown baby boy. She called me and told me that she had confessed to her husband that she and I had an affair and the baby was mine. A week later, Mabel was found dead with a bullet in the back of her head in a dirt field in downtown San Jose.</p>
+<p>"Two days later, while I was asleep, a masked man broke into my house. He woke me up and put a gun to my head. He forced me to write a letter saying I killed Mabel.</p>
+<p>"Then he let two other masked men come into my house. They were big. One weighed at least three hundred pounds and other weighed a good two fifty. They called me all kinds of vile names.</p>
+<p>"The men lifted me and put a noose around my neck. I tried to fight back, but I couldn't. I begged for mercy. Told them I didn't kill the sheriff's wife. The only thing I'd done wrong was fall in love with her."</p>
+<p>Tears welled up in Jack's eyes. "One of them tightened the noose," he cried. "I screamed out in anguish. I couldn't breathe. Everything turned black and then my life was gone forever."</p>
+<p>Jack took a deep breath. "The newspaper later came out saying I had murdered the sheriff's wife and had hung myself. They flashed a photo of my confession letter on the front page. It was all a lie. I was innocent."</p>
+<p>"Do you have any idea who killed you?"</p>
+<p>"Yeah, it was the sheriff and his deputies Paul Rafynd and Gerald Kalpher"</p>
+<p>"And so, Mabel's killer must've been the sheriff," Sarah said in a matter-of-fact voice.</p>
+<p>"No, he didn't kill her and his deputies didn't do it either. The real murderer was never found."</p>
+<p>"That makes no sense. The minute your son was born, everyone knew the sheriff was a cuckold. He was a jealous and violent man. He killed his wife in a fit of passion and blamed you to cover up his tracks. So, it had to be him."</p>
+<p>"You're wrong. Like I said before, he didn't kill her."</p>
+<p>"How do you know that?"</p>
+<p>"Because there was an investigation."</p>
+<p>"After your death, the sheriff's office opened up an investigation."</p>
+<p>"Hell no, it wasn't by them," Jack responded. "In their mind, I was the killer."</p>
+<p>"Then who investigated?" Sarah asked.</p>
+<p>"The Attorney General's office investigated after a stool pigeon told them that Kalpher had bragged to some buddies that he had pulled the noose around my neck. By the time they got to Kalpher, it was too late. He shot himself in the head after he heard they were after him."</p>
+<p>"What happened to the sheriff and the other guy?"</p>
+<p>"Warrants were issued for their arrests. They didn't want to go to jail so they decided to leave town. But they didn't make it because they died in a freak accident."</p>
+<p>Sarah raised her eyebrows. "Freak accident? What happened?"</p>
+<p>"Their car ran out of gas and stalled on the railroad tracks in the middle of a foggy night. They tried to get out of their car but couldn't. The locks were jammed and a train killed them."</p>
+<p>Sarah scratched her head. "And you're saying even though the sheriff and the deputies killed you, the Attorney General found they had nothing to with Mabel's death."</p>
+<p>"That's right," Jack replied.</p>
+<p>"That doesn't make sense," Sarah argued. "Why would the sheriff and the deputies frame Mabel's death on you if they didn't kill her?"</p>
+<p>"Because the sheriff was a jealous man and he needed someone to blame. I was Mabel's lover and that made me an easy target."</p>
+<p>Sarah sighed. "Maybe the sheriff hired someone else to kill his wife."</p>
+<p>"That angle was explored and nothing was ever found," Jack replied.</p>
+<p>"Were you exonerated as well?" Sarah asked.</p>
+<p>"Of course, I was," Jack replied angrily. "But that's not enough. I need to find the killer."</p>
+<p>"Why?" Sarah asked.</p>
+<p>"If I find the killer, I can stop being a ghost and go to the next level," he replied.</p>
+<p>"Heaven?" Sarah asked.</p>
+<p>"There's no way I can get into heaven," Jack responded. "By sleeping with a married woman, I lost my chance. But if I find Mabel's murderer, I can enter into the Kingdom of Remissions."</p>
+<p>"What's that?"</p>
+<p>"That's where most souls go," Jack answered. "You don't stay there forever. After three hundred years, your soul is recycled and you return to earth as a new human being."</p>
+<p>Sarah was skeptical but decided not to harp on it at the moment. "Do you have any idea who the murderer is?" she asked.</p>
+<p>"No, I don't," Jack answered. "But if I don't find the killer soon, I will remain a ghost forever."</p>
+<p>"I don't see what the problem is. You've been a ghost all these years." Sarah reflected.</p>
+<p>"Being a ghost is horrible," Jack replied with an anguished tone. "At least once a week, I have nightmares about my hanging. I feel the noose tightening around my throat while I'm struggling to breathe. I constantly hear the taunts and jeers of the men who killed me. I'm a condemned spirit and nothing ever changes. In the Kingdom of Remissions, I will be free from the past."</p>
+<p>"I'm sorry that you're in so much pain," she said.</p>
+<p>"Saturday will be the sixty-fifth anniversary of my death," Jack said. "Under the remissions doctrine, a ghost is required to find the perpetrator of the crime no later than twelve hours before the sixty-fifth anniversary of his death. If he doesn't, he's forever condemned."</p>
+<p>Sarah's head began to spin. By the minute, Jack's story was becoming more and more unbelievable.</p>
+<p>First, he was a ghost. And now, there was a deadline to find the alleged killer of his lover so he could get into this special kingdom.</p>
+<p>Jack couldn't be real. He had to be some kind of alcohol-induced hallucination. Why had she drunk so much vodka last night?</p>
+<p>Sarah shut her eyes for a few seconds and opened them. Jack was still there.</p>
+<p>"Are you okay?" he asked.</p>
+<p>"I'm good," she lied. "What happened to your son?"</p>
+<p>"I really don't know," Jack replied. "I tried looking for him, but I never could find him."</p>
+<p>"So, you don't know if he's alive?"</p>
+<p>"No, I don't," Jack answered.</p>
+<p>Sarah ran her hand through her hair. "I need to make a phone call in private. Do you mind?"</p>
+<p>Jack shook his head. "No, go ahead."</p>
+<p>Sarah got up from the bench and walked to the tree that was several yards away. She raised her phone to her ear and pretended to talk. She then put it down and did a search for Jack's name. To her surprise, a number of articles appeared.</p>
+<p>She clicked on the first one and scanned through it. Everything he had said was the truth about the Attorney General's investigation. Of course, it was always possible the website could be hoax.</p>
+<p>She clicked through a few more websites and they had similar information. Sarah did a search for Jack's photo. She pulled up the first one and it looked exactly like him. Same hairline, gapped-tooth smile, and eyes. Maybe Jack was real after all and not some contrived hallucination.</p>
+<p>Sarah did a search on ghosts and clicked through a few articles. She rubbed her eyes. She was tired of reading. She put her phone into her purse, walked back to the bench, and sat down.</p>
+<p>"Did you speak to the person you needed to talk with?" Jack asked.</p>
+<p>Sarah nodded. "Yeah, I did. You know there's something that's bothering me. Why can I touch you?</p>
+<p>When I shook your hand, it felt real."</p>
+<p>"You can also hear and see me. What's your point?"</p>
+<p>"But ghosts can't be touched."</p>
+<p>"Who told you that?"</p>
+<p>"Stuff I found on the Internet."</p>
+<p>"Oh my god, that's such crap. Of course, we can touch people and things. Just that most people can't feel our touch. People who we love or those that have harmed us can feel our touch. You're an exception because you don't fit into either category."</p>
+<p>"Well, the Internet also says ghosts wear the same clothes they died in. Your suit doesn't look from the 1940s."</p>
+<p>"Woman, use your common sense. Do you think I'd wear the same damn suit for 65 years and stink up the place?"</p>
+<p>"But ghosts don't have body odor so that wouldn't be issue," Sarah argued.</p>
+<p>"That's a total myth. Ghosts perspire like everyone else. The only difference is that most people can't see us. So, they have no idea where the smell is coming from."</p>
+<p>Sarah sighed. Jack's explanation sounded somewhat plausible. "Where did your suit come from?"</p>
+<p>"From the law firm," Jack replied. "One of the partners and I are about the same size. He has a few spare suits."</p>
+<p>Sarah arched her eyebrows. "And he keeps them at the office? That sounds kind of weird."</p>
+<p>"The man has a clothes fetish," Jack said while stroking his chin. "We all have our quirks."</p>
+<p>"Does he know you wear his clothes?" Sarah asked.</p>
+<p>Jack rolled his eyes. "Hell no. I'm a ghost for God's sakes. And it's not like he and I can talk to each other."</p>
+<p>"Do you live at the law firm?"</p>
+<p>Jack winced. "Woman, I've been dead for almost 65 years. I wouldn't call it living. I guess you could call the law firm my residence."</p>
+<p>"Why the law firm?"</p>
+<p>"Because my house used to be there. In the late 1950s, the city tore down my house and other houses because they were in disrepair. The law firm was built on the site and it made sense for me to stay there."</p>
+<p>"Yeah, that makes sense," Sarah replied. She paused as something in the conversation clicked in her brain. "You were telling me about this deadline you had to meet."</p>
+<p>"I told you that we had to find her killer at least twelve hours before the sixty-fifth anniversary of my death. Since I died at 3:19 a.m. on November 24, 1947, we have until 3:19 p.m. tomorrow."</p>
+<p>Sarah's eyes glazed over. The math made Sarah's head ache. "There's no way we can find the murderer by that time," she exclaimed.</p>
+<p>Jack looked at Sarah directly in the eyes. "Have faith in yourself. Together, we'll find the killer."</p>
+<p>"I don't have the skills to help you," Sarah argued. "I've never been to court. In fact, I had to take criminal law twice in law school."</p>
+<p>"I don't care about that," Jack countered. "I just need you."</p>
+<p>"Think about this, Jack. The Attorney General couldn't find the killer. I have no experience in criminal law. Not even one day and yet, you want to trust me with your future. That's a bad idea. And I won't let you do it."</p>
+<p>"No, it's not. I don't want anyone else. You will be my lawyer. Period."</p>
+<p>"No, I won't," Sarah snapped. "It's your fault you've run out of time. There are plenty of law firms in Silicon Valley. You should have visited them and sought help."</p>
+<p>Jack's face became twisted. "Don't you think I've already tried that? I've been looking for a lawyer for decades. I've visited hundreds of lawyers in Silicon Valley. Big law firms. Small ones. Solo practitioners. And it was all a waste of time until now. You're the first lawyer I could communicate with. No one else could see or hear me. You're the only one who can help me."</p>
+<p>"Jack, I can't responsible for your fate," Sarah argued. "And besides, I need to find a job."</p>
+<p>"I can pay you."</p>
+<p>"With what?" Sarah asked.</p>
+<p>"I have cash," Jack responded.</p>
+<p>Sarah looked at Jack suspiciously. "If you're ghost, how can you have money?"</p>
+<p>"Because I just do."</p>
+<p>"And how are you able to grasp the money? Ghosts don't have any mass."</p>
+<p>"You're wrong. Some ghosts have mass. The ones you've heard about are the massless ghosts. You know they can always walk through walls without a problem. That's how most ghosts are, but a small percentage of ghosts are like me. We have squishy mass due to a rare defect in the composition of our spirits. It affects about 1 in 10,000 ghosts. Unlike regular ghosts, we can't be transformed completely to a massless state."</p>
+<p>Sarah winced. Squishy mass? She had no idea if such a thing could exist. But then again, she had barely passed physics in high school. "How does this squishy mass thing work?"</p>
+<p>"We fluctuate between our different states," Jack answered. "Sometimes we're big and full and other times we're deflated."</p>
+<p>Sarah looked at Jack with disbelief. "Can someone stick a pin in you and pop you?"</p>
+<p>"It doesn't work that way. We go from being fully solid to being deflated in cycles. It has nothing to do with a pin popping us."</p>
+<p>"Can you walk through walls?"</p>
+<p>Jack shook his head. "No, we can't because we're composed of mass. There's no way we can go through a wall. But like other ghosts, we're just invisible."</p>
+<p>"I don't understand how you can be invisible. A deflated balloon isn't invisible."</p>
+<p>"Well, squishy ghosts are. It's has to do with our how our spirits interact with the light. To the human eye, we appear to be a hundred percent transparent. So, no one can see us."</p>
+<p>Sarah sighed. Jack's explanation sounded totally bizarre. "Let's say the light thing is true, how come people can't see your clothes?"</p>
+<p>"Because we have a four-foot aura around us. That's makes everything invisible. Folks can't see our clothes or anything else."</p>
+<p>"Why can I see everything?"</p>
+<p>"Because you and I have a spiritual connection."</p>
+<p>"But why?"</p>
+<p>"Because we just do," Jack replied. "Sarah, we could discuss this all day, but I have a deadline. Can we work on my case, instead?"</p>
+<p>Jack was right. She needed to focus on what was important instead of this squishy ghost phenomenon. "How much money do you have?"</p>
+<p>Jack pulled out his wallet and turned his pants pocket inside out. He took out dollar bills and coins and handed them to her.</p>
+<p>Sarah looked at the small pile of money in her hands for a moment and then rolled her eyes. "All you've given me is $27.36," she snapped. "I can't work for that."</p>
+<p>"Sarah, this is worth a lot more than that," Jack said. "They're old coins and dollars bills from the 1930s and 40s. We can go to a coin dealer and find out their value."</p>
+<p>Sarah stared at the money. "How much do you think the money is worth?"</p>
+<p>"Maybe three or four hundred," he said. "Maybe more."</p>
+<p>Sarah pulled out her phone from her purse and tapped the calculator icon. She keyed in some numbers and stared at the result. With the money she earned from today's doc review project and other money she had earned earlier in the month, she still needed another $273.00 to cover her rent, which was due in a week and a half.</p>
+<p>It wasn't as if she'd find another doc review project in the next day or two. Thanksgiving was next week. She probably wouldn't find a new project before December. And it could be longer because usually there wasn't a lot of doc review work during the Christmas season.</p>
+<p>"If the money is worth at least $400, I'll take the case," she said.</p>
+<p>"Deal," he said.</p>
+<p>"Let me see if I can find someone nearby."</p>
+<p>She tapped the Internet icon her phone and did a search. She found a few dealers and checked the reviews. "I've found one that looks okay and is just a few blocks away. Let's check them out."</p>
+<p>"Sounds good to me," Jack said.</p>
+<p>Sarah put her phone along with the money Jack had given her into her purse.</p>
+<p>Jack and Sarah got up from the park bench and headed to the street.</p>
+<empty-line/>
+<p>CHAPTER THREE</p>
+<p>Sarah and Jack entered Egrosita's Coin &amp; Gold Shop. A frayed light beige carpet that had several dark stains covered the floor. The grayish-white walls looked like they hadn't been washed in decades. Several glass cases encased a hodge-podge of bills, coins, and gold jewelry from various eras.</p>
+<p>A severely overweight, middle-aged woman with salt-and-pepper hair approached Sarah. "Good morning Ma'am, is there anything I can help you with?"</p>
+<p>"Yes, I have some old coins and bills from the 1930s and 1940s and I'd like to get a quote."</p>
+<p>"Sure, I can do that for you."</p>
+<p>Sarah pulled out the money from her purse. Jack grabbed Sarah's right hand. "Give the lady only the coins," he ordered. "You need to keep the bills."</p>
+<p>Sarah glared at Jack and removed his hand. "No, we need to find out their value, too."</p>
+<p>"Sarah, I just remembered something."</p>
+<p>"What?"</p>
+<p>"I will tell you later."</p>
+<p>"Tell me now."</p>
+<p>"This isn't the right place," Jack answered.</p>
+<p>"Fine, we'll do it your way," Sarah said angrily.</p>
+<p>The dealer stared at Sarah with a puzzled look on her face. "Ma'am, are you okay?" she asked. "I don't mean to be rude, but you're talking to yourself."</p>
+<p>"Yeah, I'm good," Sarah replied while stuffing the bills back into her purse. "It's just a bad habit of mine. Sorry."</p>
+<p>"No problem. We all have our own idiosyncrasies."</p>
+<p>"Anyway, I just want my old coins evaluated. The total is $11.36."</p>
+<p>"That's fine," the dealer replied. "We can look at the rest another time."</p>
+<p>Sarah handed the pile of coins to her. The dealer went behind one of the glass cases, pulled out a magnifying glass, and examined each coin.</p>
+<p>"Your coins have a lot of wear," the dealer said. "This affects their value. If they were in fine or extremely fine condition, they'd be worth a lot more."</p>
+<p>"Your best coin is the 1932-S quarter. I can give you $93. The second best is your 1935 peace dollar and I can give you $19.44."</p>
+<p>Sarah's eyes lit up. "That's great."</p>
+<p>"For your other quarters, $3.66 a piece."</p>
+<p>"What about the rest?" Sarah asked.</p>
+<p>"I'll can give you $6.56 for each half dollar, $1.44 per dime, 77 cents for each nickel, and three cents for each penny."</p>
+<p>"What's the total?" Sarah asked.</p>
+<p>"I need to run them through my coin counter and then I can give you a price." The dealer went behind the counter and inserted all of the coins except for the two quarters into the coin counter. It spit out a receipt. She entered the numbers into an old computer and printed out the quote.</p>
+<p>The dealer walked back to Sarah and handed her the paper. "Ma'am, here's your quote."</p>
+<p>Sarah reviewed the document. Her face fell. The coins were worth only $291.08.</p>
+<p>Jack turned to Sarah. "Is there something wrong?" he asked.</p>
+<p>Sarah ignored Jack. She looked at the dealer. "I need to make a quick call outside. I'll be back in a few minutes."</p>
+<p>The dealer gathered the coins and handed them back to Sarah. "Our quotes are the best in town. You won't find a better deal."</p>
+<p>Sarah stuffed the coins into the side pocket of her purse and walked outside with Jack. She turned her back to the shop, pulled her phone from her purse, and raised it to her ear.</p>
+<p>"Who are you calling?" Jack asked.</p>
+<p>"No one," Sarah answered. "Every time I talk to you, people think I'm nuts. The phone is just for cover."</p>
+<p>"Got it," Jack said. "What's up?"</p>
+<p>Sarah showed him the quote. "It's not enough," she complained. "I told you I'd take the case for $400. I need to cash the bills as well. We have 16-dollar bills and I'm sure that they're worth at least ten times that amount."</p>
+<p>"I can't let you do that."</p>
+<p>"Why not?"</p>
+<p>"Because I just can't."</p>
+<p>"Jack, don't play games with me," Sarah snapped. "Just tell me why you're protecting those damn bills."</p>
+<p>"Is everything I tell you privileged?" Jack asked.</p>
+<p>The word privileged echoed in Sarah's head. How could she have been so careless and messed up tagging for the privileged docs in the review? If she'd done her work correctly, she wouldn't be wasting her time with Jack.</p>
+<p>"Everything you tell me is confidential," Sarah answered in an authoritative voice. "What's the problem with the money?"</p>
+<p>Jack took a deep breath. "The money is worthless."</p>
+<p>"What do you mean by that?"</p>
+<p>"The bills aren't real."</p>
+<p>Sarah's eyes narrowed. "What the hell are you doing with counterfeit money?"</p>
+<p>"The money came from a shop where I had bought some clothes," Jack replied. "Didn't know it at the time that the money was fake. But it later turned out the shop was a front for gangsters. They got busted for counterfeiting a half-million dollars. It was all over the papers."</p>
+<p>"When did this happen?"</p>
+<p>"The shakedown came a week before my death."</p>
+<p>"And when did you buy your clothes?"</p>
+<p>"A few days before that."</p>
+<p>"How come you didn't turn the money into the police?"</p>
+<p>"I meant to, but I didn't make it a priority. Don't remember why. But it's not like the cops would give me real money for the fake bills."</p>
+<p>"If the money is worthless, we obviously can't cash it," Sarah said while handing the bills back to Jack. "That means that I can't take your case because you don't have $400."</p>
+<p>Jack's face fell. "I know it's $100 less, but I've got no one else. Can't you make an exception?"</p>
+<p>"No, it's $400 and not a penny less."</p>
+<p>Jack put his right hand inside his coat pocket and pulled out a man's gold wedding ring. "I didn't want to sell this because it's my only connection to my wife who died. But if you really want the money, we can sell it."</p>
+<p>How dare he make her feel sorry for him? Her rent would be covered without cashing the ring. But after paying her rent, she would have less than $20 for the entire month of December. Less than one dollar a day. Sarah still needed money for food and transportation. Maybe she could go to the food bank again for help and find a job that was nearby.</p>
+<p>Then again, why should she give up money for a stranger? Sarah needed every dime that she could get.</p>
+<p>Sarah wiped her brow. "Jack, give me the ring. We need to find out its value."</p>
+<p>Jack looked like Sarah had slapped him. He reluctantly handed her the ring. Sarah grabbed it and stuffed it into her right jeans' pocket.</p>
+<p>Sarah put her phone into her purse. She beckoned Jack to follow her. They walked back inside the shop.</p>
+<p>The dealer approached Sarah. "Ma'am, did you make a decision?"</p>
+<p>Sarah pulled out the ring from her jeans' pocket. "I need another appraisal," Sarah said as she handed the ring to the dealer.</p>
+<p>The dealer took the ring behind the counter and pulled out her magnifying glass. "It has a lot of scratches so I doubt it would sell. But let's see what it's worth by weight."</p>
+<p>The dealer put the ring on a scale and noted the number. "I'll give you $125."</p>
+<p>"Can you print up a quote?" Sarah asked.</p>
+<p>The dealer nodded. She walked to her computer, punched in a number, and printed the quote. She handed the paper along with the ring to Sarah. "Ma'am, what do you want to do?" the dealer asked.</p>
+<p>"How long will take for you to complete the paperwork?" Sarah asked.</p>
+<p>"Because you have quite a bit of coins, it'll take about 30 or 40 minutes."</p>
+<p>Sarah looked at her watch. She didn't want to waste that amount of time. "How long are the quotes good for?"</p>
+<p>"Three days," the dealer answered. "After that, I'll need to do a new one."</p>
+<p>"Great. I'll be back before then," Sarah said.</p>
+<p>Jack nudged Sarah. "Aren't you going to sell my stuff?" he asked.</p>
+<p>Sarah shook her head. "No, we don't have time," she replied.</p>
+<p>"Ma'am, did you say something?" the dealer asked.</p>
+<p>"I was just saying I don't have to time to sell now. Can I borrow a couple pieces of paper?"</p>
+<p>The dealer nodded, pulled out a few sheets of paper, and handed them to Sarah. "You're coming back, right?"</p>
+<p>"Yeah, I'll be back later in the week."</p>
+<p>"Good, because we have the best prices."</p>
+<p>"Great," Sarah said as she exited the shop with Jack.</p>
+<p>Sarah turned her back to the window, pulled her phone from her purse, and raised it to her ear.</p>
+<p>"Why didn't you sell my stuff?" Jack asked.</p>
+<p>"I can do that later," she said while pulling out a pen from her purse. "I need to draft an agreement and then I can start working on your case."</p>
+<p>"That sounds like a waste of time," Jack responded. "I'm a ghost and it's not like I'll sue if things don't work out."</p>
+<p>"It doesn't matter," Sarah replied. "I need a paper trail just in case."</p>
+<p>"In case of what?"</p>
+<p>"In case I need to explain where the money came from."</p>
+<p>"Like someone's going to ask," Jack argued.</p>
+<p>Sarah was tired of Jack's belligerence. The thing was that she had no idea if the money that he had given her was actually his. After all, he had "borrowed" a suit without telling its owner. The coins could be "borrowed," also. Sarah needed something to cover herself. A written agreement was probably the best way. Then again, who'd believe a ghost had signed it? But it was better than nothing.</p>
+<p>"It could happen," Sarah argued. "A written agreement is the best way to protect both of us."</p>
+<p>Sarah and Jack walked to a nearby bench at a bus stop and sat down. Sarah wrote for several minutes and then handed the paper to Jack for his review. Sarah explained the nature of the contract.</p>
+<p>"Do you have any questions?" Sarah asked.</p>
+<p>"Nope, everything looks good to me."</p>
+<p>Sarah handed her pen to Jack. "Please sign both copies."</p>
+<p>Jack signed the agreement and handed it back to Sarah along with the pen. Sarah glanced at the contract and signed both copies.</p>
+<p>"We're official now," Sarah said while handing a copy to Jack.</p>
+<p>"Great, let's go find the bastard who killed Mabel."</p>
+<p>Sarah smiled. "The sheriff's office is about a mile away. We can see if they still have the paperwork from your case."</p>
+<p>"We don't need to go there. I have everything you need on me," Jack said while pulling out a flash drive from his pants' pocket. "All my stuff is on this.</p>
+<p>"What the hell are you doing with a flash drive?" Sarah asked suspiciously. "They didn't exist back in your day."</p>
+<p>"Woman, I've been living at the law firm for decades," Jack replied. "And it has its perks. They have a bunch of these in their supply closet so I borrowed one. Used their scanner and uploaded my documents on this gizmo."</p>
+<p>Sarah sighed. "And just where did you get your documents from?"</p>
+<p>"A bunch of places. The sheriff's, Attorney General's, newspaper and some others."</p>
+<p>"I don't understand how you could get the copies. You're a ghost. It's not like you could order them and have them mailed to you. Did someone at the law firm help you?"</p>
+<p>"No one helped me. I did this on my own. As a ghost, I could travel wherever I needed. I did my research, found the document I needed, and made copies."</p>
+<p>"Travel how? You told me you can't walk through walls. Can you fly?"</p>
+<p>"Like a bird? Hell no. It's called hitching a ride. Because people can't see me, I can always jump in the back seat and travel."</p>
+<p>Sarah sighed. Jack always had an explanation for everything. "Where are your original docs?"</p>
+<p>"Shredded them, because I didn't need any more," Jack replied.</p>
+<p>"It's great you have everything on a flash drive," Sarah said calmly. "I can't review the docs, because I don't have my laptop with me."</p>
+<p>"Let's find a computer. I'm sure we can borrow someone's."</p>
+<p>"I don't think that's a good idea," Sarah said. We need to get mine and then we can look at your docs."</p>
+<p>"Where do you live?"</p>
+<p>"In South San Jose. It's about ten miles. So, we'll need to catch the bus."</p>
+<p>"Where's your car?" Jack asked.</p>
+<p>"It's at home," Sarah replied.</p>
+<p>"Why?"</p>
+<p>"It's cheaper to take the bus than drive. I save about ten dollars a day by taking the bus."</p>
+<p>"What time will the bus be here?" Jack asked.</p>
+<p>"The bus we need doesn't stop here. It's a few blocks away."</p>
+<p>Sarah and Jack got up from the bench. Sarah beckoned Jack to follow her. She put her phone into her purse. They walked in silence to the bus stop at Santa Clara and Second Street. When they got there, there were about a dozen people milling about.</p>
+<p>"I don't like this place," Jack whispered in Sarah's ear. "It gives me the heebie-jeebies."</p>
+<p>Sarah pulled out her phone from her purse and raised it to her ear. "The what?"</p>
+<p>"You know it makes me nervous," Jack answered. "Look at these kids here. Got tattoos all over them. Legs and arms. They look like gangsters."</p>
+<p>"That's the style now. You'll be fine."</p>
+<p>"And look at the lady over there. She'd be pretty if she didn't have those nasty tattoos. In my day, no self-respecting woman would ever get a tattoo."</p>
+<p>Sarah grimaced. "Stop judging. We're not in 1947."</p>
+<p>"Can't we go somewhere else?"</p>
+<p>"No Jack, my feet hurt. We're staying here."</p>
+<p>Jack glared at Sarah. "You're so damn stubborn."</p>
+<p>"Can I ask you question?"</p>
+<p>"What?"</p>
+<p>"Why is it that sometimes you act like you're from 1947 and other times you act like you're from my time? It's just feels unnatural. Like you're trying to be someone that you're not."</p>
+<p>"Sarah, I've been living in that law office for years. I see the young lawyers all the time talking, texting, and typing on their laptops. Of course, I'm going to pick up today's lingo. If I had my druthers, I'd return to 1947 in a heartbeat. But I can't, so I adapted."</p>
+<p>Jack's explanation sounded reasonable, so Sarah decided not to challenge him. She put her phone back into her purse. She needed some silence to think. After a few minutes, the bus arrived. A few people lined up to take the bus. Sarah flashed her bus pass and she and Jack boarded the bus. They found a couple of empty seats and sat down.</p>
+<p>Sarah pulled out her phone and checked her email. Nothing but ads for things she didn't need. After this gig ended with Jack, she needed to find a real job. She was tired of temping as a doc reviewer. As a temp, she had no healthcare, sick days, or vacation pay. There had to be permanent job that she could use her law degree and make a difference in people's lives. But so far, she hadn't found anything.</p>
+<p>The bus stopped every few blocks and picked up more passengers. Sarah put her purse on Jack's lap, so no one would sit in his seat. By the sixth stop, the bus was almost full. A forty-something bearded man with a giant belly boarded the bus. When he looked at Sarah, she pretended not to see him. The man pointed to the seat next to Sarah.</p>
+<p>"Ma'am, mind if I sit here?"</p>
+<p>"It's taken," she replied.</p>
+<p>"I don't see nobody. Can you move your stuff?"</p>
+<p>"I told you that it was taken," Sarah said tersely. "Find a seat somewhere else."</p>
+<p>The bearded man yelled, "Bus driver, this lady is taking up two seats."</p>
+<p>The bus driver turned her head and glared at Sarah. "Ma'am, it's one seat a passenger. You need to make room for the gentleman."</p>
+<p>Sarah nodded and moved her purse from the seat. The man plunked his ample frame down into the seat.</p>
+<p>Jack let out a scream. "This lard ass is crushing me. Get him off me."</p>
+<p>Sarah pressed her phone to her ear. "Jack, you can't expect me to believe that."</p>
+<p>Jack began to hyperventilate. "Dammit Sarah, I'm gonna pass out."</p>
+<p>"Calm down, my stop is only a couple miles away."</p>
+<p>"Lady, can you stop talking on your cell phone?" the bearded man snapped. "It's getting on my nerves."</p>
+<p>"I need to talk my friend," Sarah pleaded. "He's in real bad trouble."</p>
+<p>"Talk to him when you get off the bus," the bearded man ordered. "There's nothing you can do to help him now."</p>
+<p>Jack started to breathe harder and harder. "I can't take it anymore. I -"</p>
+<p>Sarah jerked up from her seat and turned to the bearded man. "Sir, can you get up? I need to pee."</p>
+<p>"Pee? There ain't no toilet on this bus," the bearded man said angrily. "Hold your stuff until the next stop."</p>
+<p>"I need to stand up because it helps me hold it in. If I don't, I'm gonna pee all over this seat. I have a bad bladder and I just can't control it anymore."</p>
+<p>"Jesus Christ just squeeze your legs and hold your pee in."</p>
+<p>"I can't," Sarah pleaded. She thought quickly and told him the first thing she could think of. "Couple days ago, I got this bad yeast infection. I keep on scratching and peeing. I can't stop unless I stand up."</p>
+<p>"Dammit lady, you're making sick," the bearded man said while rising from his seat. "Just move before you make a mess."</p>
+<p>The bearded man walked to the center aisle. Sarah saw Jack on the seat. He was barely breathing. Sarah yanked Jack by the arm and helped him get up.</p>
+<p>The bearded man looked at Sarah "Lady, do you feel better, now?"</p>
+<p>"Yeah, I do," Sarah answered. She put her arm around Jack's waist to help support him.</p>
+<p>Sarah and Jack walked slowly to the center aisle. Jack's legs began to quiver. Sarah tightened her grip.</p>
+<p>The bearded man moved back into his seat. Sarah and Jack stood a few inches across from him. Sarah's right hand gripped the bus handrail while her left arm supported Jack.</p>
+<p>The bearded man turned his head and gave Sarah gave a slow look up and down. His gray-blue eyes lingered at her breasts for a few seconds. The man then looked at Sarah's face. "You know, you're a pretty lady. Would you like to go out some time?"</p>
+<p>Sarah couldn't believe this guy. She just shook her head. "I'm seeing someone."</p>
+<p>"I don't mind sharing."</p>
+<p>"Yeah, but he does. He's a lot bigger than you and he doesn't like me talking to other guys."</p>
+<p>"That doesn't scare me," the bearded man said.</p>
+<p>Jack whispered in Sarah's ear. "Can you stop talking to your boyfriend? I need to get some air."</p>
+<p>"I gotta go now," Sarah said while pulling out her phone from her purse. "I just got a text that my man is waiting for me."</p>
+<p>"Can you give me your number? If things don't work out, maybe we can see each other."</p>
+<p>Sarah pretended not to hear him and turned to Jack. She and Jack then slowly walked to the rear door exit, while Jack steadied himself against Sarah. A few passengers stared at Sarah. She pretended not to see their stares and focused on Jack. She looked into Jack's dark brown eyes while counting every second that passed. The bus finally pulled to the curb in front of a fast food restaurant and the rear exit door opened.</p>
+<p>Sarah helped Jack get off the bus. The bus doors closed. Jack removed Sarah's arm from his waist, took a deep breath, and exhaled. "Sarah don't ever let a huge ass man take my seat again. He nearly crushed me."</p>
+<p>"I thought because you were a squishy ghost, you'd be able to deflate."</p>
+<p>"I told you before, it doesn't work that way. You can't lose ten pounds by wishing it away. And you can't deflate at will. It takes time."</p>
+<p>"Then how come the man wasn't able to feel you?"</p>
+<p>"Because it's the way our spirits interact with human flesh. Most people can't feel us, but we can feel them. And the bigger they are, the worse it's for us."</p>
+<p>"Sorry about that. Next time we'll stand so it won't be a problem."</p>
+<p>"Hopefully, there won't be a next time," Jack said while stretching. "Sarah, how far is it to your house?"</p>
+<p>"Just a few blocks," Sarah replied. "Do you need help walking?"</p>
+<p>Jack did a few more stretches. "No, I'm good now. Let's go because we've already wasted a lot of time."</p>
+<p>Sarah nodded and motioned Jack to follow her.</p>
+<empty-line/>
+<p>CHAPTER FOUR</p>
+<empty-line/>
+<p>Thursday, November 22, 2012 12:17 p.m.</p>
+<empty-line/>
+<p>Jack and Sarah stood outside her duplex. The small front yard was overgrown with weeds. Posted on the window of the downstairs apartment was a no trespassing sign.</p>
+<p>Sarah pulled her phone from her purse, raised it to her ear, and turned to Jack. "I just need to go upstairs and pick up my laptop. I'll be back in a few minutes."</p>
+<p>"Why don't we look at the documents in your apartment?"</p>
+<p>Sarah shook her head. "No, I think it's better if we go somewhere else."</p>
+<p>"Sarah, it'll take too long to find another place," Jack whined. "Let's look at the docs now so we can figure out what to do next."</p>
+<p>Sarah bristled at the thought of Jack seeing her messy apartment. "Jack, there's a coffee shop a few blocks from here. It's a short walk."</p>
+<p>Jack looked at Sarah directly in the eyes. "I'm so sick of walking. And I'm sick of you holding that damn cell phone to your ear and pretending that you're talking to somebody. If we go upstairs, we'll have some privacy, and get some real work done."</p>
+<p>"You can't come up with me," Sarah argued.</p>
+<p>"Why?"</p>
+<p>"Because you just can't."</p>
+<p>"That's such a weak answer. Just tell me the reason," Jack demanded.</p>
+<p>Sarah hung her head. "Well, the thing is..."</p>
+<p>"Just say it for Christ's sake."</p>
+<p>Sarah felt the heat rising to her face. "My apartment is in bad shape. I haven't cleaned it in a while."</p>
+<p>"Sarah, I couldn't care less about that."</p>
+<p>"Are you sure?"</p>
+<p>"Absolutely. Put down your damn cell phone and let's go up."</p>
+<p>Sarah beckoned Jack to follow her. Sarah opened her door. Her living room wasn't bigger than 120 square feet. The carpet had an amoeba-shaped greyish-blue stain in the middle. The beige, dirty window blinds were closed shut.</p>
+<p>A few empty pint-sized vodka bottles along with half-empty cartons of fast food were next to her rust-brown couch. Dirty clothes were in a foot-high pile in the right-hand corner.</p>
+<p>In the left-hand corner, there was a black, metal folding table along with two padded black metal chairs. An unopened pint-sized vodka bottle along with a couple of chocolate candy bars were on the table's top.</p>
+<p>Sarah looked at Jack to gage his reaction. To her surprise, he remained stoic. "My laptop is my bedroom. I'll go grab it."</p>
+<p>Jack nodded. Sarah went into her bedroom. Dirty clothes and stacks of law books took about half of the tiny room. In the corner was Sarah's queen-sized futon. A small wooden table was next to the bedroom's walk-in closet. On top of the table was a desk lamp and Sarah's laptop. Sarah walked to the table and grabbed her laptop.</p>
+<p>When Sarah walked back into the living room, her face dropped. Jack was on the couch guzzling down her last bottle of vodka. How dare that jerk take her stuff? Who the hell did he think he was?</p>
+<p>Sarah plopped her laptop on the living room table. She put her hands on her hips and cocked her head. "Jack, put that down now."</p>
+<p>Jack removed the bottle from his lips. "I need this. You wouldn't give me smokes earlier. This makes up for it."</p>
+<p>Sarah sat down at the table. How dare he challenge her? "Dammit Jack, you're a freaking ghost. How are you even ingesting that? Besides, drinking is bad for you."</p>
+<p>Jack's eyes glazed over. "It's bad for you, too. But that hasn't stopped you," Jack said while glancing at the empty vodka bottles on the floor.</p>
+<p>Sarah was ready to explode. "If you don't put the bottle back on this table now, I'm off your case. Period."</p>
+<p>Jack got up from the couch and put the vodka on the table. "Are you satisfied now?" Jack walked back to the couch and sat down.</p>
+<p>Sarah stared at the bottle. He had drank a fifth of her vodka. "You obviously have no home training. You don't respect other people's space."</p>
+<p>Jack hiccupped. "Sarah, don't lecture me on home training. Your place looks like a hurricane hit it. Your mama obviously never taught you a damn thing."</p>
+<p>Sarah glared at Jack. "Don't even go there. I warned you that my place had issues. Deal with it or leave."</p>
+<p>Jack belched. Sarah winced. "That is so rude."</p>
+<p>"Sorry, I didn't mean to do that."</p>
+<p>"Whatever," Sarah grimaced. "Can you give me the flash drive?"</p>
+<p>Jack got up from the couch and staggered to the table. He pulled the flash drive out of his pants pocket and handed it to Sarah. Jack pulled up a chair and sat down next to Sarah.</p>
+<p>Sarah turned on her laptop and put the flash drive in. Sarah scanned the files. There were 46 docs. Sarah opened the first one. It didn't give any newer information. She opened a few files. No more new information.</p>
+<p>Sarah turned to Jack. "It's going to take a while to read all these files. Are you good with that?"</p>
+<p>Jack nodded. "Take your time. I don't want you to miss anything."</p>
+<p>"Great."</p>
+<p>For the next hour, Sarah read Jack's docs. Her eyes were tired. None of the docs gave clues who the murderer might be.</p>
+<p>Sarah turned to look over at Jack. His eyes were shut closed. She tapped Jack on the shoulder.</p>
+<p>"Jack, wake up."</p>
+<p>Jack yawned. "Did you find some good stuff?"</p>
+<p>"Nothing that can help us so far," Sarah said.</p>
+<p>Jack rubbed his eyes. "Keep reading," Jack ordered. "I'm sure you'll find something."</p>
+<p>Sarah read a few more docs. She only had two left. Her head was throbbing. She was tired of reading. She opened the next doc and stared at it for a few seconds. It was a typewritten note.</p>
+<empty-line/>
+<p>To Whom It May Concern,</p>
+<p>Who killed Mabel Belford? If it wasn't Jack Shadelin, then the Sheriff Harvey Belford did it. But the Sheriff didn't kill Mabel. Who did it? No one the Sheriff knew. But someone Mabel knew. Family dead. No mother or dad. No brothers or sisters. Then who? Her friends? No, they couldn't have done it. All too innocent.</p>
+<p>But if not a friend, then who? Someone they missed. Someone they'll never find. But it's so obvious who did it. Too bad, they'll never know. But of course, I know. And I will never tell. My secret.</p>
+<p>My own special secret.</p>
+<empty-line/>
+<p>Sarah reread the letter a few times. It had no signature or date. No clue as to who the author was.</p>
+<p>Sarah turned to Jack and pointed to the letter. "You've read this before, right?"</p>
+<p>Jack nodded his head. "But I don't know who wrote it."</p>
+<p>"Do you have the original letter?"</p>
+<p>"No, I made a copy from the file."</p>
+<p>"What file?" Sarah asked.</p>
+<p>"The Attorney General's," Jack replied.</p>
+<p>"We need to get the original," Sarah said.</p>
+<p>"Why?"</p>
+<p>"We might be able to get fingerprints."</p>
+<p>Jack shook his head. "They already did that."</p>
+<p>"What did they find?"</p>
+<p>"The next document will tell you the answer."</p>
+<p>Sarah clicked the document. It was a report from the Attorney General's office. Leonard Strivers had been assigned to investigate Mabel's murder. On the morning of March 4, 1948, his superior Samuel Molden found an anonymous letter on top of Strivers' desk. Strivers claimed that he knew nothing about the letter and he had no idea who had put it on his desk. The letter was later run for fingerprints and none were found.</p>
+<p>An investigation determined the letter to be a hoax. Someone had broken into their office and had led them astray.</p>
+<p>Sarah stared at the report for a few minutes and clicked back to the note. She clicked a couple other documents and reread them.</p>
+<p>Sarah turned to Jack. "Do you know who Leonard Strivers was?"</p>
+<p>"Yeah, he was one of the investigators."</p>
+<p>"I mean did you know him before you died?"</p>
+<p>"Nope, never met the man."</p>
+<p>"Are you sure?"</p>
+<p>"Yes, I'm sure. We didn't know each other."</p>
+<p>"What about Mabel? Did she know him?"</p>
+<p>"Don't know. What does that have to do with anything?"</p>
+<p>"Because I think there's a good possibility he wrote the letter."</p>
+<p>"Sarah, have you lost your mind?" Jack scoffed. "That makes no sense whatsoever."</p>
+<p>Sarah narrowed her eyes. "You're wrong. I found two other documents that refer to a 'special secret' several times. One's dated February 25 and the other is February 23. Both were written by Strivers."</p>
+<p>"What's your point?" Jack asked.</p>
+<p>"Why would this mystery letter also refer to a special secret?"</p>
+<p>"Coincidence."</p>
+<p>"No, Strivers found out who the murderer was, but he didn't want to reveal his identity. Maybe it was one of Strivers' friends or relatives. So, he writes a letter to cover himself. It throws people off track, so no one will think he knows the truth."</p>
+<p>"Sarah, you're missing one valuable point. His supervisor determined the letter was a hoax."</p>
+<p>"Strivers must have convinced his supervisor that it was a hoax. Again, no one thinks he knows anything. Strivers comes off as this earnest guy, while he's doing everything in his power to keep people from discovering the truth. And in the end, it works. The murder remains unsolved and the murderer walks."</p>
+<p>Jack rolled his eyes. "That's really a far-fetched theory."</p>
+<p>"No, it's not. And even if it is, I think I'm right."</p>
+<p>"And what if you're not?"</p>
+<p>"Then we'll look elsewhere. But right now, I think our man is Strivers."</p>
+<p>"What's our next step?" Jack asked.</p>
+<p>"We need to find Strivers and get him to tell us the truth," Sarah replied. "If he's dead, there's nothing we can do. But if he's still here, we need to talk to him."</p>
+<p>Jack looked at Sarah with determination. "If he's our answer, let's go grill the old bastard."</p>
+<empty-line/>
+<p>CHAPTER FIVE</p>
+<p>Sarah did a search for Leonard Strivers. After 10 minutes, she turned to Jack. "I've found an address for him in Gilroy. From what I can tell, he's still alive. He's eighty-nine so I think it'd be better if we saw Strivers in person."</p>
+<p>Jack nodded. "Gilroy is thirty miles away. I truly hope we're not taking the bus."</p>
+<p>Sarah shook her head. "I told you I have a car. We can drive this time."</p>
+<p>"Thank God," Jack smiled. "When are we leaving?"</p>
+<p>"In a couple minutes," Sarah replied. "I just need to get directions, and then we can go."</p>
+<p>Jack waited in silence while Sarah did a couple more searches.</p>
+<p>"I'm done," Sarah said while she stuffed her laptop into a computer bag. "I'm bringing my laptop with me just in case we need it."</p>
+<p>"Sounds good," Jack said.</p>
+<p>"Let's go," Sarah said while grabbing a chocolate bar from her living room table. Sarah devoured the candy as if she hadn't eaten in days. Sarah was hungry, but there was no time to make lunch.</p>
+<p>"Where's your car?" Jack asked.</p>
+<p>"It's parked a couple blocks away because there's no parking here."</p>
+<p>Jack and Sarah walked in silence. It took them five minutes before they saw Sarah's car - an early 90s beige compact car that was missing its make and model logos. The rear back bumper had a huge dent in the middle and the tires were missing their hubcaps.</p>
+<p>Sarah unlocked the car's doors and they got in. Jack wrinkled his nose. "It smells disgusting in here. What the hell died?"</p>
+<p>"Nothing," Sarah said. "I haven't driven in a while so it's musty. All we need to do is roll down the windows."</p>
+<p>"Or take it to the carwash."</p>
+<p>Sarah frowned. "Stop insulting me and my car. If you don't, we're taking the bus."</p>
+<p>"Oh God, not the bus," Jack pleaded. "I promise to be good."</p>
+<p>"Great," Sarah said while inserting the key in the ignition. The engine turned a few times, but the car wouldn't start.</p>
+<p>"Your car sounds horrible," Jack said. "Do you want me to check it out?"</p>
+<p>"No, it's fine," Sarah replied. "It just needs to warm up."</p>
+<p>After a couple minutes, the engine roared. "That's my baby," Sarah said. "Now, we're good."</p>
+<p>Sarah drove through a few residential streets and turned onto Monterey Road.</p>
+<p>"Where's the freeway?" Jack asked.</p>
+<p>"I don't do freeways," Sarah said. "Monterey Road turns into a highway. We'll be fine."</p>
+<p>"That's too slow," Jack wailed. "The old man could be dead by the time we see him."</p>
+<p>Sarah narrowed her eyes. "I'm sick of you complaining. Just stop it now."</p>
+<p>Jack grimaced. "Fine, have it your way." Jack stared out the passenger window for about a minute or two. He then turned to Sarah. "Sarah, have you ever been married?"</p>
+<p>"What does this have to do with anything?"</p>
+<p>"I'm just curious." Jack answered.</p>
+<p>"Yes, I was when I was really young. Got married at 23, but it didn't work out."</p>
+<p>"Why?"</p>
+<p>Sarah sighed. "My marriage ended, because my ex wanted kids and I didn't."</p>
+<p>"You never wanted children?"</p>
+<p>"Jack, no offense, but your questions are out of line. Can we talk about something else?"</p>
+<p>"Sorry. Do you have a man in your life, now?"</p>
+<p>"Dammit Jack, I'm not going to discuss my personal life. It's off-limits."</p>
+<p>Jack sighed. "Got it. Anything you want to ask me?"</p>
+<p>"Not right now," Sarah answered. "If you don't mind, I'd like some silence to clear my head."</p>
+<p>Jack flinched. Sarah stared at him but said nothing. For next 30 minutes, they drove in silence.</p>
+<p>Sarah exited Monterey Highway and made a right turn at Tenth Street in Gilroy. Sarah drove a few more blocks until they were in front of a small brick house with a tidy lawn.</p>
+<p>Sarah parked the car and they got out. She beckoned Jack to follow her. The front door of the house was slightly open. Sarah knocked.</p>
+<p>"Who is it?" a gruff male voice asked.</p>
+<p>"I'm looking for Mr Leonard Strivers," Sarah replied. "Are you him?"</p>
+<p>"Yes, I am," the man answered while opening the door. "Miss, what can I do for you?"</p>
+<p>Sarah looked at Strivers. He looked a lot younger than his 89 years. He was tall with a headful of thick white hair. His face was tan with very few lines. The only thing that gave his age away was his hands. "Mr Strivers, I'm here to talk about a case that you investigated a long time ago."</p>
+<p>"Why?" Strivers asked.</p>
+<p>"I'm trying to solve a murder."</p>
+<p>"Murder of who?"</p>
+<p>"Mabel Belford."</p>
+<p>"You mean Sheriff Belford's wife?"</p>
+<p>Jack smiled. "Great, the old man remembers."</p>
+<p>"Apparently, he does," Sarah said while looking at Jack.</p>
+<p>Strivers looked at Sarah strangely. "What do you mean by that, miss?"</p>
+<p>Sarah's face reddened. "I'm sorry sir. I meant to say that yes, Mabel Belford was the sheriff's wife according to my research."</p>
+<p>"I'm not sure what else your research found, but we spent a lot of time on this and we never found the culprit."</p>
+<p>"Can I come in for a few minutes?"</p>
+<p>"Who are you?" Strivers asked.</p>
+<p>"My name is Sarah Claysworth and I'm an attorney."</p>
+<p>Strivers stared at Sarah's jeans and boots. "You're a lawyer?" he asked in a skeptical tone.</p>
+<p>Sarah opened her purse and pulled out her wallet. She handed a card to Strivers. "Here's my bar card."</p>
+<p>Strivers looked at the card for a few seconds and handed it back to her. "Miss, I really can't help you. We couldn't solve the case back then and you won't be able to solve it now."</p>
+<p>"Maybe there was something you overlooked."</p>
+<p>Strivers' face reddened. "Nothing was overlooked. Sometimes things can't be solved and that's the end of it."</p>
+<p>"Mind if I come in and show you something?" Sarah asked.</p>
+<p>"If you've got something, show it out here," Strivers answered.</p>
+<p>Jack poked Sarah. "Grumpy old man, isn't he?"</p>
+<p>Sarah ignored him. Jack poked Sarah again. "Stop it," Sarah seethed.</p>
+<p>"Miss, are you okay?" Strivers asked.</p>
+<p>"Yeah, I'm good," Sarah answered. "I have this pain that comes and goes. It'll be gone in a second."</p>
+<p>Strivers looked at Sarah oddly. "All right. Where's the thing you want to show me?"</p>
+<p>"It's on my laptop," Sarah answered while pulling her laptop from its bag. She turned it on. "Mr Strivers, here's the document I'd like you to look at."</p>
+<p>Strivers pulled out his glasses from his shirt pocket and put them on. He glanced at the document on the computer. "I remember this note. It was made-up by somebody. It has no credibility."</p>
+<p>"Sir, the thing that I don't understand is that the letter refers to a special secret. Do you know what that was?"</p>
+<p>"I'm sorry miss. I have no idea."</p>
+<p>"Sir, why do your notes refer to a special secret as well?"</p>
+<p>"What are you talking about?" Strivers asked.</p>
+<p>Sarah clicked onto Strivers' notes dated February 23 and 25 from the case. "In your notes, you refer to a special secret several times. And this was about a week and half before the anonymous note turned up in your file."</p>
+<p>Strivers scanned the notes. "So what? It was just a coincidence."</p>
+<p>"I don't think it is. I think you know who wrote the note."</p>
+<p>Strivers frowned. "I have no idea who wrote it. And besides, it doesn't really matter because the note was as bogus as a three-dollar bill."</p>
+<p>Sarah narrowed her eyes. "You and I both know the truth."</p>
+<p>"The truth about what?"</p>
+<p>"You wrote the note, didn't you?"</p>
+<p>Strivers' face became twisted. "Miss, I had nothing to do with that note. You need to leave now."</p>
+<p>"Why? Because you refuse to admit the truth?"</p>
+<p>"The truth? The truth is I didn't write it. That's the honest truth."</p>
+<p>Jack poked Sarah. "Told you the old man didn't write it."</p>
+<p>Sarah glared at Jack and mouthed, "Shut up."</p>
+<p>Strivers looked at Sarah suspiciously. "You've got the sickness, don't you?"</p>
+<p>"What sickness?" Sarah asked.</p>
+<p>"You know what I mean. You can see them."</p>
+<p>"Who?" Sarah asked.</p>
+<p>"The spirits."</p>
+<p>Sarah's face fell. "I don't know what you're talking about."</p>
+<p>"You've got the same look my Gerdie used to get."</p>
+<p>"Tell him the truth," Jack ordered.</p>
+<p>Sarah ignored him. "Who's Gerdie?" she asked.</p>
+<p>"My wife," Strivers replied. "Gerdie used to see them like you can."</p>
+<p>"Sir, what did your wife see?"</p>
+<p>"Can't tell you," Strivers sighed.</p>
+<p>"Why not?" Sarah asked.</p>
+<p>"It's confidential."</p>
+<p>"Maybe I can talk to your wife then."</p>
+<p>"Too late for that," Strivers replied. "Gerdie died years ago."</p>
+<p>"Then it's not confidential."</p>
+<p>"That's where you're wrong. Communications between a man and his wife are confidential even after death."</p>
+<p>"Ask him again about the note," Jack said.</p>
+<p>Sarah scratched her head. She looked at Jack and then at Strivers. "Your wife wrote the note, didn't she?"</p>
+<p>Strivers frowned. "The note is bogus."</p>
+<p>"Mr Strivers, answer my question. Didn't your wife write the note?"</p>
+<p>"Miss, you need to stop with your amateur interrogation tactics and accept what I've told you."</p>
+<p>"Mr Strivers, just tell me the truth. You can't hurt your wife, because she's dead."</p>
+<p>"I've got to go now," Strivers said vehemently.</p>
+<p>"It was wrong for you to let Mabel's murderer to walk away. How could you?"</p>
+<p>"I told you we never found the murderer. Leave now," Strivers snapped.</p>
+<p>"But your wife knew, and you never asked her. Instead, you protected your wife and Mabel's killer. My God, where is your sense of justice?"</p>
+<p>Strivers glared at Sarah. "Justice. I was in the AG's office for 46 years. Put away more murderers than you'll ever know. Get off my property now before I call the police."</p>
+<p>"Just tell me the truth and I'll go."</p>
+<p>"Good-bye, miss," Strivers said as he walked into his house and slammed the front door firmly.</p>
+<p>"Stupid man," Sarah muttered under her breath.</p>
+<p>Sarah and Jack walked back to the car in silence and got in. Jack looked at Sarah. "You pissed off the old man and now we've got nothing but a worthless clue."</p>
+<p>"That's not true," Sarah protested. "We know his wife wrote the letter."</p>
+<p>"And even if she did, so what?" Jack scoffed. "The old woman's dead."</p>
+<p>"Don't focus on the negative," Sarah argued.</p>
+<p>"You're such a fathead," Jack said.</p>
+<p>"What does that mean?"</p>
+<p>"Stupid person," Jack answered.</p>
+<p>Sarah's face turned red. "Apologize now!" Sarah yelled. "I won't take abuse from you."</p>
+<p>Jack bowed his head. "Sarah, I'm sorry. I didn't mean what I said."</p>
+<p>"Just don't do it again."</p>
+<p>"I won't," Jack promised.</p>
+<p>Sarah pulled her phone from her purse. Sarah tapped a few buttons and did a search. "I found his wife's obituary. Gertrude Strivers lived in Gilroy her entire life. She and Strivers apparently had no children. Gertrude was a homemaker and she loved to cook. Besides this obituary, there aren't any other articles about her."</p>
+<p>"Great, then we'll never find out anything," Jack sighed.</p>
+<p>"No, that's not true," Sarah argued. "Maybe we could find someone in Gilroy who knew her."</p>
+<p>"And how will that help?"</p>
+<p>"Maybe she told them something."</p>
+<p>"I guess that's possible," Jack said. "But how will we find her friends?"</p>
+<p>"Gilroy's a small town. Let's knock on the neighbors' doors and see what happens."</p>
+<p>"You lead the way," Jack said as they exited Sarah's car.</p>
+<empty-line/>
+<p>CHAPTER SIX</p>
+<empty-line/>
+<p>Thursday, November 22, 2012 4:48 p.m.</p>
+<empty-line/>
+<p>Sarah was tired, and her feet ached. Over the past two hours, she had visited more than 60 houses in a five-block radius around the Strivers' home. Most people weren't home. The few who answered didn't know Strivers' wife.</p>
+<p>Sarah pulled her phone from her purse, raised it to her ear, and turned to Jack. "I think this was a bad idea. It will be dark in a bit. Maybe we should call it a day."</p>
+<p>"I think we should finish up the block," Jack responded.</p>
+<p>Sarah nodded. "There are eight more houses. After that, we'll go home."</p>
+<p>"Sounds good to me."</p>
+<p>Sarah knocked on the remainder of the homes and no one answered. "Let's walk back to the car," Sarah said.</p>
+<p>"All right," Jack replied.</p>
+<p>Sarah and Jack started walking. From behind her, Sarah heard a woman shout, "Miss, miss, please wait up."</p>
+<p>Sarah turned around and looked at the woman. She was full-bodied and tall. Maybe 5'9" or 5'10". Gray and dark brown strands interlaced the women's long hair. The woman's smooth forehead contrasted with her sagging double chin. Sarah guessed the woman was somewhere in her early to mid-sixties.</p>
+<p>"Ma'am, did you want to talk to me?" Sarah asked.</p>
+<p>"I live up the street and you knocked on my door a few minutes ago," the woman replied. "Sorry I didn't answer it. I was on the phone. I just wanted to see what you wanted."</p>
+<p>Sarah shook her head in amazement. This neighborhood must be in some sort of time warp. Since when do people go chasing after a stranger who had knocked on their door? Sarah snapped herself out of her brooding and answered, "I'm trying to find out if you know Gertrude Strivers."</p>
+<p>The woman smiled. "Oh yes, I know Gerdie. She was like a mother to me."</p>
+<p>Jack poked Sarah. "Finally, we found someone."</p>
+<p>Sarah ignored Jack and looked at the woman. "I'm Sarah Claysworth and I'm a lawyer. What's your name?"</p>
+<p>"Maggie - Maggie Krimble. What did you want to know?"</p>
+<p>"It's kind of private. Can we talk at your house?"</p>
+<p>Maggie nodded and beckoned Sarah to follow her. When they arrived at Maggie's house, Maggie invited her into her living room. Sarah took in the room. The conservative brown hardwood floors contrasted with the eclectic paintings that hung on the walls. The paintings had no real theme. They looked like splattered paint on canvas. At the bottom of each was a scrawled signature.</p>
+<p>Maggie motioned for Sarah to sit down on her turquoise sofa. Both Jack and Sarah sat down. A dark, gray cat brush against Jack's legs and meowed. Jack let out a loud sneeze.</p>
+<p>"Bless you," Sarah said.</p>
+<p>Maggie looked at Sarah strangely. "Why did you say that? I didn't sneeze."</p>
+<p>Jack sneezed again and nudged Sarah. "Can you get the cat out of here? It's making me sick."</p>
+<p>The cat meowed. Sarah feigned a sneeze.</p>
+<p>"Are you allergic to cats?" Maggie asked.</p>
+<p>Sarah sneezed again. "Yes Ma'am. Sorry about that."</p>
+<p>"Don't be. I'll put Berry in the kitchen."</p>
+<p>"Thanks," Sarah said.</p>
+<p>"No worries," Maggie said while picking up her cat.</p>
+<p>Jack poked Sarah. "Great acting. Glad you got rid of that damn cat."</p>
+<p>Sarah ignored Jack and waited for Maggie to return.</p>
+<p>Maggie came back with two glasses and handed one to Sarah.</p>
+<p>"Hope you like lemonade," Maggie said. "I have a couple of lemon trees in my backyard, so I make it all the time."</p>
+<p>Jack whispered in Sarah's ear. "It'd be better if she had spiked with vodka."</p>
+<p>Sarah pretended not to hear Jack. "Yes, I do," Sarah said while taking in a sip. "This is good."</p>
+<p>"Miss Claysworth, what do you want to know about Gerdie?"</p>
+<p>Sarah put her drink down on the coffee table. "How long did you know Gerdie?"</p>
+<p>"Almost my whole life."</p>
+<p>"For forty-something years?"</p>
+<p>"A lot longer than that," Maggie replied with a smile. "I met Gerdie when I was four years old. She died five years ago, and I was fifty-eight. I knew Gerdie for fifty-four years."</p>
+<p>"What did Gerdie do for a living?"</p>
+<p>"Mostly she kept house for her husband, but she was also an artist. Didn't make any money. But she was good," Maggie replied. "See all these paintings? These are all Gerdie's."</p>
+<p>Jack cackled. "It looks like a five-year-old did these. I could do better in my sleep."</p>
+<p>Sarah glanced at Jack and then looked at Maggie. "Yeah, these look great," she lied. "Did Gerdie have any children?"</p>
+<p>"No, she and her husband weren't able to have kids."</p>
+<p>Sarah decided to play dumb. "Who was her husband?"</p>
+<p>Maggie's face fell. "Leo Strivers. God awful man."</p>
+<p>"How so?"</p>
+<p>"He was always sending her away."</p>
+<p>"Away?" Sarah asked.</p>
+<p>"You know to that place," Maggie replied.</p>
+<p>"What place?"</p>
+<p>"The psych ward. Leo couldn't deal with the fact that Gerdie had a special gift."</p>
+<p>"What special gift?"</p>
+<p>"You know the ability to speak to spirits."</p>
+<p>"Oh," Sarah said with a slight nod. "So, he'd get her locked up for that."</p>
+<p>"Yeah and it was awful. They'd dope Gerdie up on meds and she'd become a walking zombie."</p>
+<p>"How did Gerdie get out of the psych ward?"</p>
+<p>"They'd only keep her for a while and send her back. Gerdie was oblivious to everything. But after a while, she'd stop taking her meds and become her normal self. She'd start talking to the spirits and then Leo would then send her back. It was a god-awful vicious cycle that would repeat itself over and over."</p>
+<p>"Did you think Gerdie had a problem?"</p>
+<p>"Hell no, Gerdie was just like my Grandma who had the gift, also. There was nothing wrong with Gerdie."</p>
+<p>"Do you have the gift?"</p>
+<p>"No, I wasn't lucky. And neither was my mother. I guess it skipped us for some reason."</p>
+<p>"All right. Can I show you something?"</p>
+<p>"Sure," Maggie replied.</p>
+<p>Sarah pulled her laptop from her bag and turned it on. She showed Maggie the letter. "Does this look like something Gerdie would write?" Sarah asked.</p>
+<p>"It sounds exactly like her."</p>
+<p>"And why do you say that?"</p>
+<p>"Gerdie liked to talk in riddles and say she had a special secret."</p>
+<p>Jack smiled. "Finally, we're getting somewhere."</p>
+<p>"Yeah, we are," Sarah responded.</p>
+<p>Maggie looked at Sarah with a puzzled expression. "What did you say?"</p>
+<p>"I meant that it's great that you could verify the letter."</p>
+<p>"Did they solve the case?"</p>
+<p>"No, the Attorney General's office said the letter was a hoax," Sarah responded.</p>
+<p>"That's where Gerdie's no good husband Leo worked. He was some kind of investigator. He must've blocked the letter."</p>
+<p>"But do you think that Gerdie knew who the murderer of Mabel Belford was?"</p>
+<p>"Absolutely, Gerdie wouldn't write something if it weren't true."</p>
+<p>"Why wouldn't Leo follow up?"</p>
+<p>"Because Gerdie got her information from spirits and he didn't believe her."</p>
+<p>"All right. Did Gerdie ever talk about this case?"</p>
+<p>"Not to me," Maggie responded. "But to be honest, this letter looks like it was written a long time ago."</p>
+<p>"Why do you say that?"</p>
+<p>"I've lived in my Santa Clara County my whole life and I've never heard of this sheriff or the murder of his wife."</p>
+<p>Sarah looked at Maggie and nodded. "Yeah, it was a long time ago. The wife was murdered back in 1947 and the letter was written in 1948."</p>
+<p>"1948? That was a year before I was born."</p>
+<p>Sarah stroked her chin. "And you're sure that Gerdie never mentioned anything to you?"</p>
+<p>"No, she didn't," Maggie responded. "But can I ask you question?"</p>
+<p>"Go ahead."</p>
+<p>"Why are you looking into a murder that happened so long ago?"</p>
+<p>"Because I want to find the killer."</p>
+<p>"But why?"</p>
+<p>"It's wrong that the murderer was never prosecuted. Justice needs to be done."</p>
+<p>"Do you have a client that's asked you to look into it?"</p>
+<p>Jack nudged Sarah. "Tell her the truth."</p>
+<p>Sarah mouthed "no" and said. "I'm afraid I can't tell you that. It's confidential."</p>
+<p>Maggie looked at Sarah with an odd expression. "That's okay. You don't need to tell me. Because I know one of them sent you."</p>
+<p>"One of them?"</p>
+<p>"You know, the spirits."</p>
+<p>"I don't know what you're talking about," Sarah lied.</p>
+<p>"You've got the gift like Gerdie. Nothing to be ashamed of."</p>
+<p>Jack prodded Sarah. "See, the lady understands."</p>
+<p>Sarah gave Maggie a weak smile. "Even if one of them did send me, I guess you can't help me."</p>
+<p>"Maybe, I can Sarah," Maggie answered.</p>
+<p>"How?"</p>
+<p>"A few months before Gerdie died, she gave me a bunch of her letters. Told me not to look at them and wait until someone came by asking about her. You must be the one who is supposed to get the letters."</p>
+<p>Sarah smiled. "Wow, that's amazing."</p>
+<p>"Not really. You and Gerdie both have the gift and just maybe the letters say something that can help you."</p>
+<p>"And you've never looked at them?"</p>
+<p>"I wanted to, but Gerdie's wishes were more important."</p>
+<p>"And what if I'd never come?</p>
+<p>"I'd just keep waiting until someone else did," Maggie replied. "Anyway, the letters are in the den. I'll get them for you."</p>
+<p>"Great," Sarah smiled</p>
+<p>Maggie turned and walked toward her den.</p>
+<p>Jack looked at Sarah. "Now, we'll know the truth."</p>
+<p>"Maybe," Sarah replied.</p>
+<p>Maggie came back with two storage boxes filled with letters. "Here's everything you need." Maggie then put the boxes on the living room floor.</p>
+<p>"Thanks," Sarah replied. "Would you like me read the letters here?"</p>
+<p>"Oh no, that would take hours. You can take them with you."</p>
+<p>"When do you want me to bring the letters back?"</p>
+<p>"I don't need the letters. Just keep them."</p>
+<p>"Are you sure?"</p>
+<p>"Absolutely. That's what Gerdie would have wanted."</p>
+<p>"Well, thanks for the letters. I really appreciate it," Sarah said while putting her laptop in its bag.</p>
+<p>"You're welcome," Maggie smiled. "By the way, I'm glad you're helping Jack."</p>
+<p>Sarah's face fell. "Jack?"</p>
+<p>"He's the one who hired you, right?"</p>
+<p>"Um -" Sarah faltered.</p>
+<p>"Jack was mentioned in Gerdie's letter that you showed me. I doubt it's Mabel because she presumably would know who killed her. And it can't be the sheriff because you don't seem like the law enforcement type. So, it must be Jack. Am I right?"</p>
+<p>Sarah averted her eyes. "I'd rather not say."</p>
+<p>"Come on, Sarah. It will be just between us."</p>
+<p>Sarah sighed. "I guess you're right."</p>
+<p>Maggie smiled. "See, I knew I was right. And don't worry. I won't tell anyone. It'll be our special secret." She winked at the reference to Gerdie's favorite phrase.</p>
+<p>"Well, thanks for everything," Sarah mumbled. She then squatted and picked up the boxes.</p>
+<p>"No problem," Maggie said as she escorted Sarah out of her house.</p>
+<empty-line/>
+<p>CHAPTER SEVEN</p>
+<p>Sarah opened the door to her apartment. She and Jack walked inside. Sarah put the boxes of letters on her living room's folding table. Jack poked Sarah. "Got a garbage bag?"</p>
+<p>"What for?"</p>
+<p>"To clean up this place," Jack said as his eyes gazed over the empty vodka bottles and food cartons on Sarah's living room floor. "It's a pigsty."</p>
+<p>Sarah wanted to argue, but he was right. "Yeah, I'll get you one." Sarah then walked to her kitchen, opened a drawer, and handed a box of plastic bags to Jack.</p>
+<p>Jack put the empty the vodka bottles bags in one bag and the food cartons in another. When he was done, he put the bags in a corner, and stretched out on the sofa.</p>
+<p>Sarah rubbed her stomach. She hadn't eaten in hours. She pulled out a couple of granola bars from her cupboard and wolfed them down. She opened her freezer, pulled out a frozen dinner, and put it in a microwave. She filled a glass with water from her sink.</p>
+<p>Jack stared at Sarah. "I can't believe that you're drinking tap water."</p>
+<p>"What's wrong with that?"</p>
+<p>"It's horrid. You should get bottled water. It's a lot better."</p>
+<p>Sarah glared at Jack. "Why are you complaining about tap water? They didn't have bottled water back in your day."</p>
+<p>"I stopped drinking that crap years ago. The law firm has bottled water and it's a thousand times better than tap water."</p>
+<p>"Well, I don't have bottled water. You'll have to deal with it."</p>
+<p>"Got any grub for me?"</p>
+<p>"You're a ghost. You don't need to eat."</p>
+<p>"You know I'm a squishy ghost. We eat from time to time. What can you give me?"</p>
+<p>Sarah sighed. "We can share my dinner."</p>
+<p>"You got to be kidding me. Processed food is disgusting."</p>
+<p>"Then it's nothing."</p>
+<p>Jack made a sour face. "Don't you have any real food?"</p>
+<p>"Like what?"</p>
+<p>"You know the basics. Meat and potatoes. Fruits and vegetables."</p>
+<p>"I have juice and canned soup. But that's for emergencies."</p>
+<p>"Oh, forget it then."</p>
+<p>The microwave beeped. Sarah got her dinner and a plastic fork. She walked back to the living room and put the dinner on the table. "Sure, you don't want to share?"</p>
+<p>Jack's stomach growled. "No, I'm good. I'll get something later from the law firm."</p>
+<p>"Are you leaving now?"</p>
+<p>"Not yet, I wanted to find out what's in the letters."</p>
+<p>"I'll look at them as soon as I'm done eating."</p>
+<p>"Sounds good."</p>
+<p>After a few minutes, Sarah was done with her vegetarian lasagna. She left some of it for Jack in case he changed his mind. She walked back to the kitchen, grabbed a box of granola bars, and handed one to Jack.</p>
+<p>"Thanks," Jack said as he tore off the wrapper. Within a few seconds, the granola bar was gone.</p>
+<p>"You can have the rest of the box," Sarah said.</p>
+<p>Jack took the box and looked at it as if it were some kind of treasure. He pulled out five granola bars and devoured them.</p>
+<p>Sarah stared at Jack and said nothing. She looked at the two boxes of the letters. She took a letter from one of the boxes and opened it. To her dismay, it was nothing but splattered paint.</p>
+<p>Sarah opened a few more and she found more splattered paint. Some were blue and brown. Others were purple, yellow, and green. But there was no writing whatsoever.</p>
+<p>Almost all the letters were useless. So far, there was only one letter that had any writing. It read:</p>
+<empty-line/>
+<p>Never make anything too easy. Always be a challenge. Give red herrings wherever you can. But if they look hard, they will find it. I just know they will.</p>
+<p>Love Gerdie</p>
+<p>P.S. Sometimes you have to go backwards to go forward.</p>
+<empty-line/>
+<p>Sarah groaned. Why couldn't Gerdie just say who killed Mabel? Of course, that would be too easy. It was already 9:00. It probably would be a couple more hours before she could find the information she needed.</p>
+<p>Sarah looked at more letters and there was more splattered paint. It wasn't until 45 minutes later, Sarah started to find letters that had some kind of pattern. Each letter was marked with a number.</p>
+<p>The first was marked 1 of 44. Each letter had either a handwritten number or letter in the middle. Sarah tore open the envelopes and looked for a number on the letter. Most had splattered paint and no numbers. After an hour, Sarah found all 44 numbered letters. She put the letters in order and laid them out on her living room floor. Together the letters read:</p>
+<empty-line/>
+<p>I KNOW WHO KILLED MABEL 07030115122109141020 DID IT</p>
+<empty-line/>
+<p>Sarah glanced over at Jack. "Do you know what the numbers mean?"</p>
+<p>Jack looked at the numbers for a few seconds. "I have no idea. I guess Gerdie really was into riddles."</p>
+<p>"Looks that way," Sarah replied. She then looked at the few remaining unopened letters. All of them were splattered paint except one. It read:</p>
+<empty-line/>
+<p>Remove the first three zeroes and keep those numbers. The rest you'll need to figure out. Just make sure to keep those in pairs.</p>
+<empty-line/>
+<p>Sarah took out at notepad and wrote:</p>
+<empty-line/>
+<p>07 03 01 15 12 21 09 14 10 20. Then this is 731 25 15 12 21 09 14 10 20. Can't be a social security number or phone number. Too many numbers. Then the numbers are code for what? Maybe the alphabet?</p>
+<p>25= Y, 15= O, 12=L, 21= T, 9= I, 14= N, 20=S, and 10= J</p>
+<p>731YOLTINSJ</p>
+<empty-line/>
+<p>Sarah turned to Jack. "Have you heard of 731 Yoltinsj?"</p>
+<p>"Sarah, can you spell the word?"</p>
+<p>Sarah recited the letters in the code. Jack scratched his head. "I don't know anything that ends with the letters S and J.'"</p>
+<p>Sarah repeated the letters S and J several times. "Oh my god, it's too easy," Sarah shrieked. "S and J must stand for San Jose and the rest must be a street address - 731 Yoltin in San Jose."</p>
+<p>Jack smiled. "Great work. Glad, you were able to decipher the code, but the problem is I've never heard of the street."</p>
+<p>Sarah's face fell. She pulled out her laptop from its bag and turned it on. She did a search. Sarah turned to Jack. "You're right. The street doesn't exist in San Jose."</p>
+<p>"Maybe the street name changed."</p>
+<p>"I guess that's possible. But I can't find anything about it."</p>
+<p>"Well, it could be in the city's address book."</p>
+<p>"What's an address book?"</p>
+<p>"The city had address books back in my day. They would list the address along with the name of the folks who lived there."</p>
+<p>"I'll see if I can find an old address book online."</p>
+<p>Sarah did a few searches. She turned to Jack. "There are no address books posted online, but I found out that the library has some old ones and maps at the library. We can look at them tomorrow and see what we can find."</p>
+<p>Jack grinned. "Great work."</p>
+<p>"I guess we can call it a night. Are you going back to the law firm?"</p>
+<p>"It's kind of late and too far to walk. And I really don't want to hitch a ride. It's too dangerous with the drunk drivers on the road. Do you mind if I stay on your couch?"</p>
+<p>Sarah looked at her watch. It was almost midnight. She looked at Jack. He looked tired. "Okay. I'll get you a blanket and pillow."</p>
+<p>"Got a robe and towel? I need to take a shower."</p>
+<p>Sarah looked at Jack with disbelief. "You're ghost. Why do you need to shower?"</p>
+<p>"How many times do I need to tell you that I'm a squishy ghost? Unlike your typical ghost, we get dirty just like the living."</p>
+<p>Sarah sighed. She went to her bedroom closet and grabbed a couple towels and a dark blue navy robe. "You can use these," she said.</p>
+<p>Jack took the robe and towels. "Looks like a man's robe."</p>
+<p>"Why are you complaining? It's not like I'm giving you a lady's robe."</p>
+<p>"Well, who does it belong to?"</p>
+<p>Sarah's face fell. "I'd rather not discuss it."</p>
+<p>"Fine. We won't discuss your mystery man."</p>
+<p>Sarah ignored Jack and went back into her bedroom. She walked into her closet and pulled out a blanket, sheets, and pillow. She took them and put on them on the sofa next to Jack. "I'll see you in the morning."</p>
+<p>"Get some rest. You look beat."</p>
+<p>Sarah walked back to her bedroom, changed into an oversized t-shirt, and put her hair in a ponytail. She turned off the light and crawled into bed.</p>
+<p>***</p>
+<p>Someone was banging on her bedroom door. Sarah opened the door and saw Jack. He was in boxers and a t-shirt. Two ugly scars crisscrossed his neck. "I heard you screaming. You were telling someone not to leave. Are you okay?"</p>
+<p>Sarah yawned and shook the confusion out of her head. "I guess I was having a bad dream."</p>
+<p>"About what?"</p>
+<p>"Brian."</p>
+<p>"Who's that?"</p>
+<p>Sarah sighed. "He was my fiance. I just have these bad dreams every now and then."</p>
+<p>"Did you two break up?"</p>
+<p>"No, he um - died."</p>
+<p>"How?"</p>
+<p>"I really don't want to talk about it."</p>
+<p>"Sarah, I'm here for you. Just tell me."</p>
+<p>Sarah took a deep breath and exhaled. "We got into an argument over money. Brian had been laid off from his job. Unemployment wasn't enough to cover the bills. I told him to take any job, but Brian wouldn't do it. Things got ugly and I called Brian a bunch of names. Brian then said he was leaving to take a drive so I could cool off. I told him to stay. He wouldn't and left. Five hours later, I got a call from the police. Brian had been in an accident. The sixteen-year-old driver of the other car had been texting. The girl ran a red light at sixty miles an hour because she didn't see Brian's car in the intersection. Both Brian and the girl died."</p>
+<p>"When did this happen?"</p>
+<p>Tears welled up in Sarah's eyes. "Seven months ago, and it's my fault. If we hadn't argued, Brian would still be here."</p>
+<p>Jack put his arm around her. "You shouldn't blame yourself. The one to blame is the girl."</p>
+<p>"But I should have stopped Brian from leaving," Sarah cried. "I should have done something."</p>
+<p>"Sarah, it was his time. And the thing is we can't control it. That's just the way it is."</p>
+<p>Sarah looked into Jack's eyes and then at his lips. She moved toward him. Jack moved away and took his arm off her. Sarah felt so stupid. How could she have misread him? It was clear from Jack's actions that he wasn't even remotely interested in her.</p>
+<p>Jack motioned Sarah to follow him into the living room. They sat down on the sofa. Sarah glanced at Jack's neck scars. "I didn't see these before," she said shyly.</p>
+<p>"You know they're from the hanging. I use make-up to cover them up. It came off when I showered."</p>
+<p>"Make-up? I didn't know ghosts used that."</p>
+<p>"There's a lot that you don't know about us."</p>
+<p>Sarah smiled. "Well, I'm learning."</p>
+<p>"Sarah, how long have you've been doing law?"</p>
+<p>"For about three years."</p>
+<p>"What did you do before that?"</p>
+<p>"I was a factory worker."</p>
+<p>"What kind of factory?" Jack asked.</p>
+<p>"We made toys."</p>
+<p>"Like what?"</p>
+<p>"Dolls, dollhouses, teddy bears, and other kinds of stuffed animals."</p>
+<p>Jack smiled. "Sounds like you got to play Santa Claus every day."</p>
+<p>Sarah grinned. "It was fun while it was lasted."</p>
+<p>"How did you go from factory work to law?"</p>
+<p>"The factory shut down. They decided to outsource our work to China. I couldn't stay in manufacturing because there were no jobs. So, I decided to go back to school."</p>
+<p>"To get your law degree."</p>
+<p>"No, to finish my bachelor's degree. After that, I went to law school. It took a while to pass the bar. But I did after my third try."</p>
+<p>"Why did you want to become a lawyer?"</p>
+<p>"I wanted to be a union lawyer. My father was the vice president of the union at the toy factory. He was a foreman and he fought for workers' rights and I wanted to do the same thing."</p>
+<p>"Why aren't you working for a union?"</p>
+<p>"Because it's too hard to get hired."</p>
+<p>"Why?"</p>
+<p>"The union law firms all want experience and I don't have any. The only thing I know how to do is doc review."</p>
+<p>"I thought your father was a union man. Didn't you tell them that?"</p>
+<p>"Of course, I did. And I also told them I had been a union steward. But they didn't care, they wanted someone who had experience as a lawyer."</p>
+<p>"Well, maybe you should try a different type of law."</p>
+<p>"Jack, I've already tried that. I've applied to hundreds of jobs and not one job offer. Government jobs are the worst because they put you on a list and you never get called back."</p>
+<p>"Where did you go to law school?"</p>
+<p>"Some crappy school that lied and told us that we'd all get jobs when we graduated. They counted things like working at a coffee shop as a full-time job. Such bullshit. They should have told us that our degrees would be worthless."</p>
+<p>"Guess you should have gone to a better school."</p>
+<p>Sarah winced. "With this economy, it wouldn't have made much of a difference. A lot of lawyers who went to top schools can't get jobs either."</p>
+<p>Jack's eyes widened. "Wow, I didn't know it was that bad out of there."</p>
+<p>"Well, it is and it's making me depressed. Can we talk about something else?"</p>
+<p>Jack shrugged his shoulders. "Sure. You mentioned that your father was in a union. Where is he now?"</p>
+<p>"My father died a long time ago. I was 19 when he passed away and I dropped out of college to help my mother with the bills."</p>
+<p>"How did your father die?"</p>
+<p>"Sudden cardiac arrest. He was 43. He died while he was giving a speech to workers."</p>
+<p>"He was so young," Jack said quietly.</p>
+<p>"Back then, I thought he was old. But now that I'm 42, I don't think that anymore."</p>
+<p>"Life changes that way," Jack said while stroking his chin. "What does your mother do?"</p>
+<p>"My mother was a secretary. She died eleven years ago from pancreatic cancer."</p>
+<p>"I'm sorry about your parents."</p>
+<p>"It was a long time ago. It doesn't bother me that much anymore."</p>
+<p>"Any brothers or sisters?"</p>
+<p>"No, my parents only had me, but I had a cousin who was like a brother to me. I used to be a tomboy. I liked playing with boys' stuff and wrestling. My cousin Michael was great. He taught me how to fight so no one would mess me."</p>
+<p>"You're a fighter."</p>
+<p>"Not really. I just know how to take of care of myself."</p>
+<p>Jack grinned. "It's a good skill to have. Do you and your cousin still hang out?"</p>
+<p>Sarah's face fell. "Michael died five years ago in Iraq. He was in the army and his platoon was bombed."</p>
+<p>"Wow, that's rough. First your parents and then Michael. I'm sorry to hear that."</p>
+<p>"Yeah, it was hard losing him. But I managed to move on."</p>
+<p>"Are your grandparents still alive?"</p>
+<p>"My mothers' parents died a few years ago. They were great, and I miss them dearly. I really miss our conversations. They taught me to speak Yiddish."</p>
+<p>"Were your grandparents Jewish?"</p>
+<p>Sarah nodded. "My bubbe used to make the best potato pancakes."</p>
+<p>"And now you got me hungry again."</p>
+<p>"Well, it's too bad I didn't learn my bubbe's cooking skills."</p>
+<p>"Indeed, it is. Was your father Jewish, also?"</p>
+<p>"No, he was mixed with white and African-American."</p>
+<p>Jack smiled. "Wow, you're quite exotic."</p>
+<p>Sarah frowned. "I hate that word."</p>
+<p>"Sorry, I meant it as a compliment. I didn't mean to offend you."</p>
+<p>"Okay, no worries."</p>
+<p>"Were you close to your father's parents?" Jack asked.</p>
+<p>"I didn't really know them. I didn't see them a lot when I was growing up."</p>
+<p>"Why?"</p>
+<p>"When I was seven, my grandparents retired and moved to Louisiana."</p>
+<p>"What do you know about them?"</p>
+<p>"I know that my grandparents worked for a San Jose cannery for a lot of years."</p>
+<p>Jack smiled. "San Jose's canneries bring back good memories. Back in my time, a lot of folks worked for San Jose's canneries for fruits and vegetables. The jobs were good-paying union jobs."</p>
+<p>Sarah beamed. "Yes, that's what my father used to tell me. And he was proud that his parents had been active in their union."</p>
+<p>"I guess the union must run in your family's blood."</p>
+<p>"Well, it's not really in our blood because my father was adopted."</p>
+<p>"That's interesting," Jack said. "Did your father know who his biological parents were?"</p>
+<p>"My grandparents told my father that his birth parents died when he was baby. They weren't sure how they died."</p>
+<p>"Was your father adopted as a baby?"</p>
+<p>"No, he was almost six. Transracial adoption wasn't allowed. You know that San Jose has a very small black population. Back then, only about one percent was African-American. So, my father had a difficult time getting adopted."</p>
+<p>"You're right about the community's size. San Jose had less than six hundred Negroes in the 1940s. But I would think that because your father was mixed, he would had an easier time."</p>
+<p>"Jack, I'm sure you know about the one drop rule. If you were mixed with African-American, you were considered black. A white family couldn't adopt my father. But things worked out in the end. My grandparents were African-American and in their late thirties. They moved from Louisiana to San Jose in early 1950s because they found jobs at a cannery. They had always wanted children but couldn't have them. When they saw my father at the orphanage, they knew he was meant to be their son."</p>
+<p>Jack smiled. "Wow, that's an amazing story. Did your father ever try finding out more information about his biological parents?"</p>
+<p>Sarah looked at Jack suspiciously. "Why are you so concerned about his biological parents?"</p>
+<p>"I just think it might be an interesting piece of history."</p>
+<p>"How about if I ask you a few questions?"</p>
+<p>"Go ahead."</p>
+<p>"What was your son's name?"</p>
+<p>"Wendell."</p>
+<p>"Are you sure?"</p>
+<p>"Yes, I'm sure one hundred percent."</p>
+<p>Sarah sighed. Her father had the same first name. "Did your son have a middle name?"</p>
+<p>"Yes, Edwin."</p>
+<p>Edwin was Sarah's father's middle name. "When was your son born?"</p>
+<p>"November 15, 1947."</p>
+<p>"Are you sure that's your son's birthday?"</p>
+<p>"Absolutely," Jack replied.</p>
+<p>Same first and middle name. Same birthday. Same heritage - white mother and black father who died when he was a baby. On top of this, Sarah's father was born in San Jose when the city had very few African-Americans. This couldn't be a coincidence. "My father is your son, isn't he?"</p>
+<p>Jack looked at Sarah with sheepish smile. "Yeah, he is."</p>
+<p>Sarah felt the blood rising in her face. "Dammit Jack, I wish you had told me that in the beginning. I wouldn't have tried to -"</p>
+<p>"Sarah, I didn't know how to tell you."</p>
+<p>"Promise me that there'll be no more secrets."</p>
+<p>"I promise," Jack replied in an embarrassed voice.</p>
+<p>"Is there anything else I need to know?" Sarah asked.</p>
+<p>"No, not really."</p>
+<p>"What does that mean?"</p>
+<p>"It's just that you remind me so much of your grandmother."</p>
+<p>"How? I saw her picture online and I don't look like her at all."</p>
+<p>"Sarah, it's not her face. You and your grandmother have the same ambience. Same feistiness. Same mannerisms. Same walk. And you and your grandmother are both tall and shapely."</p>
+<p>Sarah looked at her bare legs. Her nightshirt barely covered the tops of her thighs. She felt self-conscious. "I guess I should go back to bed. We have a big day tomorrow."</p>
+<p>"Indeed, we do. See you in the morning."</p>
+<p>Sarah got up from the sofa. "See you then." She wanted to add grandpa, but that would sound silly. She walked to her bedroom and shut her door. At least now, she had a worthy case. She would help Jack find her grandmother's killer.</p>
+<empty-line/>
+<p>CHAPTER EIGHT</p>
+<empty-line/>
+<p>Friday, November 23, 2012 7:34 a.m.</p>
+<empty-line/>
+<p>Jack looked at Sarah up and down. "Is that what you're wearing?"</p>
+<p>Sarah looked at herself in her hallway mirror. She was dressed in a long black sweater, dark gray knit leggings, and black boots. "There's nothing wrong with what I have on. It's called Silicon Valley business casual."</p>
+<p>Jack frowned. "Can't you look more lawyerly?"</p>
+<p>Sarah scowled. "Chill out. I'm not going to court."</p>
+<p>"You know if you dressed better, people might take you more seriously."</p>
+<p>"What people?"</p>
+<p>"Like the investigator we saw yesterday."</p>
+<p>"That man was eighty-nine years old. Even if I wore a designer suit, he still would have treated me like crap. Get over it. We have more important things to focus on."</p>
+<p>Jack made a sour face. "How long will it take us to get to the library?"</p>
+<p>"About twenty minutes," Sarah answered.</p>
+<p>"Can you drop me off at the law firm?"</p>
+<p>"What for?"</p>
+<p>"I need to change my clothes and shave."</p>
+<p>Sarah glanced at Jack. His suit was rumpled and he had a day's growth of beard. His twisted neck scars looked worse in the morning light. "Jack, I don't care about your clothes or what you look like. You can change later."</p>
+<p>"My clothes are itchy, and I look like hell. I need to change," Jack whined.</p>
+<p>"You know there's no way I can go back to the law firm," Sarah protested. "They fired me yesterday."</p>
+<p>"I'm not asking you to go inside. Just drop me off. I'll then meet you at the library. It's only a few blocks away."</p>
+<p>Sarah groaned. "Fine. Have it your way."</p>
+<p>"Can we leave now?"</p>
+<p>"Let's go," Sarah said while putting on her jacket. She grabbed her purse and laptop bag. Sarah beckoned Jack to follow her.</p>
+<p>They walked a couple of blocks until they got to Sarah's car. Jack and Sarah got into the car. Sarah turned on the radio and listened to the news.</p>
+<p>A reporter's voice boomed. "This is Samantha Nieves and I'm reporting live in front of TrueAge Innovations' headquarters in San Jose. TrueAge sells dolls that age from 18 to 80 over a period of two weeks. Five hundred protestors have marched on TrueAge's San Jose campus and demanded the company stop selling its dolls. Molly Pamphey is a renowned activist and she is the spokesperson for this protest."</p>
+<p>"We're tired of seeing TrueAge's ageist dolls in our schools, homes, and workplaces," Pamphey said in a loud thunderous voice. "These dolls stereotype seniors as obese, unfit, and unattractive. It's offensive not only to seniors, but to the community as well. As a society, we don't tolerate racism or sexism. And we shouldn't tolerate ageism under any circumstance. All these isms need to end now."</p>
+<p>"Ms. Pamphey, can you tell us about your campaign?" asked the reporter.</p>
+<p>"Over one million people have signed our petition demanding that TrueAge stop selling its ageist dolls. Yet, TrueAge continues to ignore us," answered Pamphey. "That's why we've decided to take our campaign to a higher level. We'll be attending this morning's shareholders' meeting."</p>
+<p>"Ms. Pamphey, are all of the protestors attending the shareholders' meeting?"</p>
+<p>"Our leadership team of ten shareholders will attend today's meeting. We all own stock in TrueAge. TrueAge has an obligation to listen our demands."</p>
+<p>"Do you think that TrueAge will stop selling its dolls?"</p>
+<p>"We hope that TrueAge does the right thing and ends its hate campaign against seniors," Pamphey replied.</p>
+<p>"Thank you, Ms. Pamphey."</p>
+<p>"You're welcome."</p>
+<p>"We tried calling and emailing TrueAge, but no one responded. This is Samantha Nieves reporting live in San Jose from TrueAge's campus."</p>
+<p>Sarah turned off the radio and stared blankly into traffic. Jack tapped Sarah on the shoulder. "Didn't your document review project involve TrueAge?"</p>
+<p>Sarah sighed. "I really don't want to talk about."</p>
+<p>"All right. I won't press it."</p>
+<p>"Good."</p>
+<p>For the next few miles, Sarah and Jack rode in silence down Monterey Road. Sarah turned right on St. John Street. After a few blocks, Sarah pulled in front of the law firm's building. Sarah opened her door and beckoned Jack to leave. "See you in a bit."</p>
+<p>Jack jumped out of the car and waved good-bye. Sarah turned the car around and headed for the library.</p>
+<p>Sarah parked a couple blocks from the library. Sarah pulled out her phone from her purse. She checked her email. Nothing but junk again. Sarah got out of her car and walked to the library.</p>
+<p>Once inside the library, Sarah approached a middle-aged woman with frizzy brown hair at the librarian's desk. "Ma'am, do you know where I can find San Jose's address books?"</p>
+<p>"Address books for what?" the librarian asked.</p>
+<p>"I need to look up an address from 1947."</p>
+<p>The librarian pointed to a bookcase that held address books dated from the 1920s to 1970s. "You should be able to find the address over there. Just be careful because the books are really fragile."</p>
+<p>"Thanks for your help," Sarah said. She walked to the bookcase and pulled out the volume for 1947.</p>
+<p>Sarah opened the book and scanned the street addresses. She searched for Yoltin. Within a couple minutes, she found the street. Sarah smiled. She looked for 731 Yoltin. Sarah's face fell. All the addresses after 699 had been crossed out with a black marker. There was no way Sarah could tell who lived there.</p>
+<p>Sarah walked back to the librarian. She handed the librarian the book. "Ma'am, there's something wrong with this address book. Some of the addresses have been crossed out."</p>
+<p>The librarian gasped. "Oh, my goodness, they shouldn't have done that."</p>
+<p>"Well, is there another way I can find out who lived there?"</p>
+<p>"There are address books for other years. Back then, people generally didn't move around.</p>
+<p>Whomever lived at the address in 1947, probably lived there in 1948 as well."</p>
+<p>Sarah smiled. "Thanks for the tip."</p>
+<p>"You're welcome."</p>
+<p>Sarah walked back to the bookcase and pulled the address book from 1948. To her disappointment, the addresses for Yoltin after 699 were crossed out again. Sarah pulled out a few more address books from different years and she found the same thing.</p>
+<p>Sarah walked back to the librarian's desk. "Ma'am, I'm sorry to bother you again. I looked at the street addresses for Yoltin from1940 to 1950 and all addresses after 699 for the street I'm looking for have been crossed out with a black marker."</p>
+<p>"That's a disgrace," the librarian replied with disgust. "These books shouldn't have been tampered with."</p>
+<p>"Ma'am, do you have any other ideas on how I can get this information?"</p>
+<p>"Yes, we have the census from 1940. I know you want 1947 but that's the best we can do for you."</p>
+<p>"Okay, how do I look it up?" Sarah asked.</p>
+<p>"If you give me the address, I'll see what I can find."</p>
+<p>Sarah handed her the address. The librarian did a few searches and turned to Sarah. "You know the street is on the census, but the problem is the address isn't. The addresses go from 701 to 721 and then stop. They begin again at 801."</p>
+<p>"What does that mean?"</p>
+<p>"The address must have been a business. The census only provides addresses for residences."</p>
+<p>"Is there any way to find out who owned the business's building?"</p>
+<p>"Unfortunately, we don't have online records that go back that far. You'll need to go to the county recorder and look up the address."</p>
+<p>"I guess I'll go there then," Sarah replied. "Is there a way to find out what happened to the street?</p>
+<p>From my research, it looks like the street doesn't exist anymore."</p>
+<p>"Let me see what I can find out," the librarian replied. She did some searches on her computer and turned to Sarah. "From what I can tell, in the early 1950s, a developer bought several buildings and houses in that area in order to build a mall. That's why the street doesn't exist."</p>
+<p>"What's the mall's name?"</p>
+<p>"Seapretch."</p>
+<p>Sarah looked at the librarian with a puzzled expression. "I've never heard of that mall."</p>
+<p>"Well, it went out of business in the mid-seventies. The mall was later bulldozed because no one wanted to buy it. Now, it's a giant empty lot. It's a couple miles from the San Jose/Morgan Hill border. I can print out the location if you'd like."</p>
+<p>"That would be great."</p>
+<p>The librarian printed the map for the lot and handed it to Sarah. "I appreciate all your help you've given me," Sarah said.</p>
+<p>"Is there anything else I can help you with?"</p>
+<p>"No, I'm good. Thanks again for your help."</p>
+<p>"You're welcome."</p>
+<p>Sarah said good-bye and turned to leave. From the corner of her eye, she saw Jack. He was dressed in a dark brown slacks and tan turtleneck sweater. His face looked refreshed and his neck scars weren't visible. Sarah motioned to Jack to meet her outside.</p>
+<p>Jack followed Sarah. They walked outside. Sarah pulled her phone out of her purse and raised it to her ear. "No suit and tie, today?"</p>
+<p>"No, it's business casual Friday."</p>
+<p>Sarah smirked and rolled her eyes. "Is this another outfit you borrowed from the law firm's partner?"</p>
+<p>"Indeed, it is. He has quite a cache of clothes."</p>
+<p>"Well, they look good on you."</p>
+<p>Jack smiled. "Thanks."</p>
+<p>Sarah explained to Jack what she had found.</p>
+<p>"Sounds like a conspiracy."</p>
+<p>"It might be. But what we need to focus on is finding who owned 731 Yoltin. After we find this out, hopefully, we'll know who killed Mabel."</p>
+<p>"Sounds good to me." Jack showed Sarah a bag. "I got us some bagels from the office. There's orange juice as well. Take a bagel and a bottle."</p>
+<p>Sarah sighed. "I don't know if I should take anything after being fired."</p>
+<p>"You should forget about that. They probably made a mistake."</p>
+<p>"What do you mean a mistake?" Sarah asked. "They said I coded documents wrong."</p>
+<p>"Well, I'm sure your documents were right. Someone probably just changed them."</p>
+<p>"What do you mean someone changed them? They said my user ID was the only one that had coded the docs."</p>
+<p>"Maybe, there's a bug in their system where they couldn't tell who coded the docs."</p>
+<p>"I doubt that was the case. Other people's docs would have been miscoded as well."</p>
+<p>"Maybe someone hacked into the system and changed your coding."</p>
+<p>"That's ridiculous. There's no reason why I'd be singled out. I didn't even know anyone in the review."</p>
+<p>Jack fidgeted. "Maybe it wasn't a reviewer."</p>
+<p>Sarah glared at Jack. "Jack, did you change my docs?"</p>
+<p>Jack shook with his head with an odd twitch. "Of course not, why would I do that?"</p>
+<p>Sarah felt her blood pressure rising. "Don't lie to me. Did you change the code on my docs?"</p>
+<p>Jack stared at the ground. "Sarah, I didn't touch them."</p>
+<p>"If you don't tell me the truth, I'm walking away from your case."</p>
+<p>Jack's face fell. "Okay, maybe I did change your coding."</p>
+<p>Sarah fumed. "Goddamn it Jack. How could you do something like that? I lost my job."</p>
+<p>Jack winced. "I needed your help. I knew if you were working, you wouldn't help me."</p>
+<p>"You should have come to me sooner instead of waiting the last minute. Now, I'm going to have a hard time getting another doc review gig."</p>
+<p>"I didn't even know you were in the doc review room until a couple days ago."</p>
+<p>"Why didn't you look for me before?"</p>
+<p>"Because it doesn't work that way."</p>
+<p>"And because of you, I look like an idiot."</p>
+<p>"Sarah I'm really sorry. But from what I can tell, you really don't like doc review. When I first saw you, you looked like you were ready to pass out from boredom."</p>
+<p>"So what? The thing is I had a job and now it's gone."</p>
+<p>"And now, you're working for me. And my case is a lot more interesting. Think of it as a promotion."</p>
+<p>"It's not enough to pay my bills," Sarah complained.</p>
+<p>Jack grimaced. "Would you quit your whining? You've only been working for me since yesterday. After my case ends, I'm sure you'll be snapped up for another project."</p>
+<p>Sarah glared at Jack. "The holiday season is the worst time to look for doc review work. I may not get another project until January."</p>
+<p>"Well, I'm sorry."</p>
+<p>"Sorry isn't good enough. The project you got me fired from was going to last through the end of the year. Now look where I am."</p>
+<p>"You're in a great place, Sarah. We're about to find out who killed your grandmother. For Christ's sake, just relax and have a bagel and juice."</p>
+<p>Sarah began to breathe in and out hard. "Keep your damn bagels and juice," she yelled into her phone. "I don't want to talk you again until we get the county recorder's office."</p>
+<p>Jack shrugged his shoulders, took out an onion bagel from his bag, and began eating it.</p>
+<p>Sarah stared at Jack. She wanted to quit the case, but she couldn't. They were so close to finding the killer. Sarah motioned Jack to follow her. They walked in silence until they reached her car. They got in the car and drove to the county building.</p>
+<empty-line/>
+<p>CHAPTER NINE</p>
+<p>Sarah parked her car across the street from the county building. Jack turned to Sarah. "Do you mind if I wait in the car while you look at the records?"</p>
+<p>Sarah still hadn't forgiven Jack for messing up her doc review coding. The less time they spent together, the better she would feel. "That's cool. I'll see you later."</p>
+<p>Sarah left her car and walked to the county building. Sarah smiled. In a matter of minutes, she'd find out who had killed her grandmother Mabel Belford.</p>
+<p>When Sarah arrived at county recorder's office, she approached a twenty-something female clerk with short dark hair about the property records.</p>
+<p>"I'll need your driver's license for the microfiche record of the address," the clerk said.</p>
+<p>Sarah glanced at the clerk's left tattooed wrist. The tattoo was a nice bracelet design with autumn leaves. It reminded Sarah of her fiance Brian who had a similar tattoo.</p>
+<p>"Nice tattoo," Sarah said while handing the clerk her license.</p>
+<p>The clerk smiled while she gave Sarah the microfiche file. "There's an empty reader over there that you can check out."</p>
+<p>Sarah thanked the clerk for her time and walked to the microfiche reader. She inserted the microfiche in the machine and viewed the records. The property had been two acres of land. In 1934, the property was transferred from Robert and Elizabeth Milesont, a married couple to Imogene Kalett, an unmarried woman. In 1946, the county issued a lien against the property because Ms. Kalett failed to pay property taxes. The county later sold the lien to Bank of Ezie. The bank foreclosed on the property and bought it on October 6, 1947. On May 4, 1952, the bank sold the property to Buckzone Developers.</p>
+<p>Sarah smiled. Imogene Kalett had to be Mabel's killer. She owned the property the month before Mabel's death. It couldn't be the bank or the developer. That wouldn't make sense.</p>
+<p>Sarah pulled out her cell phone. Sarah did a few searches. Sarah's eyes glazed over. She only found that Imogene had been born in 1912 in Santa Clara County. There were no address records and nothing to indicate that Imogene had died.</p>
+<p>Sarah pulled the microfiche from the machine and walked back to the clerk's desk. She gave the clerk the microfiche. The clerk handed Sarah her driver's license.</p>
+<p>"Ma'am, did you find everything you needed?" the clerk asked.</p>
+<p>"Most of it," Sarah answered. "But I still need to find out if this person is still alive."</p>
+<p>"Then you'll need to check out the death index."</p>
+<p>"I did a search online and found nothing."</p>
+<p>"Online doesn't have everything. We have an internal database. You'll need to do the search here," the clerk said while pointing to a row of computers.</p>
+<p>"All right. Thanks for your help."</p>
+<p>"No problem," the clerk replied.</p>
+<p>Sarah walked to a computer labeled birth, marriage, and death indexes. She typed in Imogene's name and ran a search for her death. Nothing came up.</p>
+<p>Sarah walked back to the clerk. "Miss, I couldn't find anything."</p>
+<p>"Did the person die in Santa Clara County?"</p>
+<p>"I don't know."</p>
+<p>"Well, the index only covers Santa Clara County. The person could have died elsewhere and we'd have no record of it."</p>
+<p>"Okay, I guess that makes sense. But I still need to find out if she's alive."</p>
+<p>"How old is she?"</p>
+<p>"She's a hundred years old."</p>
+<p>"Wow, that's incredibly old. I seriously doubt she's still around."</p>
+<p>"Yeah, it's probably unlikely. But do you have any suggestions on how I can find out?"</p>
+<p>"Did you get the woman's name from the property records I gave you?"</p>
+<p>"Yes," Sarah replied.</p>
+<p>"When did she buy the property?"</p>
+<p>"1934."</p>
+<p>"Okay, was she married or single?"</p>
+<p>"Single."</p>
+<p>"How old was she when she purchased the property?"</p>
+<p>"She was 22."</p>
+<p>"Well, let's think about this for a minute. Back then, almost all women got married. She probably got married and changed her name. That's why you couldn't find her. If she were married in Santa Clara County, you should be able to find her by doing a search for marriages."</p>
+<p>Sarah beamed. "Thanks for your help. I really appreciate it."</p>
+<p>"You're welcome," the clerk replied.</p>
+<p>Sarah walked back to the computer and ran a search. The name Imogene Kalett came up with a man's name. Imogene Mabel Kalett had married Harvey Anthony Belford on September 24, 1936.</p>
+<p>Sarah wanted to scream. This couldn't be right. Harvey Belford was the sheriff and her grandmother Mabel had been his wife. How could she be the same person who owned 731 Yoltin?</p>
+<p>She didn't even bother updating the deed with her married name. And what really didn't make sense is that Gerdie's note said that 731 Yoltin had killed Mabel.</p>
+<p>Mabel had died with a bullet shot in the back of her head. There was no way that she could have committed suicide. Perhaps, the couple who sold the property to Mabel had killed her. Sarah did a search for the couple's names. Sarah groaned. The husband Robert died in 1937 and his wife died in 1939. They both died years before Mabel's murder. So, they couldn't be Mabel's killer either.</p>
+<p>Sarah pulled out her notepad from her bag. Gerdie's anonymous letter to the Attorney General's office was written in March 1948. Gerdie had claimed that she knew who Mabel's killer was. The bank had owned the property at the time. The killer had to be connected with the bank.</p>
+<p>Sarah did a search on her phone. After a few minutes, Sarah found one record. The bank had shut down in August 1952. Unfortunately, no one's name appeared with the bank's closure. Sarah walked back to the clerk's desk. "Miss, can you help with me finding information about a bank?"</p>
+<p>"Do you have its address?"</p>
+<p>"Do you mean the address of the property it owned?"</p>
+<p>"No, I mean the actual physical address of the bank."</p>
+<p>"No, I don't have that information."</p>
+<p>"What was the name of the bank?"</p>
+<p>"Bank of E-z-i-e."</p>
+<p>The clerk punched some keys in her computer. After she was done, she looked at Sarah. "I double-checked our records. Unfortunately, we don't have anything on that bank. The county apparently didn't require them to register with us. However, you could check with the Secretary of State or Federal Reserve System. You might be able to get some old records. I'm not sure how long they keep their records, but it might be worth a try."</p>
+<p>"Do those agencies have local offices in San Jose?" Sarah asked.</p>
+<p>The clerk shook her head. "For the Secretary of State's office, you'll need to go to Sacramento. For the feds, the closest office is in San Francisco. But I'm not sure if they have anything there."</p>
+<p>Sarah's face fell. San Francisco was at least an hour drive and Sacramento was a two-hour drive.</p>
+<p>"Thanks for your help."</p>
+<p>"You might want to try calling the offices first. I can write down their phone numbers if you'd like."</p>
+<p>"That would be great."</p>
+<p>The clerk scribbled the numbers on an index-sized yellow card and handed it to Sarah. Sarah looked at the card and thanked the clerk. Sarah left the county recorder's office and walked to the lobby. She sat down on a bench and called the Secretary of State's office. After being on hold for 10 minutes, a female representative with a crusty voice answered the call. Sarah explained that she wanted records for the bank.</p>
+<p>"Ma'am, you'll need to order the records either in-person or by mail."</p>
+<p>"If I come up, can I get the records today?"</p>
+<p>"Sorry ma'am, it doesn't work that way," the rep replied. "Someone has to locate them and that takes time. If the records exist, it will take at least a few days."</p>
+<p>Sarah needed the records now. "Is there a way to expedite the process?"</p>
+<p>"I'm afraid not. Are you planning to come here?"</p>
+<p>Sarah sighed. "I might. What are your hours?"</p>
+<p>The rep gave Sarah the information. "Is there anything else I can help you with?"</p>
+<p>"No, I'm good."</p>
+<p>The rep said good-bye and ended the call. Sarah called the Federal Reserves. A clerk told her that the records would need to be ordered. It would take about three weeks to process them. Sarah ended the call in disgust.</p>
+<p>Sarah wanted to cry. She couldn't get the records in time. How could the government be so incompetent? This was the age of the Internet and not the 1990s. Why wasn't everything online?</p>
+<p>Sarah looked at her phone. It was 10:42 a.m. She took a deep breath and exhaled. There was no pointing hanging out at the county's building. She needed to talk to Jack and tell him what she had found. She put her phone in her purse and dejectedly headed back to her car.</p>
+<p>***</p>
+<p>When Sarah got into her car, Jack was slumped in the front seat. He was snoring loudly. She shook his shoulder. "Jack, wake up."</p>
+<p>Jack stretched his arms, yawned, and rubbed his eyes. "Sorry, I fell asleep. I didn't get enough rest last night."</p>
+<p>"No problem," Sarah replied.</p>
+<p>"Well, what did you find out?</p>
+<p>Sarah told Jack about Mabel owning the property and the bank foreclosure. "Do you remember if Mabel owned property?"</p>
+<p>"Yeah, she might have mentioned something, but she never told me the address. And I didn't think it was important to ask her."</p>
+<p>"What about the bank? Have you heard of the Bank of Ezie?</p>
+<p>"I don't remember the bank. But the name Ezie sounds familiar."</p>
+<p>"Did Ezie give you the counterfeit money?"</p>
+<p>Jack looked at Sarah with a dumbfounded expression. "What counterfeit money?"</p>
+<p>"Yesterday, you gave me some counterfeit bills. Told me not to show them to the lady at the coin shop."</p>
+<p>"No, that money didn't come from anyone named Ezie or a bank. I already told you before that the counterfeit money came from a gang of thieves. They were busted before Mabel's death."</p>
+<p>Sarah sighed. "Then we're at a dead end. We've run at out clues. I couldn't find anything about the bank and it will take too long to order records. We're not going to meet your deadline."</p>
+<p>Jack groaned. "There has to be another way. How about if we look at old newspaper articles?"</p>
+<p>"Old newspaper articles? I wouldn't even know where to find them."</p>
+<p>"Can't you do a search?"</p>
+<p>"That sounds like a good idea."</p>
+<p>Sarah pulled out her phone and tapped some buttons. After a couple minutes, she turned to Jack. "The library has an archive of old San Jose newspapers. We need to go back and check through them."</p>
+<p>"Sounds good. Can you drop me off at the law firm, again? I want to pick up a couple things."</p>
+<p>"For what?"</p>
+<p>"This Ezie name sounds familiar and I want to check out something."</p>
+<p>"I thought you had given me everything you had."</p>
+<p>"I gave you all the investigative reports and articles. But Ezie was never a part of it."</p>
+<p>"Fine, I hope you find something useful. By the way, do you have any bagels and juice left?"</p>
+<p>Jack frowned. "Sorry, I ate the bagels and drank the juice."</p>
+<p>Sarah rubbed her stomach. "That's okay. I'll get something later."</p>
+<p>Sarah turned on the car's ignition and drove to the law firm's building. Sarah turned to Jack.</p>
+<p>"Do you want me to wait?" Sarah asked.</p>
+<p>"No, I'll meet you at the library."</p>
+<p>"All right. I'll see you in a bit."</p>
+<empty-line/>
+<p>CHAPTER TEN</p>
+<empty-line/>
+<p>Friday, November 23, 2012 1:48 p.m.</p>
+<empty-line/>
+<p>Sarah's eyes hurt and her back ached. For the past three hours, Sarah had been reviewing microfilm of San Jose newspapers in the library's basement from October 1947 to August 1952. She hadn't found one reference to the bank. Not one article about why the bank had closed. It was as if the bank had never existed.</p>
+<p>The only thing she'd been able to verify that Jack had told the truth about the counterfeit money. San Jose's most notorious gangsters had been arrested for counterfeiting. None of them were associated with a bank. After a San Jose jury convicted them, they were sent to prison for 20 years.</p>
+<p>Jack tapped Sarah on the shoulder. Sarah turned around. Jack beckoned her to follow him into the hallway.</p>
+<p>Sarah gathered her belongings and pulled out her phone from her purse. After they were in the hallway, she raised the phone to her ear.</p>
+<p>"What took you so long?" Sarah asked.</p>
+<p>"Told you I had to check out some things about Bank of Ezie."</p>
+<p>"Well, I hope you found something, because I haven't."</p>
+<p>"No, nothing on the bank. But I found an old receipt for steak I had bought from a butcher named Ezie. Ezie was a young fella and he used to have the best steaks in downtown San Jose."</p>
+<p>Jack pulled the receipt from his left pants' pocket and handed to Sarah. Sarah looked at it. The receipt read:</p>
+<empty-line/>
+<p>November 12, 1947</p>
+<p>Three pounds of steak - $2.07</p>
+<p>Total - $2.07</p>
+<p>Ezie's Meats and Poultry</p>
+<empty-line/>
+<p>"Well, the receipt's interesting, but I don't see what this has to do with the bank."</p>
+<p>"Maybe Ezie was connected to the bank somehow. You might find out something about him if you look in the newspapers. I know he used to advertise a lot."</p>
+<p>Sarah groaned. "Do you remember his last name?"</p>
+<p>"No, I don't."</p>
+<p>"I guess I can try looking for his ads, but I really don't think I'm going to find anything."</p>
+<p>"Well, it's worth a try," Jack argued.</p>
+<p>"All right," Sarah said while her stomach made a loud growling sound.</p>
+<p>"Are you hungry?" Jack asked. "I got some more bagels and orange juice from the law firm."</p>
+<p>"Yeah, I'm famished."</p>
+<p>Jack handed Sarah a bag. Sarah took out two onion bagels and a pint of juice. She wolfed down the bagels and drank the juice. Sarah rubbed her stomach. She felt a lot better.</p>
+<p>Jack smiled. "Glad, I got you something you liked."</p>
+<p>"Thanks. It was good."</p>
+<p>Jack lowered his eyes. "I know you're still mad at me about the doc review. But I found out that it shut down."</p>
+<p>Sarah looked at Jack with surprise. "What do you mean it shut down? The project was supposed to last through the end of year."</p>
+<p>"This morning, a doc reviewer found a text from the girlfriend of TrueAge Innovations' CEO's cousin Benny. In the text, the girl told Benny that she had hacked into Poshlin's computers and gotten the info about the dolls' technology. There was no point in continuing the doc review. Poshlin and TrueAge are meeting later this afternoon to discuss settlement."</p>
+<p>Sarah arched her eyebrows. "Text from the cousin? How did we get the text? Did he work for TrueAge?"</p>
+<p>"I don't know. But apparently, the text was forwarded to the CEO. She thought no one would find out about it because she deleted it from her phone."</p>
+<p>"I guess she didn't know that we can recover deleted texts."</p>
+<p>"Apparently not."</p>
+<p>Sarah frowned. "I just can't believe that she lied about not knowing anything."</p>
+<p>"Sarah, don't look so glum. People lie."</p>
+<p>Sarah sighed. "I guess they do. Anyway, I really should get back to work."</p>
+<p>"Well, there's one more thing I wanted to tell you."</p>
+<p>"What is it?"</p>
+<p>"There's a rumor that TrueAge is working out a deal with that senior rights advocate Molly Pamphey."</p>
+<p>"What's the deal?" Sarah asked.</p>
+<p>"TrueAge will come out with a new line of dolls that age gracefully into fit active seniors."</p>
+<p>"I guess everyone's happy."</p>
+<p>"Indeed, they are," Jack replied.</p>
+<p>"Thanks for the info but let me get back to this search."</p>
+<p>"All right. Is there anything I can help with?"</p>
+<p>"No, I'm just reviewing the newspaper articles and that's it."</p>
+<p>"Mind if I wait out here?"</p>
+<p>"No problem," Sarah replied.</p>
+<p>Sarah went to her desk in the library. She pulled out the rolls of microfilms for old newspapers.</p>
+<p>Sarah inserted the roll for late November 1947 into the viewing machine. Sarah carefully looked for Thanksgiving ads.</p>
+<p>After fifteen minutes, she found an ad from Ezie's Meats and Poultry. The ad boasted that Ezie had the best turkey in San Jose. The turkeys were bred and raised locally. At the bottom of the ad was Ezie's name - Ezie F. O. Bank.</p>
+<p>Sarah gasped. She pulled out her notebook and checked her notes. Gerdie had mentioned that sometimes you have to go backward to move forward. Mabel's killer wasn't someone connected to the Bank of Ezie. On the contrary, it was Ezie Bank, San Jose's premiere butcher.</p>
+<p>Sarah pulled out her phone and did a search. The old man was still alive. He was 91 years old and he was living in Los Gatos.</p>
+<p>Sarah printed out the ad and gathered her belongings. She walked to the hallway and found Jack standing next to the stairwell. Sarah touched him on the shoulder and smiled. "Ezie's the killer."</p>
+<p>"How do you know that?"</p>
+<p>Sarah pulled her phone out and explained to him what she had found.</p>
+<p>Jack beamed. "Good work, counselor."</p>
+<p>"Now, you can go to the Kingdom of Remissions."</p>
+<p>"No, not yet," Jack replied. "We need to confront him and get him to confess."</p>
+<p>"Confess? I thought all we needed was to find the killer's name."</p>
+<p>"A confession will seal the deal," Jack argued. "We have no idea what Ezie's motive was. And on top of this, all we have is info from a crazy woman and nothing more. The Kingdom of Remissions may not accept it."</p>
+<p>Sarah's face fell. "I guess you're right. We can visit Ezie Bank. Does the confession have to be writing?"</p>
+<p>"No, there's no rule like that. If I tell the Kingdom of Remissions what Ezie said, that should be enough."</p>
+<p>"You're sure we don't need to need any hard evidence like a written statement, or a recorded confession?" Sarah asked.</p>
+<p>"I don't think so. But if you could get one, that would be good."</p>
+<p>"Well, I doubt that Ezie would sign a statement. But my phone has a recorder. Maybe I could record the old man."</p>
+<p>"Sounds like a great plan."</p>
+<p>"Let's leave now."</p>
+<p>Sarah and Jack walked upstairs to the library's main floor and left the library.</p>
+<empty-line/>
+<p>CHAPTER ELEVEN</p>
+<empty-line/>
+<p>Friday, November 23, 2012 2:39 p.m.</p>
+<empty-line/>
+<p>Jack and Sarah were stopped at a light on Blossom Hill Road. "How far are we from Ezie's house?" Jack asked.</p>
+<p>"About fifteen minutes," Sarah answered. "Jack, there's one thing that's bothering me about Ezie's case."</p>
+<p>"What?"</p>
+<p>"I don't understand how Gerdie would have known that Ezie killed Mabel."</p>
+<p>"Maybe he told her."</p>
+<p>"Why would he do that?"</p>
+<p>"Maybe they were lovers."</p>
+<p>"I don't know about that. Not everyone has an affair. Plus, I don't know how they would have known each other in the first place. His butcher shop was in San Jose and she was in Gilroy."</p>
+<p>"Well, the county's only psych ward in San Jose. Maybe they were both there at the same time," Jack replied.</p>
+<p>"Hmm, I guess that's possibility. Maybe they became friends and Ezie confided in her. And because Gerdie was nuts, no one believed her."</p>
+<p>"Yeah, that makes a lot of sense," Jack said while stroking his chin.</p>
+<p>"Glad that we're in agreement." Sarah turned down Los Gatos Boulevard and drove a few blocks until she made a right turn on Main Street. She made another right turn and drove a few blocks until she parked in front of Ezie's home.</p>
+<p>Sarah pulled out her phone from her purse. It was 2:49 p.m. They had 20 minutes to meet Jack's deadline to get the information they needed for the Kingdom of Remissions. She and Jack got out of car and walked to Ezie's door.</p>
+<p>Sarah knocked on Ezie's door. A stooped-shouldered elderly man with a bulbous nose and wiry, curly white hair answered the door. "Can I help you?"</p>
+<p>"Sir, are you Mr Ezie Bank?" Sarah asked.</p>
+<p>"Yes, what do you want?"</p>
+<p>"My name is Sarah Claysworth and I'm an attorney. I'd like to talk to you. Mind if I come in?"</p>
+<p>"My house is not ready for company," the man protested.</p>
+<p>"I don't really care about that. Do you have a minute to chat?"</p>
+<p>"About what?"</p>
+<p>Sarah crossed her arms and pretended to shiver. "Can I tell you once I'm inside? I get cold really easily."</p>
+<p>"You said you're a lawyer."</p>
+<p>Sarah nodded.</p>
+<p>"All right. I've got a few minutes," Ezie said while opening the door. Sarah and Jack walked in. Ezie's small living room was practically barren. It had only a leather couch, a couple of folding chairs, a small wooden table, and throw rug. Ezie sat down on the couch. Sarah sat down in one of the folding chairs and Jack sat down next to Sarah.</p>
+<p>"What did you want to talk about?"</p>
+<p>"I was wondering if you'd allow me to record our conversation?"</p>
+<p>"Why?"</p>
+<p>"Because I'm trying to gather information about the murder of Mabel Belford."</p>
+<p>"No, I don't feel comfortable doing that."</p>
+<p>Jack whispered in Sarah's ear, "Do it anyway."</p>
+<p>Sarah wanted to tell Jack that it was illegal to record someone in California in their home without their permission. Instead, she pretended not to hear him. "Mr Bank, that's okay. We don't need to record anything."</p>
+<p>"Good. What did you want to know?"</p>
+<p>"Do you know who Mabel Belford was?"</p>
+<p>"Yes, indeed. Mrs Belford was the sheriff's wife."</p>
+<p>"That's correct. What do you remember about her?"</p>
+<p>"She was a real nice lady. But someone killed her after she had her baby. First, they said it was that Negro fella, who was the baby's father. Then, they said it wasn't him. They never found Mrs Belford's killer."</p>
+<p>"Who do you think killed her?"</p>
+<p>"Miss, I have no idea. You're talking about something that happened a long time ago. And I'm not a policeman. I'm just a simple fella who used to own a butcher shop."</p>
+<p>"Did you know Mrs Belford personally?"</p>
+<p>"She was a customer of mine. She'd come in to buy meat and poultry. And that was it."</p>
+<p>"Did you see her outside of your shop?"</p>
+<p>Ezie looked shocked. "Of course not, she was a married woman."</p>
+<p>Jack whispered in Sarah's ear. "Ask him again about their relationship."</p>
+<p>Sarah nodded and looked at Ezie. "Are you sure that you didn't have a relationship with her?"</p>
+<p>"Absolutely not."</p>
+<p>"Mr Bank, I think you know who killed Mrs Belford."</p>
+<p>"Lady, I don't know nothin' about the killer. If I did, don't you think I would have went to the police years ago?"</p>
+<p>Jack whispered. "Tell him that Gerdie Strivers told you differently."</p>
+<p>Sarah nodded. She hated lying, but maybe that was the only way she could find out the truth.</p>
+<p>"That's not what Gerdie Strivers told me."</p>
+<p>"Gerdie Strivers? Anyone who'd believe Gerdie is a fool."</p>
+<p>"Why is that?"</p>
+<p>"Because Gerdie was a nut case. Always in and out of the hospital. Hearing voices and seeing things."</p>
+<p>"Did you know Gerdie Strivers?"</p>
+<p>Ezie's face reddened. "Not personally. But everyone knew that Gerdie had issues."</p>
+<p>"Did you know her husband?"</p>
+<p>"Husband? Never met the man."</p>
+<p>"Did she shop in your store?"</p>
+<p>"Heck no. The lady lived in Gilroy."</p>
+<p>"How do you know that Gerdie lived in Gilroy?"</p>
+<p>"Heard it from other folks."</p>
+<p>"Isn't true that you and Gerdie met in the psych ward?"</p>
+<p>"What the hell are you talking about? I ain't ever been to no looney bin."</p>
+<p>"Mr Bank, don't lie to me. I know you and Gerdie were in the hospital together."</p>
+<p>Ezie fidgeted. "That's a damn lie. I never even met the woman."</p>
+<p>"You told Gerdie that you killed Mabel Belford, didn't you?"</p>
+<p>"That's a lie. I never told Gerdie nothin'."</p>
+<p>"Mr Bank, stop lying. The truth is that you killed Mabel."</p>
+<p>"I didn't kill the lady. And I never talked to Gerdie. Get out of my house, now!" Ezie hollered.</p>
+<p>Jack whispered in Sarah's ear. "Hold your ground, counselor."</p>
+<p>"I'm not leaving, because Gerdie is on her way now," Sarah lied.</p>
+<p>"Lady, are you crazy? Gerdie died years ago. Went to her funeral and saw them laying her into the ground."</p>
+<p>Sarah eyes widened. "Mr Bank, why would you go to a funeral of a woman that you didn't know?"</p>
+<p>Ezie's eyes darted around nervously. "I misspoke. I meant I heard about her funeral."</p>
+<p>Sarah grabbed her stomach. "Your lying is making me sick. You lied about not knowing Gerdie. You lied about not killing Mabel. You lied about everything. Tell the truth, now."</p>
+<p>Ezie clenched his teeth. "I didn't kill the sheriff's wife. I didn't do it."</p>
+<p>"If you didn't do it, then who did?"</p>
+<p>"I can't tell you."</p>
+<p>"Mr Bank, obstructing justice is a crime. Just say who did it."</p>
+<p>Ezie glared at Sarah. "I don't know and that's the God's honest truth."</p>
+<p>Jack nudged Sarah. "The old bastard is lying."</p>
+<p>Sarah lowered her eyes and calmed herself before speaking again. "Sir, I believe that you had nothing to do with Mabel's death. I'm just sorry about the pain that she had to go through. You know that she was knifed more than a dozen times before she died."</p>
+<p>Ezie raised his eyebrows. "Knifed? I thought she died by a bullet."</p>
+<p>"Come to think about it, Gerdie did mention a gun."</p>
+<p>"Yeah, it was a gun. But they never found it."</p>
+<p>"Do you know what happened to the gun?"</p>
+<p>"No, I don't. I told you before Miss, I don't know nothin'."</p>
+<p>Jack whispered. "Tell him you're going to get a DNA test."</p>
+<p>Sarah sighed. She had no idea if a DNA test on a case from 65 years ago was even possible. And she didn't know if the police still had the bullet that killed Gerdie. But hell, she was good at bullshitting. Why not pretend that a DNA test was in the works? Sarah clasped her hands and looked at Ezie directly in the eyes. "Mr Bank, you wouldn't mind volunteering for a DNA test?"</p>
+<p>"DNA test for what?" Ezie asked.</p>
+<p>"To test your DNA against the bullet that killed Mabel."</p>
+<p>Ezie's face became twisted. "No, there's no need for that. I'm innocent."</p>
+<p>"If you're innocent, your DNA won't be on the bullet that killed Gerdie. It's pure and simple. Can I call the police and tell them that you want to consent?"</p>
+<p>"You can't get a DNA test from a bullet."</p>
+<p>"Couldn't back in 1947. But with today's technology, you can get DNA from anything. Mr Bank, will you agree to take the test?"</p>
+<p>Ezie scratched his head. "Hell no, I'm not agreeing to no damn test."</p>
+<p>"Well, then they'll just get a court order for the test. And if they search your house, I bet they'll find that gun that's missing."</p>
+<p>Ezie exploded. "They won't find nothin'. Just leave me the hell alone."</p>
+<p>"The gun won't matter when your DNA comes back as a match."</p>
+<p>Ezie faltered. "I -"</p>
+<p>"You killed Mabel Belford, didn't you? Just admit it."</p>
+<p>Ezie sighed and closed his eyes. "Dammit, I'm old man. It happened so long ago."</p>
+<p>"You killed Mabel Belford, didn't you?"</p>
+<p>Ezie's face fell. He stared into space for a few seconds. "Yeah, I killed her. I wish I hadn't, but I can't change the past."</p>
+<p>Sarah felt damn good. She had actually gotten Ezie to confess. Not bad for someone who had to take criminal law twice in law school. But she still needed to find out why the old bastard had done it.</p>
+<p>"Why did you kill Mabel Belford?"</p>
+<p>"Because -"</p>
+<p>"Because what?"</p>
+<p>"Because I couldn't take it no more. She'd come into the shop. She was beautiful and tall. Perfect like a goddess."</p>
+<p>"Did you have a crush on her?"</p>
+<p>"Lady, it was more than a crush. I wanted her more than anything else in life, but Mabel was nine years older and married. I didn't have a chance. But then -"</p>
+<p>"But then what?"</p>
+<p>"She got pregnant. Thought it was the sheriff's baby. And right then, I knew that Mabel could never be mine. Then the baby turned out to be that Negro's. Made me crazy. How could she let him touch her? It was so wrong."</p>
+<p>"Then what happened?" Sarah asked.</p>
+<p>"The sheriff had the county take Mabel's baby away. He threw Mabel out of their house. She didn't have no family. She wounded up staying in a rooming house in downtown San Jose. I broke into Mabel's room while she was asleep and pulled a gun on her. Drove her to a field. Told her I loved her and we could be together. She didn't want me. She wanted her baby and her husband back. Made me angry. Told her to turn around and then I shot her in the head. Couldn't believe what I had did. I killed my goddess. My dream woman.</p>
+<p>"After I killed Mabel, I drove to the Santa Cruz Mountains and buried my gun in a cave near the river. After that, I checked myself into the county's psych ward in San Jose. Told them I was hearing voices. It wasn't hard to fake, because my grandfather used to hear them, also."</p>
+<p>"That's where you met Gerdie," Sarah interjected.</p>
+<p>Ezie nodded. "Exactly. Gerdie and me became friends. I don't know why I trusted her, but I just did. I told Gerdie what had happened in bits and pieces. Didn't think she'd be able to put together, but she did. But no one believed her, not even her husband when she gave him hints."</p>
+<p>Sarah felt her phone ringing in her sweater pocket. She tried to ignore her phone, but it kept on ringing. She pulled her phone out of her pocket and answered it. A raspy female voice wanted to order a veggie deluxe pizza. Sarah told the caller she had the wrong number.</p>
+<p>She looked at the phone's time and smiled. It was 3:12 p.m. They had met Jack's deadline. Now, he could go to the Kingdom of Remissions.</p>
+<p>Sarah turned to Ezie. "Do you know who I am?"</p>
+<p>"You're a lawyer."</p>
+<p>"No, I'm more than that. I'm Mabel Belford's granddaughter"</p>
+<p>"I figured that. You remind me a lot of her. You both move the same and talk the same."</p>
+<p>Jack abruptly got up from his seat and got behind Ezie. His hands moved toward Ezie's throat.</p>
+<p>Sarah jumped from her chair and pushed Jack away from Ezie. "Jack, leave Ezie alone. If you hurt him, you won't get into the Kingdom of Remissions."</p>
+<p>Ezie gave Sarah a strange look. "Lady, are you okay? Who are you talking to?"</p>
+<p>Sarah ignored Ezie. He didn't need to know the truth.</p>
+<p>Jack glared at Sarah. "Sarah, I can't believe how naive you are. There is no Kingdom of Remissions. I made it up." Jack shouted.</p>
+<p>Sarah's face turned ashen. "Okay, even if there's no kingdom, killing a man is wrong. It's called murder."</p>
+<p>"I'm no murderer," Jack shouted. "I'm a vigilante. Justice deserves to be done. He needs to die just like the others."</p>
+<p>A chill ran down Sarah's spine. "Oh my god, you killed the sheriff and his deputies, didn't you? You jammed the locks in the sheriff's car so he and his partner couldn't get out when the train barreled down the tracks."</p>
+<p>"Damn right, I did. And I'd do it again."</p>
+<p>"And before that, you shot the other deputy in the head and made it look like a suicide."</p>
+<p>"So what? Those bastards killed me and they deserved what they got. And now it's time for the scum who killed Mabel to die."</p>
+<p>Jack's hands moved within an inch of Ezie's throat. Sarah lunged at Jack and jumped on top on him.</p>
+<p>Jack fell to the floor. They tussled. Sarah pinned him to the floor.</p>
+<p>Jack looked up at Sarah. "Let me kill the old bastard. For God's sake, he killed your grandmother."</p>
+<p>"No, the killing has to stop," Sarah shouted.</p>
+<p>Jack flung Sarah off him and moved toward Ezie.</p>
+<p>Sarah screamed, "You can't kill Ezie. If you do, there will be no justice. And if he dies in this room, I'll be blamed for a crime that I didn't commit. Just leave the old man alone."</p>
+<p>Jack looked up in realization at Sarah, and then back at Ezie. Jack slowly walked back and took Sarah's right hand. "You're right. I need to protect you. You're my only grandchild and I'm so proud of you."</p>
+<p>"Thank you for doing the right thing," Sarah said.</p>
+<p>Jack kissed Sarah's hand and whispered, "I'm leaving now. I'm going to miss you. This is good-bye forever." Jack's presence faded before Sarah's eyes.</p>
+<p>Sarah called out Jack's name. He didn't respond. She looked around and only saw blank space. She had lost her ability to see, hear, or touch Jack.</p>
+<p>Ezie looked at Sarah. "You're just like Gerdie. You can hear and see the spirits."</p>
+<p>Sarah ignored Ezie. She didn't want to tell him that she had lost her special power. She pulled her phone out of pocket, called 9-1-1, and waited for the police to arrive.</p>
+<p>A few minutes later, two police officers drove up in a patrol car. One was an older, tall woman and other was a young, stocky man. Sarah told them about Mabel Belford's murder and Ezie's confession.</p>
+<p>"She's a damn liar," Ezie shouted. "I ain't ever killed nobody in my life. There ain't no way I'd kill the sheriff's wife."</p>
+<p>Sarah looked at the female cop. "Officer, he told me that there was a gun buried in a cave next to the river in the Santa Cruz Mountains. It's the same gun that was used to kill Mabel Belford."</p>
+<p>Ezie's face became twisted. "Don't believe her. She's crazy and sees spirits."</p>
+<p>The female cop looked at Ezie strangely, "Sir, what do you mean by that?"</p>
+<p>"Before you all got here, this lady was talking to her evil spirit friend. According to her, the spirit was going to kill me. But she stopped him somehow."</p>
+<p>"Sir, did you see the spirit?" the female cop asked.</p>
+<p>"No, ma'am. I don't have the special power like she does. She can see him and she calls him Jack."</p>
+<p>The male cop turned to Sarah. "Ma'am, have you seen this evil spirit?"</p>
+<p>Sarah looked at the cop directly in his eyes. "Officer, I don't know anything about an evil spirit."</p>
+<p>"So, you don't have special powers?" the male cop asked, with just a trace of sarcasm.</p>
+<p>"I wish I did, it might make life easier," Sarah answered flippantly.</p>
+<p>The male cop turned to Ezie. "Sir, is this evil spirit here now?"</p>
+<p>"I think you all scared him away. But he might come back later when you people are gone and kill me. You people need to do somethin' so he won't hurt me."</p>
+<p>A few minutes later, the cops took Ezie in for a 5150 mental health hold because they determined he was a danger to himself. After the cops drove away, Sarah got into her car and headed to Egrosita's Coin &amp; Gold Shop to sell Jack's coins and wedding band that he had given her as payment for his case. She had truly earned everything that she was due.</p>
+<empty-line/>
+<p><strong>Epilogue</strong></p>
+<empty-line/>
+<p>Thursday, August 8, 2013 11:02 a.m.</p>
+<empty-line/>
+<p>Two days after Ezie was taken to the psych ward, he died. According to the coroner's report, he died when he hit his head after an accidental fall on the hard linoleum floor. Sarah doubted that Ezie's death was an accident. Jack had to be behind the old man's death. Obviously, no one would believe that a ghost had killed the old man. As a result, she had no choice but to guard her special secret.</p>
+<p>On the flip side, the investigation of the murder of Mabel was reopened. After combing caves in the Santa Cruz Mountains, the police found the murder weapon. Ezie's fingerprints were on the gun. The investigation found that Ezie had killed Mabel.</p>
+<p>The fact that Ezie was her grandmother's murderer didn't ease her guilt about Jack's acts of vigilantism. Jack had killed at least three people and maybe Ezie as well. Did that mean that murder ran through her blood? The thought of it sickened her and made her crazy with worry.</p>
+<p>The only way to keep herself from completely losing her mind was to drown out those thoughts with vodka. For eight days straight, Sarah drank so many bottles of vodka that she lost track. When she woke up covered in her own puke, she knew it was time to change.</p>
+<p>Sarah made a vow to stop drinking. Since that time, she had only given in twice to liquor. She managed to stop after a few drinks. Okay, maybe it was a little more, but at least she was trying to stop. For the last seven-and-a half weeks, she hadn't drank one drop of alcohol. She didn't know how long her sobriety would last. But just maybe if she were lucky, her days of hard drinking were gone forever.</p>
+<p>As for Sarah's former doc review job with TrueAge, Jack had told the truth about the settlement negotiations. TrueAge and Poshlin agreed to a settlement in which Poshlin would receive 50 percent of the net proceeds from dolls' sales. The companies were jointly developing a product of fit senior dolls that would come out on the market later in the year. Senior rights activist Molly Pamphey would be the spokesperson for the new product.</p>
+<p>A few months ago, Sarah had joined a class action against her law school for allegedly misrepresenting its job placement statistics. The class action was moving along, but so far, there had been no settlement.</p>
+<p>In mid-June, Sarah had found a job with benefits - not as a lawyer but working as a union organizer. She was currently working on a campaign to organize doc reviewers. She wanted to help them get health benefits, sick days, and vacation pay. Most had refused to unionize. They were too afraid that they'd lose their jobs. Regardless, she was optimistic that with time and perseverance, Silicon Valley would have its first doc reviewer union.</p>
+<p>Sarah never regained her special power to see Jack. But she didn't need it anymore. She no longer needed to delve into the past. Instead, her life was slowly moving forward in the right direction. Life wasn't perfect, but it was a lot better than it had been in a long time.</p>
+<empty-line/>
+<p>- THE END -</p>
+<p>Hope you have enjoyed the reading!</p>
+<p>Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!</p>
+</section>
+</body>
+<binary id="img_0" content-type="image/jpeg">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
+Iw0veCNitFrF1TucODPVvo40C90VzjdRw28mwx0XMnuceR6hUIAgCAIAgCAIAgJb4InndzAV
+VSa5FidtTqPLRD5LB6gUu0kW/I6XQeSweoE7SQ8jpdB5LB6gTtJDyOl0HksHqBO0kPI6XQeS
+weoE7SQ8jpdB5LB6gTtJDyOl0HksHqBO0kPI6XQeSweoE7SQ8jpdB5LB6gTtJDyOl0HksHqB
+O0kPI6XQeSweoE7SQ8jpdB5LB6gTtJDyOl0HksHqBO0kPI6XQiZBEw7taAVRzb5k4W1ODykT
+FEyAgCAIAgIeNnrt96rhlvtYdUONnrt96YY7WHVDjZ67femGO1h1Q42eu33phjtYdUONnrt9
+6YY7WHVDjZ67femGO1h1Q42eu33phjtYdUONnrt96YY7WHVDjZ67femGO1h1Q42eu33phjtY
+dUONnrt96YY7WHVDjZ67femGO1h1Q42eu33phjtYdUONnrt96YY7WHVDjZ67femGO1h1Q42e
+u33phjtYdUONnrt96YY7WHVDjZ67femGO1h1Q42eu33phjtYdUONnrt96YY7WHVDjZ67femG
+O1h1Q42eu33phjtYdUONnrt96YY7WHVDjZ67femGO1h1Q42eu33phjtYdUYl5uq/09kvzFuf
+PU/u4+B5n6MKH4yt+4ebqv8AT2S/MTz1P7uPgPRhQ/GVv3DzdV/p7JfmJ56n93HwHowofjK3
+7h5uq/09kvzE89T+7j4D0YUPxlb9w83Vf6eyX5ieep/dx8B6MKH4yt+4ebqv9PZL8xPPU/u4
++A9GFD8ZW/cPN1X+nsl+Ynnqf3cfAejCh+MrfuHm6r/T2S/MTz1P7uPgPRhQ/GVv3DzdV/p7
+JfmJ56n93HwHowofjK37h5uq/wBPZL8xPPU/u4+A9GFD8ZW/cPN1X+nsl+Ynnqf3cfAejCh+
+MrfuHm6r/T2S/MTz1P7uPgPRhQ/GVv3DzdV/p7JfmJ56n93HwHowofjK37h5uq/09kvzE89T
++7j4D0YUPxlb9w83Vf6eyX5ieep/dx8B6MKH4yt+4ebqv9PZL8xPPU/u4+A9GFD8ZW/cPN1X
++nsl+Ynnqf3cfAejCh+MrfuHm6r/AE9kvzE89T+7j4D0YUPxlb9w83Vf6eyX5ieep/dx8B6M
+KH4yt+4ebqv9PZL8xPPU/u4+A9GFD8ZW/cPN1X+nsl+Ynnqf3cfAejCh+MrfuHm6r/T2S/MT
+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
+h/3Ihstd+2eOdwnYU5Bvty6hINeQVF/qRZuoS/xVaSxw7KfzRaf1ZYymL1RRgafGS3HFgPLi
+2AO33rN7eNCrbVJclE5vzTX1bT9ZtKK9aVVtLrhJ4/XkWaOPRslZtaHSdp+UIDTWLHgcffu7
+pss5u+jJylWXZ9eHL4HLU6WytW3jb0tNm7vCXZtSS3uXGXLHvMquV/E57TkTIPFtiZI3hB3D
+PkdN1qKc962rtvOcfrxPRb627DWdJpxhuqKmsLil6vLPuMmWqPQggCAIAgCAIAgCAIAgIWsY
+3ctY0b9dhsjbfMhGnCHGKSIkJkPAzn8hvPry6plkOzhx4LiWfVIvTY5uNx0Ty+7I2Fz2jlHG
+fnOPo5LOsHThV7Wq+EVn4vuOW2ujeV7FWFhF71aSg2uUYv2m+nDgXWrWip1oqkDeGOFgY0ew
+LEqTlVm5y5s6OztKdjbwtqKxGCSX6EwADoAPqUDIUVHkhwtB4g1u/p25pllFCKe8lxPUJHhA
+PUA/WEKOKlzQIBGzgCPaEDipLDQ2G++w39OyDdWc44gADfYAb9dh1QKKXJDhbvxcLd/TtzTL
+5FNyOd7HEbAkEgbjoUKuKby0eoVCAIAgCAclQDkgHJAOSAckA5IByQDkgHJAPvQDkgHJAOSA
+ckA5IByQDkgHJAOSAckA5IByQDkgHJAOSAKoCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgC
+AIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCA//2Q==</binary>
+</FictionBook>

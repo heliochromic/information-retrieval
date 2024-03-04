@@ -1,0 +1,8 @@
+.gitignore
+.idea
+.venv
+/books/
+/gutenberg/
+/texts/
+/Dataset/
+/test_data/

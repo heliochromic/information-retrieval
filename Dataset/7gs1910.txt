@@ -1,0 +1,4047 @@
+The Project Gutenberg EBook of Der Erste Theil von Koenig Heinrich dem
+vierten, by William Shakespeare
+#19 in our series by William Shakespeare
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Der Erste Theil von Koenig Heinrich dem vierten
+       King Henry IV, Part I
+
+Author: William Shakespeare
+
+Release Date: April, 2005 [EBook #7933]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on June 2, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBERG EBOOK KOENIG HEINRICH DEM VIERTEN, ERSTE ***
+
+
+
+
+Delphine Lettau and Mike Pullen
+
+
+
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 7-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg.spiegel.de/.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.spiegel.de/ erreichbar.
+
+
+
+
+Der Erste Theil von Koenig Heinrich dem vierten
+
+William Shakespeare
+
+Mit dem Leben und Tod von Heinrich Percy, genannt Hot-Spur.
+
+Uebersetzt von Christoph Martin Wieland
+
+
+Personen.
+
+Koenig Heinrich der vierte.
+Heinrich, Prinz von Wales, und Johann, Herzog von Lancaster,
+Soehne des Koenigs.
+Worcester, Northumberland, Hot-Spur, Mortimer, Erzbischoff von York,
+Dowglas, Owen Glendower, Sir Richard Vernon und Sir Michell,
+Feinde des Koenigs.
+Westmorland, Sir Walter Blunt und Sir John Falstaff, von des
+Koenigs Parthey.
+Poins, Gadshill, Peto und Bardolph, Falstaffs Cameraden.
+Lady Percy.
+Lady Mortimer, Glendowers Tochter.
+Die Wirthin Quikly.
+Ein Scheriff, verschiedne Bediente im Wirthshaus, Fuhrleute,
+Reisende, und andre stumme Personen.
+
+Die Scene liegt in England.
+
+
+
+
+Erster Aufzug.
+
+
+
+Erste Scene.
+(Der Hof in London.)
+(Koenig Heinrich, der Herzog von Lancaster, der Graf von
+Westmorland, und andre Lords treten auf.)
+
+
+Koenig Heinrich.
+Von Sorgen erschuettert und von blassem Kummer abgehaermt, finden wir
+endlich den Augenblik, wo der geschrekte Friede wieder zu Athem
+kommen kan, um in abgebrochenen Accenten von neuen Arbeiten zu
+reden, die an weit entfernten Ufern unsern Muth beschaeftigen sollen.
+Nicht laenger soll diese Erde das Blut ihrer eignen Kinder trinken,
+nicht laenger einheimische Zwietracht ihre Felder verheeren, und
+mit dem eisernen Tritt des Kriegs ihre bluehenden Auen zerstampfen.
+Diese gegeneinander ruekende Schlacht-Ordnungen, die gleich den
+Meteoren eines witternden Himmels, alle von einerley Natur, von
+einerley Ursprung, noch kuerzlich mit der ganzen Wuth eines
+Buergerkrieges auf einander stiessen, sollen nun in gleichlauffenden
+Linien, in schoener eintraechtiger Ordnung, einen Weg ziehen; nicht
+laenger sollen Brueder gegen Brueder, Freunde gegen Freunde stehen;
+nicht laenger der moerdrische Stahl, gleich einem uebeleingescheideten
+Messer, seinen eignen Herrn verwunden.  Nein, meine Freunde; zu
+jenem geheiligten Grabe Christi, unter dessen heilbringendem Creuz
+wir zu streiten geschworen haben, wollen wir mit unserm Englischen
+Kriegsheer ziehen, um diese Unglaeubigen aus jenen heiligen Gefilden
+zu treiben, ueber welche die gesegneten Fuesse gegangen sind, die vor
+vierzehnhundert Jahren zu unserm Heil an das bittre Creuz genagelt
+worden sind.  Jedoch dieses unser Vorhaben ist schon ein Jahr alt;
+es ist unnoethig euch zu sagen, dass wir gehen wollen, und wir sind
+izo nicht desshalb zusammen gekommen.  Lasst mich also von euch
+vernehmen, mein geliebter Vetter von Westmorland, was unsre Raths-
+Versammlung gestern wegen dieser wichtigen Unternehmung geschlossen
+hat.
+
+Westmorland.
+Gnaedigster Herr, man betrieb diese Geschaefte mit grossem Eifer, und
+es wurden verschiedne Ueberschlaege der Unkosten entworfen: Als ein
+ganz unverhofter Courier, mit verdriesslichen Zeitungen beladen,
+dazwischen kam, von denen die schlimmste war, dass der edle Mortimer,
+der die Leute von Hereford-Schire gegen den aufruehrischen
+Glendower fuehrte, von den Welschen gefangen, und ueber tausend von
+seinen Leuten niedergemezelt worden seyen, an deren todten Koerpern
+die Weiber der Welschen solche Misshandlungen, eine so viehische
+schaamlose Verstuemmlung ausgeuebt, die ohne Erroethen sich nicht
+erzaehlen laesst.
+
+Koenig Heinrich.
+Es scheint also, die Nachrichten von diesem Aufstand haben unser
+Geschaefte nach dem gelobten Lande abgebrochen?
+
+Westmorland.
+Diese von noch mehrern begleitet, thaten es, Gnaedigster Herr; denn
+es kamen noch mehr ungleiche und missbeliebige Zeitungen aus Norden
+an.  Am Kreuz-Erhoehungs-Tag geriethen dieser muthreiche Hot-Spur,
+der junge Heinrich Percy, und Archibald, dieser tapfre und
+ruhmvolle Schotte, zu Holmedon in ein blutiges Handgemeng, soviel
+man aus den Anstalten und der Wut des Angriffs schliessen konnte;
+denn derjenige, der diese Zeitung brachte, eilte mitten in der
+staerksten Hize des Gefechts davon, ohne den Ausgang abzuwarten.
+
+Koenig Heinrich.
+Hier ist ein werther und getreu-eifriger Freund, Sir Walter Blunt,
+der nur eben von seinem Pferd abgestiegen ist, um uns von Holmedon
+die willkommne Nachricht zu bringen, dass der Graf von Douglas
+geschlagen sey.  Zehntausend kuehne Schotten, und drey und zwanzig
+Ritter sah Sir Walter auf den Ebnen von Holmedon in ihrem Blute
+sich waelzen.  Mordak, Grafen von Fife, den aeltesten Sohn des
+geschlagnen Douglas, und die Grafen von Athol, Murry, Angus und
+Menteith hat Hot-Spur gefangen bekommen.  Ist das nicht eine schoene
+Beute?  Eine edle That?  Ha, Vetter, ist es nicht?
+
+Westmorland.
+In der That, ein Sieg, worauf ein Prinz stolz zu seyn Ursach haette.
+
+Koenig Heinrich.
+O warum nennst du dieses Wort, um traurige Gedanken in mir zu
+erregen, und mich zur Suende des Neids zu reizen, dass Milord
+Northumberland der Vater eines so wuerdigen Sohns seyn soll; eines
+Sohns, dessen Namen der Ruhm stets im Munde faehrt; der gleich dem
+hoechsten Baum in einem Hayn, ueber alle andre emporragt; der
+Liebling des Glueks, und ihr Stolz; indess dass ich mit eben dem Blik,
+der seinen Ruhm uebersieht, zuegellose Schwelgerey und Schande die
+Stirne meines jungen Harry besudeln sehe.  O koennt' es bewiesen
+werden, dass irgend eine naechtliche trippelnde Fee unsre Kinder in
+der Wiege verwechselt, und meinen Sohn Percy, den Seinigen
+Plantagenet genennt haette!--Aber lasst mich diesen Gedanken nicht
+nachhaengen--Was denkt ihr Vetter, von dieses jungen Percy Stolz?
+Er behaelt die Gefangenen, die er in diesem Gefechte machte, fuer
+sich zuruek; und laesst mir sagen, dass ich keinen als Mordake, den
+Grafen von Fife, haben soll.
+
+Westmorland.
+Das ist seines Oheims Eingebung, das ist Worcester, der allen
+Anscheinungen nach uebel gegen euch gesinnt ist; der ists, der ihn
+seine Federn aufblaehen, und seinen jungen Kamm gegen eure Hoheit
+emporstraeuben macht.
+
+Koenig Heinrich.
+Ich habe nach ihm geschikt, um ihn desswegen zur Verantwortung zu
+ziehen, und das ist die Ursach, weswegen wir genoethigt sind, unser
+heiliges Vorhaben nach Jerusalem aufzuschieben.  Vetter, wir wollen
+auf naechsten Mittwoch unsern grossen Rath in Windsor versammeln.
+Benachrichtiget die Lords hievon, aber eilet schleunig zu uns zuruek;
+dann es muss noch mehr gesagt und gethan werden, als uns der
+Unwille izt zu sagen erlaubt.
+
+Westmorland.
+Ich gehorche, mein gebietender Herr.
+
+(Sie gehen ab.)
+
+
+
+Zweyte Scene.
+(Ein Zimmer des Cron-Prinzen.)
+(Heinrich, der Prinz von Wales, und Sir John Falstaff treten auf.)
+
+
+Falstaff.
+He, Hal,* was fuer Zeit ists am Tage, Junge?
+
+{ed. * Harry und Hal, sind abgekuerzte Namen, statt Heinrich, so in
+vertraulichem Umgang gebraucht worden.}
+
+Prinz Heinrich.
+Deine loebliche Gewohnheit, dich in altem Sect zu besauffen, zu
+fressen, bis du alle Knoepfe aufthun must, und den ganzen Nachmittag
+auf Baenken zu schnarchen, wikelt deinen Wiz in soviel Fett und
+Schmeer ein, dass du so gar verlernst, recht zu fragen, was du recht
+wissen moechtest.  Was, zum Teufel, hast du mit der Zeit am Tag zu
+thun?  Ja, wenn die Stunden Becher voll Sect waeren, die Minuten
+Capaunen, die Gloken Zungen von Kupplerinnen, die Uhren Schilde von
+H**haeusern, und die schoene Sonne selbst ein huebsches rossiges Mensch
+in feuerfarbem Taft, dann liesse sich noch begreiffen, warum du
+nach der Zeit fragtest.
+
+Falstaff.
+Mein Treu, ihr geht mir nah' zu Leibe, Hal; denn wir andern, die
+vom Beutelschneiden Handwerk machen, und beym Mond und dem
+Silbergestirn herumgehen, und nicht beym Phoebus, "ihm dem edeln
+Knecht so schoen",** aber ich bitte dich, mein suesses Naerrchen, wenn
+du einmal Koenig bist--wozu Gott deine Gnaden (Majestaet wollt' ich
+sagen, denn Gnade wirst du keine haben)--
+
+{ed. ** (he, that wandring Knight so fair)--eine Zeile aus einer
+alten Ballade.
+Warburton.}
+
+Prinz Heinrich.
+Wie?  Keine?
+
+Falstaff.
+Nein, mein Seel, nicht so viel als zu einem Prologus fuer ein paar
+Eyer in Butter noethig ist.
+
+Prinz Heinrich.
+Gut, und wie weiter?  Hey da, rund heraus, keine Umstaende!
+
+Falstaff.
+Sapperment nun dann, Naerrchen, wenn du Koenig bist, so sorge huebsch
+dafuer, dass wir andre ehrlichen Kerle, die ihr Handwerk bey Nacht
+treiben, bey Tage von der Justiz ungeschoren bleiben.  Lass uns der
+Diana ihre Forster bleiben, Ritter vom Schatten, Lieblinge des
+Monds; und lass die Leute sagen, wir seyen Leute von guter
+Auffuehrung, da wir, gleich der See, von unsrer edeln und keuschen
+Gebieterin, dem Mond, gefuehrt werden***, unter deren Schuz und
+Anfuehrung wir--stehlen.
+
+{ed. *** Die Spaesse des Hrn.  John Falstaff sind nicht immer
+uebersetzlich, weil sie sich gar zu oft auf Wortspiele gruenden, wie
+hier, wo (government) und (govern) in einer ganz verschiednen
+Bedeutung genommen werden, die sich im Deutschen nicht recht
+ausdrueken liess, und weswegen auch die Antwort des Prinzen nicht
+recht passt.}
+
+Prinz Heinrich.
+Du hast recht, und dein Gleichniss passt nicht uebel; das Gluek von uns
+andern Mond-Rittern, nimmt immer ab und zu wie die See, weil es wie
+die See vom Mond beherrscht wird.  Zum Exempel, ein Beutel mit Gold
+herzhaft weggeschnappt in lezter Montags-Nacht, wird wieder
+luederlich durchgebracht am Dienstag-Morgen; mit Fluchen und (leg
+ab) gewonnen, mit Jauchzen und (bring herein) durchgewonnen; izt in
+einer so niedrigen Ebbe als der Fuss einer Leiter, und in einem
+Augenblik in einer so hohen Fluth als der Querbalken eines Galgens.
+
+Falstaff.
+Meiner Six, du hast recht, Junge; und ist meine Wirthin in der
+Schenke nicht ein recht angenehmes Mensch?
+
+Prinz Heinrich.
+Wie der Honig von Hybla, alter Junge; und ist nicht ein Wamms von
+Bueffel ein recht angenehmes Stuek Kleidung auf die Dauer?
+
+Falstaff.
+Wie, was, was willt du damit sagen, naerrischer Junge?  Was gehen
+mich deine Sticheleyen und deine Quidditaeten an?  Was, Pestilenz!
+hab' ich mit einem Wamms von Bueffel zu thun?
+
+Prinz Heinrich.
+Und was, schwere Noth!  Hab ich mit meiner Wirthin in der Schenke
+zu thun?
+
+Falstaff.
+Gut, hast du sie nicht oft und viel zum Abrechnen geruffen?
+
+Prinz Heinrich.
+Hab ich dich jemals geruffen, dass du deinen Theil an der Zeche
+zahlen sollst?
+
+Falstaff.
+Nein, die Gerechtigkeit muss ich dir wiederfahren lassen, du hast
+alles dort bezahlt.
+
+Prinz Heinrich.
+Ja, und allenthalben, so lang mein Sekel reichte; und wenn er leer
+war, so hab ich meinen Credit gebraucht.
+
+Falstaff.
+Das ist wahr, und so gebraucht, dass, wenn es nicht vermuthlich waere,
+dass du der vermuthliche Erbe--Aber ich bitte dich, Naerrchen, willt
+du auch noch einen Galgen in England stehen lassen, wenn du Koenig
+bist?  Willt du zugeben, dass ein resoluter Kerl von dem alten
+rostigen grotesken Popanz, Gesez, sich schicanieren lassen soll?
+Haenge mir ja keinen Dieb, wenn du Koenig bist, das sag' ich dir.
+
+Prinz Heinrich.
+Das will ich auch nicht; du sollt sie haengen.
+
+Falstaff.
+Ich?  Unvergleichlich!  Beym Sapperment!  Ich will ein
+vortrefflicher Richter seyn.
+
+Prinz Heinrich.
+Du verstehst mich nicht; ich meyne, du sollst in Person die Diebe
+haengen, und also ein vortrefflicher Henker werden.
+
+Falstaff.
+Gut, Hal, gut; das waer' ein Handwerk das sich zu meinem Humor so
+gut schikte, als bey Hof aufzuwarten, das kan ich dir sagen.
+Schlapperment!  ich bin so schwermuethig wie ein Kater, oder wie ein
+Baer, den man bey den Ohren zieht.
+
+Prinz Heinrich.
+Oder wie ein alter Loewe, oder wie eines Liebhabers Laute?
+
+Falstaff.
+Ja, oder wie die Scharrpfeiffe in einem Lincolnschirer Dudelsak.
+
+Prinz Heinrich.
+Was sagst du zu einem Hasen, oder zur Melancholey einer Koth-Lache?
+
+Falstaff.
+Du hast Gleichnisse von schlimmem Geschmak; und du bist in der That
+der allerunvergleichlichste ausserordentliche Spizbube von einem
+artigen jungen Prinzen--Aber, Hall, ich bitte dich, plage mich
+nicht mehr mit solchen eiteln Dingen; ich wollte zu Gott, du und
+ich wuessten eine Gelegenheit, wo man gute Namen zu Kauff kriegen
+koennte; ein alter Lord aus dem Staats-Rath kriegte mich lezthin
+euertwegen auf der Strasse zu paken, Sir; aber ich gab nicht acht
+darauf was er sagte, ob er gleich sehr weislich sprach, und noch
+dazu auf der Strasse.
+
+Prinz Heinrich.
+Du thatest wol, denn die Weisheit laesst ihre Stimme hoeren auf den
+Gassen, und niemand achtet ihr.
+
+Falstaff.
+O du hast eine verdammte Anziehungs-Kraft, mein Seel, du koenntest
+einen Heiligen verfuehren.  Du hast mir viel boeses gethan, Hal, Gott
+vergeb es dir.  Eh ich dich kannte, Hal, wusst' ich nichts; und izt
+bin ich, wenn einer die Wahrheit sagen wollte, wenig besser als
+einer von den Schlimmsten.  Ich muss diss Leben aufgeben, und ich
+will es aufgeben; bey G***, wenn ich es nicht thue, so sey ich ein
+Hunds**!  Ich will keinem Koenigssohn in der Christenheit zulieb zum
+T** fahren.
+
+Prinz Heinrich.
+Wo wollen wir morgen einen Beutel rauben, Hans?
+
+Falstaff.
+Wo du willt, Junge, ich mache mit; thue ichs nicht, so heisse mich
+einen Hunds** und gieb mir Maulschellen.
+
+Prinz Heinrich.
+Die Bessrung deines Lebens geht gut von statten, wie ich sehe; nur
+erst Stossseufzer, izt Strassenrauben.
+
+Falstaff.
+Wie, Hal, das ist mein Beruf, Hal; es ist einem keine Suende, in
+seinem Beruf zu arbeiten.  He!  wer kommt?  Poins!  Nun werden wir
+hoeren, ob Gadshill etwas ausfuendig gemacht hat--O wenn die Leute
+aus Verdienst selig wuerden, welches Loch in der Hoelle waere heiss
+genug fuer diesen da!
+
+
+
+Dritte Scene.
+(Poins zu den Vorigen),
+
+
+Falstaff.
+Das ist der allgewaltigste Spizbube, der jemals einem ehrlichen
+Mann Halt!  zugeruffen hat.
+
+Prinz Heinrich.
+Guten Morgen, Ned.
+
+Poins.
+Guten Morgen, mein lieber Hal.  Was sagt Monsieur Gewissen?  Was
+sagt Sir John Sect und Zukerhans?  Wie habt ihr's mit einander, du
+und der Teufel, wegen deiner Seele, die du ihm verwichnen Char-
+Freytag um ein Glas Madera-Wein und einen kalten Capaunen-Schenkel
+verkauft hast?
+
+Prinz Heinrich.
+Sir John haelt sein Wort; der Teufel soll seine Waare haben; ihr
+wisst dass er nie kein Spruechwort gebrochen hat; er wird dem Teufel
+geben, was ihm gehoert.
+
+Poins.
+So wirst du verdammt, wenn du dem Teufel dein Wort haeltst?
+
+Prinz Heinrich.
+Sonst wuerde er verdammt, weil er den Teufel betrogen haette.
+
+Poins.
+Aber, meine Jungens, meine Jungens, morgen frueh, um vier Uhr, nach
+Gadshill; es sind Pilgrims auf dem Weg, die mit reichen Opfern nach
+Canterbury, und Kauffleute die mit wohlgespikten Beuteln nach
+London gehen.  Ich habe Visiere fuer euch alle, und ihr habt Pferde
+fuer euch selbst.  Gadshill ligt diese Nacht zu Rochester, ich hab
+auf morgen Nachts ein Nacht-Essen in East-Cheap bestellt.  Es ist
+eine Sache die wir so sicher thun koennen, als schlaffen; wenn ihr
+gehen wollt, so will ich euch eure Beutel mit Cronen voll stopfen;
+wollt ihr nicht, so bleibt da, und der Henker hole euch.
+
+Falstaff.
+Hoert ihr, Yedward; wenn ich daheim bleibe und nicht mit gehe, so
+will ich euch dafuer haengen, dass ihr gegangen seyd.
+
+Poins.
+Willt du das, Vielfrass?
+
+Falstaff.
+Hal, willt du einer von uns seyn?
+
+Prinz Heinrich.
+Wer, ich rauben?  Ich, ein Dieb?  Nein, bey meiner Treu!
+
+Falstaff.
+Du hast weder Ehre noch Tapferkeit im Leibe, wenn du das thust; du
+willt deine guten Freunde so im Stich lassen?  Meiner Six, du hast
+keinen Tropfen koenigliches Blut im Leib, wenn du nicht um zehn
+Schillinge das Herz hast zu ruffen: Halt!
+
+Prinz Heinrich.
+So sey es dann, einmal in meinem Leben will ich ein Tollkopf seyn.
+
+Falstaff.
+Nun, das heisst einmal brav gesprochen.
+
+Prinz Heinrich.
+Nein, geh' es wie es will, ich bleibe zu Hause.
+
+Falstaff.
+Bey G** so will ich ein Verraether seyn, wenn du Koenig bist.
+
+Prinz Heinrich.
+Ich bekuemmre mich nichts darum.
+
+Poins.
+Sir John, ich bitte dich, lass den Prinzen und mich allein; ich will
+ihm solche Gruende vorlegen, dass er gewiss gehen soll.
+
+Falstaff.
+Gut, moegest du den Geist der Ueberredung haben, und er Ohren zu
+hoeren, damit was du redest bewegen moege, und was er hoert geglaubt
+werde.  Lebet wohl indessen, ihr sollt mich in East-Cheap finden.
+
+(Falstaff geht ab.)
+
+
+
+Poins.
+Nun, mein lieber suesser Zuker-Prinz, reitet morgen mit mir.  Ich
+hab einen Spass im Kopf, den ich allein nicht ausfuehren kan.
+Falstaff, Bardolph, Peto und Gadshill sollen diese Leute berauben,
+auf die wir einen Anschlag gemacht haben; ihr und ich wollen nicht
+dabey zugegen seyn; wenn sie dann die Beute haben, und ihr und ich
+sie ihnen nicht abjagen, so haut diesen Kopf von meinen Schultern.
+
+Prinz Heinrich.
+Aber wie werden wir von ihnen kommen, wenn wir mit ihnen ausreiten?
+
+Poins.
+Wie?  Wir wollen vor oder nach ihnen fort, und ihnen einen gewissen
+Plaz bestimmen, wo wir zusammentreffen wollen, und den koennen wir
+ja hernach verfehlen, wenn's uns beliebt; und dann werden sie das
+Abentheuer allein unternehmen, und sobald sie damit fertig sind, so
+wollen wir ueber sie her.
+
+Prinz Heinrich.
+Gut; aber es ist vermuthlich, dass sie uns an unsern Pferden, an
+unsern Kleidern, und an hundert andern Merkmahlen erkennen werden.
+
+Poins.
+Fuer das ist schon Rath geschaft.  Unsre Pferde sollen sie nicht
+sehen, denn die wollen wir im Wald anbinden; unsre Visiere wollen
+wir gegen andre verwechseln, wenn wir von ihnen weg sind; und,
+Sapperment!  ich habe Ueberroeke von Schetter im Vorrath, unter
+denen niemand unsre Kleider kennen soll.
+
+Prinz Heinrich.
+Aber ich besorge, sie werden uns zu stark seyn.
+
+Poins.
+O was das anbetrift, zween von ihnen kenne ich als ein Paar so aecht-
+gebohrne Memmen, als jemals den Rueken gewiesen haben; und was den
+dritten betrift, wenn der sich laenger wehrt als recht ist, so will
+ich alles Gewehr verschwoeren.  Der groeste Spass von der Sache wird
+in den miraculosen Luegen bestehen, die dieser nemliche dike
+Spizbube uns vorsagen wird, wenn wir zum Nacht-Essen zusammen
+kommen; wie er es zum wenigsten mit dreyssig aufgenommen, was fuer
+Hiebe er bekommen, was fuer Gefahren er bestanden habe; und in der
+Art, wie wir ihn aller dieser Aufschneidereyen ueberweisen werden,
+ligt der Spass.
+
+Prinz Heinrich.
+Gut, ich will mit dir gehen; sorge fuer alles was wir noethig haben,
+und erwarte mich auf morgen Nachts in East-Cheap.  Leb' wohl.
+
+Poins.
+Lebet wohl, Milord.
+
+(Poins geht ab.)
+
+Prinz Heinrich.
+Ich kenne auch alle, und will noch eine Weile diesen zuegellosen
+Humor eurer muessigen Luederlichkeit in der Hoehe halten; aber hierinn
+will ich die Sonne nachahmen, die den unedeln anstekenden Duensten
+erlaubt, ihre Schoenheit der Welt zu verbergen; damit, sobald es ihr
+gefaellt, wieder sie selbst zu seyn, sie desto mehr bewundert werde,
+wenn sie, eine Zeitlang vermisst, auf einmal durch die faulen und
+haesslichen Wolken hervorbricht, welche sie zu erstiken geschienen
+hatten.  Wenn das ganze Jahr aus lauter Fest-Tagen bestuende, so
+wuerde man des Feyerns so ueberdruessig werden als des Arbeitens; sie
+sind nur erwuenscht, weil sie selten kommen, und nichts gefaellt mehr
+als seltne Dinge.  So werde ich, wenn ich einst dieses ausgelassne
+Wesen von mir werfe, und eine Schuld bezahle die ich nie
+versprochen habe, die Besorgnisse der Leute um so mehr zuschanden
+machen, je besser ich seyn werde als mein Wort.  Und gleich einem
+glaenzenden Edelstein auf einem dunkeln Grund, wird meine
+Verbesserung, meine Fehler ueberschimmernd, schoener scheinen, und
+mehr Augen auf sich ziehen, als ein Leben, das keine Folie hat,
+wodurch es erhoben wird.
+
+(Er geht ab.)
+
+
+
+Vierte Scene.
+(Verwandelt sich in einen Saal des koeniglichen Palasts.)
+(Koenig Heinrich, Northumberland, Worcester, Hot-Spur, Sir Walter
+Blunt, und andre treten auf.)
+
+Koenig Heinrich.
+Mein Blut ist zu kalt und zu milde gewesen, dass es bey einem so
+unanstaendigen Betragen nicht aufwallte; ihr habt meine schwache
+Seite gefunden, und tretet desswegen meine Geduld mit Fuessen; aber
+versichert euch, ich will kuenftighin mehr seyn, was meine Wuerde,
+als was meine Gemuethsart fordert, die zu sanft und milde gewesen
+ist, und desswegen die Ehrfurcht verlohren hat, die eine stolze
+Seele nur dem Stolzen bezahlt.
+
+Worcester.
+Unser Haus, Gnaedigster Herr verdienet wahrlich nicht dass die
+Geissel der Groesse gegen selbiges gebraucht werde, und dazu noch
+eben dieser Groesse, die unsre eigne Haende so stattlich zu machen
+geholfen haben.
+
+Northumberland.
+Mein Gnaedigster Herr--
+
+Koenig Heinrich.
+Worcester, entferne dich; ich sehe Ungehorsam und Drohung in deinen
+Augen.  O Sir, eure Mine ist zu kuehn und zu entschlossen, und die
+Majestaet kan unmoeglich trozbietenden Stolz auf der Stirne eines
+Unterthanen dulden.  Ihr habt Erlaubniss uns zu verlassen.  Wenn wir
+euern Rath oder eure Dienste noethig haben, werden wir euch ruffen
+lassen.
+
+(Worcester geht ab.)
+
+Ihr wolltet ja reden--
+
+(Zu Northumberland.)
+
+
+
+Northumberland.
+Ja, mein Gnaedigster Herr; diese Gefangne die in Eu.  Majestaet Namen
+abgefordert wurden, und die Heinrich Percy zu Holmedon gemacht hat,
+sind, wie er sagt, nicht so schlechterdings verweigert worden, wie
+man Euer Majestaet berichtet hat.  Entweder Missgunst oder
+Missverstaendniss ist dieses Vergehens schuldig, nicht mein Sohn.
+
+Hot-Spur.
+Mein Gnaedigster Herr, ich versagte keine Gefangne; aber dessen
+erinnre ich mich, wie die Action zu Ende war, und ich, ganz
+aufgetroknet von Hize und Arbeit, athemlos und abgemattet auf mein
+Schwerdt mich lehnte, da kam ein gewisser junger Herr, nett,
+zierlich aufgepuzt, frisch wie ein Braeutigam, und sein kuerzlich
+abgeschohrnes Kinn sah aus wie ein Stoppeln-Feld im Herbst.  Er war
+parfumirt wie ein Specerey-Kraemer, und hielt zwischen seinem Finger
+und seinem Daumen eine Schnupf-Buechse, die er alle Augenblike vor
+die Nase hielt; immer hatte er was zu laecheln und zu schwazen; und
+wie die Soldaten todte Koerper vorbey trugen, hiess er sie ungezogne
+Flegel, eine so unsaubre und unartige Buerde zwischen den Wind und
+seine Adeliche Person zu bringen.  Er fragte mich mit einem Strom
+von Sonntags- und Frauenzimmer-Redensarten nach hundert Sachen, und
+forderte mir endlich auch, zu Handen Eurer Majestaet meine Gefangnen
+ab.  Ich, den meine Wunden ueberall schmerzten, und verdriesslich
+darueber, dass mich ein solcher Papagay zur Unzeit uebertaeuben sollte,
+antworte ihm im Unmuth und in der Ungeduld, ich weiss nicht was; er
+sollte sie haben, oder er sollte sie nicht haben; denn es machte
+mich toll, etwas das einem Mann aehnlich sah, vor mir zu sehen, das
+von so vielen Farben schimmerte, und so suess roch, und von Flinten
+und Trummeln und Wunden so Kammerfraeulein-maessig redte, und mir
+sagte, fuer eine innerliche Quetschung sey kein unfehlbarers Mittel
+als Spermacet, und es sey recht zu bedauren, sey es, dass dieser
+verfluchte Salpeter aus den Eingeweiden der unschuldigen Erde
+hervorgegraben worden sey, der so viele brave wolgewachsene Leute
+so elendiglich umgebracht habe: Und wenn nur diese nichtswuerdigen
+Flinten nicht waeren, so wuerde er selbst ein Soldat geworden seyn--
+Auf alles dieses sein kuehles, unzusammenhaengendes Geplauder gab ich
+also, Gnaedigster Herr, nur obenhin Antwort wie ich sagte; und ich
+bitte euch, lasst seinen Bericht nicht die Gueltigkeit einer Anklage
+gegen einen Mann haben, der eurer Majestaet so ergeben ist als ich.
+
+Blunt.
+Die Umstaende in Ueberlegung gezogen, Gnaedigster Herr, so koennte
+alles was Harry Percy damals zu so einer Person, an so einem Ort,
+und in so einer Zeit gesagt haben moechte, billiger Maassen fuer todt
+und abgethan gehalten, und nimmer zu seinem Nachtheil wieder
+erwaehnt werden.  Denn was er damals sagte, dem entsagt er ja izo
+wieder, wie ihr seht.
+
+Koenig Heinrich.
+Wie, und doch weigert er sich seine Gefangnen auszuliefern, ausser
+mit der Bedingung, dass wir seinen Schwager, den naerrischen Mortimer,
+unverzueglich auf unsre eigne Unkosten ausloesen sollen; ihn, der
+geflissentlich das Leben aller derjenigen aufgeopfert hat, die er
+gegen diesen Zauberer, diesen verdammten Glendower anfuehrte, dessen
+Tochter, wie wir hoeren, Mortimer kuerzlich geheurathet hat.  Sollen
+unsre Kisten etwann ausgeleert werden, um einen Verraether
+heimzukauffen?  Nein, auf den nakten Wallischen Bergen lasst ihn
+verhungern; nimmer werd' ich den Mann fuer meinen Freund halten,
+dessen Zunge von mir nur den Aufwand eines Pfennigs verlangt, den
+aufruehrischen Mortimer auszuloesen.
+
+Hot-Spur.
+Den aufruehrischen Mortimer?  Das veraenderliche Gluek des Kriegs,
+nicht sein Wille, hat ihn in die Haende der Feinde fallen lassen,
+Gnaedigster Herr; und zum Beweiss dass dieses die Wahrheit sey,
+braucht es keine andre Zeugen, als alle diese Wunden, die er
+empfieng, da er an dem beschilften Strande des anmuthigen Severns,
+in einzelnem Kampf, Stirne gegen Stirne, den groesten Theil einer
+Stunde lang den furchtbaren Glendower aufhielt.  Dreymal ruhten sie,
+um wieder zu Athem zu kommen, dreymal tranken sie, auf Verabredung,
+vom Wasser des schnellen Severns, der, von ihren blutigen Bliken
+erschrekt, angstvoll zwischen seinem zitternden Schilfrohr fortrann
+und sein krauses Haupt im holen Ufer verbarg, vom Blut dieser
+muthigen Kaempfer beflekt.  Niemals hat unedle heuchlerische
+Verraetherey ihren Anschlaegen mit so toedtlichen Wunden eine Farbe
+angestrichen; so grossmuethig verschwendet kein Verraether sein Blut.
+Gestattet also nicht, Gnaedigster Herr, dass der edle Mortimer durch
+eine so unverdiente Beschuldigung entehrt werde.
+
+Koenig Heinrich.
+Du luegst zu seinem Vortheil, Percy, du luegst; Niemals ist er mit
+Glendower ins Handgemeng gekommen; er haette eben so viel Muth
+gehabt, es mit dem Teufel aufzunehmen, als mit Owen Glendower.
+Schaemst du dich nicht, solche Dinge vorzugeben?  Aber, beym Himmel!
+von dieser Stund an lasst mich nicht mehr von Mortimer reden hoeren.
+Schikt mir eure Gefangnen durch die schleunigste Veranstaltung,
+oder ihr sollt Nachrichten von mir bekommen, die euch nicht
+gefallen werden--Milord Northumland, wir erlauben euch mit euerm
+Sohn abzureisen.  Eure Gefangnen, oder ihr sollt mehr von mir hoeren.
+
+(Koenig Heinrich geht ab.)
+
+Hot-Spur.
+Und wenn der Teufel kaeme und sie mir abheulen wollte, so schik' ich
+sie nicht.  Ich will ihm nach, und ihm das sagen; ich muss meinem
+Herzen Luft machen, und wenn es mit Gefahr meines Kopfs waere.
+
+Northumberland.
+Wie?  von Zorn trunken?  Verziehe noch einen Augenblik, hier kommt
+dein Oheim.  (Worcester zu den Vorigen.)
+
+Hot-Spur.
+Nicht mehr von Mortimer reden?  Aber ich will von ihm reden, und
+moege meine Seele keine Gnade im Himmel finden, wenn ich mich nicht
+zu ihm schlage.  Entweder will ich alle diese Adern ausleeren, und
+mein Herzensblut, Tropfen fuer Tropfen in den Staub hingiessen, oder
+ich will den zu Boden getretnen Mortimer so hoch in die Luft
+emporheben als diesen Koenig, diesen undankbaren gefuehllosen
+uebermuethigen Bolingbroke.
+
+Northumberland.
+Bruder, der Koenig hat euern Neffen unsinnig gemacht.
+
+Worcester.
+Wer brachte ihn denn in Hize, wie ich fortgegangen war?
+
+Hot-Spur.
+Er will mit Gewalt meine Gefangnen haben, und wie ich darauf
+bestund, dass er meinen Schwager ausloesen sollte, da erblasst' er wie
+eine Leiche, indem er mich ansah, und zitterte vor dem blossen
+Namen Mortimer.
+
+Worcester.
+Ich kan's ihm nicht verdenken.  Wurde nicht Mortimer von Richarden,
+der nun todt ist, als der naechste Thronfolger erklaert?
+
+Northumberland.
+Das wurde er; ich war bey der Ausruffung zugegen, es geschah zu
+eben der Zeit, da der ungluekliche Koenig (dessen erlidtnes Unrecht
+uns Gott verzeihen wolle!) gegen die Irlaendischen Rebellen auszog;
+von denen er, durch Englands Aufstand abgeruffen, zuruek kehrte, um
+abgesezt, und bald hernach ermordet zu werden.
+
+Worcester.
+Eine That, die uns in den Augen der ganzen Welt entehrt, und zum
+Abscheu gemacht hat.
+
+Hot-Spur.
+Aber sachte, ich bitte euch--Koenig Richard erklaerte also meinen
+Bruder Mortimer zum Thronfolger?
+
+Northumberland.
+Er that es, meine eigne Ohren haben es gehoert.
+
+Hot-Spur.
+Nun, so kan ich den Koenig, seinen Vetter, nicht verdenken, dass er
+ihn auf den kahlen Bergen verhungert zu sehen wuenschte.  Aber soll
+es dann seyn, dass ihr, welche die Crone auf den Kopf dieses
+undankbaren Mannes seztet, und um seinetwillen den verhassten Fleken
+der Verraetherey und des Meuchelmords tragt; soll es seyn, dass ihr
+eine Welt voll Flueche auf euch nehmen wollt, um die Werkzeuge, die
+veraechtlichen Werkzeuge, die Strike, die Leiter und der Henker
+eines Bolingbroks zu seyn?  (O!  vergebet mir, dass ich so
+schaendliche Benennungen gebrauchen muss, um den Missbrauch anzuzeigen,
+den dieser listige Koenig von euch macht.) Und soll es, o Schande!
+soll in unsern Tagen gesagt, und in Jahrbuecher auf kuenftige Zeiten
+gebracht werden, dass Maenner von eurer Geburt und Macht sich, (wie
+ihr beyde, Gott vergeb' es euch!  gethan habt,) zu einer so
+ungerechten Sache verbunden haben, als diese war, Richarden, diese
+anmuthige liebliche Rose, zu Boden zu treten, und diesen Dornbusch,
+Bolingbrok, an seine Stelle zu pflanzen?  Soll es zu eurer noch
+groessern Schande gesagt werden, dass ihr von demjenigen, fuer welchen
+ihr dieser Schande euch unterzogen, zur Belohnung misshandelt,
+geaeffet und veraechtlich auf die Seite geworffen worden?  Nein, es
+ist noch Zeit, eure verbannte Ehre wieder zu loesen, und euch in die
+gute Meynung der Welt wieder einzusezen.  Raechet euch, raechet die
+Beleidigungen dieses uebermuethigen Koenigs, der Tag und Nacht nur
+darauf denkt, wie er die Schuld, die er euch eingestehen muss, mit
+euerm Tod bezahlen wolle.  Ich sage also--
+
+Worcester.
+Nein, Vetter, saget nichts mehr.  Es ist nun an mir, euch
+Geheimnisse von tiefem und gefahrvollem Inhalt zu entfalten, so
+gefaehrlich, und verwegen als es waere, auf der schwachen Brueke eines
+Speers ueber einen lautheulenden Waldstrom zu gehen.
+
+Hot-Spur.
+Faellt er hinein, gute Nacht.  Entweder schwimmen oder untergehen--
+Sendet Gefahr von Osten gegen Westen, so soll Ehre von Norden gegen
+Sueden sie durchkreuzen, und dann lasst sie sich mit einander
+herumbalgen--O!  das Blut wallt feuriger einen Loewen aufzuweken,
+als den Lauf einer Hindin zu befluegeln.
+
+Northumberland.
+Der Gedanke irgend einer grossen Unternehmung treibt ihn ueber die
+Grenzen der Geduld.
+
+Hot-Spur.
+Beym Himmel, mich daeucht, es waere nur ein leichter* Sprung, die
+glaenzende Ehre von dem blasswangichten Mond herab zu reissen, oder
+sich in die Tieffe eines bodenlosen Abgrunds hinab zu taeuchen, und
+die ertrunkne Ehre bey den Haaren herauf zu ziehen, wenn der Genuss
+ihrer Vorzuege mit keinem Nebenbuhler getheilt, der Preiss einer
+solchen Unternehmung waere.
+
+{ed. * Hr. Warburton erinnert sich hiebey einer Stelle des
+Euripides, worinn dieser vortreffliche Mahler der Leidenschaften
+dem Eteocles den nemlichen Gedanken in den Mund legt: Mutter, ich
+gesteh es unverhohlen, ich stiege dort wo die Sonne hervor geht
+ueber die Sterne hinauf, oder hinab in den Abgrund der Erde, wenn
+es moeglich waere, der Goetter unumschraenkten Thron zu bekommen.
+S. 262 des 1sten Theils des Euripides, nach der Uebersezung des
+Hrn. Professor Steinbruechels.}
+
+Worcester.
+Mein lieber Vetter, hoert mir einen Augenblik zu, wenn es die
+Lebhaftigkeit eurer Gemueths-Bewegung erlaubt.
+
+Hot-Spur.
+Ich bitte euch um Vergebung.
+
+Worcester.
+Eben diese edlen Schotten, die eure Gefangnen sind--
+
+
+Hot-Spur.
+Ich will sie alle fuer mich behalten; beym Himmel, er soll keinen
+einzigen haben, kein Haar von einem Schotten, und wenn dieses Haar
+seine Seele erloesen koennte; ich will sie behalten, bey dieser Hand!
+
+Worcester.
+Ihr rennt immer fort, und hoert mich nicht an; ihr sollt ja diese
+Gefangnen behalten.
+
+Hot-Spur.
+Das will ich auch; dabey bleibts.  Er sagte, er wolle den Mortimer
+nicht ausloesen; er verbot mir von Mortimer zu reden; aber ich will
+ihn ausfinden, wenn er schlaeft, und ihm in sein Ohr hallen:
+Mortimer!  Ich will einen Staaren abrichten lassen, dass er nichts
+als Mortimer ruffe, und will ihm den Staaren geben, um seinen Zorn
+immer in Athem zu erhalten.
+
+Worcester.
+Hoert doch, Vetter, nur ein Wort.
+
+Hot-Spur.
+Hier verschwoer ich feyrlich alle andre Gedanken, als wie ich diesen
+Bolingbroke quaelen und tollmachen wolle.  Und was diesen
+eisenfresserischen Prinzen von Wales betrift, daecht' ich nicht, es
+wuerde seinem Vater lieb seyn, wenn ihm ein Ungluek begegnete, er
+sollte mir mit einem Krug Weissbier vergiftet werden.
+
+Worcester.
+Lebt wohl, Neffe; ich will mit euch reden, wenn ihr besser im
+Stande seyd, zuzuhoeren.
+
+Northumberland.
+Wie, was fuer ein wespen-zuengichter, ungeduldiger Narr bist du, in
+diesen weibischen Humor auszubrechen, und niemand hoeren zu wollen
+als dich selbst?
+
+Hot-Spur.
+Wie?  seht ihr, mir ist, als ob ich mit Ruthen gehauen, mit Nesseln
+gepeitscht und von Ameisen gestochen werde, wenn ich nur den Namen
+dieses schaendlichen falschen Bolingbroke hoere.  Zu Richards Zeiten--
+Wie hiess doch der Ort?--dass ihn die Pest!--er ligt in Glocester-
+Schire--es war wo der hirnlose Herzog seinen Oheim ins Garn lokte,
+seinen Oheim York--wo ich meine Knie zum erstenmal vor diesem Koenig
+der Liebkosungen, vor diesem Bolingbroke bog; wie ihr und er von
+Ravenspurg kam't.
+
+Northumberland.
+Zu Berkley-Castle.
+
+Hot-Spur.
+Dort war es; ha!  was fuer eine Menge ueberzuekerte Complimente machte
+mir damals dieser schwaenzelnde Windhund vor!  Wenn sein unmuendiges
+Gluek zu Jahren gekommen seyn wuerde--und edler Harry Percy, und
+liebster Vetter--Der Teufel hole solche Schmeichler!--Gott verzeih'
+mir's!  Guter Oheim, sagt izt was ihr wollt, ich bin fertig.
+
+Worcester.
+Nein, wenn ihr noch nicht fertig seyd, so macht nur fort, wir
+wollen warten, bis es euch gelegen ist.
+
+Hot-Spur.
+Ich bin fertig, auf meine Ehre.
+
+Worcester.
+So wollen wir wieder zu unsern Schottischen Gefangnen.  Gebt sie
+unverzueglich ohne Loesegeld frey, und bedient euch dieses Sohns des
+Dowglas, um ein Heer in Schottland zusammen zu bringen, welches, um
+verschiedner Ursachen willen, die ich euch schriftlich zuschiken
+will, euch ohne Muehe zugestanden werden wird.  Ihr, Milord von
+Northumberland, schleichet euch, indess dass euer Sohn in Schottland
+beschaeftigt ist, in das Vertrauen dieses edlen und beliebten
+Praelaten ein, des Erzbischoffs--
+
+Hot-Spur.
+Von York, nicht wahr?
+
+Worcester.
+Ja, der den Tod seines Bruders, des Lord Scroop, zu Bristol, sehr
+hart empfindt.  Ich rede nicht aus blosser Vermuthung, was
+vielleicht geschehen koennte; sondern von einer Sache, die schon
+entworffen, beschlossen und verabredet ist; von einer Sache, die
+nur auf eine solche Gelegenheit wartet, um zum Ausbruch zu kommen.
+
+Hot-Spur.
+Ich rieche was; bey meinem Leben, es muss gut gehen!
+
+Northumberland.
+Wie voreilig du bist!
+
+Hot-Spur.
+Es kan unmoeglich anders als ein edler Entwurf werden!  Und dann
+sollen sich die Schottische Macht, und Yorks Anhang mit Mortimer
+vereinigen, ha!
+
+Worcester.
+Das sollen sie.
+
+Hot-Spur.
+In der That, das ist ueber die Maassen wol ausgesonnen.
+
+Worcester.
+Die Ursache ist nicht gering, die uns so schleunig als es moeglich
+ist, unsre Koepfe emporzuheben befiehlt, wenn wir sie retten wollen.
+Denn so niedrig wir sie immer tragen moechten, so wird der Koenig
+doch immer denken, dass er unser Schuldner sey; und dass wir uns
+nicht eher fuer befriedigt halten werden, bis er seine Schuld
+heimgezahlt habe.  Ihr seht ja bereits, wie er uns je laenger je
+mehr von seinem Vertrauen und von seiner Zuneigung entfernt.
+
+Hot-Spur.
+Das thut er, das thut er; wir wollen Rache an ihm nehmen.
+
+Worcester.
+Vetter, lebt wohl.  Geht nicht weiter in dieser Sache, als ich euch
+durch meine Briefe anweisen werde.  Wenn die Zeit reif seyn wird,
+und das wird bald seyn, dann will ich in Geheim zu Glendower und
+Mortimer mich begeben, wo ihr und Dowglas und unsre Voelker, auf
+meine Veranstaltungen, glueklich zusammen kommen sollen, um unser
+Gluek, das izt an einem Faden haengt, in unsern eignen starken Armen
+zu tragen.
+
+Northumberland.
+Lebet wohl, Bruder; ich habe die beste Hoffnung, dass alles gut von
+statten gehen werde.
+
+Hot-Spur.
+Lebt wohl, Oheim; O lasst die Stunden eilen, bis im blutigen
+Schlachtfeld das Klirren der Schwerdter und das Aechzen der
+Sterbenden mein belustigtes Ohr umtoent.
+
+
+
+Zweyter Aufzug.
+
+
+
+Erste Scene.
+(Ein Wirthshaus bey Rochester.) (Ein Fuhrmann tritt mit einer
+Laternen in der Hand auf, ruft dem Hausknecht, und giebt ihm eine
+Commission wegen seines Pferds; ein andrer Fuhrmann kommt dazu, und
+die Floehe in diesem Wirthshaus, worueber beyde sich beklagen, geben
+Anlas zu einer kleinen Unterredung im fuhrmaennischen Geschmak,
+worinn, dass dich die Pest!  und, geh' an Galgen, die schoensten
+Bluemchen sind.  Gadshill, einer aus des Prinzen von Wales Bande,
+kommt dazu, und erkundigt sich mit guter Manier bey ihnen, wenn die
+Reisende, mit denen sie in diesem Wirtshaus angekommen, nach London
+abzugehen gedenken.)
+
+
+
+Zweyte Scene.
+(Ein kleines Gespraech zwischen Gadskill und einem Bedienten im
+Wirthshaus, welches, ausser den Nachrichten, die der leztere dem
+ersten von den Passagiers im Hause giebt, in einer Art von
+Wizwechsel besteht, wovon der Uebersezer bekennt, dass es ihm
+unmoeglich faellt, die deutsche Sprache damit zu bereichern.
+Diejenige, welche vielleicht glauben, dass er diese Unmoeglichkeit
+mit etwas weniger Traegheit haette ueberwinden koennen, moegen sich zur
+Probe an den sinnreichen Woertern:) long-staff-six-penny-strikers(,
+und) Mustachiopurple-hued-malt-worms (ueben; und wenn ihnen auch
+diese nicht zu schwer seyn sollten, so werden sie doch gestehen,
+dass die unsaubern Wortspiele, die einen Theil dieser Scene
+ausmachen, unuebersezlich sind.  Das beste ist, dass der Leser nicht
+einen einzigen gesunden Gedanken, oder guten Einfall dabey
+verliehrt.  Man mag aus dem was wir uebersezen, den Schluss auf
+dasjenige machen, was wir auslassen muessen.)
+
+
+
+Dritte Scene.
+(Verwandelt sich in die Landstrasse.)
+(Prinz Heinrich, Poins und Peto treten auf.)
+
+
+Poins.
+Kommt, verbergt euch, verbergt euch; ich habe Falstaffs Pferd auf
+die Seite gethan, und er murrt wie ein gummierter Sammet.
+
+Prinz Heinrich.
+Halt dich ruhig.  (Falstaff tritt auf.)
+
+Falstaff.
+Poins, Poins!  dass du gehangen waerst!  Poins!
+
+Prinz Heinrich.
+Still, du fettnierichter Spizbube, was fuer ein Geheul machst du da?
+
+Falstaff.
+Wie, Poins!  Hal!
+
+Prinz Heinrich (zu Poins.)
+Er ist auf den Huegel hinauf gegangen, ich will geh'n und ihn
+aufsuchen.
+
+Falstaff (auf einer andern Seite.)
+Das ist meine Straffe davor, dass ich in dieses Diebs Gesellschaft
+raube; der Raker hat mir mein Pferd auf die Seite gethan, der
+Henker weiss wo hin.  Wenn ich nur noch vier Quadrat-Schuhe weiter
+zu Fuss gienge, so wuerd' ich mir den Blasebalg zersprengen.  Gut,
+ich zweifle nicht, dass ich eines schoenen Tods fuer alles diss sterben
+werde, in so fern ich dem Galgen entgehe, wenn ich diesen Spizbuben
+todtschlage.  Ich habe diese zwey und zwanzig Jahre her seine
+Gesellschaft stuendlich verschworen, und doch bin ich immer mit dem
+Galgenstrik behext.  Ich will gehangen seyn, wenn mir der Raker
+nicht einen Liebes-Trank eingegeben hat; es kan anders nicht seyn;
+ich hab' einen Liebes-Trank bekommen.  Poins!  Hal!  Dass ihr die
+Pest haettet!  Bardolph!  Peto!  Ich will verhungern, wenn ich einen
+Schritt weiter stehle.  Wenn es nicht eine so gute That waer' als
+ein Glas Bier auszutrinken, wenn ich ein ehrlicher Mann wuerde und
+diese Galgenschwengel verliesse, so will ich der ausgemachteste
+Halunke seyn, der jemals mit Zaehnen gekaeut hat.  Acht Ellen unebner
+Grund ist siebenzig Meilen fuer mich, wenn ich zu Fuss gehen muss.
+Das hol der Henker, wenn Diebe nicht einmal ehrlich an einander
+seyn koennen!
+
+(Er hoert sie fluestern.)
+
+He!  dass euch die Pestilenz alle mit einander!  Gebt mir mein
+Pferd, ihr Schelme, gebt mir mein Pferd, und geht an den Galgen.
+
+Prinz Heinrich.
+Schweige, du Schmeer-Bauch, lieg nieder, leg dein Ohr hart an den
+Boden, und horch, ob du nicht den Fusstritt von Reisenden hoeren
+kanst.
+
+Falstaff.
+Habt ihr ein paar Hebel, oder etliche, dass ihr mich wieder aufheben
+koennt, wenn ich einmal liege?  Sapperment!  Ich wollte um alles
+Geld in deines Vaters Schazkammer, mein eigen Fleisch nicht noch
+einmal so weit zu Fuss tragen.  Was zum T** meynt ihr damit, dass ihr
+mich so vexiert--Ich bitte dich, Prinz Hal, hilf mir zu meinem
+Pferd, guter Koenigs-Sohn.
+
+Prinz Heinrich.
+Weg, du Schurke!  Soll ich dein Stallknecht seyn?
+
+Falstaff.
+Geh, und haeng dich selbst an deinen eignen Cronprinzlichen
+Kniebaendern auf.  Wenn ich ertappt werde, so will ich euch fuer
+diesen Streich bezahlen; ich will reden was ich weiss, das glaubt
+mir.  Wenn ich's nicht dahinbringe, dass man Gassenhauer auf euch
+macht, und sie im Ton von H**liedern in den Strassen singt, so moege
+ein Becher mit Sect mein Gift seyn!  Wenn man einen Spass so weit
+treibt, und noch dazu zu Fuss!  Ich hass' es!  (Gadshill und Bardolph
+zu den Vorigen.)
+
+Gadshill.
+Steh!
+
+Falstaff.
+Das thue ich, wieder meinen Willen.
+
+Poins.
+O, es ist unser Spion, ich kenn' ihn an der Stimme.  Bardolph, was
+giebts Neues?
+
+Bardolph.
+Maskirt euch, maskirt euch, zieht eure Visiere herab: es kommt dort
+Geld fuer den Koenig vom Huegel herunter, Geld, das in des Koenigs
+Schazkammer geht.
+
+Falstaff.
+Du luegst, du Spizbube, es geht in des Koenigs Wirthshaus.
+
+Gadshill.
+Es ist genug, uns alle--(reich zu machen).
+
+Falstaff.
+An den Galgen zu bringen.
+
+Prinz Heinrich.
+Ihr Herren, stellt ihr Viere euch ihnen vorn in dem holen Weg
+entgegen; Ned Poins und ich wollen tiefer herunter gehen; wenn sie
+euch entrinnen, so fallen sie doch uns in die Haende.
+
+Peto.
+Aber wie viel sind ihrer?
+
+Gadshill.
+Ihrer acht oder zehen.
+
+Falstaff.
+Sakerlot!  So werden sie ja uns berauben.
+
+Prinz Heinrich.
+Was Sir Hans Wanst fuer eine Memme ist!
+
+Falstaff.
+In der That, ich bin nicht Hans von Gaunt, euer Grossvater, aber
+doch auch keine Memme, Hal.
+
+Prinz Heinrich.
+Gut, wir wollen's auf die Probe ankommen lassen.
+
+Poins.
+Holla, Jak, dein Pferd steht hinter dem Zaun dort: wenn du's noethig
+hast, so wirst du's dort finden.  Lebt wohl und haltet euch wohl!
+
+Prinz Heinrich (zu Poins leise.)
+Ned, wo sind unsre Ueberkleider?
+
+Poins.
+Hier, hart an uns; Lasst euch ja nicht sehen.
+
+(Sie gehen auf die Seit.)
+
+Falstaff.
+Nun, meine Herren, ein jeder an seine Arbeit, wer das beste kriegt,
+der hat's!
+
+
+
+Vierte Scene.
+(Einige Reisende treten auf.)
+
+
+Reisende.
+Kommt, Nachbar; der Junge soll unsre Pferde den Huegel herunter
+fuehren; wir wollen eine Weile zu Fuss gehen, um eine Veraenderung zu
+machen.
+
+Die Diebe.
+Halt!
+
+Reisende.
+Gott helf uns!
+
+Falstaff.
+Schlagt zu; nieder mit ihnen, schneidet den Lumpenhunden die Haelse
+ab, ha!  Ihr verfluchtes Ungeziefer, ihr Schlingel von Spekfressern;
+sie sind unsre Feinde, zu Boden mit ihnen, zieht sie aus.
+
+Reisende.
+O wir sind verlohren, wir und die unsrigen auf immer.
+
+Falstaff.
+An den Galgen, ihr dikbauchichten Schurken, seyd ihr verlohren?
+Nein, ihr fetten Luemmel, ich wollt' euer ganzer Vorrath waere hier;
+nieder, ihr Spekseiten etc.
+
+(Sie binden und berauben die Reisenden, und gehen ab.)
+
+(Prinz Heinrich und Poins treten auf.)
+
+Prinz Heinrich.
+Die Diebe haben die ehrlichen Leute gebunden; wenn izt du und ich
+die Diebe berauben, und mit der Beute im Triumph nach London ziehen
+koennte, das waere eine Materie fuer eine Woche, ein Gelaechter fuer
+einen Monat, und ein Spass fuer immer.
+
+Poins.
+Sachte, ich hoere sie kommen.  (Die Diebe kommen zuruek.)
+
+Falstaff.
+Kommt, meine Herren, wir wollen theilen, und dann zu Pferde, eh der
+Tag anbricht.  Wenn der Prinz und Poins nicht zwo ausgemachte
+Memmen sind, so ist keine Billigkeit mehr in der Welt.  Dieser
+Poins hat nicht mehr Herz als eine wilde Ente.
+
+(Indem sie theilen, werden sie von dem Prinzen und Poins ueberfallen.)
+
+Prinz Heinrich.
+Euer Geld!
+
+Poins.
+Ihr Galgenschwengel!
+
+(Die Diebe rennen fort, und Falstaff, nachdem er einen oder zween
+Streiche bekommen, laeuft auch davon, und laesst die Beute dahinten.)
+
+Prinz Heinrich.
+Das hat nicht viel Muehe gekostet.  Nun lustig zu Pferd; die Diebe
+sind zerstreut, und in einen so grossen Schreken gesezt, dass sie
+das Herz nicht haben, sich wieder zu sammeln; ein jeder haelt den
+andern fuer einen Gerichtsdiener.  Hinweg, guter Ned.  Wie wird der
+arme dike Falstaff izt schwizen!  Wenn ich nicht lachen muesste, ich
+koennte Mitleiden mit ihm haben.
+
+(Sie gehen ab.)
+
+
+
+Fuenfte Scene.
+(Lord Percys Haus.)
+(Hot-Spur tritt allein auf, einen Brief lesend.)
+
+
+Hot-Spur.
+"Was mich selbst betrift, Milord, so koennt ich um der Freundschaft
+willen, die ich gegen euer Haus trage, wuenschen, dort zu seyn." Er
+koennte wuenschen dort zu seyn; warum ist er denn nicht dort?  "Um
+der Freundschaft willen, die er gegen unser Haus traegt." Es zeigt
+sich aus diesem, dass er seinen eignen Speicher mehr liebt als unser
+Haus.  Lasst doch weiter sehen: "Euere Unternehmung ist gefaehrlich."
+Das wissen wir; es ist gefaehrlich einen Schnuppen zu kriegen, zu
+schlaffen, zu trinken; aber lasst euch sagen, Milord Hasenfuss, dass
+wir aus dieser Nessel-Gefahr, die Blume, Sicherheit, pflueken wollen.
+"Eure Unternehmung ist gefaehrlich, die Freunde, die ihr nennt,
+sind ungewiss, die Zeit selbst ist unschiklich, und euer ganzer
+Entwurf zu leicht, einem so maechtigen Widerstand das Gegengewicht
+zu halten." Sagt ihr das, sagt ihr das?  So sag ich euch wieder
+zuruek, dass ihr eine schuechterne feige Hindin seyd, und dass ihr luegt.
+Wo hat denn der Mann sein Hirn?  Bey G**!  Unser Entwurf ist ein
+so guter Entwurf als jemals einer gemacht worden ist; unsre Freunde
+sind zuverlaessig und standhaft; ein guter Entwurf, gute Freunde, und
+von denen man sich alles versprechen kan; ein vortrefflicher
+Entwurf und recht gute Freunde!  Was fuer ein kaltherziger Schurke
+das ist!  Wie?  Milord von York billigt und beguenstigt das Vorhaben
+selbst und den Entwurf, und diese Memme hier--Bey meiner Hand, waer'
+ich bey ihm, ich koennte ihm mit seiner Frauen Luftfaecher das Hirn
+ausschlagen.  Ist nicht mein Vater, mein Oheim und ich selbst
+dabey?  Lord Edmund Mortimer, Milord von York, und Owen Glendower?
+Ist nicht Dowglas dabey?  Hab' ich nicht von ihnen allen Briefe,
+dass sie auf den neunten dieses Monats ihre Waffen mit den meinigen
+vereinbaren wollen?  Sind nicht einige von ihnen wuerklich schon
+ausgeruekt?  Was fuer ein verdammter Schurke ist das!  Ha, ihr werdet
+nun sehen, dass er in der Aufrichtigkeit seiner Zagheit und seines
+kalten Bluts zum Koenige gehen, und unser ganzes Vorhaben entdeken
+wird.  O ich koennte mich selbst in zwey spalten, dass ich eine
+solche Schuessel voll geschwungne Milch in eine so edle Unternehmung
+habe einmengen wollen.  An den Galgen mit ihm, er mag es dem Koenig
+sagen.  Wir sind geruestet, ich will diese Nacht noch vorrueken.--
+
+
+
+Sechste Scene.
+(Lady Percy zu Hot-Spur.)
+
+
+Hot-Spur.
+--Was giebt's, Kaethe?  Ich muss dich in zwo Stunden verlassen.
+
+Lady.
+O mein liebster Lord, warum seyd ihr so allein?  Wegen was fuer
+eines Verbrechens ist eure Gemahlin diese Nacht von ihres Harrys
+Bette verbannt worden?  Sage mir, mein Liebster, was ist es, das
+dir deinen Appetit, dein Vergnuegen und deinen Schlaf raubt?  Warum
+heftest du deine Augen auf den Boden?  Warum faehrst du so oft auf,
+wenn du allein sizest?  Warum hast du die frische Farbe deiner
+Wangen verlohren?  Und warum giebst du mein Kleinod, meine Rechte
+an dich, der truebsinnigen Schwermuth preiss?  Unter deinem unruhigen
+Schlummer hab ich an deiner Seite gewacht, und dich von Krieg und
+Schlachten murmeln gehoert; du redtest mit deinem Pferde, oder
+rieffest, (Courage!  Zum Treffen!) Du redtest von Ausfaellen und
+Ruekzuegen; von Laufgraeben, Zelten, Palisaden, Schanzen, Brustwehren,
+Carthaunen, Canonen, Feldschlangen, von Ranzionen der Gefangnen,
+und von erschlagnen Soldaten--Deine Seele war so sehr mit
+kriegrischer Arbeit beschaeftigt, und hat selbst im Schlaf dich in
+eine so grosse Bewegung gesezt, dass grosse Schweisstropfen auf deiner
+Stirne gestanden, und die Muskeln deines Gesichts aufgelauffen sind,
+wie wir an Leuten sehen, denen vor allzuhastiger Bewegung der
+Athem zurueck bleibt.  O!  was fuer schrekenvolle Zeichen sind das!
+Ihr habt irgend ein schweres Geschaefte vor euch, und ich muss es
+wissen, oder ihr liebt mich nicht.  (Ein Bedienter kommt herein.)
+
+Hot-Spur.
+He!  ist Willhelm mit dem Paquet abgegangen?
+
+Bedienter.
+Ja, Milord, schon vor einer Stunde.
+
+Hot-Spur.
+Hat der Kellner diese Pferde vom Scheriff gebracht?
+
+Bedienter.
+Eines, Milord, bracht' er eben izt.
+
+Hot-Spur.
+Was fuer eines?  Den Rothschimmel, mit den gestuzten Ohren, nicht
+wahr?
+
+Bedienter.
+Ja, Gnaediger Herr.
+
+Hot-Spur.
+Dieser Rothschimmel soll mein Thron seyn.  Gut, ich will ihn gleich
+besteigen.  (O Esperance!)* Fuehrte ihn der Kellner in den Parc?
+
+{ed. * Dieses franzoesische Wort ist vermuthlich da, damit es die Lady
+Percy nicht verstehen solle.}
+
+Lady.
+Aber hoeret, Milord--
+
+Hot-Spur.
+Was willt du sagen, Milady?
+
+Lady.
+Was fuehrt euch dann weg?
+
+Hot-Spur.
+Wie?  Mein Pferd, Liebe, mein Pferd.
+
+Lady.
+Weg mit dir, du tollkoepfiger Affe!  Eine Wiesel hat nicht so viel
+Spleen als ihr--Bey meiner Treue, ich will euer Geschaefte wissen,
+das will ich.  Ich fuerchte mein Bruder Mortimer geht damit um,
+seinen Anspruch gelten zu machen, und verlangt euern Beystand; aber
+wenn ihr geht--
+
+Hot-Spur.
+Soweit zu Fuss zu gehen, wuerde mich muede machen, Liebe.
+
+Lady.
+Kommt, kommt, ihr kleiner Papagay, antwortet mir geradezu auf das
+was ich euch frage.  Ich breche dir deinen kleinen Finger ab, Harry,
+wenn du mir nicht die ganze Wahrheit gestehst.
+
+Hot-Spur.
+Weg, weg, kleiner Kindskopf--Lieben!  Ich liebe dich nicht, ich
+denke nicht an dich, Kaethe; es ist izt keine Zeit mit Puppen zu
+spielen, und mit Lippen zu fechten.  Izt ist es um blutige Nasen,
+und gespaltete Hirnschaedel zu thun--Was sagst du, Kaethe?  Was willt
+du von mir?
+
+Lady.
+Liebt ihr mich dann nicht mehr?  In der That nicht.  Gut, so thut
+es nicht.  Denn wenn ich nicht mehr verdiene, von euch geliebt zu
+werden, so bin ich auch nicht werth, dass ich mich selbst liebe.
+Liebt ihr mich nicht?  Nein, sag mir's, redst du im Scherz oder
+nicht?
+
+Hot-Spur.
+Komm, willt du mich reiten sehen?  Wenn ich zu Pferd bin, dann will
+ich schwoeren, dass ich dich unendlich liebe.  Aber hoerst du, Kaethe,
+du musst mich nicht weiter ausfragen, wohin ich gehe; noch
+Muthmassungen anstellen, warum?  Wohin ich muss, muss ich, und um es
+kurz zu machen, diesen Abend muessen wir scheiden, liebste Kaethe.
+Ich weiss dass du verstaendig bist, aber doch nicht verstaendiger als
+Harry Percy's Weib.  Du hast Muth, so viel ein Weibsbild haben soll;
+und an Verschwiegenheit uebertrift dich gewiss kein Frauenzimmer in
+der Welt.  Ich zweifle also keinen Augenblik daran, dass du nichts
+sagen wirst, wenn du nichts weissst; und in so weit hab' ich ein
+vollkommnes Zutrauen zu dir, meine suesse Kaethe.
+
+Lady.
+Wie?  In so weit?
+
+Hot-Spur.
+Nicht einen Zollbreit mehr.  Aber hoerst du, Kaethe, wohin ich gehe,
+sollt du auch gehen.  Heute will ich abreisen, und morgen sollst du
+mir folgen.  Bist du nun zufrieden, Kaethe?
+
+Lady.
+Ich muss wohl.
+
+(Sie gehen ab.)
+
+
+
+Siebende und achte Scene.
+(Der Schauplaz verwandelt sich in das Wirthshaus zum Baeren-Kopf in
+East-Cheap.)
+(Ein paar unuebersezliche Scenen, im Geschmak der truebsten Hefen
+der poebelhaftesten Canaille, zwischen dem Prinzen Heinrich, Poins,
+Franz, dem Kellerjungen, und dem Wirth.  Folgende Stelle ist das
+Beste davon.)
+
+
+Prinz Heinrich.
+Ich hab, glaub' ich, auf einmal alle Launen im Leibe, die jemals
+Launen gewesen sind, seit den alten 'Tagen des guten Grossvater
+Adams bis auf das Saeuglings-Alter dieser gegenwaertigen zwoelften
+Stunde Mitternachts.  Und doch bin ich nicht von Percy's Humor,
+dieses Eisenfressers aus Norden, der mir sechs oder sieben Duzend
+Schotten zum Fruehstuek todt schlaegt, und wascht dann seine Haende,
+und sagt zu seiner Frauen: Der Henker hole dieses ruhige Leben!
+Ich habe ja nichts zu thun.  "O mein suesser Harry", sagt sie dann,
+"wie viele hast du heute todt geschlagen?" Gebt meinem Rothschimmel
+zu trinken, sagt er, und antwortet ihr eine Stunde drauf ganz
+kaltsinnig, ihrer vierzehn, oder so was, eine Kleinigkeit--Ich
+bitte dich, ruf mir den Falstaff herein; ich will den Percy machen,
+und der verdammte Schweinsbraten soll die Dame Mortimer, sein Weib,
+agiren.  Ruft den Schmeer-Bauch herein!
+
+
+
+Neunte Scene.
+(Falstaff, Gadshill, Bardolph und Peto zu den Vorigen.)
+
+
+Poins.
+Willkommen, Jak; wo bist du gewesen?
+
+Falstaff.
+Dass die schwere Noth alle feige Memmen, sag ich, und die Kraenke
+oben drauf; und Amen!  Gieb mir ein Glas Sect, Junge--Eh ich diese
+Lebensart fortseze, will ich Fuss-Soken naehen, und sie wieder fliken,
+wenn sie brechen.  Dass die Pestilenz alle feige Memmen!  Gieb mir
+ein Glas mit Sect, Schurke.  Ist denn keine Tugend mehr in der Welt?
+
+(Er trinkt.)
+
+Prinz Heinrich.
+Hast du den Titan nie ein Stuek Butter kuessen gesehen?  und wie es
+von den zaertlichen Sachen, die er ihm sagte, wegschmolz?  Wenn du's
+gesehen hast, so sieh' diese Composition.
+
+Falstaff.
+Ihr Galgenschwengel, hier ist ja Kalk* in diesem Sect; es ist doch
+nichts als Schelmerey in spizbuebischen Leuten; aber eine Memme ist
+noch aerger als ein Glas Sect worinn Kalk ist.  Eine nichtswuerdige
+Memme!--Geh deines Wegs, alter Jak, stirb wenn du willt; wenn
+Tapferkeit, wahre Tapferkeit nicht auf dem ganzen Erdenrund
+vergessen ist, so bin ich ein Pikling.  Es leben nicht drey brave
+Maenner ungehangen in England, und einer von ihnen ist fett, und
+wird, Gott helf ihm, nach gerade alt--eine boese Welt, sag ich!  Ich
+wollt' ich waer' ein Weber**; ich koennte Psalmen singen, und Lieder
+wie man's haben wollte.  Dass die Pestilenz alle Memmen, sag ich!
+
+{ed. * Sir Richard Hawkins, einer von der Koenigin Elisabeth
+See-Capitains, sagt in seinen Reisen S. 379: "Seitdem die
+Spanischen Secte in unsern Wirtshaeusern so gemein sind, die in der
+Zubereitung mit Kalk vermischt werden, um sich laenger zu erhalten,
+beklagt sich unsre Nation ueber Stein, Wassersucht, und eine
+Menge andrer Krankheiten, von denen wir nichts wussten, eh der
+Gebrauch dieser Weine so sehr ueberhand nahm.  Ausserdem vergeht
+kein Jahr, dass nicht zwey Millionen Cronen dafuer aus unserm Lande
+gehen etc." Dieses leztere war in der That ein wesentliches Uebel.
+Aber dass Kalk den Stein verursachen soll, muss wohl nur ein
+Vorurtheil des guten ehrlichen alten Mannes gewesen seyn, indem in
+einem weit weisern Alter ein altes Weib ihr Gluek damit gemacht hat,
+uns zu zeigen, dass Kalk eine Arzney gegen den Stein sey.  Warburton.}
+
+Prinz Heinrich.
+Was giebts, Wollsak!  was brummt ihr?
+
+Falstaff.
+Ein Koenigs-Sohn?  Wenn ich dich nicht mit einem Dolch von einem
+Span aus deinem Koenigreich hinaus jagen, und alle deine Unterthanen
+wie eine Heerde wilder Gaense vor dir her treiben will, so will ich
+meine Tage kein Haar mehr an meinem Kinn tragen.  Ihr, Prinz von
+Wales?
+
+Prinz Heinrich.
+Wie, du H**sohn von einem diken Flegel, was hast du denn?
+
+Falstaff.
+Seyd ihr nicht eine Memme?  Antwortet mir auf das, und Poins hier?
+
+Prinz Heinrich.
+Du Wanst, wenn du mich eine Memme nennst, so bist du des Todes.
+
+Falstaff.
+Ich haette dich eine Memme geheissen?  Eh will ich dich zur Hoelle
+gehen sehen, eh ich dich eine Memme heissen wollte; aber tausend
+Pfund wollt' ich drum geben, wenn ich so geschwinde lauffen koennte,
+wie du.  O!  was das betrift, eure Schultern habt ihr so gerad als
+ihr's wuenschen koennt, ihr bekuemmert euch nichts darum, euern Rueken
+sehen zu lassen.  Nennt ihr das, euern Freunden den Rueken deken?
+Dass die Pest ein solches Ruekendeken haette!  Gebt mir ein Glas Sect.
+Ich will eine H** seyn, wenn ich heute noch einen Tropfen
+getrunken habe.
+
+Prinz Heinrich.
+O du Schurke!  du hast ja dein Maul kaum abgewischt, seitdem du das
+leztemal getrunken hast.
+
+Falstaff.
+Das ist all eins.
+
+(Er trinkt.)
+
+Dass die Pest alle feige Memmen, dabey bleib ich!
+
+Prinz Heinrich.
+Was willt du denn damit?
+
+Falstaff.
+Was ich damit will?  hier sind unser vier, die diesen Morgen
+tausend Pfund geraubt haben.
+
+Prinz Heinrich.
+Wo ist das Geld?  Wo ist es?
+
+Falstaff.
+Wo es ist?  Zum T** ist es, genommen ist es uns worden; ihrer
+hundert gegen uns arme viere.
+
+Prinz Heinrich.
+Was sagst du, ihrer hundert?
+
+Falstaff.
+Ich will ein H*f*t seyn, wenn ich mich nicht zwey Stunden lang mit
+einem Duzend von ihnen herumgehauen habe.  Es ist ein Mirakel, dass
+ich davon gekommen bin.  Ich bin achtmal durch mein Wamms gestossen
+worden, viermal durch die Hosen, mein Schild ist durch und durch
+gehauen, und mein Schwerdt hat Scharten wie eine Hand-Saege, (ecce
+signum.) Ich habe mich nie besser gehalten, seitdem ich ein Mann
+bin.  Haetten's andre auch so gemacht!  Dass sie die Pest, die Memmen!
+--Lasst sie reden; wenn sie mehr oder weniger sagen als wahr ist, so
+sind sie Schurken, und Kinder der Finsterniss.
+
+Prinz Heinrich.
+Redet, ihr Herren, wie gieng es dann her?
+
+Gadshill.
+Wir vier machten uns an ihrer zwoelf ungefehr--
+
+
+Falstaff.
+Sechszehn wenigstens, Milord.
+
+Gadshill.
+Und banden sie.
+
+Peto.
+Nein, nein, gebunden wurden sie nicht.
+
+Falstaff.
+Du Raker, sie wurden gebunden, einer nach dem andern; wenn's nicht
+so ist, so will ich ein Jude seyn, ein hebraeischer Jude.
+
+Gadshill.
+Wie wir nun theilten, so ueberfielen uns sechs oder sieben frische
+Maenner.
+
+Falstaff.
+Und banden die andern los, und da kamen die uebrigen.
+
+Prinz Heinrich.
+Wie?  Fochtet ihr dann mit ihnen allen?
+
+Falstaff.
+Mit Allen?  Ich weiss nicht was ihr Alle nennt; aber wenn ich nicht
+wenigstens mit fuenfzig von ihnen fochte, so will ich ein Bueschel
+Rettiche seyn.  Wenn ihrer nicht zwey oder drey und fuenfzig an dem
+armen alten Jak waren, so sey ich keine zweybeinichte Creatur.
+
+Poins.
+Der Himmel verhuete, dass ihr keine von ihnen ermordet habt!
+
+Falstaff.
+Gut, das kan er nun nicht mehr verhueten.  Ich habe zween von ihnen
+gepfeffert; zween, das kan ich sagen, hab' ich bezahlt, zween in
+Schetter-Roeken.  Ich will dir was sagen, Hal; wenn ich dich anluege,
+so spey' mir ins Gesicht, nenn' mich einen Gaul; du kennst meine
+alte Manier im parieren; so lag ich, und so fuehrt ich meine Klinge;
+vier Schurken in Schetter fielen ueber mich her, wie gesagt.
+
+Prinz Heinrich.
+Was, viere?  Du sagtest eben, es seyen nur zween gewesen.
+
+Falstaff.
+Viere, Hal, viere sagte ich.
+
+Poins.
+Ja, ja, er sagte viere.
+
+Falstaff.
+Diese viere fielen mich alle von vornen an, und stiessen tapfer auf
+mich zu; aber ich machte nicht viel Federlesens, sondern fasste auf
+einmal alle ihre sieben Klingen mit meinem Schild auf; so--
+
+
+Prinz Heinrich.
+Sieben?  Es waren ihrer ja nur viere diesen Augenblik.
+
+Falstaff.
+In Schetter.
+
+Poins.
+Ja, ja, vier in Schetter-Roeken.
+
+Falstaff.
+Sieben, bey meinem Bauch, oder ich bin ein H*f*t.
+
+Prinz Heinrich (leise zu Poins.)
+Ich bitte dich, lass ihn machen, es werden noch mehr draus werden.
+
+Falstaff.
+Hoerst du mich, Hal?
+
+Prinz Heinrich.
+Ja, und versteh dich auch, Jak.
+
+Falstaff.
+Gut, gut, es ist auch werth dass man aufhorche; diese neun Kerle in
+Schetter, wovon ich dir sagte--
+
+Prinz Heinrich.
+So, schon wieder zween mehr--
+
+Falstaff.
+Wie sie sahen, dass ihre Klingen abgebrochen waren, fiengen sie an
+zuruek zu weichen; aber ich gieng ihnen mit Haenden und Fuessen zu
+Leibe, und in einem Gedanken, lagen sieben von eilfen im Gras.
+
+Prinz Heinrich.
+Das ist entsezlich.  Eilf Maenner von Schetter aus zween!
+
+Falstaff.
+Aber da fuehrte mir der T** drey missgezeugte Schurken in Kendal-Gruen
+auf den Rueken, die auf mich zuwalkten; denn es war so dunkel, Hal,
+dass du deine Hand nicht haettest sehen koennen--
+
+Prinz Heinrich.
+Diese Luegen sind so dik und fett als du selbst bist.  Wie, du
+kleyen-hirnichter Wanst, du H**sohn von einem unflaetigen,
+schmuzigen Schmeer-Bauch--
+
+Falstaff.
+Wie?  Bist du toll, bist du toll?  Ist es nicht die Wahrheit, die
+Wahrheit?
+
+Prinz Heinrich.
+Wie konntest du denn sehen, dass diese Leute in Kendal-Gruen gekleidt
+waren, wenn es so dunkel war, dass du deine Hand nicht sehen
+konntest?  Komm, lass sehen wie du das machtest; was sagst du hierzu?
+
+Poins.
+Nun, Jak, wie machtet ihr das, sagt einmal.
+
+Falstaff.
+Wie, ihr wollt's mit Gewalt wissen, mit Gewalt?  Nein, und wenn ich
+auf dem Strappado waere, oder auf allen Foltern der ganzen Welt, ich
+wollt' euch nichts sagen, wenn ihr's mit Gewalt wissen wolltet.
+
+Prinz Heinrich.
+Es ist Zeit dem Spass ein Ende zu machen.  Wisst also, diese
+blutreiche Memme hier, dieser Bett-Druker, dieser Pferd-Rueken-
+Brecher, dieses Gebuerge von Fleisch--
+
+Falstaff.
+Weg mit euch, ihr Hunger-Darm, ihr Aal-Haut, ihr duerre Kalbs-Zunge,
+ihr Ochsen-Ziemer, ihr Stok-Fisch--O wenn ich nur einen laengern
+Athem haette!--Was ist dir noch mehr aehnlich?  Ihr Ellen-Maass, ihr
+Fiddelbogen-Futteral, ihr langer Rauf-Degen--
+
+Prinz Heinrich.
+Gut, verschnauffe eine Weile, und fahre hernach fort; und wenn du
+dich in niedertraechtigen Gleichnissen erschoepft hast, so hoere mich
+nur dieses sagen.
+
+Poins.
+Horch auf, Jak.
+
+Prinz Heinrich.
+Wir beyde sahen euch viere ihrer viere angreifen, ihr bandet sie,
+und bemeistertet euch ihrer Baarschaft; nun gebt Achtung wie es
+weiter gierig.  Wir beyde fielen hierauf ueber euch viere her,
+jagten euch auseinander, und nahmen euch eure Beute weg; so ist's
+und wir koennen sie euch hier im Hause zeigen.  Und ihr, Falstaff,
+ihr trugt eure Kutteln so leicht weg, mit einer so behenden
+Hurtigkeit, und bruelltet so klaeglich um Gnade, und renntet und
+bruelltet in einem fort, so gut als ich jemals ein Stierkalb bruellen
+hoerte.  Was fuer ein Sclave bist du, deinen Degen so zu zerhaken wie
+du gethan hast, und dann zu sagen, es sey vom Fechten gekommen?
+Was fuer eine Ausflucht, was fuer eine Luege, was fuer eine Hoele kanst
+du ausfuendig machen, dich vor dieser offenbaren, unlaeugbaren
+Schande zu verbergen?
+
+Poins.
+Komm, lass es uns hoeren, Jak.  Wie willst du dir nun hinaushelfen?
+
+Falstaff.
+Bey G**, ich kannte euch so gut, als der so euch gemacht hat.  Wie,
+hoert ihr, meine Herren, haett' ich den praesumtiven Erben umbringen
+sollen?  Haett' ich meine Hand an den Cron-Prinzen legen sollen?
+Wie, du weissst, dass ich so tapfer als Hercules bin; aber der
+Instinct hielt mich dissmal zuruek; der Loewe greift niemals den Cron-
+Prinzen an: Der Instinct ist ein maechtiges Ding.  Aus Instinct ward
+ich eine Memme, und ich werde mein Lebenlang desswegen von dir und
+mir nur eine desto bessere Meinung haben; denn das beweisst
+unleugbar, dass ich ein tapfrer Loewe bin, und dass du der aechte Cron-
+Prinz bist.  Aber, bey G**, Jungens, es freut mich, dass ihr das
+Geld habt--Wirthin!  riegle die Thuere; wache die Nacht durch, und
+bete Morgens.  Hey da, ihr lustigen Brueder, Jungens, Gold-Puepchens,
+sagt, wie wollen wir uns lustig machen?  Wollen wir eine Comoedie
+(ex tempore) spielen?
+
+{ed. ** In der Verfolgung der Protestanten in Flandern unter
+Philipp dem 2ten, brachten diejenigen die bey dieser Gelegenheit
+nach England kamen, die Wollen-Manufacturen mit.  Diese waren
+Calvinisten, welche jederzeit durch ihre Neigung zum
+Psalmensingen sich unterschieden haben.
+Warburtun.}
+
+Prinz Heinrich.
+Ich bins zufrieden--und der Inhalt soll dein Davon lauffen seyn.
+
+Falstaff.
+Ah!--nichts mehr hievon, Hal, wenn du mich lieb hast.
+
+
+
+Zehnte Scene.
+(Die Wirthin kommt herein und meldet dem Prinzen, dass ein Herr von
+Hofe da sey, der auf Befehl des Koenigs mit ihm sprechen wolle.
+Falstaff wird abgeschikt zu hoeren was er wolle.)
+
+
+
+Eilfte Scene.
+(Falstaff kommt zuruek, und bringt die Zeitung von dem Aufstand,
+den Percy, Northumberland, Douglas, und Glendower, im Norden von
+England erregt, und dass der Prinz auf morgen zum Koenig, seinem
+Vater, beschieden sey.  Dieses giebt zu einer kleinen Comoedie von
+der poebelhaftest-buerlesken Art Anlas, worinn Falstaff den Koenig
+macht, und den Prinzen wegen seiner unanstaendigen Lebensart und
+luederlichen Gesellschaft ausschilt, jedoch mit Ausnahme des
+einzigen Falstaff, von dem er viel Gutes sagt.  Der Prinz behauptet,
+Falstaff habe den Koenig nicht recht gemacht, uebernimmt diese Rolle
+selbst, laesst Falstaffen den Prinzen seyn, und sagt alsdann eben so
+viel boeses von Falstaff als dieser vorhin Gutes von sich selbst
+gesagt hatte.  Folgendes mag zur Probe dienen:)
+
+
+Prinz Heinrich (in der Person des Koenigs.)
+Ich hoere grosse Klagen ueber dich.
+
+Falstaff (in der Person des Prinzen.)
+Sakerlot!  Gnaedigster Herr, sie sind alle erlogen--
+
+Prinz Heinrich.
+Du schwoerst, unartiger Bube?  Von nun an komm nimmer vor meine
+Augen!  Du gehst einen verderblichen Weg; es ist ein Teufel, der
+dich jagt, ein Teufel in Gestalt eines fetten alten Manns; eine
+Tonne von einem Mann ist deine Gesellschaft.  Wie, schaemst du dich
+nicht mit diesem Weinfasse umzugehen, mit diesem zusammengeballten
+Klumpen von Bestialitaet, mit diesem ungeheuren Kessel voll Sect,
+mit diesem ausgestossen Felleisen von Kutteln,--diesem ehrwuerdigen
+Laster, dieser grauen Bueberey, diesem Vater Spizbuben, dieser
+bejahrten Eitelkeit?  Wozu ist er gut, als Sect zu kosten und
+auszutrinken?  Worinn ist er nett und manierlich, als einen
+Capaunen zu zerlegen und aufzuessen?  Worinn hat er Verstand als in
+Raenken?  Wozu braucht er seine Raenke als zu Bubenstueken?  Worinn
+ist er ein Lotterbube als in allen Dingen?  Und worinn ist er
+loeblich als in nichts?
+
+Falstaff.
+Wen meynt Euer Majestaet?
+
+Prinz Heinrich.
+Diesen ruchlosen schaendlichen Verfuehrer der Jugend, Falstaff,
+diesen alten weissbartigen Satan.
+
+Falstaff.
+Milord, den Mann kenn' ich.
+
+Prinz Heinrich.
+Das weiss ich wol.
+
+Falstaff.
+Aber wenn ich sagte, dass er ein schlimmerer Mann sey als ich selbst,
+so sagt' ich mehr als ich weiss.  Dass er alt ist, davon zeugen
+leider!  seine weissen Haare; aber dass er, mit Respect vor euch zu
+sagen, ein H**jaeger sey, das laeugne ich schlechterdings.  Wenn Sect
+und Zuker etwas unrechtes ist, so helf G** den Schlimmen!  Wenn alt
+und aufgeraeumt seyn, eine Suende ist, so kenn' ich manchen alten
+Wirth, der verdammt werden muesste; wenn fett seyn, Hass verdient, so
+muessten Pharaons magre Kuehe liebenswuerdig seyn.  Nein, Gnaedigster
+Herr, verbannet Peto, verbannet Bardolph, verbannet Poins; aber den
+guten alten Jak Falstaff, den wakern Jak Falstaff, den ehrlichen
+Jak Falstaff, den tapfern Jak Falstaff, und desto tapfrer, da er,
+wie man nicht laeugnen kan, der alte Jak Falstaff ist, den verbannt
+nicht aus Harry's Gesellschaft: Wolltet ihr den guten diken Jak von
+mir verbannen, so verbannet eben so mehr die ganze Welt von mir--
+([Diese unvollkommne Probe, (denn man hat dennoch einige Bluemchen
+auslassen muessen) wird den Leser vermuthlich geneigt machen, dem
+Uebersezer in Absicht der Falstaffischen Scenen Vollmacht zu geben,
+darueber nach eignem Belieben zu schalten.  Man muss ein Englaender
+seyn, diese Scenen von Englaendern spielen sehen, und eine gute
+Portion Pounsch dazu im Kopfe haben, um den Geschmak daran zu
+finden, den Shakespears Landsleute groestentheils noch heutiges
+Tages an diesen Gemaehlden des untersten Grads von poebelhafter
+Ausgelassenheit des Humors und der Sitten finden sollen.])
+(Bardolph und die Wirthin lauffen erschroken herein, und melden,
+dass der Scheriff mit der Wache vor der Thuere sey, und das Haus
+durchsuchen wolle.  Prinz Heinrich uebernimmt es ihn abzufertigen,
+nachdem er Falstaffen und den uebrigen befohlen, sich zu verbergen.)
+
+
+
+Zwoelfte Scene.
+(Der Scheriff kommt mit einem von den Fuhrleuten der Beraubten,
+und fragt nach Falstaffen, welchen er beschuldigt, den Raub
+begangen zu haben.  Der Prinz antwortet ihm ganz ernsthaft, und
+also in reimlosen Versen (denn Shakespear ist, wie wir wissen, ein
+genauer Beobachter des Decorum,) der Mann sey nicht hier, indem er
+ihn Geschaefte halber ausgeschikt habe; er giebt aber dem Scheriff
+sein Ehrenwort, dass er ihn bis morgen Mittags stellen, und wenn es
+sich finde, dass er den Raub begangen, der Justiz ueberlassen wolle.
+Der Scheriff nimmt hierauf seinen demuethigen Abschied, und der
+Prinz erklaert sich gegen Peto, dass er den Beraubten ihr Geld mit
+Wucher wieder zuruekgeben, morgen nach Hofe und von da zu Felde
+gehen, sie aber allerseits mit sich nehmen, und bey der Armee
+anstaendig unterbringen wolle.)
+
+
+
+
+Dritter Aufzug.
+
+
+
+Erste Scene.
+(Des Archi-Diaconus von Bangor Haus in Wales.)
+(Hot-Spur, Worcester, Mortimer und Owen Glendower treten auf.)
+
+
+Mortimer.
+Diese Versprechungen sind schoen, die Partheyen zuverlaessig, und
+unser Vorhaben voller Hoffnung eines glueklichen Ausgangs.
+
+Hot-Spur.
+Milord Mortimer, und Vetter Glendower, wollt ihr nicht Plaz nehmen?
+Und ihr, Oheim Worcester--Der Henker hol' es!  ich habe die Land-
+Carte vergessen.
+
+Glendower.
+Nein, hier ist sie.  Sezt euch, Vetter Percy, sezt euch, guter
+Vetter Hot-Spur: Denn wenn Lancaster euch bey diesem Namen nennen
+hoert, dann erblassen seine Wangen, und mit einem emporsteigenden
+Seufzer wuenscht er, dass ihr im Himmel seyn moechtet.
+
+Hot-Spur.
+Und ihr in der Hoelle, so oft er von Owen Glendower reden hoert.
+
+Glendower.
+Ich tadle ihn nicht; in meiner Geburts-Stunde erfuellte sich die
+Stirne des Himmels mit feurigen Gestalten und brennenden Meteoren;
+wisst, der ganze Erdball zitterte in seinen innersten Gewoelben, wie
+eine Memme, als ich gebohren ward.
+
+Hot-Spur.
+Das wuerd' er gethan haben, wenn in der nemlichen Stunde eurer
+Mutter Kaze Junge gehabt haette, und ihr nie gebohren worden waeret.
+
+Glendower.
+Ich sage, die Erde bebte wie ich gebohren ward.
+
+Hot-Spur.
+Und ich sage, wenn die Erde das that, so dachte sie nicht wie ich,
+in so fern ihr euch einbildet, sie zitterte aus Furcht vor euch.
+
+Glendower.
+Die Himmel waren lauter Feuer, und die Erde bebte.
+
+Hot-Spur.
+Die Erde bebte also, weil sie den Himmel in Feuer sah, und nicht
+weil ihr gebohren wurdet.  Die kranke Natur bricht oft in seltsame
+Paroxismen aus; die Erde wird zuweilen von dem unbaendigen Wind, der
+in ihren Leib eingekerkert ist, mit einer Art von Colik gequaelt; er
+straeubt sich durchzubrechen, und schuettelt die gute alte Mutter so
+stark, dass hohe Schloesser und bemoosste Glokenthuerme umstuerzen.  Wie
+ihr gebohren wurdet, so hatte unsre Gross-Mutter Erde eben einen
+solchen Anstoss von Bauchweh, und das war alles.
+
+Glendower.
+Vetter, diese Reden wuerde ich nicht von vielen andern ertragen.
+Erlaubt mir euch noch einmal zu sagen, dass bey meiner Geburt die
+Stirne des Himmels voller feuriger Gestalten war; die Geissen
+rennten von den Bergen herab, und die Heerden auf den Feldern
+bruellten auf eine unnatuerliche Art vor Schreken.  Diese Zeichen
+deuteten an dass ich ausserordentlich seyn wuerde, und der ganze Lauf
+meines Lebens hat bewiesen, dass ich nicht in die Classe der
+gewoehnlichen Menschen gehoere.  Wo lebt, innert den seebespuehlten
+Grenzen von England, Wales und Schottland, der Mann der sich ruehmen
+kan, mein Lehrmeister gewesen zu seyn?  Und dennoch hab ich den
+Sohn eines Weibs noch nicht gesehen, der es in irgend einer
+Wissenschaft oder Kunst mit mir aufnehmen koennte.
+
+Hot-Spur.
+Ich glaube selbst, dass niemand besser welsch redt--ich will zum
+Mittag-Essen.
+
+Mortimer.
+Ruhig, Vetter Percy; ihr macht ihn noch boese.
+
+Glendower.
+Ich kan die Geister aus dem Abgrund hervorrufen.
+
+Hot-Spur.
+Das kan ich auch, und das kan jedermann; aber kommen sie, wenn ihr
+ihnen ruft?
+
+Glendower.
+Wie, ich kan dich dem Teufel gebieten lehren.
+
+Hot-Spur.
+Und ich kan dich den Teufel beschaemen lehren; du darfst nur die
+Wahrheit reden: Sprich wahr, und beschaeme den Teufel, sagt das
+Spruechwort.  Wenn du im Stand bist ihn zu beschwoeren, so bring ihn
+her; und ich will im Stand seyn, ihn mit Schaam wieder wegzujagen.
+O!  sagt euer Lebenlang die Wahrheit, und beschaemt den Teufel.
+
+Mortimer.
+Kommt, kommt, wozu soll dieses Gewaesche nuezen?
+
+Glendower.
+Dreymal hat Heinrich Bolingbroke sich meiner Macht entgegen
+gestellt; dreymal hab ich ihn von den Ufern des Wye und des
+silbersandigen Severn, ohne Stiefel und von Gewittern verfolgt,
+heimgeschikt.
+
+Hot-Spur.
+Heimgeschikt, ohne Stiefeln und noch dazu in schlimmem Wetter.  Wie,
+ins T** Namen, entgieng er dem Fieber?
+
+Glendower.
+Kommt, hier ist die Carte; wollen wir nach unsern dreyfachen
+Anspruechen unser Recht theilen?
+
+Mortimer.
+Der Archi-Diaconus hat es schon, sehr gleich, durch drey Linien
+getheilt: England, vom Trent bis hier zum Severn, Sued- und Ostwaerts,
+ist mein Antheil; alles was gegen Westen ligt, Wales, und alle
+diese fruchtbaren Laender innert den Ufern des Severn, sollen Owen
+Glendowers seyn; und, Vetter Percy, der uebrige nordliche Theil,
+jenseits des Trent, euer.  Unser dreyfacher Verglich ist bereits
+aufgesezt, und wenn die Instrumente gesiegelt und ausgewechselt
+seyn werden, welches in dieser Nacht noch geschehen kan, so wollen
+wir, ihr, Vetter Percy, und ich, und Mylord von Worcester, morgen
+ausrueken, um uns, der Abrede gemaess, zu Schrewsbury mit euerm Vater
+und den Schottischen Voelkern zu vereinbaren.  Mein Vater Glendower
+ist noch nicht fertig, auch haben wir in diesen vierzehn Tagen
+seiner noch nicht vonnoethen; und diese Zeit ist mehr als
+hinreichend,
+
+(zu Glendower)
+
+dass ihr eure Vasallen, Freunde und Nachbarn aufbieten koennet.
+
+Glendower.
+Ich werde in kuerzerer Frist bey euch seyn, Milords; und ich will
+euch eure Ladys mitbringen, von denen ihr euch izt, ohne Abschied,
+wegstehlen muesst; denn es wird eine Welt voll Wasser vergossen
+werden, wenn ihr und eure Weiber scheiden muesst.
+
+Hot-Spur.
+Mich daeucht, mein Antheil, Nordwaerts von Burton hier, ist lange
+nicht so gross als der eurige.  Seht, wie dieser Fluss, indem er sich
+hier schlangenweis zuruek kruemmt, mir einen grossen halben Mond von
+dem schoensten Theil meines ganzen Landes abschneide.  Ich will den
+Strom hier aufgetroknet haben, und hier soll in einem neugegrabnen
+Canal der glatte silberne Trent schoen und eben dahinfliessen; er
+soll sich nicht mit so tieffen Kruemmungen winden, und mich hier
+eines so reichen Bodens berauben.
+
+Glendower.
+Er soll sich nicht winden?  Er soll, er muss; ihr seht ja, er thut's.
+
+Mortimer.
+Aber ihr seht ja, dass er hier auf dieser Seite euch eben so viel
+wieder zulegt, als er euch auf der andern abschneidet.
+
+Worcester.
+Ja, aber es wird nur wenig Muehe brauchen ihn hier herueber zu leiten,
+um auf der Nordseite diesen Strich Lands zu gewinnen, und dann
+fliesst er gerad und eben.
+
+Hot-Spur.
+Ich will es so haben, es wird bald geschehen seyn.
+
+Glendower.
+Ich werde keine Veraenderung zugeben.
+
+Hot-Spur.
+Ihr wollt nicht?
+
+Glendower.
+Nein, und ihr sollt keine machen.
+
+Hot-Spur.
+Und wer ist der, der nein dazu sagen wird?
+
+Glendower.
+Der bin ich.
+
+Hot-Spur.
+So sagt es auf welsch, damit ich es nicht verstehe.
+
+Glendower.
+Ich kan englisch reden, Lord, so gut als ihr, denn ich ward am
+Englischen Hof erzogen; ich habe manches englische Lied als
+Juengling auf meiner Harfe begleitet, und den Beyfall der Schoensten
+erlangt, wenn ich meine Stimme mit ihren Accenten vermaehlte; eine
+Geschiklichkeit, die man nie an euch gesehen hat.
+
+Hot-Spur.
+Glaubt mir, es sollte mir leid seyn, wenn es anders waere.  Ich
+wollte lieber eine Kaze seyn, und, Miau, schreyen!--als einer von
+diesen schnurrenden Reimen-Maeklern; ich will lieber einen kuepfernen
+Kerzenstok umfallen hoeren, oder ein ungeschmiertes Rad in der Achse
+kirren, es wuerde mir lange nicht so weh in den Zaehnen thun, als
+dieses laeppische Geklingel von Poeterey; das ist ja nicht anders,
+als wie wenn man einen stolpernden Klepper zwingen will, einen
+guten Schritt zu gehen.
+
+Glendower.
+Kommt, kommt, Trent soll abgeleitet werden.
+
+Hot-Spur.
+Was bekuemmert mich das?  Ich will dem ersten Freund der mir gute
+Dienste thut, dreymal so viel Land geben; aber hier, versteht mich
+wohl, wo es um einen Vertrag zu thun ist, wollt ich um den neunten
+Theil eines Haars schicaniren.  Sind die Instrumente aufgesezt?
+Koennen wir gehen?
+
+Glendower.
+Der Mond scheint hell, ihr koennt diese Nacht abreisen; ich will den
+Schreiber treiben, und indessen eure Weiber auf euern Abschied
+vorbereiten; ich fuerchte meine Tochter wird unsinnig davon werden,
+so verliebt ist sie in ihren Mortimer.
+
+(Er geht ab.)
+
+
+
+Zweyte Scene.
+
+
+Mortimer.
+Fy, Vetter Percy, warum koennt ihr meinen Vetter nicht unangefochten
+lassen?
+
+Hot-Spur.
+Ich kan nicht anders; er macht mich manchmal toll, wenn er mir vom
+Maulwurf und der Ameise erzaehlt, und von den Propheceyungen des
+Traeumer Merlins, und von einem Drachen, und von einem Fisch ohne
+Flossfedern, und von einem Greiffen mit beschnittnen Fluegeln, und
+von einer huepfenden Kaze, kurz von einer Menge solchem
+abgeschmaktem Hocus-Pocus, das mir die Geduld ausgehen macht.  Ich
+will euch was sagen, er hielt mich verwichne Nacht zum wenigsten
+neun Stunden auf, mir die Namen der verschiednen Teufel
+herzurechnen, die seine Lakeyen seyn sollen; ich schrie--hum!--und--
+wohl, wohl!  Aber ich gab ihm nicht auf ein Wort Acht.  O!  er ist
+so beschwerlich wie ein muedes Pferd, oder ein keiffendes Weib;
+aerger als ein rauchiges Haus.  Ich wollte lieber bey Kaes und
+Knoblauch in einer Windmuehle leben, und weit von ihm seyn; als
+Kazen fressen, und seinem Geschrey zuhoeren, in irgend einem
+Sommerhaus in der Christenheit.
+
+Mortimer.
+Er ist, bey allem dem, ein verdienstvoller Edelmann,
+ausserordentlich belesen, und in den seltsamsten Wissenschaften
+erfahren; tapfer wie ein Loewe; ueberaus leutselig, und guetig wie die
+Minen von Indien.  Soll ich's euch sagen, Vetter; er giebt euerm
+Temperament ungemein viel nach, und thut sich selbst die groeste
+Gewalt an, wenn ihr ihn auf eine so anzuegliche Art in seinem Humor
+durchkreuzt; ich versichre euch, der Mann lebt nicht, der ihn ohne
+Gefahr, so wie ihr gethan habt, haette reizen duerfen.  Aber thut es
+nicht oft, ich bitte euch.
+
+Worcester.
+In der That, Milord, ihr seyd zu tadelsuechtig, und habt, seitdem
+ihr hier seyd, genug gethan, um seine Geduld aufs aeusserste zu
+bringen.  Ihr muesst diesen Fehler nothwendig verbessern lernen, Herr.
+Ob dieses hastige Wesen gleich manchmal Groesse, Muth und Feuer
+anzeigt, (und das ist der groesste Vortheil den ihr davon haben
+koennet;) so giebt es hingegen auch oefters das Ansehen einer rohen
+Wildheit, eines Mangels an Lebensart und Sitten, und den Schein von
+Stolz, Aufgeblasenheit, uebertriebner Einbildung und Verachtung
+andrer Leute; Fehler, wodurch ein Mann, mit den groesten Verdiensten,
+die er sonst haben mag, die Herzen der Leute verliehrt, und die
+einen Fleken auf die ganze schoene Seite werfen, wodurch er sonst
+die Hochachtung der Welt gewonnen haette.
+
+Hot-Spur.
+Gut, ihr habt mich nun genug geschulmeistert denke ich; ich
+verlang' euch den Vorzug der Hoeflichkeit nicht streitig zu machen--
+hier kommen unsre Weiber, und wir wollen unsern Abschied nehmen.
+
+
+
+Dritte Scene.
+(Glendower mit Lady Mortimer und Lady Percy, zu den Vorigen.)
+
+
+Mortimer.
+Das ist ein Umstand, der mir oft toedtlichen Verdruss macht, mein
+Weib kann nicht englisch reden, und ich nicht welsch.
+
+Glendower.
+Meine Tochter weint, sie will nicht von euch scheiden, sie will
+auch ein Soldat werden, sie will in den Krieg.
+
+Mortimer.
+Milord, sagt ihr, sie und meine Tante Percy sollen uns in kurzem
+folgen.
+
+(Glendower spricht welsch mit ihr, und sie antwortet ihm darinn.)
+
+Glendower.
+Sie will sich nicht troesten lassen; eine kleine eigensinnige Hexe,
+bey der keine Ueberredung anschlagen will.
+
+Mortimer.
+Ich versteh' deine Blike, ich bin ein Meister in diesem anmuthigen
+Welsch, das du aus diesen zween schwellenden Himmeln hervorathmest,
+und, waeren wir nicht in Gesellschaft, ich wollte dir in der
+nemlichen Sprache antworten; ich verstehe deine Kuesse, und du die
+meinige, in dieser fuehlbaren Unterredung haben wir keinen
+Dollmetscher noethig; aber ich will nicht ruhen, Liebe, bis ich
+deine Sprache gelernt habe; denn von deinen Lippen toent das Welsche
+so anmuthig als aus einer Sommerlaube der suesse Gesang einer Feen-
+Koenigin, von den entzuekenden Griffen ihrer goldnen Laute beseelt.
+
+Glendower.
+O!  wenn du in Zaertlichkeit schmilzst, so wird sie gar unsinnig
+werden.
+
+(Die Lady redt wieder welsch.)
+
+Mortimer.
+Ach!  hierinn bin ich die Unwissenheit selbst.
+
+Glendower.
+Sie bittet, dass ihr euch niederlegen und euer holdes Haupt auf
+ihrem Schooss ruhen lassen sollt, und sie will euch den Gesang
+singen, den ihr so gerne hoert, und euer Blut in eine angenehme
+Schwermuth wiegend, den Gott des Schlafs auf euern Augliedern
+kroenen; euch in dieses zauberische Mittel zwischen Schlaf und
+Wachen senken, das dem Gemische von Nacht und Tag aehnlich ist, eine
+Stunde eh der Gott des Lichts seinen goldnen Lauf aus Osten beginnt.
+
+Mortimer.
+Von Herzen gerne will ich mich sezen, und sie singen hoeren;
+inzwischen, denk' ich, werden unsre Papiere fertig werden.
+
+Glendower.
+Thut das, und obgleich die Musicanten, die euch dazu aufspielen
+sollen, tausend Meilen weit von hier in der Luft hangen, so sollen
+sie doch in einem Wink zugegen seyn.  Sezt euch, und horcht.
+
+Hot-Spur.
+Komm, Kaethe, du bist eine Meisterin im Niederligen; komm, geschwind,
+geschwind, dass ich meinen Kopf auf deine Schooss legen kan.
+
+Lady.
+Geht, alberne Gans.
+
+(Die Musik faengt an.)
+
+Hot-Spur.
+Nun merk' ich, dass der Teufel welsch versteht; bey unsrer Frauen,
+er ist kein schlimmer Musicant; kein Wunder, dass er so wunderliche
+Launen hat.
+
+Lady Percy.
+Wenn es die Launen ausmachten, so muesstet ihr ueber und ueber
+musicalisch seyn: Ligt still, ihr Dieb', und hoert die Lady welsch
+singen.
+
+Hot-Spur.
+Ich wollte lieber meine Lady Brake auf irlaendisch heulen hoeren.
+
+Lady.
+Soll ich dir deinen Kopf zerbrechen?
+
+Hot-Spur.
+Nein.
+
+Lady.
+Nun, so lig still.
+
+Hot-Spur.
+Das auch nicht, das schikt sich nur fuer eine Lady.
+
+Lady.
+Nun, so helf dir Gott!
+
+Hot-Spur.
+In der welschen Lady Bette.
+
+Lady.
+Was sagtest du?
+
+Hot-Spur.
+Still, sie singt.
+
+(Lady Mortimer singt ein welsches Lied.)
+
+
+
+Hot-Spur.
+Komm, Kaethe, du must mir auch eins singen.
+
+Lady Percy.
+Ich gewiss nicht, bey meiner Treu.
+
+Hot-Spur.
+Bey deiner Treu?  du schwoerst ja wie ein Zukerbekers-Weib!  Nicht
+du, bey deiner Treu!  und, so wahr ich leb, und, hol mich Gott, und,
+so wahr als die Sonn am Himmel ist; wenn man dich so armselig
+schwoeren hoert, so daechte man, du seyst nie weiter als bis nach
+Finsbury gekommen.  Schwoer mir wie eine Lady, Kaethe, die du bist,
+einen huebschen den Mund ausfuellenden Schwur, und ueberlass das meiner
+Treu und dergleichen Pfeffer- und Ingwerkraemerische Bluemchen, den
+ehrlichen Leuten die am Sonntag ihr huebsches Kleid anziehen.--Komm,
+sing.
+
+Lady.
+Ich will nicht singen.
+
+Hot-Spur.
+Und ich will gehen; wenn die Aufsaeze fertig sind, so koennen wir in
+zwo Stunden schon fort seyn.  Kommt mit, wenn ihr wollt.
+
+(Er geht ab.)
+
+Glendower.
+Kommt, kommt, Lord Mortimer; ihr seyd, daeucht mich, so traege zum
+Gehen als Lord Percy feurig ist.  Unsre Instrumente werden fertig
+seyn; wir wollen nur sigeln und dann gleich zu Pferde.
+
+Mortimer.
+Von Herzen gerne.
+
+(Sie gehen ab.)
+
+
+
+Vierte Scene.
+(Verwandelt sich in den Audienz-Saal zu Windsor.)
+(Koenig Heinrich, der Prinz von Wales, Lords und Gefolge treten auf.)
+
+
+Koenig Heinrich.
+Lords, verlasst uns eine Weile; der Prinz von Wales und ich muessen
+allein mit einander sprechen; aber entfernt euch nicht weit, denn
+wir werden euch bald wieder noethig haben.
+
+(Die Lords gehen ab.)
+
+Ich weiss nicht, ob es Gott so haben will, dass zu Befriedigung
+seines geheimen Grimms ueber irgend eine missfaellige That meines
+Lebens aus meinem eignen Blut ein Raecher und eine Peitsche fuer mich
+entstehen sollte; aber der ganze Zusammenhang deiner Auffuehrung und
+Lebensart laesst mich nichts anders glauben, als dass du ganz allein
+zum Werkzeug der heissen Rache des Himmels wieder mich bestimmt
+bist.  Oder sage mir, waer es sonst moeglich, dass so zuegellose und
+niedertraechtige Neigungen, so elende, so poebelhafte, so schaendliche,
+so ruchlose Handlungen, so nichtswuerdige Belustigungen, eine so
+veraechtliche, so wilde Gesellschaft, als diejenige womit du gepaart
+oder mit der du vielmehr ganz in eins verwachsen bist, faehig seyn
+sollten, dich deiner angebohrnen Hoheit vergessen zu machen, und
+dein fuerstliches Herz zu sich herunter zu ziehen?
+
+Prinz Heinrich.
+Gnaedigster Herr, ich wuenschte dass ich von allen Vergehungen so frey
+waere, als ich gewiss bin, mich von vielen reinigen zu koennen, die
+mir zur Last gelegt werden.  Indessen erlaubet mir wenigstens so
+viele Nachsicht von Euer Majestaet zu erbitten, dass, wenn viele von
+diesen nachtheiligen Erzaehlungen, womit niedertraechtige Zeitungs-
+Maekler das Ohr der Fuersten zu umsumsen pflegen, sich falsch
+befinden, meine aufrichtige Reue wegen einiger wuerklicher
+Vergehungen, worinn meine Jugend ausschweiffend und tadelhaft
+gewesen ist, Vergebung erlangen moege.
+
+Koenig Heinrich.
+Der Himmel vergebe dir!  Aber lass mich dir mein Erstaunen darueber
+bezeugen, Harry, dass deine Neigungen sich so weit von dem edeln
+Flug aller deiner Voraeltern entfernen.  Du hast durch deine rohe
+Lebensart deinen Plaz im Staats-Rath verlohren, der nun durch
+deinen juengern Bruder erfuellt wird; du hast die Herzen des ganzen
+Hofs, und alle Prinzen von meinem Blut verlohren.  Niemand hoffet
+oder erwartet etwas Gutes von deiner Zeit, und jede Seele sagt sich
+selbst prophetisch deinen Fall vorher.  Haette ich deine Sitten
+gehabt, haett' ich in den Augen der Welt mich so gemein und
+veraechtlich gemacht, durch eine so poebelhafte Gesellschaft mir
+selbst meinen Werth benommen; die Meynung, die mir zur Crone half,
+wuerde dem vorigen Besizer treu geblieben seyn, und mich in
+ruhmloser Verbannung, unbemerkt und in der Menge des verdienstlosen
+Hauffens, verlohren, vergessen haben.  Aber da ich selten gesehen
+wurde, erschien ich niemals, ohne wie ein Comet, jedes Aug' auf
+mich zu ziehen.  Die Vaeter sagten dann zu ihren Kindern: Diss ist er!
+Wo, wo?  fragten andre; welcher ist Bolingbroke?  Und dann stahl
+ich, wie ein andrer Prometheus, diese huldreiche Leutseligkeit vom
+Himmel, dieses goettliche Feuer, wodurch die Koenige die Liebe ihrer
+Unterthanen naehren, entzog die Herzen des Volks durch die Demuth,
+in die ich mich einkleidete, ihrem Oberherrn, und empfieng lautes
+Zujauchzen und frolokende Gruesse, selbst in der Gegenwart des
+gekroenten Koenigs.  Auf diese Art erhielt ich mich immer frisch und
+neu in den Augen der Menge; und meine Gegenwart, mit desto groessrer
+Pracht begleitet, je seltner sie war, schien jedesmal ein
+oeffentliches Fest, das mit allgemeinen Freuden-Zeichen gefeyrt
+wurde.  Der huepfende Koenig trabte indess in einer Gesellschaft von
+Hofnarren und schaalen Wizlingen, (wie duerre Reiser gleich
+angezuendt und gleich verbrennt), auf und nieder, vergab seine
+Koenigliche Wuerde, mengte sich unter unbaertige Spassvoegel und Geken,
+und erlaubte ihnen seine Majestaet durch Scherze und unanstaendige
+Vertraulichkeit zu entweihen; er liess sich, wie die gemeinsten
+Pflastertreter, in allen Gassen sehen, und saettigte die Leute durch
+seinen taeglichen Anblik so sehr, bis er ihnen ekelhaft wurde.
+Musste er sich hernach bey oeffentlichen Anlaesen sehen lassen, so
+ward er nur, wie der Gukguk im Brachmonat, gehoert, nicht geachtet;
+geseh'n, aber mit dem nachlaessigen Blik, der ueber einen alltaeglichen
+Gegenstand hinweggleitet; nicht mit dem weitoffnen wundervollen
+Auge, das auf die sonnengleiche Majestaet geheftet wird, wenn sie
+selten aus ihrer Verhuellung hervorglaenzt; sondern mit schlaefrigen,
+gesenkten Augliedern, mit dem duestern verdriesslichen Blik, den man
+auf einen Feind wirft, von dessen Gegenwart man belaestigt, gedruekt
+und ueberfuellt wird.  Und in eben dieser Linie, Harry, stehst du.
+Du hast deine fuerstliche Vorrechte verlohren, indem du dich
+niedertraechtiger Gesellschaft Preiss gegeben hast.  Nicht ein
+einziges Auge, das nicht deines alltaeglich gewordnen Anbliks
+ueberdruessig ist; das meinige ausgenommen, das dich zu sehen verlangt
+hat, und nun, wider meinen Willen, von den Zeichen einer
+allzugrossen Zaertlichkeit ueberfliesst.
+
+Prinz Heinrich.
+Ich werde mich beeifern, mein gnaedigster Herr, kuenftig mehr ich
+selbst zu seyn.
+
+Koenig Heinrich.
+Um alles in der Welt, was du in dieser Stunde bist, war Richard
+damals da ich aus Frankreich zu Ravenspurg ans Land sezte, und
+gerade was ich damals war, ist Percy izt.  Bey meinem Scepter und
+bey meiner Seele!  er hat mehr wuerklichen Antheil am Staat, als du,
+der kuenftige Thronfolger.  Ohne Recht, ohne den Schatten eines
+Rechts fuellt er die Felder mit Harnischen, erhebt sein Haupt gegen
+des Loewen gewafnete Tazen, und, ob er gleich nicht aelter ist als du,
+fuehrt er doch bejahrte Helden und ehrwuerdige Bischoeffe zu blutigen
+Schlachten an.  Was fuer eine unsterbliche Ehre hat er an dem
+ruhmvollen Dowglas eingelegt, dessen grosse Thaten und seltne
+Kriegs-Erfahrenheit ihm den Namen des groessten Feldherrn in allen
+Christlichen Koenigreichen erworben haben?  Dreymal hat dieser Hot-
+Spur, dieser Kriegs-Gott in Windeln, dieser unmuendige Held, den
+grossen Douglas in offner Schlacht ueberwunden, einmal ihn sogar
+gefangen genommen, aber wieder in Freyheit gesezt, und einen Freund
+aus ihm gemacht, um mit seinem Beystand den Frieden und die
+Sicherheit unsers Throns zu erschuettern.  Und was sagst du hiezu?
+Percy, Northumberland, der Erzbischoff von York, Douglas und
+Mortimer, haben einen Bund gegen uns gemacht, und empoeren sich--
+Aber wem, und wozu erzaehl' ich diese Neuigkeiten?  Wie, Harry, muss
+ich vielleicht dich selbst, den naechsten an meinem Herzen und an
+meinem Thron, auch dich, unter meine Feinde zaehlen?  Du bist faehig
+genug, aus unterwuerfiger feiger Niedertraechtigkeit, oder einem
+Anstoss von Spleen, in Percys Solde wider mich zu fechten; und, wie
+ein Hund um seine Fersen dich schmiegend, und hoeflich einen
+gnaedigen Blik von ihm erbuhlend, zu zeigen, wie sehr du abgeartet
+bist.
+
+Prinz Heinrich.
+Denket nicht so, Gnaedigster Herr, ihr werdet es anders finden, und
+der Himmel verzeihe denen, die mich in Eu.  Majestaet Gedanken so
+tief erniedriget haben.  Aber an Percys Kopf will ich mich
+rechtfertigen, und am Schluss irgend eines glorreichen Tages, mit
+dem Bewusstseyn, dass ich's werth bin, euch sagen, ich sey euer Sohn;
+und das soll der Tag seyn, er komme wann er will, da dieser Sohn
+der Ehre und des Ruhms, dieser tapfre Hot-Spur, dieser ueberall
+gepriessne Ritter, und euer nichts geachteter Harry, im blutigen
+Felde zusammen kommen werden.  Moechte immerhin jede Ehre die auf
+seinem Helm sizt, und jede Schmach ueber meinem Haupte sich
+verdoppeln!  Denn er soll kommen, der Tag, da dieser junge
+Nordische Held seine glaenzenden Thaten gegen meine Verachtung
+austauschen soll.  Percy ist nur mein Factor, Gnaedigster Herr, der
+glorreiche Thaten fuer mich aufhaeuffen muss; ich will ihn zu einer
+scharfen Rechenschaft ziehen, und er soll mir jeden Ruhm, nicht den
+kleinsten ausgenommen, einhaendigen, oder ich will ihm die Rechnung
+aus seinem Herzen reissen.  Diss versprach ich im Namen des Himmels
+hier; und wenn ich lebe, um es zu vollbringen, so erlaubet mir Eu.
+Majestaet zu bitten, dass es als eine Genugthueung fuer die
+Ausschweiffungen meiner Jugend angesehen werde.  Wo nicht, so
+bezahlt das Ende des Lebens alle Schulden, und eher will ich
+hundert tausend Tode sterben, eh ich den kleinsten Theil dieses
+Geluebds brechen sollte.
+
+Koenig Heinrich.
+Hundert tausend Rebellen sterben durch diese Erklaerung.  Du sollst
+einen Auftrag, und hiezu unbeschraenkte Vollmacht bekommen.  (Blunt
+kommt herein.) Was bringst du neues, Blunt?  Deine Blike kuendigen
+etwas Unerwartetes vorher.
+
+Blunt.
+Der Lord Mortimer von Schottland hat die Nachricht eingesandt, dass
+Dowglas und die Englischen Rebellen den eilften dieses Monats zu
+Schrewsbury sich vereinigen wuerden.  Sie machen ein furchtbares
+Heer aus, wenn jeder von den Verschwornen sein Versprechen haelt, so
+furchtbar, als jemals die Empoerung in einem Staat aufgebracht hat.
+
+Koenig Heinrich.
+Der Graf von Westmorland, und mein Sohn Johann von Lancaster, sind
+heute schon aufgebrochen; denn diese Nachricht ist schon fuenf Tage
+alt.  Auf naechste Mittwoche, Harry, sollt du, und Donnstags wollen
+wir selbst ausziehen, und zu Bridgnorth wollen wir zusammentreffen.
+Du, Harry, sollt deinen Marsch durch Glocester-Schire nehmen; und
+in zwoelf oder vierzehn Tagen soll unsre ganze Macht zu Bridgnorth
+sich vereinbaren.  Hinweg!  jeder Augenblik, um den wir uns
+verspaeten, ist ein Vortheil fuer sie.
+
+(Sie gehen ab.)
+
+
+
+Fuenfte und sechste Scene.
+(Ein paar poebelhafte und schmuzige Zwischen-Scenen aus dem
+Wirthshaus zum Baeren-Kopf in East-Cheap, zwischen Falstaff,
+Bardolph, der Wirthin, dem Prinzen und Peto.)
+
+
+
+Vierter Aufzug.
+
+
+
+Erste Scene.
+(Verwandelt sich in Schrewsbury.)
+(Hot-Spur, Worcester und Dowglas treten auf.)
+
+
+Hot-Spur.
+Wohl gesprochen, mein edler Schotte, wenn nicht oft die Wahrheit
+selbst, in diesem verschmizten Zeit-Alter, fuer Schmeicheley
+gehalten wuerde.  Aber ein Dowglas muss von solchem Gehalt seyn, dass
+kein Kriegsmann vom Gepraege dieser Zeit einen so allgemeinen Cours
+durch die Welt habe wie er.  Beym Himmel, ich kan nicht schmeicheln;
+aber einen bravern Plaz hat niemand in meinem Herzen als ihr.
+Nein, nehmt mich beym Wort; sezt mich auf die Probe, Lord.
+
+Dowglas.
+Du bist der Koenig der Ehre, und wenn jemand auf Erden Athem holt,
+der dir den Vorzug streitig machen will, wer er auch sey, dem will
+ich Troz bieten.  (Ein Bote zu den Vorigen.)
+
+Hot-Spur.
+Thut das, und ihr thut wohl--Was fuer Briefe hast du hier?--
+
+Bote.
+Von euerm Vater.
+
+Hot-Spur.
+Briefe von ihm?  Warum kommt er nicht selbst?
+
+Bote.
+Er kan nicht kommen, Milord, er ist gefaehrlich krank.
+
+Hot-Spur.
+Himmel!  Wie hat er die Musse in dieser entscheidenden Zeit krank
+zu seyn?  Wer fuehrt seine Truppen an?  Unter wessen Commando kommen
+sie?
+
+Bote.
+Seine Briefe muessen seine Gesinnung entdeken; mir ist nichts
+bekannt.
+
+Hot-Spur.
+Seine Gesinnung?
+
+Worcester.
+Muss er denn zu Bette liegen?
+
+Bote.
+Er lag schon vier Tage eh ich abgieng; und wie ich abreisste, waren
+die Aerzte seinetwegen in grossen Sorgen.
+
+Worcester.
+Ich wollte, der Zustand dieser Zeit waere erst geheilt gewesen, eh
+er krank geworden waere; seine Gesundheit war nie mehr werth, als
+izt.
+
+Hot-Spur.
+Krank in einer solchen Zeit!  O!  diese Krankheit stekt das
+Lebensblut unsrer Unternehmung an!  Sie wird unser ganzes Lager
+ansteken.  Er schreibt mir hier, dass eine heftige Krankheit--und
+dass seine Freunde durch Abgeordnete nicht sobald zusammen gebracht
+werden koennten, ja dass er es nicht einmal rathsam halte, ein so
+wichtiges und gefaehrliches Geschaeft einer andern Seele als seiner
+eigenen anzuvertrauen.  Indess rathet er uns doch mit unsrer kleinen
+Macht auszurueken, und eine Probe zu machen, wie das Gluek fuer uns
+gesinnt sey; denn, seinem Bericht nach, laesst sich nimmer zaudern,
+indem der Koenig von unserm ganzen Vorhaben unterrichtet ist.  Was
+sagt ihr dazu?
+
+Worcester.
+Euers Vaters Krankheit ist ein grosser Nachtheil fuer uns.
+
+Hot-Spur.
+Es ist ein Glied, das uns abgehauen ist--und doch, in der That, ist
+es nicht so; wir werden ihn wuerklich weniger vermissen als es izt
+scheint.  Waer' es gut, unser ganzes Gluek auf einen einzigen Wurf zu
+sezen?  Ein so grosses Capital dem schluepfrigen Ungefehr einer
+zweifelhaften Stunde zu ueberlassen?  Es waere nicht gut; denn wie
+leicht koennten wir in dieser einzigen Stunde das Ende aller unsrer
+Hoffnungen finden.
+
+Dowglas.
+Vermuthlich wuerd' es so gegangen seyn; da uns hingegen, wie die
+Sachen izt ligen, eine Zuflucht uebrig bleibt, deren Gewissheit uns
+zu unserm Vorhaben desto kuehner machen wird.
+
+Hot-Spur.
+So ists, ein Sammelplaz, wo wir uns wieder erholen koennen, wenn der
+Teufel und ein feindseliger Zufall unsre erste Unternehmung
+misslingen macht.
+
+Worcester.
+Dem ungeachtet wuenschte ich, euer Vater waere hier.  Die Natur
+unsrer Unternehmung leidet keine Theilung; viele, welche nicht
+wissen, warum er abwesend ist, werden glauben, dass Klugheit, Treue,
+und blosses Missfallen an unserm Verfahren den Grafen zuruek halte.
+Ihr sehet leicht, wie nachtheilig eine solche Vermuthung unsrer
+Parthey seyn muss.  Uns ist alles daran gelegen, die schwache Seite
+unsrer Unternehmung zu verbergen, und jedes Taglicht, jede Oeffnung
+und Rize zu verstopfen, durch die das Auge der Vernunft in das
+Inn're derselben dringen koennte.  Diese Abwesenheit euers Vaters
+zieht einen Vorhang auf, der den Unberichteten eine Ursache zur
+Furcht zeigt, wovon sie vorher nicht getraeumt haben.
+
+Hot-Spur.
+Ihr geht zu weit, Milord.  Ich sehe seine Abwesenheit vielmehr als
+einen Umstand an, der unserm grossen Vorhaben einen Glanz giebt,
+und eine groessre Meynung davon erweken muss, als wenn er hier waere;
+denn muessen nicht die Leute denken, wenn wir ohne ihn im Stande
+seyen, dem Koenigreich einen Stoss zu versezen, so werden wir, mit
+seinem Beystand, unfehlbar alles unter ueber sich kehren.  Noch geht
+alles gut, noch ziehen alle unsre Strike.
+
+Dowglas.
+Wie wir's nur wuenschen koennen; in Schottland wird kein Wort von
+dergleichen Besorgnissen gehoert.
+
+
+
+Zweyte Scene.
+(Sir Richard Vernon zu den Vorigen.)
+
+
+Hot-Spur.
+Mein Vetter Vernon, willkommen, bey meiner Seele!
+
+Vernon.
+Wollte der Himmel, dass meine Zeitung einen Willkomm werth waere,
+Milord.  Der Graf von Westmorland ist in Begleitung des Prinzen
+Johann von Lancaster mit siebentausend Mann im Anzug.
+
+Hot-Spur.
+Das kan er; was mehr?
+
+Vernon.
+Ueberdem hab' ich in Erfahrung gebracht, dass der Koenig in eigner
+Person entweder schon ausgeruekt, oder doch entschlossen sey, aufs
+schleunigste mit einer grossen Macht hieher zu kommen.
+
+Hot-Spur.
+Er soll auch willkommen seyn.  Wo ist sein Sohn?  der leichtfuessige,
+und tollkoepfige Prinz von Wales und seine Cameraden, die die Welt
+auf die Seite lachen, und ihr sagen, sie koenne gehen wohin sie
+wolle.
+
+Vernon.
+Sie sind alle geruestet, alle in Waffen, alle befiedert wie die
+Straussen, alle in Gold schimmernd wie die Bilder in der Kirche,
+lebhaft wie der May, praechtig wie die Sonne im Junius, muthwillig
+wie junge Geissen, und wild wie die Loewen.  Ich sah ihn, den jungen
+Heinrich, mit aufgezognem Viesier, in voller Ruestung, gleich dem
+befluegelten Mercur sich vom Boden auf- und so leicht in seinen
+Sattel schwingen, als ob ein Engel aus den Wolken herabgeschluepft
+waere, um auf einem feurigen Pegasus sich um die Unterwelt herum zu
+tummeln.
+
+Hot-Spur.
+Nichts mehr, nichts mehr; dieses Lob ist ungesunder als die Sonn'
+im Merz.  Lasst sie kommen; sie kommen als Schlacht-Opfer, mit
+Blumen bekraenzt, um der feueraugichten Kriegs-Goettin, alle warm und
+blutend, aufgeopfert zu werden.  Der beschupte Mars soll bis an die
+Ohren im Blut auf seinem Altar sizen.  Ich bin ganz in Feuer, da
+ich hoere, dass eine so reiche Beute so nah, und doch noch nicht
+unser ist.  Kommt, lasst mich mein Pferd besteigen, welches mich wie
+einen Donnerkeil gegen den Busen dieses Prinzen von Wales
+schleudern soll.  Ein Harry soll dem andern begegnen, und nicht
+ablassen, bis einer von beyden faellt.  O dass Glendower hier waere!
+
+Vernon.
+Das erinnert mich noch an einen Umstand.  Ich hoerte zu Worcester,
+da ich durchritt, dass er vor diesen vierzehn Tagen seine Macht
+nicht zusammenbringen kan.
+
+Dowglas.
+Das ist die schlimmste Zeitung unter allen.
+
+Worcester.
+Ja, in der That, das hat einen frostigen Ton.
+
+Hot-Spur.
+Wie stark mag des Koenigs Armee seyn?
+
+Vernon.
+Dreyssigtausend Mann.
+
+Hot-Spur.
+Lasst es vierzigtausend seyn; da mein Vater und Glendower nicht hier
+sind, so mag unsre einzelne Macht diesen grossen Tag aushalten.
+Kommt, wir wollen unsre Leute mustern; der juengste Tag ist nahe;
+sterben wir alle, und mit Freuden, wenn es je gestorben seyn muss!
+
+Dowglas.
+Redet nicht vom Sterben; fuer dieses naechste halbe Jahr fuercht' ich
+den Tod nicht.
+
+(Sie gehen ab.)
+
+
+
+Dritte Scene.
+(Verwandelt sich in eine Landstrasse ohnweit Coventry.)
+(Falstaff und Bardolph treten auf.)
+
+
+Falstaff.
+Bardolph, geh du voran nach Coventry, und fuell' mir eine Flasche
+mit Sect: Unsre Soldaten sollen nur durchmarschiren; wir wollen
+unser Nachtquartier zu Sutton-Cop-Hill nehmen.
+
+Bardolph.
+Wollt ihr mir Geld geben, Hauptmann?
+
+Falstaff.
+Leg du's aus, leg du's aus.
+
+Bardolph.
+Eine Flasche Sect macht einen Engel.*
+
+{ed. * Eine Muenze, die zehn Englische Schillinge gilt.}
+
+Falstaff.
+Und wenn sie's macht, so nimm ihn fuer deine Muehe; und wenn sie
+zwanzig macht, so nimm alle zwanzig; ich stehe fuer das Gepraege.
+Sag meinem Lieutenant Peto, dass er am Thor auf mich warten soll.
+
+Bardolph.
+Ich will, Hauptmann; Adieu.
+
+(Er geht ab.)
+
+Falstaff.
+Wenn ich mich nicht meiner Soldaten schaeme, so sey ich ein
+Stokfisch: ich habe des Koenigs Werb-Patent verflucht missbraucht.
+An hundert und fuenfzig Soldaten hab' ich dreyhundert und etliche
+Pfund gewonnen.  Wie gieng das zu?  Ich presste niemand als
+haushaebiger Leute Bauer-Jungens, oder versprochne Junggesellen, die
+schon zweymal proclamirt worden, so eine Gattung von warmen Sclaven,
+die eben so gern den Teufel hoerten als eine Trummel, Bursche die
+vor dem blossen Namen einer Canone aerger zittern als eine
+angeschossne wilde Ente.  Ich presse mir keine andre als solche
+geroestete Butterschnitten, die kaum soviel Herz im Leib haben, als
+ein Steknadel-Kopf gross ist, und die kauffen sich alle vom Dienst
+los.  Und nun besteht meine ganze Compagnie aus lauter alten
+abgeschabnen Corporals, Lieutenants, und dergleichen; Leuten,
+welche, die Wahrheit zu sagen, nie Soldaten gewesen sind, aber doch
+so zerlumpt aussehen wie Lazarus in den alten Tapeten, wenn ihm des
+reichen Schlemmers Hunde seine Schwaeren leken; abgedankte Bediente,
+juengere Soehne von juengern Bruedern, rebellische Bierzapfer,
+ausgehausste Wirthe; kurz, alles Ungeziefer, das ein langer Friede
+auszubrueten pflegt; Kerls, die euch glauben machten, ich habe
+hundert und fuenfzig verlohrne Soehne zusammengebracht, die nur eben
+vom Schweinhueten und Treberfressen hergekommen seyen.  Ein
+naerrischer Bursche begegnete mir unterwegs, und sagte, ich haette
+alle Galgen abgeleert, und sogar todte Leichname gepresst.  Keines
+Menschen Auge hat jemals solche Voegel-Schreker gesehen; ich
+marschire nicht mit ihnen durch Coventry, das ist eine ausgemachte
+Sache.  Und die Galgenschwengel treten noch dazu mit so weit
+auseinander gerekten Beinen einher, als ob sie in Fesseln giengen;
+in der That, ich bekam die meisten von ihnen aus Gefaengnissen.  Es
+sind nicht mehr als anderthalb Hemder in meiner ganzen Compagnie,
+und das halbe sind zwey zusammengenaehte Teller-Tuecher, wie ein
+Herolds-Mantel ohne Ermel um die Schultern geworfen; und das Hemd
+ist, wenn ich die Wahrheit sagen soll, meinem Wirth zu St.  Albans
+gestohlen worden, oder dem rothnasichten Bierschenken zu Daintry.
+Aber das ist all eins, sie werden Waesche genug an jedem Zaune
+finden.  (Der Prinz Heinrich und Westmorland treten auf.)
+
+Prinz Heinrich.
+Wie gehts, diker Jak?  Wie gehts, Matraze?
+
+Falstaff.
+Ha, ist das nicht Hal?  Hey da, naerrischer Junge, was zum T**
+machst du in Warwikschire?  Ah, mein guter Lord von Westmorland,
+ich bitt' euch um Verzeihung; ich dachte Euer Herrlichkeit sey
+wuerklich schon zu Schrewsbury.
+
+Westmorland.
+In der That, Sir John, es waere mehr als Zeit dass ich dort seyn
+sollte, und ihr auch; aber meine Leute sind schon dort.  Der Koenig
+giebt auf uns alle acht, das kan ich euch sagen; wir muessen diese
+Nacht alle fort.
+
+Falstaff.
+Gut, sorget nicht fuer mich, ich bin so wachtsam wie eine Kaze,
+wenn's Rahm zu mausen giebt.
+
+Prinz Heinrich.
+Sag mir Jak, wem sind diese Kerls, die dort hinter uns drein kommen?
+
+Falstaff.
+Mein, Hal, mein.
+
+Prinz Heinrich.
+In meinem Leben hab ich keine so armselige Lumpenhunde gesehen.
+
+Falstaff.
+Wohl, wohl; sie sind gut genug zum Verschiessen; Futter fuer Pulver,
+Futter fuer Pulver; sie fuellen einen Graben so gut aus als brave
+Leute; das sind Leute, die ich dem Tod zufuehre, Mann.
+
+Westmorland.
+Das ist schon gut, aber, sie sehen doch gar zu armselig und hungrig
+aus, Sir John, gar zu bettelhaft.
+
+Falstaff.
+Auf meine Treu, was ihre Armuth anlangt, so weiss ich nicht woher
+sie sie haben; und ihr hungriges Aussehen betreffend, so bin ich
+gewiss, dass sie es mir nicht abgesehen haben.
+
+Prinz Heinrich.
+Darauf will ich selber schwoeren--Aber, Junge, beschleunige dich,
+wir muessen weiter; Percy ist schon ausgeruekt.
+
+Falstaff.
+Wie, ist der Koenig schon im Lager?
+
+Westmorland.
+Das ist er, Sir John; ich fuerchte, wir halten uns zu lang auf.
+
+Falstaff.
+Gut: ein anders ist zu einem Treffen, und ein anders zu einem
+Schmause gehen; man kommt zum ersten immer frueh genug.
+
+(Sie gehen ab.)
+
+
+
+Vierte Scene.
+(Verwandelt sich in Schrewsbury.)
+(Hot-Spur, Worcester, Dowglas und Vernon treten auf.)
+
+
+Hot-Spur.
+Wir wollen ihn diese Nacht angreiffen.
+
+Worcester.
+Es kan nicht seyn.
+
+Dowglas.
+So gebt ihr ihm einen Vortheil.
+
+Vernon.
+Nicht ein Haar.
+
+Hot-Spur.
+Wie koennt ihr das sagen?  Wartet er nicht auf Verstaerkung?
+
+Vernon.
+Das thun wir auch.
+
+Hot-Spur.
+Seine Erwartung ist gewiss, die unsre zweifelhaft.
+
+Worcester.
+Besinnt euch besser, mein lieber Neffe; haltet euch diese Nacht
+noch ruhig.
+
+Vernon.
+Thut das, Milord.
+
+Dowglas.
+Ihr rathet nicht wohl; die Furcht giebt euch diesen Rath ein.
+
+Vernon.
+Laestert mich nicht, Dowglas; bey meinem Leben!  (und ich habe Muth
+genug, diss mit meinem Leben zu behaupten,) wenn wahre Ehre mir ruft,
+so geh ich so wenig mit Furcht zu Rath als ihr, Milord, oder
+irgend ein Schotte in der Welt.  Morgen im Schlachtfeld soll sichs
+zeigen, wer von uns sich fuerchtet.
+
+Dowglas.
+Gut, oder diese Nacht.
+
+Vernon.
+Ich bin's zufrieden.
+
+Hot-Spur.
+Diese Nacht, sag ich.
+
+Vernon.
+Kommt, kommt, es kan nicht seyn; mich wundert sehr, wie Maenner von
+so grosser Erfahrenheit als ihr die Ursache uebersehen koennen, die
+den Aufschub nothwendig machen.  Meines Vetters Vernons Pferde sind
+noch nicht da, Worcester's Reuterey kam erst heute, und nun sind
+die Pferde mued, ohne Feuer, und der Ruhe beduerftig.
+
+Hot-Spur.
+Das sind auch des Feindes seine; groestentheils von der Reise
+abgemattet; da hingegen die mehresten von den unsrigen vollkommen
+ausgeruht haben.
+
+Worcester.
+Der Koenig ist uns zu sehr an der Zahl ueberlegen; um Gottes willen,
+Neffe, wartet bis wir unsre Macht beysammen haben.
+
+(Man hoert eine Trompete, die das Zeichen zu einer Unterredung blaest.)
+
+
+
+Fuenfte Scene.
+(Sir Walter Blunt zu den Vorigen.)
+
+
+Blunt.
+Ich komme mit gnaedigen Anerbietungen von seiner Majestaet, wenn ihr
+mir Gehoer geben wollt.
+
+Hot-Spur.
+Willkommen, Sir Walter Blunt; und wollte Gott, ihr waeret
+entschlossen, wie wir; einige von uns lieben euch, und eben diese
+beneiden eure Verdienste und euern Namen, weil ihr nicht auf unsrer
+Seite, sondern als Feind uns entgegen steht.
+
+Blunt.
+Und verhuet' es der Himmel, dass ich anders stehen sollte, so lang
+als ihr, pflichtvergessner Weise, gegen die geheiligte Majestaet
+stehet.  Aber zu meinem Geschaefte--Der Koenig verlangt zu wissen,
+was fuer Beschwerungen, oder was fuer eine Ursach euch bewogen habe,
+den einheimischen Frieden durch verwegne Feindseligkeiten zu
+stoeren?  Wenn der Koenig eure Verdienste um ihn, die er eingesteht,
+auf irgend eine Art vergessen haben sollte, so verlangt er, dass ihr
+eure Klagen fuehren sollt; eure Wuensche sollen euch ohne Verzug mit
+Wucher und mit vollkommner Begnadigung fuer euch, und fuer diejenige
+die von euch verleitet worden, gewaehret seyn.
+
+Hot-Spur.
+Der Koenig ist sehr guetig; und wir wissen wol, dass der Koenig weiss,
+wenn es Zeit ist zu versprechen, und wenn, zu halten.  Mein Vater,
+mein Oheim und ich selbst sezten ihm die Crone auf, die er traegt;
+und zu einer Zeit, da er nicht sechs und zwanzig Mann stark war, da
+er verachtet, unglueklich und heruntergebracht, ein armer muthloser
+Verbannter, in sein Vaterland angekrochen kam; da hiess ihn mein
+Vater am Ufer willkommen, und da er ihn schwoeren und bey Gott
+betheuren hoerte, er komme nur um Herzog von Lancaster zu seyn, sein
+Erbtheil in Besiz zu nehmen, und seine Begnadigung zu suchen,
+schwor ihm mein Vater, aus Mitleiden und gutem Herzen, dass er ihm
+beystehen wolle, und that es auch.  Wie nun die Lords und die Edeln
+des Reichs sahen, dass er von Northumberland unterstuezt war, kamen
+sie, bald mehr bald weniger, ihm ihre Bueklinge und Kniebeugungen zu
+machen, giengen ihm aus Staedten, Fleken und Doerfern entgegen,
+warteten an allen Zaeunen und Heken auf ihn, stunden in Hohlwegen,
+legten Geschenke vor ihm aus, schwuren ihm Eide, und gaben ihm ihre
+Erben, die, in goldnen Schaaren, wie Edelknaben an seinen Fersen
+hinterher zogen.  Nunmehr, da er seine Groesse sah, stieg er mir ein
+wenig hoeher als das Geluebde das er anfangs, da sein Blut noch
+demuethig floss, auf dem nakten Ufer von Ravenspurg gethan hatte; nun
+faengt er an von Verbesserungen gewisser Staats-Gebrechen, von
+Aufhebung gewisser Edicte zu reden, die, wie er sagt, dem gemeinen
+Wesen sehr beschwerlich waeren, schreyt ueber Missbraeuche, und scheint
+ueber die Bedruekung seines Vaterlands zu weinen; und durch diesen
+Schein, durch diese Mine von Gerechtigkeit gewinnt er alle Herzen,
+die er dadurch zu angeln sucht: Geht dann weiter, schlaegt mir allen
+Guenstlingen, die der abwesende Koenig zur Regierung des Reichs
+hinterlassen hatte, die Koepfe ab.--
+
+Blunt.
+Ich kam nicht, solche Dinge anzuhoeren.
+
+Hot-Spur.
+Also zur Hauptsache; kurz hernach, sezte er den Koenig ab, beraubte
+ihn bald darauf so gar des Lebens, und bemaechtigte sich so des
+ganzen Staats.  Um dieses Betragen noch schlimmer zu machen, lidt'
+er, dass sein Vetter, der Graf von March, (der wenn jeder erhaelt was
+ihm gehoert, in der That sein Koenig ist) in Wales, eingebauert wuerde,
+und liess ihn dort ohne Ranzion im Kerker ligen; warf mitten in
+meinen glueklichen Siegen, einen unverdienten Groll auf mich, suchte
+mich durch Kunstgriffe in Fallen zu loken, strich meinen Oheim aus
+der Zahl der Staatsraethe aus, jagte in einem Anstoss von Wuth meinen
+Vater vom Hofe, brach Eid auf Eid, haeufte Beleidigungen auf
+Beleidigungen, und trieb uns endlich in dieser Vereinigung unsre
+Sicherheit zu suchen, und zugleich sein Recht zur Crone zu pruefen,
+welches wir nicht gueltig genug finden, um lange zu dauern.
+
+Blunt.
+Ist das die Antwort, die ich dem Koenige zuruekbringen soll?
+
+Hot-Spur.
+Nein, Sir Walter; wir wollen uns eine Weile zuruekziehen.  Geht zum
+Koenig zuruek, und wuerket eine zulaengliche Versicherung von ihm aus,
+die uns zur Wiederkehr Muth machen koennte; und morgen frueh soll ihm
+mein Oheim unsre Gesinnungen ueberbringen: und hiemit lebet wohl!
+
+Blunt.
+Ich wuenschte, ihr wolltet Gnade und Freundschaft annehmen.
+
+Hot-Spur.
+Es kan geschehen, wenn wir koennen.
+
+Blunt.
+Der Himmel geb' es!
+
+(Sie gehen ab.)
+
+
+
+Sechste Scene.
+(Verwandelt sich in den Palast des Erzbischoffs von York.)
+(Der Erzbischoff und Sir Michell treten auf.)
+
+
+York.
+Hier, mein lieber Sir Michell, bringt diesen versiegelten Brief mit
+gefluegelter Eile dem Lord Marschall; dieser ist an meinen Vetter
+Scroop, und die uebrigen an ihre Addressen.  Wenn ihr wisstet wie
+viel daran gelegen ist, ihr wuerdet eilen.
+
+Sir Michell.
+Gnaedigster Herr, ich errathe ihren Inhalt.
+
+York.
+Es ist leicht moeglich.  Morgen, mein lieber Sir Michell, ist ein
+Tag, der dem Leben von zehntausend Menschen das Urtheil sprechen
+wird.  Denn, meinen Nachrichten zufolge, ist der Koenig mit einer
+grossen und schnell-aufgebotnen Macht gegen den Lord Percy nach
+Schrewsbury angeruekt; und ich besorge, Sir Michell, Northumberlands
+Krankheit, auf dessen Beystand man am meisten gezaehlt hatte, und
+Owen Glendowers Abwesenheit, der von draeuenden Propheceyungen zuruek
+gehalten worden, werden nachtheilige Folgen haben; Percy's Macht
+ist nicht stark genug, es mit dem Koenig aufzunehmen.
+
+Sir Michell.
+Wie, Milord, Dowglas und Mortimer sind ja bey ihm.
+
+York.
+Nein, Mortimer nicht.
+
+Sir Michell.
+Aber Mordake, Vernon, Heinrich Percy, und Milord von Worcester sind
+doch da, und mit ihnen eine Schar von tapfern jungen Helden, von
+den auserlesensten edeln Juenglingen.
+
+York.
+Das ist so; aber der Koenig hat den Adel des ganzen Reichs
+aufgeboten: der Prinz von Wales, Lord John von Lancaster, der edle
+Westmorland, der tapfre Blunt, und viele andre von gleichem Werth,
+Maenner von Ansehn und Kriegs-Erfahrenheit, sind bey seinem Heer.
+
+Sir Michell.
+Zweifelt nicht, Milord, sie werden tapfer empfangen werden.
+
+York.
+Ich hoffe nicht weniger; aber es ist doch noethig zu fuerchten, und
+um das schlimmste was begegnen koennte, zu verhueten, so eilet, Sir
+Michell.  Denn wenn Lord Percy nicht die Oberhand erhaelt, so hat
+der Koenig im Sinn, eh er seine Truppen auseinander gehen laesst, uns
+hier einen Besuch zu machen, und die Vorsichtigkeit selbst
+erfordert, das aeusserste gegen ihn zu thun.  Beschleuniget euch
+also, ich muss gehen und noch an andre Freunde schreiben; und hiemit
+lebet wohl, Sir Michell.
+
+(Sie gehen ab.)
+
+
+
+
+Fuenfter Aufzug.
+
+
+
+Erste Scene.
+(Das Koenigliche Lager zu Schrewsbury.)
+(Koenig Heinrich, der Prinz von Wales, Lord John von Lancaster,
+Graf von Westmorland, Sir Walter Blunt und Falstaff treten auf.)
+
+
+Koenig Heinrich.
+Wie blutig die Sonne von jenem buschichten Huegel herab sieht!  Der
+Tag erblasst vor Schreken ueber ihren Grimm.
+
+Prinz Heinrich.
+Der Suedwind blaesst die Trompeten zu ihrem Vorhaben, und kuendigt
+durch sein hohles Fluestern im Laub ein Ungewitter, und einen
+stuermischen Tag vorher.
+
+Koenig Heinrich.
+So sympathisirt also das Wetter mit den Verliehrenden; denn fuer die
+Gewinnenden ist das Garstige schoen.
+
+(Die Trompeten erschallen.)
+
+(Worcester und Sir Richard Vernon treten auf.)
+
+Koenig Heinrich.
+Wie nun, Milord von Worcester.  Es ist nicht fein, dass ihr und ich
+auf einen solchen Fuss zusammen kommen sollen.  Ihr habt unser
+Zutrauen betrogen, habt uns genoethigt unsre bequemen Friedens-
+Kleider abzuwerfen, und unsre alten Glieder in harten Stahl zu
+zwaengen; es ist nicht wohl gethan, Milord, es ist nicht wohl gethan.
+Was ist nun eure Gesinnung?  Wollt ihr wieder in die Sphaere des
+Gehorsams zuruek kehren, worinn ihr ein so schoenes und natuerliches
+Licht von euch gabet, und nicht laenger ein aufgedunsenes Meteor,
+ein furchterwekendes Wunderzeichen seyn, ein Vorbote von Unheil fuer
+noch ungebohrne Zeiten?
+
+Worcester.
+Vergoennet mir Gehoer, mein Gebietender Herr; was mich selbst betrift,
+so koennt' ich mir gerne gefallen lassen, den Rest meines Lebens in
+Ruhe zuzubringen: Ich versichre, dass ich den Tag dieses
+oeffentlichen Bruchs nicht gesucht habe.
+
+Koenig Heinrich.
+Ihr habt ihn nicht gesucht, Sir?  Woher kommt er dann?
+
+Falstaff.
+Er fand die Rebellion in seinem Wege ligen, und da hub er sie eben
+auf.
+
+Prinz Heinrich.
+Still, Schmeerbauch, still.
+
+Worcester.
+Es gefiel Eurer Majestaet, eure guenstigen Blike von mir und meinem
+ganzen Hause zu wenden; und doch muss ich euch erinnern, Gnaedigster
+Herr, dass wir eure ersten und eifrigsten Freunde waren.  Um
+euertwillen brach ich in Richards Zeiten meinen Marschalls-Stab,
+und reisste Tag und Nacht, euch entgegen zu gehen, und eure Hand zu
+kuessen, zu einer Zeit, da ihr an Macht und Ansehen weit unter mir
+war't; ich, mein Bruder, und sein Sohn waren es, die mit ihrer
+Gefahr euch in euer Vaterland wieder einsezten.  Ihr schwurt uns,
+zu Doncaster schwur't ihr diesen Eid, ihr haettet keine Absichten
+gegen den Staat, und verlangtet nichts weiters als euer angefallnes
+Recht, den Siz von Gaunt, das Herzogthum von Lancaster; hiezu
+schwuren wir euch unsern Beystand: Aber da in kurzer Zeit das Gluek
+wie ein Plazregen auf euch herabregnete, und sowohl unsre Huelfe als
+die guenstigen Umstaende der Zeit, die Abwesenheit des Koenigs, die
+Missbraeuche einer unbesonnenen Regierung, die Bedruekungen, die ihr
+erlidten hattet, und die widrigen Winde, die den Koenig in Irland so
+lange zuruekhielten, dass ganz England ihn fuer todt hielt, sich
+vereinigten euch gross zu machen; wusstet ihr euch dieses
+Zusammenflusses von Vortheilen so wohl zu bedienen, dass ihr, eures
+Eides zu Doncaster uneingedenk, die oberste Regierung selbst in
+eure Haende spieltet; und nun machtet ihr's uns, die euch genaehrt
+hatten, gerade wie es die undankbare Brut des Gukguks dem Sperling
+macht, ihr bemeistert euch unsers Nestes, und wuchset, von uns
+geaezt, zu einer solchen Groesse an, dass unsre Liebe selbst sich, aus
+Furcht verschlungen zu werden, nicht erkuehnen durfte euch nahe zu
+kommen; sondern mit schuechternem Fluegel mussten wir unsre Sicherheit
+ausser euerm Gesichte suchen, und unsre Sicherheit allein ist die
+Ursache, die uns genoethigt hat, uns auf diese Weise zu vereinigen,
+und Mittel gegen euch zu gebrauchen, die ihr durch unfreundliches
+Bezeugen, gefaehrliche Gesinnungen, und Verlezung eurer uns
+zugeschwornen Verheissungen uns gegen euch selbst in die Haende
+gegeben habt.
+
+Koenig Heinrich.
+Diese Dinge habt ihr freylich zu Papier gebracht, auf Marktplaezen
+ausruffen, und von den Canzeln ablesen lassen, um der Rebellion
+eine Farbe anzustreichen, wodurch unbesonnene Schwindel-Koepfe und
+armselige Malcontenten, die nur durch einen allgemeinen Jammer
+gedeyhen koennen, angelokt werden moechten.  Und wenn hat es dem
+Aufruhr jemals an solchen Wasserfarben, seine Sache zu
+ueberstreichen, oder an verzweifelten Bettlern gemangelt, die nach
+einer Zeit von Verwirrung und Zerruettung hungern?
+
+Prinz Heinrich.
+In unsern beyden Heeren ist manche Seele, die fuer diese trozige
+Ausforderung theuer bezahlen wird.  Sagt euerm Neffen, der Prinz
+von Wales vereinige sich mit der ganzen Welt zum Lobe von Heinrich
+Percy: Bey meinen Hoffnungen!  (dieses gegenwaertige Unterfangen bey
+Seite gesezt,) denk ich nicht, dass ein braverer, unerschroknerer
+und tapfrerer junger Mann in der Welt lebt als er; er, den die
+Natur hervorgebracht zu haben scheint, das Gedaechtniss der ehmaligen
+Helden in unserm Alter zu erneuern.  Was mich betrift, zu meiner
+Schande sag ich's, ich habe mein Leben noch mit keiner edeln That
+bezeichnet; und er ist berechtigt, mich des Namens eines Ritters
+unwuerdig zu halten, wie ich hoere dass er's thut.  Aber vor seiner
+Majestaet erklaer' ich mich hier, ich bin's zufrieden, dass er sich
+des ganzen Vortheils seines ruhmvollen Namens ueber mich bediene,
+und erbiete mich, um beyder Theile Blut zu sparen, in einem
+einzelnen Kampf mein Gluek mit ihm zu versuchen.
+
+Koenig Heinrich.
+Und wir sezen Vertrauen genug in dich, Prinz von Wales, dein
+Erbieten gut zu heissen, so unendlich viele Betrachtungen dir
+gleich im Wege stehen--Nein, guter Worcester, nein; wir lieben
+unser Volk; wir lieben auch diejenigen, die sich auf euers Neffen
+Seite haben verleiten lassen; und wollen sie unsre angebotne Gnade
+annehmen, so soll er und sie und ihr, und ein jeder wer er seyn mag,
+wieder mein Freund seyn, und ich will der seinige seyn.  Diss sagt
+euerm Neffen, und meldet mir zuruek, was er thun will.  Will er sich
+aber nicht zum Ziel legen, so wacht scharfe Zuechtigung an meiner
+Seite, und sie soll ihr Amt thun.  Hiemit kehrt zuruek; wir wollen
+izt durch keine Antwort beunruhiget seyn; unser Anerbieten ist edel,
+ueberlegt es wohl.
+
+(Worcester und Vernon gehen ab.)
+
+Prinz Heinrich.
+Es wird nicht angenommen werden, bey meinem Leben!  Dowglas und Hot-
+Spur sind beyde zu stolz, sich von einer Welt in Waffen schreken zu
+lassen.
+
+Koenig Heinrich.
+Also hinweg, jeder Anfuehrer an seinen Plaz.  Sobald wir ihre
+Antwort haben, wollen wir den Angriff thun; und Gott sey auf unsrer
+Seite, wie unsre Sache gerecht ist!
+
+(Sie gehen ab.)
+
+
+
+Zweyte Scene.
+(Der Prinz und Falstaff bleiben zuruek.)
+
+
+Falstaff.
+Hal, wenn du mich im Treffen ligen siehst, so sey so gut und leg
+mich so zu rechte; es ist ein Freundschafts-Dienst--
+
+Prinz Heinrich.
+Den dir niemand, als ein Colossus leisten kan.  Sprich dein Gebet
+und leb wohl.
+
+Falstaff.
+Ich wollt' es waere Bettzeit, Hall, und alles waere vorbey.
+
+Prinz Heinrich.
+Wie?  du bist dem Himmel deinen Tod schuldig, und du must doch
+einmal bezahlen.
+
+Falstaff.
+Aber nicht izt; und es sollte mir leid seyn, wenn ich ihn vor
+meinem Termin bezahlte.  Was brauch' ich so voreilig zu seyn, da er
+mich nicht anfordert?  Gut, was thut das zur Sache, die Ehre
+fordert mich auf--Ganz recht, und wenn mich also die Ehre
+auffordert und ich komme um, wie dann?  Kan die Ehre mir ein Bein
+ansezen?  Nein: Oder einen Arm?  Nein: Oder kan sie mir den Schmerz
+einer Wunde wegnehmen?  Nein: Die Ehre versteht sich also nicht auf
+die Chirurgie?  Nein: Was ist dann die Ehre?  Ein Wort: Was ist das
+Wort Ehre?  Luft.  Wer hat sie?  Der arme Jak, der an einer
+Mittwoche starb.  Fuehlt er sie dann?  Nein.  Hoert er sie?  Nein.
+Sie faellt also nicht in die Sinnen?  Nicht in die Sinnen eines
+Todten.  Aber lebt sie etwann mit den Lebenden?  Nein, das laesst ihr
+der Neid nicht zu.  Ich verlange also nichts davon; die Ehre ist
+nichts mehr als ein gemahlter Wappenschilt an einem Sarge, und hier
+endet sich mein Catechismus.
+
+(Er geht ab.)
+
+
+
+Dritte Scene.
+(Verwandelt sich in Percys Lager.)
+(Worcester und Vernon treten auf.)
+
+
+Worcester.
+O nein, mein Neffe muss das guetige Anerbieten des Koenigs nicht
+erfahren, Sir Richard.
+
+Vernon.
+Und doch waer's am besten, er wisst' es.
+
+Worcester.
+Dann waeren wir alle verlohren.  Es ist unmoeglich, es kan nicht seyn,
+dass der Koenig sein Versprechen halte, wieder unser Freund zu seyn;
+er wird uns nimmer trauen, und bald genug Mittel gefunden haben,
+uns neuer Verbrechen zu beschuldigen, um dieses bestraffen zu
+koennen.  Ein niemals einschlummernder Verdacht wird, so lange wir
+leben, hundert spaehende Augen auf uns geheftet halten; denn der
+Verraetherey traut man nicht mehr als einem Fuchs, der, so zahm er
+sich stellt, und so freundlich man mit ihm umgeht, doch immer einen
+Rest von seinen angebohrnen Tueken behaelt.  Wir moechten aussehen wie
+wir wollten, froelich oder duester, so wuerd' es uns uebel ausgedeutet
+werden; kurz, wir wuerden gehalten werden wie die Ochsen im Stall,
+je besser gefuettert, desto naeher dem Tode.  Meines Neffen Vergehen
+koennte noch vergessen werden; ihm koemmt die Entschuldigung der
+Jugend und des Bluts zustatten; sein Beyname Hot-Spur giebt ihm
+schon ein Privilegium, und man schreibt bey ihm alles auf die
+Rechnung des cholerischen Temperaments, von dem er beherrscht wird;
+ich und sein Vater muessten fuer seine Suende buessen.  Wir haetten ihn
+verleitet, wuerd' es heissen; wir als die Quelle von allem, muessten
+fuer alles bezahlen.  Lasst ihn also, mein lieber Vetter, ja nichts
+von dem Anerbieten des Koenigs wissen, es mag gehen wie es will.
+
+Vernon.
+Sagt ihm was ihr fuer gut haltet, ich will es bekraeftigen.  Hier
+kommt euer Neffe.
+
+
+
+Vierte Scene.
+(Hot-Spur und Dowglas zu den Vorigen.)
+
+
+Hot-Spur.
+Mein Oheim ist wieder da: Sezt den Lord von Westmorland in Freyheit.
+Oheim, was giebt's Neues?
+
+Worcester.
+Der Koenig ist entschlossen, es auf ein Treffen ankommen zu lassen.
+
+Dowglas.
+So wollen wir ihn durch den Lord von Westmorland heraus fordern.
+
+Hot-Spur.
+Lord Dowglas, geht und sagt ihm das.
+
+Dowglas.
+Das will ich, und mit Freuden.
+
+(Dowglas geht ab.)
+
+Worcester.
+Der Koenig scheint gar nicht zum Verzeihen geneigt.
+
+Hot-Spur.
+Batet ihr darum?  Das verhuete Gott!
+
+Worcester.
+Ich sagte ihm ganz glimpflich von unsern Beschwerungen, von seinem
+gebrochnen Eid; und er wusste sich nicht besser zu helfen, als dass
+er seinen Meineid mit einem zweyten laeugnete.  Er nennt uns
+Rebellen, Verraether, und droht ganz trozig, uns nach der Schaerfe
+davor zu zuechtigen.  (Dowglas kommt zuruek.)
+
+Dowglas.
+Waffnet euch, Milords, waffnet euch; ich habe dem Koenig Heinrich
+eine brave Ausfordrung in die Zaehne gestossen; Westmorland, der als
+Geisel hier war, traegt sie ihm zu, und er kan nun nicht anders als
+sie schleunig wieder zuruek bringen.
+
+Worcester.
+Der Prinz von Wales trat vor dem Koenig hervor, und forderte euch
+zum Zweykampf heraus, Neffe.
+
+Hot-Spur.
+Wollte der Himmel, wir beyde haetten den Handel allein auszumachen,
+und niemand muesste heut kurzen Athem holen, als ich und Harry
+Monmouth!  Sagt mir, sagt mir, wie sprach er von mir?  That er
+veraechtlich?
+
+Vernon.
+Nein, auf meine Seele!  In meinem Leben hoert' ich keine
+bescheidnere Ausforderung; ein Bruder koennte den andern nicht
+hoeflicher auffordern, wenn es um eine blosse Waffenuebung, um ein
+Ritterspiel zu thun waere.  Er bezeugte alle Hochachtung gegen euch,
+die ein Mann fordern kan, erhob euern Werth mit einer fuerstlichen
+Zunge, und sprach von euern Verdiensten wie eine Chronik; und was
+in der That ein Zeichen eines fuerstlichen Gemueths war, er sprach
+mit Schaamroethe von sich selbst, und beschalt seine uebel
+zugebrachte Jugend mit einem Anstand, der zu beweisen schien, dass
+seine bessere Seele ueber die andre meister seyn koenne, sobald er
+wolle.  Hier hielt er inn; aber lasst mich der Welt sagen, wenn er
+den Neid dieses Tages ueberlebt, so hat England nie eine schoenere
+Hoffnung besessen, so sehr auch die Ausschweiffungen seiner Jugend
+sie verdunkelt haben.
+
+Hot-Spur.
+Vetter, ich glaube du bist in seine Thorheiten verliebt; ich habe
+nie von einem Prinzen gehoert, der die ausgelassenste Wildheit so
+weit getrieben haette.  Aber sey er was er will, eh es Nacht ist,
+will ich ihn mit einer so soldatischen Umarmung bewillkommen, dass
+er unter meiner Hoeflichkeit zusammenschrumpfen soll.  Zun Waffen,
+hurtig!  Und ihr, Cameraden, und Freunde, bedenkt selbst was ihr zu
+thun habt, da ich, der die Gabe der Beredsamkeit nicht hat, nicht
+geschikt bin, euer Blut durch meinen Zuspruch zu erhizen.
+
+
+
+Fuenfte Scene.
+(Ein Bote zu den Vorigen.)
+
+
+Bote.
+Milord, hier sind Briefe fuer Eu.  Gnaden.
+
+Hot-Spur.
+Ich kan sie izt nicht lesen.  O meine Freunde, wir haben eine kurze
+Zeit zu leben, und von dieser kurzen Zeit eine einzige Minute
+unedel zu verschwenden, waere zu lange.  Ueberleben wir diesen Tag,
+so leben wir, um auf Koenige zu treten; sterben wir, ist das nicht
+ein schoener Tod, wenn Koenige mit uns sterben muessen?  (Ein andrer
+Bote.)
+
+Bote.
+Gnaediger Herr, der Koenig ist im Anzug.
+
+Hot-Spur.
+Ich dank ihm, dass er mich in meinem Maehrchen unterbricht, denn
+reden ist nicht meine Sache.  Nur noch diss, ein jeder thue sein
+Bestes.  Und hier zieh ich ein Schwerdt, dessen Stahl ich, an
+diesem gefahrvollen Tage, mit dem besten Blut, das ich finden kan,
+faerben werde.  Nun, (Esperanza!) Percy!* und ruekt aus; lasst alle
+die muntern Instrumente des Kriegs ertoenen, und bey dieser Musik
+lasst uns einander umarmen; denn ich wollte den Himmel an die Erde
+sezen, dass einige von uns die Zeit nicht sehen werden, einander
+wieder so zu bewillkommen.
+
+(Sie umarmen sich und gehen ab.  Die Trompeten lassen sich hoeren.)
+
+{ed. * Diss war, nach Halls Chronik Bl.  22, das Wort zum Angriff in
+Percy's Armee.  Pope.}
+
+
+
+Sechste Scene.
+(Der Koenig mit seiner Armee; man blaesst zum Angriff.)
+(Hernach treten Dowglas und Sir Walter Blunt auf.)
+
+
+Blunt.
+Wer bist du, dass du mir ueberall so in den Weg kommst?  Was fuer Ehre
+suchst du an mir einzulegen?
+
+Dowglas.
+Wisse denn, mein Name ist Dowglas, und ich verfolge dich desswegen
+so, weil man mir sagt, du seyst ein Koenig.
+
+Blunt.
+Man sagt dir die Wahrheit.
+
+Dowglas.
+Der Lord von Stafford hat bereits davor bezahlt, dass er dir gleich
+sieht; denn weil ich ihn fuer dich ansah, Koenig Harry, so hat ihm
+dieses Schwerdt ein Ende gemacht.  Und so soll es auch dir thun, es
+waere dann, dass du dich mir gefangen geben willst.
+
+Blunt.
+Ich bin nicht gebohren mich zu ergeben, du uebermuethiger Schotte,
+und du sollt einen Koenig finden, der Staffords Tod raechen wird.
+
+(Sie fechten, Blunt faellt.)
+
+(Indem tritt Hot-Spur auf.)
+
+Hot-Spur.
+O Dowglas, haettest du zu Holmedon so gefochten, nie haett ich ueber
+einen Schotten gesiegt.
+
+Dowglas.
+Alles ist gethan, alles gewonnen, todt ligt der Koenig hier!
+
+Hot-Spur.
+Wo?
+
+Dowglas.
+Hier.
+
+Hot-Spur.
+Dieser, Dowglas?  Nein: Ich kenne sein Gesicht zu wohl; ein braver
+Ritter war es, sein Name war Blunt; er traegt nur eine Ruestung wie
+der Koenig.
+
+Dowglas.
+Ah!  du Unsinniger!  zu theuer hast du einen geborgten Titel
+erkauft.  Warum sagtest du mir, du seyst ein Koenig?
+
+Hot-Spur.
+Der Koenig hat viele, die in seinen Kleidern gehen.
+
+Dowglas.
+So will ich, bey meinem Schwerdt, alle seine Kleider umbringen,
+seine ganze Garderobe, Stuek fuer Stuek bis ich ihn selbst antreffe.
+
+Hot-Spur.
+Auf und hinweg; unsre Leute halten sich so gut, dass wir uns den
+Sieg versprechen koennen.
+
+(Sie gehen ab.)
+
+
+
+Siebende und achte Scene.
+(Falstaff und der Prinz Heinrich.) (Falstaff redt im Ton einer
+Memme eine kleine Weile mit sich selbst; der Prinz der dazu kommt
+verlangt seinen Degen von ihm; Falstaff will ihn nicht hergeben, so
+lange Percy noch lebe, und bietet dem Prinzen sein Pistol an; indem
+es der Prinz aus dem Hulfter herausziehen will, zieht er eine
+Flasche mit Sect heraus; ein lautes Gelaechter aus dem Paradies
+bewillkommt diesen guten Einfall, und die Absicht dieser Scene ist
+erreicht.)
+
+
+
+Neunte Scene.
+(Trompeten und Feldgeschrey; Excursionen; der Koenig, der Prinz,
+Lord John von Lancaster, und der Graf von Westmorland treten auf.)
+
+
+Koenig Heinrich.
+Ich bitte dich, Harry, zieh' dich zuruek, du blutest zu stark; Lord
+John von Lancaster, geht ihr mit ihm.
+
+Lancaster.
+Nicht eher, Gnaedigster Herr, bis ich auch blute.
+
+Prinz Heinrich.
+Ich bitte Eu.  Majestaet, auszuharren, unsre Entfernung moechte unsre
+Freunde in Verwirrung sezen.
+
+Koenig Heinrich.
+Ich will; Milord von Westmorland, fuehrt ihn in sein Zelt.
+
+Westmorland.
+Kommt, Milord, ich will euch in euer Zelt fuehren.
+
+Prinz Heinrich.
+Mich fuehren, Milord?  Ich bedarf eurer Huelfe nicht.  Der Himmel
+verhuete, dass eine Nadelrize den Prinzen von Wales von einem solchen
+Feld wie dieses ist, treiben soll, wo so viel Edle Maenner in ihrem
+Blute zertreten ligen, und triumphierende Rebellen den Tod um sich
+her verbreiten.
+
+Lancaster.
+Wir athmen hier zu lange; kommt, Vetter von Westmorland, auf diesem
+Weg ligt unsre Pflicht; um's Himmels willen, kommt.
+
+Prinz Heinrich.
+Beym Himmel, du hast mich betrogen, Lancaster; ich dachte nicht dass
+du Herr von einem solchen Geiste seyst; sonst liebt' ich dich als
+einen Bruder, John, aber nun lieb' ich dich wie meine eigne Seele.
+
+Koenig Heinrich.
+Ich sah' ihn dem Lord Percy mit einem Muth die Spize bieten, den
+ich von einem so jungen Krieger nicht vermuthen durfte.
+
+Prinz Heinrich.
+O, dieser Junge hat Feuer fuer uns alle.
+
+(Sie gehen ab.)
+
+(Koenig Heinrich bleibt; Dowglas tritt auf.)
+
+Dowglas.
+Wieder ein Koenig?  Sie wachsen wie die Koepfe der Hydra.  Ich bin
+Dowglas, allen verderblich die diese Farbe tragen--Wer bist du, der
+hier die Person eines Koenigs machen will?
+
+Koenig Heinrich.
+Der Koenig selbst, Dowglas, der herzlich bedaurt, dass du schon so
+viele Schatten von ihm angetroffen, eh du ihn selbst gefunden hast.
+Ich habe zween Soehne, die dich und Percy auf dem ganzen
+Schlachtfeld aufsuchen; aber da du mir so glueklich in die Haende
+faellst, will ich's mit dir aufnehmen; vertheidige dich!
+
+Dowglas.
+Ich fuerchte, du bist auch nur ein Phantom; und doch traegst du dich
+in der That wie ein Koenig; aber mein bist du, das bin ich gewiss,
+wer du auch bist, und so will ich dich gewinnen.
+
+(Sie fechten; indem der Koenig in Gefahr ist, kommt der Prinz von
+Wales dazu.)
+
+
+
+Prinz Heinrich.
+Hebe deinen Kopf auf, du nichtswuerdiger Schotte, oder du sollst
+nimmer ihn nicht wieder empor heben: die Geister von Scherley,
+Stafford und Blunt sind in meinen Armen; der Prinz von Wales ists,
+der dir draeut, und der nie verspricht, was er nicht zu bezahlen
+gedenkt.
+
+(Sie fechten, Dowglas flieht.)
+
+Munter, Gnaedigster Herr!  Wie befindet sich Euer Majestaet?  Sir
+Nicolas Gawsey hat um Huelfe geschikt, und das hat auch Clifton
+gethan.  Ich will gerade zu Clifton.
+
+Koenig Heinrich.
+Bleib und athme einen Augenblik.  Du hast meine verlohrne Achtung
+wieder erkauft, Harry, und durch diese edle Rettung bewiesen, dass
+dir mein Leben nicht gleichgueltig ist.
+
+Prinz Heinrich.
+O Himmel!  das groeste Unrecht thaten die mir, die jemals gesagt
+haben, dass ich euern Tod wuensche.  Waer' es so, so haett ich nur
+Dowglassens draeuende Hand allein ueber euch lassen koennen; sie wuerde
+euer Ende schneller als alles Gift der Welt befoerdert, und euerm
+Sohn die verraetherische Muehe erspart haben.
+
+Koenig Heinrich.
+Eile du izt zu Clifton; ich will zu Sir Nicolas Gawsey.
+
+(Der Koenig geht ab.)
+
+
+
+Zehnte Scene.
+(Hot-Spur, der Prinz von Wales.)
+
+
+Hot-Spur.
+Wenn ich recht sehe, so bist du Harry Monmouth.
+
+Prinz Heinrich.
+Du sprichst, als ob ich meinen Namen verlaeugnen wolle.
+
+Hot-Spur.
+Mein Nam' ist Harry Percy.
+
+Prinz Heinrich.
+Ich sehe also einen sehr tapfern Rebellen, der diesen Namen traegt.
+Ich bin der Prinz von Wales, und denke nicht, Percy, laenger neben
+mir um den Preis der Ehre zu buhlen.  Zween Sterne koennen ihren
+Lauf nicht in einer Sphaere halten, und Ein England kan sich in kein
+doppeltes Reich fuer Harry Percy, und fuer den Prinzen von Wales
+theilen.
+
+Hot-Spur.
+Auch soll es nicht; die Stunde ist gekommen, die einem von uns
+beyden ein Ende machen muss; und wollte der Himmel, dein Name im
+Krieg waer' izt so gross als meiner.
+
+Prinz Heinrich.
+Er soll groesser werden, eh wir von einander scheiden, und ich will
+alle diese aufbluehenden Ehren von deinem Kamme pflueken, um einen
+Kranz fuer meine Stirne daraus zu machen.
+
+Hot-Spur.
+Ich kan dich nicht laenger so prahlen hoeren.
+
+(Sie fechten.)
+
+(Falstaff kommt dazu.)
+
+Falstaff.
+Bravo, Hall, drauf los, Hall!  Hey sa, ihr werdet hier kein
+Kinderspiel finden, das kan ich euch sagen.  (Dowglas tritt auf,
+und ficht mit Falstaff, der sogleich zu Boden faellt, als ob er todt
+sey; Dowglas geht wieder ab, und der Prinz stoesst den Percy nieder.)
+
+Hot-Spur.
+O Harry, du hast mich meines Ruhms beraubt; der Verlust des Lebens
+schmerzt mich weniger, als alle die stolzen Titel, die du mir
+abgewonnen hast; sie verwunden meine Seele tiefer als dein Schwerdt
+mein Fleisch; aber die Seele ist eine Sclavin des Lebens, und das
+Leben ein Spiel des Glueks--O, ich koennte propheceyen, wenn die
+kalte Hand des Todes nicht auf meiner Zunge laege, nun, Percy, bist
+du Staub, eine Speise fuer--
+
+(Er stirbt.)
+
+Prinz Heinrich.
+Wuermer, braver Percy.  Fahr du wohl!  Unglueklicher Ehrgeiz, wie
+klein schrumpfest du zusammen!  Wie dieser Leib noch einen Geist in
+sich hatte, war ein Koenigreich ein zu kleiner Raum fuer ihn; izt
+sind zween Schritte veraechtliche Erde Raums genug.  Diese Erde, die
+den todten Percy traegt, traegt keinen Lebenden, der ihm gleicht.
+Waer'st du noch empfindlich, so wuerd' es mir nicht erlaubt seyn,
+meiner Achtung fuer dich diesen Ausbruch zu lassen.  Aber nun lass
+mich dein zerfeztes Antliz verhuellen, und nimm diesen lezten Dienst
+der Liebe von meiner Hand.  Fahre wohl, und nimm deinen Ruhm mit
+dir gen Himmel; deine Schmach schlafe mit dir in deinem Grab, und
+werde nicht in deiner Grabschrift erwaehnt!--
+
+(Er sieht Falstaffen.)
+
+Wie, alte Bekanntschaft?  Konnte alle diese Menge Fleisch nicht
+ein wenig Leben verwahren?  Armer Jak, fahr wohl!  Einen bessern
+Mann moecht' ich besser gespart haben.*
+
+(Geht ab.)
+
+{ed. * Man laesst hier ein halb Duzent kahle Reime weg, die des
+Prinzen unwuerdig sind, und die ganze Scene entstellen.}
+
+
+
+Eilfte Scene.
+(Falstaff steht wieder auf, und amuesirt sich selbst mit frostigen
+Wortspielen ueber die Vorsichtigkeit die er gehabt, sich todt zu
+stellen.  Zulezt besorgt er, Percy moechte auch wieder aufwachen,
+und giebt ihm desswegen noch einen Stoss, indem die folgende Scene
+angeht.)
+
+
+
+Zwoelfte Scene.
+(Prinz Heinrich, und John von Lancaster treten auf.)
+
+
+Prinz Heinrich.
+Komm, Bruder John; du hast dich das erstemal vortrefflich wol
+gehalten.
+
+Lancaster.
+Sachte, wen haben wir hier?  Sagtet ihr mir nicht, dieser dike Kerl
+sey todt?
+
+Prinz Heinrich.
+Das that ich, ich sah ihn ohne Athem auf dem Boden ligen.  Bist du
+bey Leben, oder sehen wir dein Gespenst?  Rede, unsre Ohren muessen
+das Zeugniss unsrer Augen bestaetigen, wenn wir ihnen glauben sollen;
+du bist nicht, was du scheinst.
+
+Falstaff.
+Nein, das ist gewiss; ich bin nicht gedoppelt; aber wenn ich nicht
+Hans Falstaff bin, so will ich ein Hans Dampf seyn.  Hier ligt
+Percy; wenn euer Vater mir eine Ehre dafuer anthun will, so mag er's;
+wo nicht, so kan er den naechsten Percy selber umbringen.  Ich
+hoffe entweder Graf oder Herzog zu werden, das kan ich euch
+versichern.
+
+Prinz Heinrich.
+Wie?  Ich erlegte den Percy, und dich sah ich todt ligen.
+
+Falstaff.
+Thatst du das?  Herr, Herr!  Wie die Welt dem Luegen ergeben ist!
+Ich versichre euch, ich lag ohne Athem auf dem Boden, und er auch;
+aber wir stunden beyde zugleich wieder auf, und fochten eine ganze
+lange Stunde, nach der Gloke von Schrewsbury; wenn man mir's
+glauben will, gut; wo nicht, so moegen diejenige, so die Tapferkeit
+belohnen sollten, die Suende auf sich nehmen; ich will mein Leben
+dran sezen, dass ich ihm die Wunde in das dike Bein gegeben habe:
+Wenn der Mann noch lebte, und es laeugnen wollte, ich wollte ihm ein
+Stuek von meinem Degen zu fressen geben.
+
+Lancaster.
+Das ist die seltsamste Begebenheit, die ich jemals gehoert habe.
+
+Prinz Heinrich.
+Das ist der seltsamste Bursche, Bruder John--Komm du, nimm dein
+Bagage huebsch auf den Rueken, und wenn eine Luege dir was Gutes thun
+kan, so will ich sie, dir zu gefallen, mit den guenstigsten
+Ausdrueken ueberguelden, die ich finden kan.--
+
+(Man hoert zum Ruekzug blasen.)
+
+Das Feld ist unser!  Komm, Bruder, wir wollen mitten auf das
+Schlachtfeld, und sehen, welche von unsern Freunden noch leben, und
+welche gefallen sind.
+
+(Sie gehen ab.)
+
+Falstaff.
+Ich will auch hinter drein.  Das will ich doch sehen, wie sie mich
+belohnen werden.  Der Himmel lohn' es dem, der mich belohnt!  Wenn
+ich gross werde, so werd' ich um die Haelfte meines Bauchs kleiner
+werden; denn ich will dann purgieren, und den Sect lassen, und ein
+ordentliches Leben fuehren, wie ein Edelmann thun soll.
+
+(Er geht ab.)
+
+
+
+Dreyzehnte Scene.
+(Trompeten: Koenig Heinrich, der Prinz von Wales, Lord John von
+Lancaster, Graf von Westmorland, mit Worcester und Vernon als
+Gefangnen, treten auf.)
+
+
+Koenig Heinrich.
+So fand die Empoerung noch allemal ihre Zuechtigung.  Uebelgesinnter
+Worcester, sandten wir nicht euch allen Gnade, Verzeihung, und
+freundschaftliche Erbietungen zu?  Und du erfrechtest dich unsre
+Erklaerung in das Gegentheil zu verkehren, und durch diesen Betrug
+deines Vetters Zutrauen zu seinem Verderben zu missbrauchen!  Drey
+tapfre Ritter, die an diesem Tag auf unsrer Seite gefallen sind,
+ein edler Graf, und viele andre wakern Leute wuerden noch leben,
+wenn du redlich, wie ein Christ, fuer das Beste unsrer Armeen
+gedacht haettest.
+
+Worcester.
+Was ich gethan habe, dazu zwang mich meine Erhaltung; und ich
+unterziehe mich geduldig meinem Schiksal, da es nicht in meiner
+Macht stund, ihm auszuweichen.
+
+Koenig Heinrich.
+Fuehret Worcestern und Vernon zum Tode; den uebrigen Mitschuldigen
+geben wir noch Frist.  Wie steht es im Felde?
+
+Prinz Heinrich.
+Der tapfre Schotte, Lord Douglas, wie er sah, dass keine Hoffnung
+uebrig war, diesen Tag zu gewinnen; dass Percy erschlagen war, und
+die Furcht alle seine Leute ergriffen hat, entfloh mit den uebrigen;
+und ein Fall, den er that, richtete ihn so uebel zu, dass er in die
+Haende der Nachsezenden fiel.  Er ist in meinem Zelt, und ich bitte
+Euer Majestaet um die Gnade, dass ich ueber ihn disponieren duerfe.
+
+Koenig Heinrich.
+Herzlich gern.
+
+Prinz Heinrich.
+So uebertrag' ich dann euch, Bruder Lancaster, die Vollziehung
+dieses ruehmlichen Werks der Grossmuth.  Geht zu Douglas, und sezt
+ihn, ohne Loesegeld und Bedingung, in voellige Freyheit.  Die
+Tapferkeit, die er an dem heutigen Tag auf unsre Koepfe erprobet hat,
+hat uns gelehrt, so schoene Thaten selbst an unsern Feinden
+hochzuschaezen.
+
+Lancaster.
+Ich danke Euer Gnaden fuer einen Auftrag, den ich sogleich mit
+Vergnuegen befolgen werde.
+
+Koenig Heinrich.
+Nun bleibt nichts uebrig, als unsre Macht zu theilen.  Ihr, Sohn
+Johann, und mein Vetter Westmorland, sollt euch in moeglichstes Eile
+nach York wenden, um Northumberlanden und den Praelaten Scroop
+anzugreiffen, die sich wie wir hoeren, mit grossem Eifer zum Krieg
+ruesten.  Ich selbst und mein Sohn Harry, werden nach Wales ziehen,
+mit Glendower und dem Grafen von March zu fechten.  [Noch ein Tag
+wie dieser, wird der Empoerung den Muth benehmen; lasst uns, nach
+einem so schoenen Anfang, nicht ablassen, bis wir alles Unsrige
+wieder gewonnen haben.]*
+
+{ed. * Reime im Original.}
+
+
+Ende dieses Projekt Gutenberg Etextes Der Erste Theil von Koenig
+Heinrich dem vierten, von William Shakespeare.
+
+Mit dem Leben und Tod von Heinrich Percy, genannt Hot-Spur.
+
+Uebersetzt von Christoph Martin Wieland.
+
+
+
+
+
+End of the Project Gutenberg EBook of Der Erste Theil von Koenig Heinrich
+dem vierten, by William Shakespeare
+
+*** END OF THE PROJECT GUTENBERG EBOOK KOENIG HEINRICH DEM VIERTEN, ERSTE ***
+
+This file should be named 7gs1910.txt or 7gs1910.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 7gs1911.txt
+VERSIONS based on separate sources get new LETTER, 7gs1910a.txt
+
+Delphine Lettau and Mike Pullen
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*

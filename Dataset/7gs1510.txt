@@ -1,0 +1,4360 @@
+The Project Gutenberg EBook of Leben und Tod Koenigs Richard des zweyten
+by William Shakespeare
+#15 in our series by William Shakespeare
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Leben und Tod Koenigs Richard des zweyten
+       Richard II
+
+Author: William Shakespeare
+
+Release Date: January, 2005 [EBook #7323]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on April 14, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBERG EBOOK KOENIGS RICHARD DES ZWEYTEN ***
+
+
+
+
+Produced by Delphine Lettau
+
+
+
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 7-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg.spiegel.de/.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfügung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.spiegel.de/ erreichbar.
+
+
+
+
+Leben und Tod Koenigs Richard des zweyten.
+
+William Shakespeare
+
+Ein Trauerspiel.
+
+Uebersetzt von Christoph Martin Wieland
+
+
+Personen.
+
+Koenig Richard der Zweyte.
+Herzog von York.
+Johann von Gaunt, Herzog von Lancaster.
+Bolingbroke, Sohn des Johann von Gaunt, und nachmals Koenig
+Heinrich der Vierte.
+Aumerle, Sohn des Herzogs von York.
+Mowbray, Herzog von Norfolk.
+Graf von Salisbury.
+Lord Berkley.
+Buschy, Bagot und Green, Diener des Koenigs Richard.
+Graf von Northumberland, Lord Percy, dessen Sohn, Ross und
+Willougby, Bolingbroks Freunde.
+Bischoff von Carlisle und Sir Stephan Scroop, Freunde des Koenigs
+Richard.
+Fizwater, Surry, Abbt von Westminster und Sir Pierce von Exton,
+Herren vom Parlament.
+Die Koenigin, Koenig Richards Gemalin.
+Die Herzogin von Glocester.
+Die Herzogin von York.
+Hofdamen der Koenigin.
+Herolde, zween Gaertner, ein Kammerdiener, ein Hueter, ein Bote, und
+andre stumme Personen.
+
+Der Schauplaz ist in verschiednen Theilen von England.
+
+
+
+
+Erster Aufzug.
+
+
+
+Erste Scene.
+(Der Hof.)
+(Koenig Richard, Johann von Gaunt, Lords und Gefolge treten auf.)
+
+
+Koenig Richard.
+Johann von Gaunt, Herzog von Lancaster, ehrenvoller Greis; hast du,
+deinem Eid und deiner Pflicht gemaess, Heinrichen von Herford, deinen
+kuehnen Sohn anhergebracht, um jene Anklage zu behaupten, die er
+unlaengst gegen Thomas Mowbray, Herzog von Norfolk angebracht, und
+die wir damals anzuhoeren keine Musse hatten?
+
+Gaunt.
+Ich habe ihn hieher gebracht, Gnaedigster Herr.
+
+Koenig Richard.
+So sage mir dann ferner: Hast du nicht von ihm erforscht, ob es nur
+ein alter eingewurzelter Groll gegen seine Person ist, was ihn zu
+dieser Klage angetrieben; oder die pflichtmaessige Treue eines guten
+Unterthanen, um einen geheimen Verraether in Mowbray zu entlarven?
+
+Gaunt.
+So viel als ich von ihm ueber diese Sache herausbringen konnte, so
+ist es kein Privat-Groll, sondern die vermeynte Entdekung einer
+ueber Eurer Hoheit schwebenden Gefahr.
+
+Koenig Richard.
+So ruffe man sie dann vor unsre Gegenwart; wirs selbst wollen,
+Stirne gegen Stirne, den Klaeger und den Beklagten reden hoeren: Sie
+sind beyde von sehr feuriger Gemueths-Art, beyde voll Grimms; in
+ihrer Wuth beyde taub wie die See, und rasch wie Feuer.
+
+
+
+Zweyte Scene.
+(Bolingbroke und Mowbray zu den Vorigen.)
+
+
+Bolingbroke.
+Moege eine lange Reyhe von Jahren, voll glueklicher Tage, meinem
+gnaedigsten und geliebtesten Oberherrn bestimmt seyn!
+
+Mowbray.
+Und jeder Tag die Gluekseligkeit des vorigen vermehren, bis der
+Himmel, der Erde soviel Gluek missgoennend, das Vorrecht der
+Unsterblichkeit zu eurer Crone hinzuthut.
+
+Koenig Richard.
+Wir danken euch beyden; obgleich die Sache selbst, wesswegen ihr vor
+uns erschienen seyd, ein Beweis ist, dass uns einer von beyden
+schmeichelt.  Vetter von Hereford, sage, was fuer Vorwuerfe gegen den
+Herzog von Norfolk, Thomas Mowbray, hast du anzubringen?
+
+Bolingbroke.
+So wisset dann vor allen Dingen, Gnaedigster Koenig, und der Herr sey
+meiner Reden Zeuge!  dass ich aus Antrieb der pflichtmaessigen Liebe
+eines getreuen Unterthanen, aus zaertlicher Sorge fuer die Erhaltung
+meines Fuersten, frey von Groll, Rachgier oder andrer unaechter
+Absicht, als Anklaeger hieher in seine koenigliche Gegenwart gekommen
+bin.  Nun, Thomas Mowbray, wend' ich mich zu dir, und horche wol
+auf meinen Gruss; denn was ich reden werde, wird entweder dieser Arm
+auf Erden erproben, oder meine unsterbliche Seele im Himmel
+verantworten.  So sag' ich dann: Du bist ein Verraether und Rebell,
+zu gut, ein solcher zu seyn, und zu schlimm, beym Leben zu bleiben;
+denn je schoener und crystallner der Himmel ist, desto haesslicher
+sehen die Wolken aus, die ihn befleken.  Noch einmal, das Gewicht
+meiner Anklage zu verdoppeln, stopf ich dir mit dem schaendlichen
+Namen eines Verraethers den Rachen, und wuensche, dass mir von meinem
+Gnaedigsten Oberherrn erlaubt werde, an eben diesem Plaz und in
+diesem Augenblik, was meine Zunge gesprochen hat, durch mein recht-
+gezognes Schwerdt zu beweisen.
+
+Mowbray.
+Lasst nicht hier die Kaelte meiner Worte meinen Eifer verdaechtig
+machen; diese unsre Sache kan nicht mit den Waffen eines
+Weiberkriegs, dem bittern Geschrey zwoer scharfen Zungen, unter uns
+entschieden werden.  Das Blut ist heiss, das fuer diss erkalten muss.
+Jedoch kan ich mich keiner so zahmen Geduld ruehmen, mich stossen zu
+lassen, und gar nichts dazu zu sagen; und wuerde mich nicht die
+Ehrfurcht vor Eu.  Hoheit zuruek halten, meiner freyen Rede Zuegel
+und Sporren zu geben, sie sollte schnell genug seyn, diese
+Beschuldigungen von Verraetherey zweyfach in seinen Rachen zuruek zu
+stossen.  Sezet aber das hohe Vorrecht seines koeniglichen Gebluets
+bey Seite, und lasst ihn nicht den Vetter meines Koenigs seyn, so
+biet ich ihm troz, und verschmaehe ihn, nenne ihn eine
+verlaeumderische Memme, und einen nichtswuerdigen Schurken, und bin
+bereit, ihm zu beweisen dass er's ist, an welchem Ort er will mit
+ihm zusammen zu kommen, und wenn ich gleich mit naktem Fuss auf die
+befrornen Gipfel der Alpen rennen muesste, oder in welche andre
+unbewohnbare Gegend es seyn mag, wohin nie kein Englaender es wagte
+seinen Fuss zu sezen.  Indess lasst diss meine Treue rechtfertigen: Bey
+allen meinen Hoffnungen, er hat die luegenhafteste Unwahrheit gesagt.
+
+Bolingbroke.
+Blasser, zitternder Verraether, hier zieh ich meinen Handschuh, lege
+die Vorrechte meines koeniglichen Gebluets bey Seite, und begebe mich
+des Vortheils, der Blutsverwandte eines Koenigs zu seyn, (worauf du
+aus Zagheit, nicht aus Ehrfurcht dich beruffen hast.) Wenn das
+bebende Bewusstseyn deiner Schuld dir noch so viel Staerke uebrig
+gelassen hat, dieses Pfand meines Ehrenworts anzunehmen, so bueke
+dich.  Bey diesem, und bey allen andern Gesezen der Ritterschaft
+mach' ich mich anheischig, das was ich gesprochen habe, Arm gegen
+Arm, dir zu beweisen.
+
+Mowbray.
+Ich heb' ihn auf, und bey diesem Schwerdt schwoer' ich, dessen
+sanfter Schlag die Ritterschaft auf meine Schulter legte; dass ich
+dir mit Speer und Schwerdt, nach ritterlichem Brauch und Sitte
+antworten will, und wenn ich mein Pferd besteige, moege ich nicht
+gesund wieder absteigen, wofern ich ein Verraether bin, oder fuer
+eine ungerechte Sache kaempfe!
+
+Koenig Richard.
+Was ist es dann, was unser Vetter den Mowbray bezuechtiget?  Es muss
+etwas Grosses seyn, was uns vermoegen kan, dem blossen Gedanken
+einer boesen Gesinnung von seiner Seite Plaz zu geben.
+
+Bolingbroke.
+Hoeret was ich sage, mein Leben soll beweisen, dass es Wahrheit ist;
+dieser Mowbray, sage ich, hat achttausend Nobels* aufgenommen,
+unter dem Vorwand Eu.  Hoheit Kriegs-Voelker damit zu unterhalten,
+solche aber wie ein Verraether und schelmischer Bube zuruek behalten,
+und fuer sich selbst zu luederlichem Gebrauch angewandt.  Ueberdas
+sag' ich, und will es durch einen Zweykampf beweisen, entweder hier,
+oder anderswo, sey es bis auf dem aeussersten Stuek Landes, das
+jemals ein Englaendisches Aug' uebersehen hat, dass alle Verraethereyen,
+die seit achtzehn Jahren in diesem Koenigreich angezettelt worden,
+von diesem treulosen Mowbray ihren ersten Ursprung genommen haben.
+Ferner sag' ich, und will es auf seinen ehrlosen Kopf beweisen, dass
+er Ursaecher der Ermordung des Herzogs von Glocester war; dass er es
+war, der seine leichtglaeubige Feinde aufstiftete, und dass er
+folglich es war, der wie ein feiger schelmischer Meuchelmoerder sein
+unschuldiges Blut vergoss, welches izt, gleich Abels Blut, aus den
+stummen Gewoelben der Erde zu mir um gerechte und strenge Rache
+schreyt.  Und, bey dem glorreichen Werth dieses Bluts, das in
+meinen eignen Adern fliesst, dieser Arm soll es vollziehen, oder
+dieses Leben soll aufgeopfert werden.
+
+{ed.-* Eine alte Muenze, die an Werth etwas ueber sechs Englische
+Schillings betragen haben soll.}
+
+Koenig Richard.
+Was sagst du hiezu, Thomas von Norfolk?
+
+Mowbray.
+O moechte mein Gebietender Herr sein Angesicht wenden, und seinem
+Ohr einen Augenblik taub zu seyn befehlen, bis ich diesem
+Schandflek seines Bluts gesagt habe, wie sehr Gott und Menschen
+einen so schaendlichen Luegner hassen.
+
+Koenig Richard.
+Mowbray, unsre Augen und Ohren sind ohne Partheylichkeit; waer' er
+unser Bruder, ja waer' er der Erbe unsers Reichs, wie er nur unsers
+Vaters Bruders-Sohn ist, dennoch sollte, ich schwoer' es bey der
+Majestaet meines Scepters, eine so nahe Verwandtschaft mit unserm
+geheiligten Blut ihm nicht das geringste Vorrecht geben, noch die
+unbiegsam Festigkeit unsrer aufrichtigen Seele partheyisch machen.
+Er ist unser Unterthan, Mowbray, wie du; rede frey und ungescheut,
+ich erlaub' es dir.
+
+Mowbray.
+So sag ich dann, Bolingbroke, in deinen verlaeumdrischen Hals hinein,
+du luegst!  Drey Theile von der Summe, die ich fuer Calais erhielt,
+bezahlte ich an Sr.  Hoheit Kriegs-Voelker; das uebrige behielt ich
+mit Einwilligung, fuer eine Schuld zuruek, die ich an meinen Koenig zu
+fordern hatte, den Rest der betraechtlichen Auslagen die ich machte,
+da ich lezthin nach Frankreich reisste, die Koenigin abzuholen.  Nun,
+schluke diese Luege hinab--Was Glocesters Tod betrift, so war ich's
+nicht, der ihn erschlug.  Wofern jemand berechtigt seyn sollte, mit
+einer solchen Beschuldigung wieder mich aufzutreten, so waer' es der
+ehrenvolle Vater meines Feindes, ihr mein edler Lord von Lancaster;
+euch stellt' ich einst hinterlistig nach dem Leben, ein Verbrechen,
+das noch immer meine reuvolle Seele foltert; aber ich beichtete es,
+eh ich leztmals das Sacrament empfieng, und ich bat euch so
+aufrichtig um Verzeihung, dass ich sie erhalten zu haben hoffe.  Diss
+ist mein Vergehen; alles uebrige, dessen er mich anklagt, ist der
+Geifer eines grollsuechtigen, luegenhaften und hoechst ausgearteten
+Verraethers; und zum Zeichen dass ich Muth habe, dieses mit meinem
+Leben zu beweisen, werf ich gleichfalls mein Pfand vor dieses
+uebermuethigen Verraethers Fuesse hin; in dem besten Blut, das in
+seinem Herzen wallt, will ich beweisen, dass ich ein rechtschaffner
+Edelmann bin; und damit ich nicht lange verziehen muesse, bitte ich
+Eu.  Hoheit herzlichst, den Tag zu unserm Zweykampf anzusezen.
+
+Koenig Richard.
+Ergrimmte Edle, lasst euch von euerm Fuersten zaehmen; lasst uns diese
+Galle ohne blutvergiessen ausfuehren; Eure Wuth wuerde zu tiefe
+Einschnitte machen, und unsre Aerzte sagen, es sey izt nicht Zeit
+zum Bluten.  Vergesst, vergebt, vergleicht euch, und werdet
+zufrieden; mein lieber Oheim, helft mir diesen Zwist in seiner
+Geburt erstiken; wir wollen den Norfolk besaenftigen, ihr euern Sohn.
+
+Gaunt.
+Es kan meinen Jahren nicht uebel anstehen, wenn ich ein
+Friedensstifter bin.  Sohn, wirf des Herzogs von Norfolk Pfand
+wieder hin.
+
+Koenig Richard.
+Und ihr, Norfolk, werfet seines hin.
+
+Gaunt.
+Wie, Harry, du zoegerst?  Muss ich zweymal Gehorsam verlangen?
+
+Mowbray.
+Mich selbst, mein Gnaedigster Souverain, werf' ich zu deinen Fuessen;
+mein Leben kanst du fordern, aber nicht meine Ehre.  Jenes ist
+meine Lehens-Pflicht dir schuldig; aber an meinen unbeflekten Namen
+hast du (troz dem Tode, der auf meinem Grabe lebt **) kein Recht,
+und nimmermehr werd' ich zugeben, dass er zur Schande missbraucht
+werde.  Ich bin hier angegriffen und beschimpft worden, bis in die
+Seele mit der Verlaeumdung vergiftetem Speer durchstochen, und diese
+toedtliche Wunde kan kein andrer Balsam heilen, als das Blut aus dem
+Herzen, welches diesen Gift ausgeathmet hat.
+
+{ed.-** Die Reime, womit dieses Stuek hie und da verbraemt ist, sind
+nach Pope's Anmerkung, meist ausserordentlich schlecht, so schlecht,
+dass dieser scharfsinnige Criticus vermuthet, sie seyen von einer
+fremden Hand.  Dieser jaemmerliche Einfall, der in ( ) eingeschlossen
+ist, und alle andre von dieser Art durch dieses ganze Stuek, sind
+dergleichen Reime, an die der Uebersezer sich dann auch nicht
+gebunden halten wird.}
+
+Koenig Richard.
+Wuth muss Widerstand finden; gieb mir sein Pfand: Loewen machen
+Leoparden zahm.
+
+Mowbray.
+Ja, aber sie loeschen ihre Fleken nicht aus; nehmt nur meine
+Beschimpfung von mir, so will ich mein Pfand abtreten.  Mein
+theurer, theurer Gebieter, der aechteste Schaz eines Mannes ist
+unbeflekte Ehre; ist diese verlohren, so sind Menschen nur
+uebergueldeter Leim oder gemahlter Koth.  Meine Ehre ist mein Leben,
+sie sind in eins verwachsen; nehmt mir meine Ehre, so habt ihr mein
+Leben genommen.  So lasst mich dann meine Ehre bewaehren, mein
+theurer Oberherr; in ihr leb' ich, und fuer sie will ich sterben.
+
+Koenig Richard.
+Vetter, werft euer Pfand hin, macht ihr den Anfang.
+
+Bolingbroke.
+Der Himmel bewahre meine Seele vor einer so schaendlichen
+Niedertraechtigkeit.  Wie, ich sollte mich vor meines Vaters Augen
+ueberwunden geben, oder mit einem blassen Bettler-Gesicht mich
+selbst vor diesem ausgeschaemten Bastard anklagen?  Eh meine Zunge
+einen solchen Laut von sich geben soll, eh sollen meine Zaehne das
+sclavische Werkzeug der wiederruffenden Feigheit durchschneiden und
+sie blutend in Mowbrays schaendliches Antliz speyen.
+
+(Gaunt geht ab.)
+
+Koenig Richard.
+Wir sind nicht gebohren zu bitten, sondern zu befehlen; und da wir
+dieses nicht koennen, um euch auszusoehnen, so haltet euch, so gewiss
+als euer Leben dafuer antworten soll, bereit, auf Sct.  Lamberts Tag
+zu Coventry zu erscheinen.  Dort sollen eure Lanzen und Schwerdter
+den schwellenden Zwist eures tiefgewurzelten Hasses entscheiden:
+Lord Marschall, ertheilt euern Herolden und Officieren Befehl,
+alles zu dieser feyerlichen Handlung zuzuruesten.
+
+(Sie gehen alle ab.)
+
+
+
+Dritte Scene.
+(Der Schauplaz verwandelt sich in des Herzog von Lancaster Palast.)
+(Gaunt und Herzogin von Glocester treten auf.)
+
+
+Gaunt.
+Ach, Schwester!  Denkt ihr, dass eure Ausruffungen mich staerker als
+der Bruder-Name treiben koennen, gegen die Moerder von Gloster's
+Leben zu entbrennen?  Aber da die Bestraffung dieser Uebelthat in
+den nemlichen Haenden ligt, welche die Uebelthat begangen haben, so
+lasst uns unsre Sache dem Himmel anheim stellen, der, wenn er die
+Stunde dazu auf Erden gereift sieht, heisse Rache auf der
+Verbrecher Haupt regnen wird.
+
+Herzogin.
+Ist das alles, wozu der Name deines ermordeten Bruders dich treiben
+kan!  Hat die Liebe nicht mehr Waerme in deinem alten Blut?  Edwards
+sieben Soehne, wovon du selbst einer bist, waren wie sieben Phiolen
+mit seinem geheiligten Blut angefuellt, oder wie sieben schoene
+Zweige, aus einem Stamm entsprossen; einige von diesen sieben
+Phiolen sind durch den Lauf der Natur ausgetroknet, einige von
+diesen Aesten durch das Schiksal abgeschnitten; aber Thomas, mein
+theurer Gemal, mein Gloster, (eine Phiole voll von Edwards
+geheiligtem Blut, ein bluehender Zweig aus seinem koeniglichen Stamm)
+ist gewaltthaetig zerbrochen, und all sein kostbarer Saft
+verschuettet, ist umgehauen und alles sein Sommerlaub verwelkt,
+durch die Hand des Neids zerbrochen, durch des Meuchelmords blutige
+Axt umgefaellt--Und du kanst gelassen bleiben?  O, Gaunt, sein Blut
+war auch deines; eben dieses Ehebett, eben dieser Mutterleib,
+dieser Stoff, diese nemliche Form, so dich bildeten, machten ihn
+zum Menschen; in ihm, ob du gleich lebst und athmest, bist auch du
+erschlagen, ja du willigst gewisser Maassen in deines Vaters Tod
+ein, indem du deinen ungluekseligen Bruder, ihn, der ein Theil von
+deines Vaters Leben war, so gleichgueltig sterben siehst.  Nenn' es
+nicht Geduld, Gaunt, es ist Muthlosigkeit; indem du so gelassen
+duldest, dass dein Bruder erschlagen worden, zeigst du den nakten
+Pfad zu deinem eignen Leben, und lehrst den unerbittlichen Mord
+dich auch zu mezeln.  Das, was wir an gemeinen Menschen Geduld
+nennen, ist blasse, kalte Feigheit in einer edeln Brust.  Was soll
+ich noch mehr sagen?  Du kanst dein eignes Leben nicht besser
+sicher stellen, als wenn du Glosters Tod raechest.
+
+Gaunt.
+Diese Sache ist Gottes Sache; denn Gottes Substitut, sein gesalbter
+Statthalter, hat seinen Tod verursacht; geschah es unrechtmaessig, so
+ueberlasst Gott die Rache; ich werde niemals einen feindseligen Arm
+gegen seinen Diener aufheben.
+
+Herzogin.
+Gegen wen, ach!  gegen wen mag ich dann, ich Ungluekselige, ueber
+mein Unrecht mich beklagen?
+
+Gaunt.
+Gegen den Himmel, den Beschuezer der Wittwe.
+
+Herzogin.
+Nun dann, so will ich; lebe wohl, alter Gaunt, lebe wohl.  Du gehst
+nach Coventry, ein Zuschauer des Kampfs zwischen unserm Bruder
+Herford und dem lasterhaften Mowbray zu seyn.  O, Himmel, lege
+meines Gemals erlidtnes Unrecht auf Herfords Speer, damit er des
+moerdrischen Mowbrays Brust durchbohre; oder wenn unglueklicher Weise
+sein Speer ihn verfehlt, o!  so lass Mowbrays Verbrechen so schwer
+in seinem Busen werden, dass es seinem schaeumenden Rosse den Naken
+breche, und der Reuter, so lang er ist, in die Schranken falle, ein
+dem Tod verfluchtes Opfer, wiewol unwuerdig von Herfords edler Hand
+zu sterben.  Lebe wohl, alter Gaunt; die Ungluekliche, die einst
+deines Bruders Weib war, hat nun keinen andern Gespielen als einen
+Jammer, der nur mit ihrem Leben enden kan.
+
+Gaunt.
+Schwester, lebet wohl; ich muss nach Coventry.
+
+Herzogin.
+Nur noch ein Wort; der Schmerz wird nie fertig; empfiehl mich
+meinem Bruder Edmund von York; sieh', das ist alles--Nein, geh'
+noch nicht--Ob diss gleich alles ist, so geh' nicht so schnell, es
+wird mir noch mehr beyfallen.  Sag' ihm--O was?  Sag' ihm, er solle
+mich, so bald als moeglich, zu Plaschie besuchen.  Aber, ach, was
+wird der gute alte York dort sehen, als leere Gemaecher und oede
+Waende, unbevoelkerte Nebenzimmer und unbetretne Steine?  Was fuer
+einen andern Willkomm wird er hoeren, als meine Klagen?  Sag' ihm
+also--Nein, lass ihn nicht hinkommen.  Was kan sein Mitleiden mir
+helfen.  Auf allen Seiten trostlos, will ich geh'n und sterben; diss
+lezte Lebewohl nimmt mein weinendes Auge von dir!
+
+(Sie gehen ab.)
+
+
+
+Vierte Scene.
+(Die Schranken zu Coventry.)
+(Der Lord Marschall, und der Herzog von Aumerle treten auf.)
+
+
+Marschall.
+Milord Aumerle, ist Harry Herford bewaffnet?
+
+Aumerle.
+Ja, vom Fuss bis zum Kopf, und wartet ungeduldig hereingelassen zu
+werden.
+
+Marschall.
+Auch der Herzog von Norfolk wartet voll ungeduldigen Feuers auf die
+Trompete des Appellanten.
+
+Aumerle.
+Die Kaempfer sind also geruestet, und erwarten nur die Ankunft seiner
+Majestaet.
+
+(Die Trompeten erschallen; und der Koenig erscheint mit seinen Edeln;
+nachdem sie sich gesezt haben, tritt der Herzog von Norfolk, als
+Appellat, in voller Ruestung auf.)
+
+
+
+Koenig Richard.
+Marschall, erforsche von jenem Ritter die Ursache, warum er hier in
+Waffen erscheint; frag' ihn nach seinem Namen, und lege ihm den
+gesezmaessigen Eid zu schwoeren auf.
+
+Marschall.
+In Gottes und des Koenigs Namen, sage wer bist, und warum erscheinst
+du hier in dieser ritterlichen Ruestung?  Gegen wen kommst du, und
+was ist deine Sache?  Antworte bey deiner ritterlichen Ehre, und
+auf deinen Eid, und so beschueze dich der Himmel und deine
+Tapferkeit!
+
+Mowbray.
+Mein Nam' ist Thomas Mowbray, Herzog von Norfolk, und ich erscheine
+hier bey meinem Wort, das einem Ritter unverlezlich heilig seyn
+soll, beydes meine Treue und ritterliche Ehre zu Gott, meinem Koenig
+und meinen Nachkommen, wider den Herzog von Hereford, meinen
+Anklaeger, zu behaupten, und mit Gottes Gnade und der Staerke meines
+Arms ihm durch meine Vertheidigung zu beweisen, dass er ein
+Verraether gegen Gott, meinen Koenig und mich ist; und so wie ich fuer
+eine gerechte Sache fechte, so schueze mich der Himmel!  (Die
+Trompeten erschallen; Bolingbroke, als ein Appellant, tritt in
+vollen Ruestung auf.)
+
+Koenig Richard.
+Marschall, frage jenen bewaffneten Ritter wer er ist, warum er hier
+in diesem kriegrischen Aufzug erscheint?  Und lass ihn, unsern
+Gesezen gemaess, foermlich auf die Gerechtigkeit seiner Sache schwoeren.
+
+Marschall.
+Wie ist dein Nahme, und warum kommst du vor Koenig Richards
+Gegenwart, in seine koenigliche Schranken?  Gegen wen kommst du und
+was hast du fuer eine Sache?  Rede, wie ein rechtschaffner Ritter,
+und so beschueze dich der Himmel!
+
+Bolingbroke.
+Ich bin Heinrich von Hereford, Lancaster und Derby, und stehe hier
+in dieser Waffenruestung, durch Gottes Gnade und meine Tapferkeit
+gegen Thomas Mowbray Herzog von Norfolk zu beweisen, dass er ein
+schaendlicher und verderblicher Verraether an Gott im Himmel, dem
+Koenig Richard und an mir ist, und so wie ich fuer Recht und Wahrheit
+kaempfe, beschueze mich der Himmel!
+
+Marschall.
+Bey Strafe des Todes erfreche sich niemand, diese Schranken zu
+beruehren, als der Marschall, und diejenigen Officiers, welche zu
+Anordnung des Kampfs bestellt sind.
+
+Bolingbroke.
+Lord Marschall, lasst mich meines Koenigs Hand kuessen und meine Knie
+vor seiner Majestaet beugen; Mowbray und ich sind wie zween Maenner,
+die eine lange und gefaehrliche Pilgrimschaft geloben; es sey uns
+also vergoennt einen feyrlichen Abschied von unsern Freunden zu
+nehmen.
+
+Marschall.
+Der Klaeger bittet sich die Gnade aus, Euer Majestaet seine
+Schuldigkeit zu bezeugen, und seinen Abschied zu nehmen.
+
+Koenig Richard.
+Wir wollen herabsteigen, und ihn in unsre Arme schliessen.  Vetter
+von Hereford, so wie deine Sache gerecht ist, so sey dein Gluek in
+diesem koeniglichen Kampfe!  Fahre wohl, mein Blut; und wenn dein
+Verhaengniss ist, es an diesem Tag zu vergiessen, so werden wir
+trauren, aber keine Rache an dem Thaeter nehmen.
+
+Bolingbroke.
+O lasst kein edles Aug' eine Thraene fuer mich entweihen, wenn ich
+durch Mowbrays Lanze falle!  Aber so muthig wie ein Falke auf einen
+Vogel schiesst, geh' ich mit Mowbray zu fechten.  Mein theurer Herr,
+ich nehme meinen Abschied von euch, und von euch, mein edler Vetter,
+Lord Aumerle--nicht niedergeschlagen, ob ich gleich eine toedtliche
+Arbeit vor mir habe, sondern munter, jugendlich, und froelich
+athmend--O du, der irdische Schoepfer meines Wesens,
+
+(zu Gaunt.)
+
+dessen ehmaliger Jugend-Geist in mir wiedergebohren, mich mit
+zwiefacher Staerke emporhebt, den Sieg zu erreichen, der ueber meinem
+Haupte schwebt; staehle meine Ruestung durch dein Gebet, und schaerfe
+durch deinen Segen die Spize meiner Lanze, dass sie Mowbrays
+gewichstes Wamms durchdringen und dem Namen Johann von Gaunt durch
+das edle Betragen seines Sohns einen neuen Glanz gebe!
+
+Gaunt.
+Der Himmel beguenstige dich in deiner gerechten Sache!  Sey behend
+im Streit wie der Bliz, und lass deine Streiche, zweymal verdoppelt,
+wie betaeubende Donnerschlaege auf den Helm deines verderblichen
+Gegners herab stuerzen.  Feure dein jugendliches Blut an, sey tapfer,
+und lebe!
+
+Bolingbroke.
+So helfen mir meine Unschuld, Gott, und St.  George!
+
+Mowbray.
+Was fuer ein Loos auch der Himmel oder das Gluek fuer mich ziehen mag,
+so leb' oder sterb' ich hier, getreu an Koenig Richards Thron, ein
+pflichtmaessiger, redlicher und rechtschaffner Edelmann!  Nie hat ein
+Gefangner mit einem frohern Herzen seine Ketten abgeworfen, und
+seine goldne unabhaengige Befreyung umfasst, als womit meine tanzende
+Seele an diesem Kampf mit meinem Feind, wie an einem Freuden-Fest
+sich erlustiget.  Grossmaechtigster Oberherr, und ihr meine edlen
+Freunde, empfangt aus meinem Munde den Wunsch glueklicher Jahre!  So
+freudig und guten Muths wie zu einem Ritterspiel, geh' ich zu
+diesem Kampf; Redlichkeit hat ein ruhiges Herz.
+
+Koenig Richard.
+Fahre wohl, Milord; ich sehe Tugend und Muth ruhig in deinen Augen
+ligen.  Ordnet den Kampf an, Marschall, und beginnt!
+
+Marschall.
+Heinrich von Hereford, Lancaster und Derby, empfange diese Lanze,
+und der Himmel schueze dein Recht!
+
+Bolingbroke.
+Fest in Hoffnung wie ein Thurm, ruf ich Amen!
+
+Marschall.
+Geh, bringe diese Lanze Thomas, Herzogen von Norfolk.
+
+1. Herold.
+Heinrich von Hereford, Lancaster und Derbey, steht hier fuer Gott,
+seinen Lehnsherrn und ihn selbst, bey Straffe falsch und meineidig
+erfunden zu werden, zu beweisen, dass Thomas Mowbray, Herzog von
+Norfolk ein Verraether an seinem Gott, seinem Koenig und ihm sey,
+muthig steht er hier und fordert ihm zum Kampf auf!
+
+2. Herold.
+Hier steht Thomas Mowbray, Herzog von Norfolk, bey Straffe falsch
+und meineidig erfunden zu werden, beydes sich selbst zu
+vertheidigen, und zu beweisen, dass Heinrich von Hereford, Lancaster
+und Derbey ein Verraether an Gott, seinem Lehnsherrn, und ihm sey;
+und er wartet muthvoll und mit Verlangen auf das Zeichen zum Anfang.
+
+(Man blasst zum Angriff.)
+
+Marschall.
+Blaset Trompeten, und ihr Kaempfer, rueket aus--Doch halt!  Der Koenig
+hat seinen Stab hingeworffen.
+
+Koenig Richard.
+Lasst sie ihre Helme und Lanzen bey Seite legen, und beyde zu ihren
+Stuehlen zuruek kehren; entfernt euch mit uns, und lasst die Trompeten
+schallen, bevor wir diesen Herzogen unsern Willen kund thun.
+
+(Trompeten.)
+
+Koenig Richard (Zu den Kaempfern:)
+Kommt naeher herbey, und hoeret, was wir mit unserm Rath gethan haben.
+Damit die Erde unsers Koenigreichs nicht mit diesem kostbaren
+Blute besudelt werde, dessen Mutter sie ist, und weil unsre Augen
+den graesslichen Anblik buergerlicher Wunden hassen, die von
+nachbarlichen Schwerdtern gegraben werden, und weil wir denken, dass
+nichts anders als der Adlerbeschwingte Stolz ehrsuechtiger und
+himmelan-strebender Gedanken euch mit eifersuechtigem Hass erfuellt
+und aufgereizt hat, den Frieden, der gleich einem
+sanftschlummernden neugebohrnen Kind, in der Wiege unsers
+muetterlichen Landes zu schlafen angefangen, wieder aufzuweken.  Aus
+diesen Ursachen verbannen wir euch, Vetter von Hereford, bey
+Straffe des Todes aus unsern Gebieten; bis zehen Sommer unsre
+Felder bereichert haben, sollt ihr unsre bluehenden Herrschaften
+nicht wieder gruessen, sondern die fremden Pfade der Verbannung
+betreten.
+
+Bolingbroke.
+Euer Wille geschehe!  Mein Trost muss seyn, dass die nemliche Sonne,
+die euch hier erwaermt, mich bescheinen wird, und dass eben diese
+goldnen Stralen, die sie euch hier leiht, meine Verbannung
+verguelden werden.
+
+Koenig Richard.
+Norfolk, auf dich wartet ein strengeres Urtheil, wiewol ich es
+nicht ohne Widerwillen anspreche.  Die schnellgefluegelten Stunden
+werden deiner Verbannung kein Ziel bestimmen; das hoffnunglose Wort,
+nicht wiederzukehren, athme ich gegen dich bey Straffe des Todes.
+
+Mowbray.
+Ein hartes Urtheil, mein gebietender Oberherr, und aus Eurer Hoheit
+Mund gar zu unerwartet!  Ich habe eine bessere Belohnung von Eurer
+Hand verdient, als so verstuemmelt an die freye Luft hingeworfen zu
+werden.  Die Sprache, die ich nun vierzig Jahre gelernt habe, mein
+angebohrnes Englisch, muss ich nun vergessen, und meine Zunge wird
+mir kuenftig nicht mehr nuezen, als eine unbesaitete Harfe, oder als
+ein feines Instrument in der Hand dessen, der es nicht zu spielen
+weiss.  Ihr habt meine Zunge in meinen Mund eingekerkert, und stumme,
+gefuehllose, unfruchtbare Unwissenheit ist der Kerkermeister, der
+mich bewachen soll.  Ich bin zu alt, mich an den Busen einer neuen
+Saeugamme zu schmiegen, oder wieder ein Lehrknabe zu werden.  Was
+ist also Euer Urtheil, als die Verdammung zu einem sprachlosen Tod,
+der meiner Zunge das Leben nimmt?
+
+Koenig Richard.
+Vergebens bemuehst du dich unser Mitleiden zu erweken; Nachdem unser
+Urtheil ausgesprochen ist, kommen Klagen zu spaet.
+
+Mowbray.
+So entweich ich dann aus dem Tag meines Vaterlands, um mein Leben
+in den traurigen Schatten einer hoffnunglosen Nacht zu enden.
+
+Koenig Richard.
+Kommt wieder zuruek und nehmt einen Eid mit euch.  Legt eure
+verbannten Haende auf eure koeniglichen Schwerdter, und schweert bey
+eurer Pflicht zum Himmel, (den Antheil, den wir daran haben,
+verbannen wir mit euch selbst*) dass ihr den Eid halten wollet, den
+wir euch auferlegen.  Nimmer sollt ihr waehrend eurer Verbannung
+euch mit einander aussoehnen, keiner soll des andern Angesicht sehen,
+keiner auf welche Art es sey, einige Gemeinschaft mit dem andern
+unterhalten, vielweniger durch verabredete Entwuerfe irgend etwas
+boeses gegen uns, unsern Staat, unsre Unterthanen, und unser Land
+anzuspinnen oder auszufuehren suchen; schwoert diss, so wahr euch der
+Himmel helfe!
+
+{ed.-* Es ist eine Frage, worueber unter den Lehrern des Voelker-Rechts
+viel gestritten worden, ob ein Verwiesener dem Staat, der ihn
+verbannt hat, dem ungeachtet mit der Pflicht der Treue zugethan sey.
+Cicero und der Lord Canzler Clarendon bejahen sie; Hobbes und
+Puffendorf behaupten das Gegentheil.  Unser Autor scheint in dieser
+Zeile der leztern Meynung zu seyn.  Warburton.}
+
+Bolingbroke.
+Ich schwoere.
+
+Mowbray.
+Und ich; alles diss zu halten.
+
+Bolingbroke.
+Norfolk, haette der Koenig es uns zugelassen, so wanderte izt die
+Seele von einem unter uns beyden in der Luft, verbannt aus unserm
+Leibe, wie izt unser Leib aus diesem Lande verbannt ist.  Bekenne
+deine Verraethereyen, eh du aus diesem Reiche fliehst; schleppe
+nicht auf eine so weite Reise die hemmende Buerde einer schuldigen
+Seele mit dir.
+
+Mowbray.
+Nein, Bolingbroke; wann ich jemals ein Verraether war, so werde mein
+Nam' aus dem Buch des Lebens ausgeloescht, und ich vom Himmel wie
+von hinnen verbannt!  Aber was du bist, das ist dem Himmel, dir und
+mir bekannt, und nur allzu bald, besorg' ich, wird es der Koenig mit
+Reue erfahren.  Lebet wohl, mein gebietender Herr; da ich England
+den Rueken kehren muss, ist jeder Weg mir gleich.
+
+(Er geht ab.)
+
+
+
+Fuenfte Scene.
+
+
+Koenig Richard (Zu Gaunt.)
+Oheim, ich sehe den Gram deines Herzens in den Spiegeln deiner
+Augen; dein kummervolles Aussehen hat von der Zahl seiner
+verbannten Jahre viere abgerissen; wenn sechs Winter verflossen
+sind, Bolingbrok, so kehre, mir willkommen, von deiner Verbannung
+heim.
+
+Bolingbroke.
+Welch eine lange Zeit ligt in einem einzigen kleinen Wort!  Vier
+langsame Winter und vier muntre Fruehlinge verliehren sich in einem
+Wort, so maechtig ist der Athem der Koenige.
+
+Gaunt.
+Ich danke meinem gebietenden Herrn, dass er, in Ansehung meiner,
+meines Sohnes Verbannung um vier Jahre abkuerzt; aber was wird diese
+Mildigkeit mir helfen, da eh die sechs, die er verliehren muss,
+verflossen sind, meine vom Alter aufgezehrte Lampe verloschen seyn
+kan?
+
+Koenig Richard.
+Wie, Oheim, du hast noch viele Jahre zu leben.
+
+Gaunt.
+Aber keine Minute, Koenig, die du geben kanst; du kanst meine Tage
+durch Gram abkuerzen, du kanst Naechte von meinem Leben abreissen,
+aber du kanst mir keinen Morgen leihen; du, du kanst der Zeit
+helfen mich frueher alt zu machen, aber keine einzige Falte von
+meiner Stirne nehmen; du kanst durch ein Wort meinen Tod gebieten,
+aber wenn ich todt bin, ist dein Koenigreich zu wenig, mir nur einen
+Athemzug zu kauffen.
+
+Koenig Richard.
+Dein Sohn ist auf Einrathen unsers Staats-Rathes verbannt, und du
+selbst hast deine Stimme dazu gegeben; warum ruempfest du izt die
+Stirne ueber unsre Gerechtigkeit?
+
+Gaunt.
+Dinge, die im Muende suess sind, werden in der Verdauung sauer; ihr
+dranget in mich, dass ich als ein Richter reden sollte; aber ich
+wollte lieber ihr haettet mir befohlen als ein Vater zu reden.  O!
+waer' es ein Fremder gewesen, und nicht mein Sohn, ich wuerde ein
+gelinderes Urtheil ausgesprochen haben.  Weh mir!  ich besorgte,
+man moechte mir eine uebertriebne Nachsicht gegen die meinigen Schuld
+geben, und den Vorwurf der Partheylichkeit zu vermeiden, hab' ich
+durch meine Stimme mir selbst das Leben abgesprochen.
+
+Koenig Richard.
+Vetter, lebe wohl; und ihr, Oheim, nehmt euern Abschied von ihm;
+wir verbannen ihn auf sechs Jahre, und er soll gehen.
+
+(Geht ab.)
+
+
+
+Sechste Scene.
+
+
+Aumerle.
+Vetter, leb wohl!  Was wir uns gegenwaertig nicht sagen koennen, das
+lasst aus dem Ort eures Aufenthalts, eure Briefe sagen.
+
+Marschall.
+Milord, ich beurlaube mich nicht von euch; denn ich will an eurer
+Seite reiten, so weit mich das Land tragen wird.
+
+Gaunt.
+Warum bist du so sparsam mit deinen Worten, dass du die verbindliche
+Reden deiner Freunde nicht beantwortest?
+
+Bolingbroke.
+Ich habe ihrer zu wenige, zum Abschied nehmen, da meine Zunge
+verschwendrisch seyn sollte, den ueberstroemenden Schmerz meines
+Herzens auszuathmen.
+
+Gaunt.
+Du hast keinen andern Schmerz als deine Abwesenheit; was sind sechs
+Winter?  sie sind schnell vorueber.
+
+Bolingbroke.
+Fuer die Glueklichen; der Kummer macht aus einer Stunde zehen.
+
+Gaunt.
+Nenn es eine Reise, die du fuer dein Vergnuegen machst.
+
+Bolingbroke.
+Mein seufzendes Herz wuerde mich luegen heissen, wenn ich eine
+Lustreise nennen wollte, was ihm eine gezwungne Pilgrimschaft ist.
+
+Gaunt.
+Alle Oerter die des Himmels Auge besucht, sind fuer den weisen Mann
+sichre Porte, und Himmel voll Wonne.  Lehre die Nothwendigkeit so
+denken, es ist keine Tugend ueber die Nothwendigkeit.  Denke nicht,
+der Koenig habe dich verbannt, sondern du den Koenig.  Ein Ungemach
+druekt uns nur heftig, wenn wir es unmaennlich tragen.  Geh, sage,
+ich habe dich weggeschikt, Ruhm zu erwerben; nicht, der Koenig habe
+dich verbannt.  Oder bilde dir ein, es hange fressende Pestilenz in
+unsrer Luft, und du fliehest unter einen reinen Himmel.  Sieh,
+alles was deiner Seele theuer ist, davon bilde dir ein, es lig' in
+dem Weg den du gehst, nicht in dem, so du verlaessest; bilde dir ein,
+die Voegel seyen Musicanten; das Gras worauf du trittst, der
+Fussboden eines grossen Saals; die Blumen, schoene Damen; und deine
+Schritte, ein froelicher Tanz.  Der Kummer beisst nur schwach, sobald
+man einen Scherz daraus macht.
+
+Bolingbroke.
+O, wer kan Feuer in seiner Hand tragen, und an den befrornen
+Caucasus denken?  Wer kan den nagenden Hunger durch die blosse
+Erinnrung an ein Gastmahl stillen; oder, wenn er nakend im December-
+Schnee gienge, sich durch die Vorstellung eines phantastischen
+Sommers erwaermen?  O nein, die Vorstellungen des Guten schaerfen nur
+das schmerzhafte Gefuehl des Boesen, und der Zahn des giftigen
+Kummers--
+
+Gaunt.
+Komm, komm, mein Sohn, ich will dich ein Stuek Weges begleiten;
+haett' ich deine Jugend und deine Sache, ich wollte keinen Augenblik
+zoegern.
+
+Bolingbroke.
+So gehabe dich dann wohl, Englaendischer Boden!  Gehabe dich wohl,
+mein muetterliches Land, meine Saeugerin, die noch diese kurzen
+Augenblike mich traegt.  Wohin ich auch wandre, kan ich doch,
+obgleich verbannt, mich ruehmen, dass ich ein echter Englaender bin.
+
+(Sie gehen ab.)
+
+
+
+Siebende Scene.
+(Der Hof.)
+(Koenig Richard, Bagott, Green, u.s.w. treten zu einer, und
+Lord Aumerle zu der andern Thuer herein.)
+
+
+Koenig Richard (zu Bagott.)
+In der That, wir bemerkten es auch--Vetter Aumerle, wie weit habt
+ihr den hohen Hereford begleitet?
+
+Aumerle.
+Ich begleitete den hohen Hereford, wenn ihr ihn so nennen wollt,
+nicht weiter als bis an die naechste Landstrasse, und dort verliess
+ich ihn.
+
+Koenig Richard.
+Und saget, sind viele Thraenen beym Abschied vergossen worden?
+
+Aumerle.
+Meiner Treue, von mir keine, ausser dass der Nord-Ostwind, der uns
+sehr scharf ins Gesicht blies, mir ein wenig Wasser aus den Augen
+presste, und dadurch von ungefehr unsern kalten Abschied mit einer
+Thraene zierte.
+
+Koenig Richard.
+Was sagte euer Vetter, wie ihr Abschied nahmt?
+
+Aumerle.
+Leb wohl!--und weil sich mein Herz nicht ueberwinden konnte, meine
+Zunge dieses Wort so entheiligen zu lassen, so stellte ich mich,
+als ob ich so betruebt sey, dass ich vor Schmerz nicht reden koenne.
+Auf meine Ehre, wenn das Wort Lebwohl die Stunden haette verlaengern
+und Jahre zu seiner Verbannungs-Zeit hinzu thun koennen, er sollte
+eine ganze Last Lebewohl bekommen haben; aber weil das nicht war,
+so kriegte er keines von mir.
+
+Koenig Richard.
+Er ist unser Anverwandter, Vetter, aber es ist zweifelhaft, ob er,
+wenn ihn die Zeit aus seiner Verbannung einst zuruek beruft, als
+unser Freund wieder kommen wird.  Wir selbst, und Bagot hier, und
+Buschy, und Green, haben beobachtet, wie er dem gemeinen Volke den
+Hof machte; wie er mit demuethiger und vertraulicher Hoeflichkeit
+sich in ihren Herzen unterzutauchen schien; was fuer Reverenze er
+auf der Strasse vor Sclaven hinwarf; wie er das Mitleiden der
+aermsten Handwerksleute durch die Zauberey seines Laechelns und die
+scheinbare Geduld, womit er sich seinem Ungluek unterzog, zu
+erschleichen suchte.  Als ob er verlangte, dass sie ihre Liebe und
+ihre Wuensche mit ihm verbannen sollten.  Er zog seinen Hut vor
+einem Austern-Mensch ab, und ein paar Karrenzieher, die ihm
+zurieffen: Gott geleit ihn!  empfiengen den Tribut seiner biegsamen
+Knie mit--grossen Dank, meine Landsleute, meine lieben Freunde;
+gleich als waere England sein kuenftiges Erbtheil, und er die naechste
+Hoffnung unsrer Unterthanen.
+
+Green.
+Gut, er ist nun fort, und diese Gedanken moegen mit ihm gehen; eine
+wichtigere Sorge ist izt, Gnaedigster Herr, wie den Aufruehrern in
+Irland zu begegnen sey, eh ein laengerer Aufschub ihnen mehr Mittel
+zu ihrem Vortheil und Eurer Majestaet Schaden darbietet.
+
+Koenig Richard.
+Wir wollen diesem Krieg in Person beywohnen; und weil unsre Kisten
+durch den Aufwand eines zu grossen Hofes, und durch unsparsame
+Freygebigkeit in etwas leicht worden sind, so sehen wir uns
+genoethiget, unsre Cron-Einkuenfte zu verpachten; die Summen die uns
+dadurch eingehen, werden fuer die gegenwaertigen Angelegenheiten
+zureichen; und wenn sie auch ausgehen, so wollen wir unsern
+Substituten in England Vollmachten geben, alle reichen Leute, die
+ihnen bekannt werden, nach Proportion um betraechtliche Summen Gelds
+zu taxieren, und uns selbige nachzuschiken; denn wir wollen uns
+ungesaeumt nach Irland erheben.  (Buschy zu den Vorigen.)
+
+Koenig Richard.
+Buschy, was giebt's?
+
+Buschy.
+Der alte Johann von Gaunt ist krank, Gnaedigster Herr, hat einen
+ploetzlichen Anstoss bekommen, und sendet einen Boten in groester Eil
+hieher, Euer Majestaet zu bitten, ihn mit einem Besuch zu begnadigen.
+
+Koenig Richard.
+Wo ligt er?
+
+Buschy.
+Zu Ely-House.
+
+Koenig Richard.
+Nun gieb doch, guetiger Himmel, seinen Aerzten in den Sinn, ihm
+ungesaeumt in sein Grab zu helfen; das Futter von seinen Kisten
+schikt sich vortreflich, unsern Soldaten fuer diesen Irlaendischen
+Krieg Roeke daraus zu machen.  Kommt, meine Herren, wir wollen ihn
+besuchen; Gott gebe, dass wir eilen und zu spaete kommen!
+
+(Sie gehen ab.)
+
+
+
+
+Zweyter Aufzug.
+
+
+
+Erste Scene.
+(Ely-House.)
+(Gaunt, der krank herein getragen wird; mit dem Herzog von York.)
+
+
+Gaunt.
+Will der Koenig kommen, dass ich meinen lezten Athem in heilsamem
+Rath fuer seine noch verbesserliche Jugend aushauchen kan?
+
+York.
+Plaget euch selbst nicht, und verschwendet nicht so die wenige
+Kraefte, die ihr noch uebrig habt; sein Ohr ist vor allem guten Rath
+verschlossen.
+
+Gaunt.
+Aber man sagt doch, dass die Zungen sterbender Menschen, gleich der
+zauberischen Harmonie zur Aufmerksamkeit noethigen; sparsame Worte
+werden selten vergebens aufgewandt, denn diejenigen sagen die
+Wahrheit, die ihre Worte mit Schmerzen athmen muessen.  Einer, der
+bald aufhoeren wird zu reden, wird eher gehoert, als diejenigen,
+denen Jugend und Wohlaufseyn erlauben, sich in Worte zu ergiessen.
+Man giebt mehr auf der Menschen Ende acht, als auf ihr Leben; wie
+die Sonne nie mit mehr Vergnuegen beschaut wird, als wenn sie
+untergeht, und an einer Musik nichts aufmerksamer macht als der
+Schluss.  Ob Richard gleich die Raethe nicht hoeren wollte, die ich
+ihm in meinem Leben gab, so mag vielleicht der ernste Ton des Todes
+sein taubes Ohr durchdringen.
+
+York.
+Sein Ohr wird noch von andern Zaubertoenen verstopft, als von dem
+schmeichelnden Lobe seiner Regierung; ueberdas giebt es
+ausschweiffende Gesellschafter, deren vergiftete Reden das
+ungewahrsame Ohr der Jugend immer offen finden; Erzaehlungen von
+Moden in dem stolzen Italien, dessen Sitten unsre bloede,
+affenmaessige Nation, bestaendig auf eine plumpe Art nachahmet.  Wo
+treibt die Welt irgend eine Eitelkeit hervor, (wenn sie nur neu ist,
+sie mag so nichtswuerdig seyn als sie will,) die nicht
+augenbliklich in seine Ohren gesumset wird?  Wo der Wille, vom Wiz
+unterstuezt, sich wider die Vernunft empoert, da kommt guter Rath
+allezeit zu spaet; versuch' es nicht, denjenigen leiten zu wollen,
+der sein eigner Wegweiser seyn will; du wuerdest deinen Athem
+verliehren, und das ist gerade was dir mangelt.
+
+Gaunt.
+Mich daeucht, ich bin ein neubegeisterter Prophet, und sterbend
+weissage ich so von ihm.  Seine rasche, ausgelassene, unbezaehmte
+Jugendhize, kan nicht von langer Dauer seyn; ein heftiges Feuer
+brennt sich bald selbst aus.  Sanfte Regen dauren lange, ploezliche
+Stuerme gehen bald vorueber; der wird bald muede, der anfangs die
+Sporren zu stark gebraucht; und wer allzugierig isst, hat am
+baeldesten genug.  Leichtsinnige Eitelkeit, nachdem sie wie ein
+unersaettlicher Vielfrass alle ihre Mittel verzehrt hat, wird bald
+gezwungen, sich selbst aufzuzehren.  Dieser glorreiche Koenigs-Thron,
+diese bezepterte Insel, dieses majestaetische Land, dieser Siz des
+Kriegs-Gottes, dieses andre Eden, dieses feste Castell, das die
+Natur fuer sich selbst aufgeworfen hat, um sich vor fremder
+Anstekung und feindseligem Anfall zu sichern, dieser edle Stamm von
+Menschen, dieser in die Silber-See eingefasste Edelstein, dieser
+kleine Inbegriff der Welt, dem der umgebende Ocean fuer eine Mauer,
+oder fuer einen beschuezenden Graben gegen den Neid nicht so
+gluekseliger Laender dient; diese Mutter und Saengerin koeniglicher
+Helden, welche ihr Vaterland furchtbar, ihre Geburt erlaucht, und
+ihre Thaten ruhmwuerdig machen, wegen ihres christlichen Eifers und
+ihrer ritterlichen Tapferkeit so weit beruehmt, als das Grab des
+Welt-Erloesers, in dem verstokten Judenlande von uns entfernt ist;
+dieses edle, wuerdige, theure Land, von dem glaenzenden Ruhm seiner
+Soehne ueber alle andre emporgehoben, ist nun ausgemiethet, (ich
+sterbe, da ich es ausspreche) wie ein Pachthof oder Baurengut
+ausgepachtet!  England, von der triumphierenden See umwunden, deren
+felsichtes Ufer den neidischen Siz des waessrichten Neptuns
+zuruekschlaegt, ist auf eine schaendliche Art in Fesseln von Pergament
+geworfen, und die Besiegerin andrer Voelker hat eine schaamvolle
+Eroberung von sich selbst gemacht.* O!  moechte diese Schmach mit
+meinem Leben sich enden, wie glueklich waere mein Tod!
+
+{ed.-* Was fuer eine Rede in dem Mund eines alten sterbenden Prinzen,
+der sich ueber Engbruestigkeit und kurzen Athem beklagt!  Indessen
+war dieses schuelerhafte rhetorische Gewaesche, diese auf einander
+gehaeuften, uebel zusammenpassenden Metaphern, und diese abmattenden
+Tautologien, die allgemeine Mode in unsere Autors Zeit.}
+
+
+
+Zweyte Scene.
+(Koenig Richard, die Koenigin, Aumerle, Buschy, Green, Bagot, Ross
+und Willoughby zu den Vorigen.)
+
+
+York.
+Der Koenig ist gekommen; gehet sanft mit seiner Jugend zu Werke;
+junge feurige Fuellen, wenn sie aufgebracht werden, rasen nur desto
+mehr.
+
+Koenigin.
+Wie steht es um unsern edeln Oheim Lancaster?
+
+Koenig Richard.
+Wie steht's Mann?  Was macht der alte Gaunt?
+
+Gaunt.
+O dieser Name schikt sich fuer meinen Zustand!* Ja wohl der alte
+Gaunt, und nichts als Haut und Knochen (Gaunt) vor Alter!  Der
+Kummer in mir, hat eine verdriessliche Fasten gehalten, und wer wird
+nicht mager, der sich des Fleisches enthalten muss?  Lange hab' ich
+fuer das schlafende England gewacht, und Wachen zehrt ab und macht
+mager.  Das Vergnuegen wovon einige Vaeter sich naehren, der Anblik
+meiner Kinder ist mir gaenzlich untersagt; und die Fasten, die du
+mir hierinn auferlegt hast, hat mich ganz mager gemacht, mager fuer
+das Grab, mager wie ein Grab, dessen holer Leib nichts als Knochen
+enthaelt.
+
+{ed.-* Alle diese Wortspiele, die in dem Mund eines Tertianers
+kindisch waeren, und in dem Mund eines Sterbenden unertraeglich sind,
+gruenden sich auf die Bedeutung des Namens Gaunt, der im Englischen
+so viel heisst als mager, abgezehrt, der nur noch Haut und Knochen
+hat.}
+
+Koenig Richard.
+Koennen kranke Leute so spizfuendig mit Worten spielen?
+
+Gaunt.
+Nein, aber Elend hat keine andre Kurzweile, als ueber sich selbst zu
+spotten.  [Weil du meinen Namen in mir zu toedten suchst, so spotte
+ich meines Namens, Grosser Koenig, um dir zu schmeicheln.**
+
+{ed.-** Die Zeilen, die hier und in der Folge in [ ] eingeschlossen
+sind, sind im Original in Reimen.}
+
+Koenig Richard.
+Sollen sterbende Leute den lebenden schmeicheln?
+
+Gaunt.
+Nein, nein, die lebenden Leute schmeicheln den Sterbenden.
+
+Koenig Richard.
+Du, ein Sterbender, sagst ja, du schmeichelst mir.
+
+Gaunt.
+O nein, du stirbst, ob ich gleich kraenker bin.
+
+Koenig Richard.
+Ich bin gesund, ich athme, und sehe dass du uebel bist.
+
+Gaunt.
+O!  der, der mich erschuf, weiss es, dass ich Dich uebel sehe.] Mir
+ist fuer mich selbst uebel, aber gar zu uebel, indem ich dich ansehe.
+Dein Todbette ist nichts geringers als dein Land, worinn du an
+deinem Ruhm krank ligst; und du, allzunachlaessiger Patient,
+uebergiebst deine gesalbte Person den nemlichen Aerzten zu heilen,
+die dich krank gemacht haben.  Tausend Schmeichler sizen um den
+Cirkel deiner Crone herum, und ob dieser Cirkel gleich nicht
+groesser ist als dein Haupt, so verliehrst du doch mit ihm dein
+ganzes Land, welches er umspannt.  O haette dein Grossvater mit dem
+Aug' eines Propheten vorhersehen koennen, dass seines Sohns Sohn
+seine Soehne zu Grund richten wuerde, er wuerde dir's unmoeglich
+gemacht haben, dich selbst so zu entehren, indem er dich vor deiner
+Einsezung entsezt haette, dich, der izt eingesezt ist, um sich
+selbst zu entsezen.  Wie?  Vetter!  waerest du Herr der ganzen Welt,
+so waer' es dir doch schimpflich dein Land zu verpachten; aber da
+deine ganze Welt in diesem einzigen Lande besteht, ist es nicht
+mehr als Schande, es so zu entehren?  Landsass von England bist du,
+nicht Koenig.  Deine gesezmaessige Oberherrlichkeit ist eine Leibeigne
+des Gesezes, und du--
+
+Koenig Richard.
+Und du, ein mondsuechtiger aberwiziger Narr, der auf das Privilegium
+eines Fiebers hin, sich erfrecht, mit deinen kalten Erinnerungen
+unsre Wange blass zu machen, und das koenigliche Blut mit Ungestuem
+von seinem natuerlichen Siz zu treiben.  Nun, bey der Majestaet
+meines angestammten Throns, waerst du nicht ein Bruder von dem Sohne
+des grossen Eduard, die Zunge, die so frey in deinem Kopf herum
+rennt, sollte deinen Kopf von deinen unehrwuerdigen Schultern
+herunter rennen.
+
+Gaunt.
+O schone meiner nicht, meines Bruder Edward's Sohn, weil ich seines
+Vater Edwards Sohn war.  Das Blut das ich von ihm habe, hast du
+laengst wie ein Pelican, ausgezapft, und in trunknem Muth
+verschmausst.  Mein Bruder Glocester, eine aufrichtige, wohlgesinnte
+Seele, (glueklich moege sie unter des Himmels seligen Geistern seyn!)
+hat schon zum Beyspiel dienen muessen, wie wenig du Bedenken traegst,
+Edwards Blut zu vergiessen.  Vereinige dich immerhin mit meiner
+Krankheit, und brich durch deine Hartherzigkeit eine vorhin schon
+welke Blume ab!  Leb' in deiner Schande, aber deine Schande sterbe
+nicht mit dir!  Und moegen diese meine lezten Worte kuenftig deine
+Peiniger seyn!  Tragt mich in mein Bette, und dann in mein Grab.
+Die moegen leben, die Liebe und Ehre haben!
+
+(Er wird hinweg getragen.)
+
+Koenig Richard.
+Und lasst die sterben, die Alter und Launen haben; du hast beydes,
+und beydes gehoert in ein Grab.
+
+York.
+Ich bitte euer Majestaet, seine Reden der verdriesslichmachenden
+Krankheit und dem hohen Alter zu gut zu halten; er liebt euch, bey
+meinem Leben, so sehr als Heinrich von Hereford, wenn er hier waere.
+
+Koenig Richard.
+Recht, ihr sagt die Wahrheit, wie Herefords Liebe, so ist seine,
+und wie die ihrige so ist meine; und alles mag seyn wie es ist.
+
+
+
+Dritte Scene.
+(Northumberland zu den Vorigen.)
+
+
+Northumberland.
+Gnaedigster Herr, der alte Gaunt empfiehlt sich Eurer Majestaet.
+
+Koenig Richard.
+Was sagt der alte Gaunt?
+
+Northumberland.
+Nichts mehr; er hat alles gesagt, was er zu sagen hatte; seine
+Zunge ist nun ein Instrument ohne Saiten; Sprache, Leben und alles
+hat den alten Lancaster verlassen.
+
+York.
+Moege York der naechste seyn, den dieses Schiksal trift.  So arm der
+Tod ist, so endet er doch alles sterbliche Weh.
+
+Koenig Richard.
+Die reiffeste Frucht faellt zuerst; seine Zeit ist abgelauffen, und
+die unsrige lauft noch; so viel hievon!--Nun muessen wir unsre
+Aufmerksamkeit auf die Irlaendischen Unruhen richten; wir muessen
+diese rohen zottelkoepfichten Kernen* unterdrueken, eh die anstekende
+Empoerung weiter um sich frisst; und da diese grossen Geschaefte einen
+ziemlichen Aufwand erfordern, so bemaechtigen wir uns hiemit, zu
+unsrer Unterstuezung alles baaren Gelds, Gold- und Silbergeschirrs,
+aller Einkuenfte, und aller beweglichen und unbeweglichen Gueter, die
+der alte Gaunt verlassen hat.
+
+{ed.-* Nahme einer Art von leichtbewaffnetem Irlaendischem Fussvolk.}
+
+York.
+Wie lange werd' ich noch Geduld behalten?  O wie lange wird noch
+eine, vielleicht zu schuechterne Empfindung meiner Pflicht, mich
+jede Ungerechtigkeit geduldig leiden machen?  Nicht Glosters Tod,
+noch Herefords Verbannung, nicht Gaunts erlidtne Kraenkungen, noch
+Englands einheimische Wunden, noch meine eigne Verachtung, haben
+mich jemals meine geduldige Stirne gegen meinen Koenig ruempfen
+gemacht.  Ich bin der lezte von des grossen Edwards Soehnen, von
+denen der Prinz von Wales, dein Vater der erste war.  Im Krieg war
+kein Loewe kuehner, im Frieden kein Lamm sanftmuethiger, als dieser
+edle junge Prinz.  Du hast seine Gesichtsbildung, so sah er aus;
+aber wenn er die Stirne runzelte, so war es gegen die Franzosen,
+nicht gegen seine Freunde: Seine edle Hand gewann erst das was sie
+ausgab, und verthat nicht, was sein siegreicher Vater gewonnen
+hatte.  Seine Hand wurde oft mit dem Blut der Feinde seines Hauses,
+niemals mit dem Blut der Seinigen besudelt.  O Richard!  York muss
+noch mehr sagen, oder er hat schon zu viel gesagt.
+
+Koenig Richard.
+Wie, mein Oheim, was wollt ihr dann sagen?
+
+York.
+O mein Gnaedigster Herr, vergebet mir, wenn es euch gefaellt; wo
+nicht, so lass ich mir auch gefallen, dass ihr mir nicht vergebt.
+Ihr sucht euch der Laendereyen, Gueter und Rechte des verbannten
+Hereford zu bemaechtigen?  Wenn Gaunt todt ist, lebt nicht Hereford?
+War Gaunt nicht redlich, und ist Heinrich nicht getreu?  Verdiente
+jener nicht, einen Erben zu haben?  Ist nicht sein Erbe ein
+verdienstvoller Sohn?  Kanst du Herefords Rechte, kanst du seine
+Titel, Urkunden und wohlhergebrachte Gerechtsame aufheben, und
+gewiss seyn, ob du morgen noch seyn wirst, was du bist?  Denn woher
+bist du ein Koenig, als durch das Recht der Erbfolge?  Wenn ihr
+gewaltthaetiger Weise die Erbschaft Herefords an euch reissen, die
+Vollmacht seines General-Procurators, in seinem Namen davon Besiz
+zu nehmen, vernichten, und ihm die angebotne Huldigung versagen
+wollt; so haeuft ihr tausend Gefahren ueber euer Haupt, verliehrt
+tausend wohlgesinnte Herzen, und reizet selbst meine sanftmuethige
+Geduld zu Gedanken, welche Pflicht und Ehre nicht denken koennen.
+
+Koenig Richard.
+Denkt was ihr wollt; wir nehmen alle seine Gueter, Mobilien,
+Baarschaften und Laendereyen, zu unsern Haenden.
+
+York.
+Wenigstens will ich kein Augenzeuge davon seyn; lebet wohl, mein
+gebietender Herr; was hieraus entstehen wird, kan niemand sagen.
+Aber aus schlimmen Handlungen laesst sich ohne Muehe weissagen, dass
+ihre Folgen nicht gut seyn koennen.
+
+(Er geht ab.)
+
+Koenig Richard.
+Geh, Buschy, ungesaeumt zu dem Grafen von Wiltschire, und ersuch ihn
+zu uns nach Ely-House zu kommen, und der Vollziehung dieses
+Geschaeftes vorzustehen.  Morgen wollen wir nach Irland, es ist Zeit.
+Indessen ernennen wir, waehrend unsrer Abwesenheit, unsern Oheim
+York zum Lord-Statthalter von England, denn er ist rechtschaffen,
+und war uns jederzeit zugethan.  Kommet, meine Koenigin; morgen
+muessen wir uns scheiden; beruhigt euch, wir werden nicht lange
+abwesend seyn.
+
+(Koenig Richard, Koenigin und Gefolge gehen ab.)
+
+
+
+Vierte Scene.
+(Northumberland, Willoughby und Ross bleiben.)
+
+
+Northumberland.
+Nun, Milords, der Herzog von Lancaster ist todt.
+
+Ross.
+Und lebt wieder in seinem Sohn, der nun Herzog von Lancaster ist.
+
+Willoughby.
+Dem Namen, nicht den Einkuenften nach.
+
+Northumberland.
+Beyden nach, wenn Gerechtigkeit ihr Recht erhaelt.
+
+Ross.
+Mein Herz ist voll; aber es muss von Schweigen brechen, eh ihm eine
+freymuethige Zunge leichter machen kan.
+
+Northumberland.
+Bezieht sich das, was ihr reden moechtet, auf den Herzog von
+Hereford, so sagt es kuehnlich heraus, Mann; mein Ohr horcht mit
+Freuden allem Guten entgegen, was von ihm gesagt wird.
+
+Ross.
+Alles Gute, was ich fuer ihn thun kan, ist, Mitleiden mit ihm zu
+haben, dass er seines Erbguts so beraubt worden ist.
+
+Northumberland.
+Nun, beym Himmel, Schande ist es, dass solche Kraenkungen, solche
+Ungerechtigkeiten gegen ihn, einen koeniglichen Prinzen, und manche
+andre von edlem Blut, in diesem dem Umsturz naehernden Lande
+niedertraechtig ertragen werden sollen!  Der Koenig ist nicht er
+selbst, unkoeniglich laesst er von Schmeichlern sich leiten; und was
+sie aus Raubsucht oder aus Hass gegen irgend einen aus uns anzetteln
+moechten, das wird der Koenig nach der Schaerfe gegen uns, unser Leben,
+unsre Kinder und Erben ausfuehren.
+
+Ross.
+Die Gemeinen hat er durch uebermaessige Auflagen ausgesogen, und
+dadurch ihre Herzen verlohren; die Edeln hat er wegen abgestorbner
+Haendel gebuesst, und ihre Herzen verlohren.
+
+Willoughby.
+Nichts destoweniger werden unter allerley Namen taeglich neue
+Erpressungen ausgesonnen; aber, was um Gottes willen!  soll endlich
+daraus werden?
+
+Northumberland.
+Kriege haben alle diese Summen nicht verzehrt; denn er hatte nie
+keinen Krieg, sondern gab vielmehr durch einen schimpflichen
+Verglich hin, was seine Voraeltern durch Siege gewonnen hatten; er
+hat mehr Aufwand im Frieden gemacht, als sie in allen ihren Kriegen.
+
+Ross.
+Der Graf von Wiltschire hat das Koenigreich im Pacht.
+
+Willoughby.
+Der Koenig ist Bankrutt worden.
+
+Ross.
+Und ungeachtet aller seiner schweren Auflagen, muss er den
+vertriebnen Herzog berauben, um Geld fuer diese Irlaendischen Unruhen
+zu haben.
+
+Northumberland.
+Seinen edeln Blutsverwandten!--Hoechst ausgearteter Koenig!  Aber,
+Milords, wir hoeren dieses fuerchterliche Gewitter singen, und suchen
+doch keinen Schirm gegen den Sturm; wir sehen den Wind unsern
+Segeln zusezen, und doch ziehen wir sie nicht ein, sondern gehen
+unbesorgt unter.
+
+Ross.
+Wir sehen den Schiffbruch vorher, und es ist noch keine Anstalt
+gegen die Gefahr gemacht, weil wir so geduldig die Ursachen unsers
+Schiffbruchs leiden.
+
+Northumberland.
+Nicht so; selbst durch die hohlen Augen des Todes, sehe ich Leben
+hervorschauen; aber ich darf es nicht sagen, wie nah' uns unsre
+Huelfe ist.
+
+Willoughby.
+Wir haben unsre Gedanken nicht vor dir verborgen; lass uns auch die
+deinigen theilen.
+
+Ross.
+Rede zuversichtlich, Northumberland; wir drey sind nur du selbst,
+und wenn du mit uns sprichst, sind deine Worte nur wie Gedanken;
+also rede kuehnlich!
+
+Northumberland.
+So hoeret dann, meine Freunde, was fuer geheime Nachrichten ich von
+(Port le blanc), einem Hafen in Bretagne, habe.  Heinrich von
+Hereford, Rainald, Lord Cobham, der unlaengst mit dem Herzog von
+Exeter gebrochen hat; sein Bruder, der neue Erzbischoff von
+Canterbury, Sir Thomas Erpingham, Sir John Ramston, Sir John
+Norbrew--, Sir Robert Waterton, und Franz Coines; alle diese,
+von dem Herzog von Bretagne mit allen Nothwendigkeiten versehen,
+sind wuerklich im Begriff, mit acht langen Schiffen und dreytausend
+streitbaren Maennern, eine Landung an unsern Nordischen Kuesten zu
+wagen; vielleicht haben sie schon gelandet, und warten nur bis der
+Koenig nach Irland abgegangen ist.  Wann wir nun entschlossen sind,
+unser sclavisches Joch abzuschuetteln, die gebrochnen Schwingen
+unsers sinkenden Vaterlandes wieder neu zu befiedern, die entehrte
+Crone von einem schimpflichen Versaz wieder einzuloesen; den Staub
+abzuwischen, der unsers Scepters reines Gold verbirgt, und der
+Majestaet ihre eigne Gestalt wieder zu geben: So folget mir
+schleunig nach Ravenspurg.  Zaudert ihr aber, oder fuerchtet ihr
+euch, so zu thun, so bleibet zuruek, und seyd verschwiegen; so will
+ich allein gehen.
+
+Ross.
+Zu Pferd, zu Pferd!  Lasst die zaudern die sich fuerchten.
+
+Willoughby.
+Wenn anders mein Pferd aushaelt, so will ich der erste dort seyn.
+
+(Sie gehen ab.)
+
+
+
+Fuenfte Scene.
+(Der Hof.)
+(Die Koenigin, Buschy und Bagot treten auf.)
+
+
+Buschy.
+Gnaedigste Frau, Eure Majestaet ist viel zu niedergeschlagen.  Ihr
+versprachst dem Koenig beym Abschied, alle sich selbsthaermende
+Gedanken zu entfernen, und eine frohe Gemuethsfassung zu unterhalten.
+
+Koenigin.
+Dem Koenige zu gefallen, that ich's; mir selbst zu gefallen kan
+ich's nicht thun; und doch weiss ich keine Ursache, warum ich einen
+solchen Gast, wie der Kummer ist, willkommen heissen sollte, als
+diese, weil ich einem so werthen Gast, wie mein Richard ist, leb'
+wohl sagen musste; und doch ist mir, als ob irgend ein noch
+ungebohrner Kummer, im Schooss des Schiksals reiffend, mir
+bevorstehe; meine innerste Seele zittert ueber etwas, ohne zu wissen
+was es ist; ausgenommen, dass es nicht die Trennung von dem Koenig
+meinem Gemal ist.
+
+Buschy.
+Ein jeder wuerklicher Schmerz hat zwanzig Schatten die ihm gleich
+sehen, und es doch nicht sind; durch den Crystall blendender
+Thraenen, sieht das Auge der Traurigkeit einen einzigen Gegenstand
+in viele gespalten.  Gleich gewissen perspectivischen Figuren, die,
+wenn man sie geradezu anschaut, nichts als verworrene Striche
+zeigen, aber aus einem gewissen schiefen Sehpunct eine regelmaessige
+Gestalt darstellen, zeigen sich euch, indem ihr euers Gemals
+Abwesenheit seitwaerts anseht, Gestalten von Kummer, welche, wenn
+sie angesehen werden, wie sie sind, nichts als blosse Schatten von
+dem was nicht ist, sind.  Trauret also ueber nichts mehr als die
+Abreise euers Gemals; mehr ist nicht sichtbar, oder ist es doch nur
+aus dem falschen Gesichtspunct der Traurigkeit, die oft ueber
+eingebildete Uebel, wie ueber wahre, weint.
+
+Koenigin.
+Es mag so seyn; und doch sagt meine innerste Seele mir etwas anders;
+dem sey wie ihm wolle, ich kann mich nicht erwehren traurig zu
+seyn, auf eine so bange Art traurig, dass wenn die Ueberlegung mir
+gleich sagt, es sey nichts, dieses aengstigende Nichts mich doch
+nichts desto minder schmachten und welken macht.
+
+Buschy.
+Es ist blosse Einbildung, meine gnaedigste Koenigin.
+
+Koenigin.
+Nichts weniger als Einbildung; Einbildung entspringt allemal aus
+irgend einem vorhergegangenen Schmerz; so ist der meinige nicht.
+Denn Nichts hat das Etwas gebohren das mich aengstiget; aber was es
+ist, das ist noch unbekannt.*
+
+{ed.-* Im Original ist dieses viel spizfuendiger gesagt:
+
+(For nothing hath begot my something-grief,
+Or something hath, the nothing that I grieve.
+But what it is, that is not yet Known, what
+I cannot name, 'tis nameless Woe, I wot.)}
+
+
+
+Sechste Scene.
+(Green zu den Vorigen.)
+
+
+Green.
+Der Himmel erhalte Euer Majestaet!--Ich erfreue mich, euch zu sehen,
+meine Herren--Ich hoffe, der Koenig hat sich noch nicht nach Irland
+eingeschift.
+
+Koenigin.
+Warum hoffst du das; es ist mehr Ursache zu hoffen, dass er's gethan
+habe; denn seine Absichten erfordern Behendigkeit, und seine
+Behendigkeit giebt gute Hoffnung; warum sagst du also, du hoffest
+er sey noch nicht zu Schiffe?
+
+Green.
+Damit Er, auf welchem alle unsre Hoffnung beruht, seine Macht zuruek
+behalten haette, um die Hoffnung eines Feindes zur Verzweiflung zu
+bringen, der trozig seinen Fuss in dieses Land gesezt hat.  Der
+verbannte Bolingbroke hat sich selbst zuruek beruffen, und ist mit
+emporgestrekten Waffen glueklich zu Ravenspurg angelangt.
+
+Koenigin.
+Das verhuete der Himmel!
+
+Green.
+O Gnaedigste Frau, es ist nur allzuwahr; und was noch schlimmer ist,
+der Lord Northumberland, der junge Percy, sein Sohn, die Lords von
+Ross, Beaumond und Willoughby mit allen ihren maechtigen Freunden
+sind zu ihm uebergegangen.
+
+Buschy.
+Wie?  Habt ihr denn den Northumberland und alle von dieser
+rebellischen Rotte nicht fuer Verraether erklaert?
+
+Green.
+Das haben wir, und darauf hat der Graf von Worcester seinen Stab
+zerbrochen, seine Oberhofmeister-Stelle niedergelegt, und sich mit
+allen koeniglichen Haus-Bedienten zum Bolingbroke gefluechtet.
+
+Koenigin.
+O Green, du bist die Wehmutter meines Kummers.  Nun hat meine Seele
+ihr Ungeheuer zur Welt gebracht.  Bolingbroke ist die ungluekliche
+Geburt meines ahnenden Weh's, und ich eine keuchende neu-entbundne
+Mutter, sinke aus einer Angst, einem Schmerz, in den andern.
+
+Buschy.
+Lasset den Muth noch nicht sinken, Gnaedigste Frau.
+
+Koenigin.
+Und warum soll ich nicht?  Ich will verzweifeln, ich will mit der
+betruegerischen Hoffnung in Feindschaft stehen; sie ist eine
+Schmeichlerin, die den Tod nur zuruek haelt, um durch ihre
+taeuschenden Eingebungen das Gefuehl seiner Streiche zu uebertaeuben.
+
+
+
+Siebende Scene.
+(York zu den Vorigen.)
+
+
+Green.
+Hier kommt der Herzog von York.
+
+Koenigin.
+Mit Zeichen des Kriegs um seinen bejahrten Naken.  O, seine Blike
+sind von sorgenvollen Geschaeften verduestert!  Guter Oheim, um des
+Himmels willen, eine troestliche Zeitung!
+
+York.
+So muesste ich meine Gedanken beluegen; der Trost ist im Himmel, und
+wir sind auf einer Welt, wo nichts als Kreuz, Sorge und Kummer lebt.
+Euer Gemal ist gegangen, um in der Ferne zu retten, was ihm andre
+indess daheim entreissen.  Ich ward hier zuruek gelassen, um dieses
+Land zu unterstuezen; ich, der vom Alter gedruekt, kaum mich selbst
+tragen kan.  Nun kommen die kranken Tage, die seine
+Ausschweiffungen nach sich gezogen haben; nun wird er seine Freunde,
+die ihm schmeichelten, kennen lernen.  (Ein Bedienter kommt herein.)
+
+Bedienter.
+Milord, euer Sohn war schon abgereist, wie ich ankam.
+
+York.
+Schon abgereist; Nun, so geh alles, welchen Weg es will.  Die Edeln
+sind uebergegangen, die Gemeinen kalt, und wanken schon wie ich
+besorge, auf Herefords Seite--Geh du nach Plaschie, zu meiner
+Schwester von Glocester; bitte sie, dass sie mir unverzueglich
+tausend Pfund schike; halt, hier ist mein Ring.
+
+Bedienter.
+Milord, ich habe vergessen zu sagen, dass an dem nemlichen Tag da
+ich hinkam, und anfragte--Aber ich werde euch betrueben, wenn ich es
+sage.
+
+York.
+Was ist es dann?
+
+Bedienter.
+Eine Stunde eh ich kam, starb die Herzogin.
+
+York.
+Gerechter Himmel!  Was fuer eine Fluth von Plagen stuerzt sich auf
+einmal ueber dieses ungluekselige Land!  Ich weiss nicht, was ich thun
+soll; wollte Gott!  der Koenig haette (ohne dass eine Untreue von mir
+ihn dazu aufgefordert haette) meinen Kopf mit meines Bruders
+Gloster's seinem abschlagen lassen.  Wie, sind schon Jacht-Schiffe
+nach Irland abgegangen?  Wo sollen wir Geld zu diesem Krieg
+hernehmen?  Kommt, Schwester; (Base, wollt' ich sagen,) ich bitte
+euch um Vergebung.--
+
+(Zum Bedienten.)
+
+Geh' du heim, Bursche, bestelle einige Wagen, und belade sie mit
+den Waffen, die du finden wirst--Meine Herren, wollt ihr gehen, und
+die Truppen mustern?  Ich versichre euch, dass ich nicht weiss, wie
+ich die Sachen, in der Unordnung, worinn sie mir in die Haende
+gegeben worden, ordnen soll.--Beyde sind meine Bruders-Soehne; der
+eine ist mein Souverain, beydes mein Eid und meine Pflicht befiehlt
+mir, ihn zu schuezen; der andre, gleichfalls mein Neffe, hat Unrecht
+vom Koenig erlidten; Gewissen und Natur befehlen mir seinem Recht
+beyzustehen.  Nun, etwas muss gethan seyn: Kommt, Base, ich will fuer
+eure Sicherheit sorgen.  Geht, mustert eure Leute, und erwartet
+mich zu Berkley-Castle; ich will auch nach Plaschie--Aber die Zeit
+wird es nicht zulassen.  Alles ist uneben, alles in der aeussersten
+Unordnung.
+
+(York und die Koenigin gehen ab.)
+
+
+
+Achte Scene.
+
+
+Buschy.
+Der Wind ist guenstig, neue Zeitungen nach Irland zu schiken, aber
+bringt keine zuruek.  Wir werden nimmermehr eine hinlaengliche Macht,
+um dem Feind Widerstand zu thun, aufbringen koennen.
+
+Green.
+Ausserdem sind wir dem Hass derer, die den Koenig hassen, desto naeher,
+je naeher wir der Liebe des Koenigs sind.
+
+Bagot.
+Und das sind die unbestaendigen Gemeinen; ihre Liebe ligt in ihrem
+Beutel; wer ihren Beutel ausleert, fuellt ihre Herzen mit toedtlichem
+Hass.
+
+Buschy.
+Wenn dieses ist, so ist der Koenig mit allen Stimmen verurtheilt.
+
+Bagot.
+Und so ist uns unser Urtheil auch gesprochen.
+
+Green.
+Gut; ich will zu meiner Sicherheit nach Bristol, der Graf von
+Wiltschire ist schon da.
+
+Buschy.
+Ich will mit euch; denn von den erbitterten Gemeinen haben wir
+nicht viel bessere Dienste zu gewarten, als dass sie uns in Stueken
+zerreissen werden.  Wollt ihr mit uns, Bagot?
+
+Bagot.
+Nein; ich will zu Sr.  Majestaet nach Irland.  Lebet wohl; wenn mir
+mein Herz die Wahrheit sagt, so werden wir Drey nimmer wieder
+zusammen kommen.
+
+Buschy.
+Das kommt darauf an, ob York den Bolingbroke zuruekschlagen wird.
+
+Green.
+Der arme York!  Das Geschaefte, das er uebernommen hat, ist nicht
+leichter, als wenn er den Sand zaehlen, und das Meer austrinken
+wollte.  Wenn einer an seiner Seite ficht, so werden tausend
+fliehen.
+
+Buschy.
+Lebet wohl fuer ein und allemal.
+
+Green.
+Wir koennen einander wol wieder sehen.
+
+Bagot.
+Ich besorge, nimmer.
+
+(Sie gehen ab.)
+
+
+
+Neunte Scene.
+(Verwandelt sich in eine wilde Gegend, in Glocester-Schire.)
+(Bolingbroke und Northumberland treten auf.)
+
+
+Bolingbroke.
+Wie weit ist es noch, Milord, von hier nach Berkley?
+
+Northumberland.
+Ich bin hier fremde in Glocester-Schire; diese hohen wilden Huegel,
+und diese rauhen unebnen Wege, machen unsern Marsch langsam und
+sehr beschwerlich; und doch hat eure angenehmste Gesellschaft mich
+beydes vergessen gemacht.  Ich bedaure nur Ross und Willoughby, die
+auf ihrem Weg von Ravenspurg nach Cotschold das Gluek ermangeln
+muessen, so ich izt geniesse; doch die Hoffnung erleichtert ihnen
+den ihrigen, und die Hoffnung des Genusses geniesst beynahe schon so
+viel, als der Genuss selbst.
+
+Bolingbroke.
+Eure Freundschaft treibt den Werth meiner Gesellschaft viel zu hoch,
+aber wer kommt hier?  (Percy zu den Vorigen.)
+
+Northumberland.
+Es ist mein Sohn, der junge Heinrich Percy, von meinem Bruder
+Worcester abgeschikt: Woher, Harry, was macht dein Oheim?
+
+Percy.
+Ich hoffte, Milord, bey euch Nachricht von ihm zu holen.
+
+Northumberland.
+Wie, ist er nicht bey der Koenigin?
+
+Percy.
+Nein, Milord, er hat den Hof verlassen, seinen Stab zerbrochen, und
+die Koenigliche Hofstatt zerstreut.
+
+Northumberland.
+Wie?  Aus was Ursache?  Er war nicht so gesinnt, da ich ihn das
+leztemal sprach.
+
+Percy.
+Weil Euer Gnaden als ein Verraether ausgeruffen worden ist.  Er ist
+nach Ravenspurg abgegangen, um dem Herzog von Hereford seine
+Dienste anzubieten; und mich hat er nach Berkley geschikt, um die
+Staerke der Kriegs-Voelker zu erkundigen, die der Herzog von York
+daselbst zusammengebracht hat, mit dem Befehl von da gerade nach
+Ravenspurg zu eilen.
+
+Northumberland.
+Hast du den Herzog von Hereford vergessen?
+
+Percy.
+Nein, Milord, man kan nicht vergessen, wessen man sich nie erinnert
+hat; meines Wissens hab' ich ihn in meinem Leben nie gesehen.
+
+Northumberland.
+So lern' ihn dann izt kennen; diss ist der Herzog.
+
+Percy.
+Gnaedigster Herr, ich erbiete euch meine Dienste, so wie sie sind,
+schwach, roh und jugendlich; zunehmende Jahre werden sie reiffer,
+und euers Beyfalls wuerdiger machen.
+
+Bolingbroke.
+Ich danke dir, edler Percy; sey versichert, dass ich mich in nichts
+anderm so glueklich schaeze, als in einem Herzen, das seiner guten
+Freunde nicht vergessen kan; und so, wie mein Gluek mit deiner Liebe
+reiffen wird, soll es jederzeit die Belohnung deiner treuen Liebe
+seyn.  Mein Herz macht diesen Vertrag, und hier siegelt ihn meine
+Hand.
+
+Northumberland.
+Wie weit ist es von hier nach Berkley?  und was fuer Bewegungen
+macht der gute alte York mit seinen Truppen dort?
+
+Percy.
+Das Schloss steht dort hinter jenem Gebuesche, und ist, wie ich hoerte,
+mit dreyhundert Mann besezt; die Lords, York, Berkley und Seymour
+sind darinn, sonst niemand von Namen und Ansehn.  (Ross und
+Willoughby zu den Vorigen.)
+
+Northumberland.
+Hier kommen die Lords von Ross und Willoughby, blutig vom Spornen,
+und feuerroth von Eile.
+
+Bolingbroke.
+Willkommen, Milords; ich weiss, eure Liebe verfolgt einen verbannten
+Verraether; alle meine Schaeze bestehen noch in leerem Dank, der,
+wenn er reicher geworden ist, die Vergeltung eurer Liebe und eurer
+Dienste seyn soll.
+
+Ross.
+Eure Gegenwart macht uns reich genug, Milord;
+
+Willoughby.
+Und ersezt uns die Arbeit ueberfluessig, wodurch wir sie erhalten
+haben.
+
+Bolingbroke.
+Immer mehr Dank!--(die Wiedervergeltung der Armen,) bis mein noch
+unmuendiges Gluek zu Jahren kommt, muessen Worte fuer mein
+erkenntliches Herz Buerge seyn.  Aber wer kommt hier?  (Berkley zu
+den Vorigen.)
+
+Northumberland.
+Es ist Milord von Berkley, daeucht mich.
+
+Berkley.
+Milord von Hereford, mein Auftrag geht an euch.
+
+Bolingbroke.
+Milord, meine Antwort ist zu Lancaster; ich bin gekommen, diesen
+Namen in England zu suchen, und ich muss diesen Titel in eurer Zunge
+finden, eh ich auf etwas antworten kan, das ihr sagt.
+
+Berkley.
+Meine Absicht, Milord, ist gar nicht, einen Titel von euern Wuerden
+wegzunehmen; ich komme zu euch, Milord, (Lord wovon ihr nur wollt)
+von demjenigen der izt der Erste in diesem Land ist, von dem Herzog
+von York, um zu erfahren, was euch antreibt, den Vortheil der
+Abwesenheit des Koenigs zu nehmen, und unsern angebohrnen Frieden
+durch einheimische Waffen zu schreken?
+
+
+
+Zehnte Scene.
+(York zu den Vorigen.)
+
+
+Bolingbroke.
+Ich werde nicht noethig haben, meine Antwort durch euch zu versenden;
+hier kommt Se.  Gnaden selbst.  Mein edler Oheim!
+
+(Er kniet vor ihm nieder.)
+
+York.
+Zeige mir, statt diesen betrueglich demuethigen Knien ein aufrichtig
+unterwuerfiges Herz.
+
+Bolingbroke.
+Mein gnaedigster Oheim!
+
+York.
+Stille, stille; ich will nichts von deinen Titeln; ich bin keines
+Verraethers Oheim, und das Wort Gnade wird in einem verbrecherischen
+Mund entweiht.  Warum haben deine geaechteten, verbannten Fuesse sich
+erfrecht, den Staub von Englands Boden zu betreten?  Und, was noch
+aerger ist, wie haben sie sich erfrecht, so viele Meilen ueber ihren
+friedsamen Busen einher zu ziehen, und ihre erblassenden Einwohner
+mit dem Gepraenge einer kriegrischen Schlacht-Ordnung zu schreken?
+Kommst du, weil der gesalbte Koenig abwesend ist?  Wie, unbesonnener
+Juengling, der Koenig ist noch da, seine Gewalt ligt in einem
+treuvollen Busen.  Waer' ich nur noch Herr von jener jugendlichen
+Staerke wie damals, da der brave Gaunt, dein Vater, und ich, den
+schwarzen Prinzen, diesen jungen Kriegsgott, mitten aus den Linien
+von zehntausend Franzosen erledigten; o!  wie schnell sollte dieser
+izt entnervte Arm, deinen Uebermuth zuechtigen!
+
+Bolingbroke.
+Mein gnaedigster Oheim, lasst mich nur erst wissen, von was fuer einer
+Art mein Verbrechen ist.
+
+York.
+Von der schlimmsten Art, Aufruhr und fluchwuerdiger Hochverrath.  Du
+bist ein Landsverwiesener, und kommst hier, bevor deine Zeit
+verflossen ist, in herausfordernden Waffen deinem Oberherrn Troz zu
+bieten.
+
+Bolingbroke.
+Wie ich verwiesen wurde, war ich Hereford; nun, da ich komme, komme
+ich fuer Lancaster.  Ich bitte Euer Gnaden, betrachtet das Unrecht,
+das mir zugefuegt worden, mit einem unpartheyischen Auge.  Ihr seyd
+mein Vater, denn mich daeucht, in euch sehe ich den bejahrten Gaunt
+wieder lebend.  O!  denn, mein Vater!  Koennt ihr gestatten, dass ich
+verurtheilt seyn soll, ein herumschweifenden Fluechtling zu seyn,
+und aller meiner Rechte und Regalien beraubt, gleichgueltig
+zuzusehen, wie sie unter lumpichte Taugenichts ausgetheilt werden,
+die gestern noch Bettler waren?  Wozu war ich gebohren?  Wenn der
+Koenig mein Vetter, Koenig von England ist, so muss es unstreitig seyn,
+dass ich Herzog von Lancaster bin.  Ihr habt einen Sohn, den
+Aumerle, mein edler Vetter; waeret ihr zuerst gestorben, und er waere
+so niedergetreten worden, er wuerde in seinem Oheim Gaunt einen
+Vater, einen eifrigen Verfechter seines Rechts, gefunden haben.
+Man versagt mir die Besiznehmung von meinen angeerbten Titeln und
+Guetern, wozu mir doch meine Patenten die Befuegniss geben.  Meines
+Vaters Gueter werden zerstreut und verkauft, und wie alles uebrige
+unnuezer Weise durchgebracht.  Was wollt ihr, dass ich in solchen
+Umstaenden thun soll?  Ich bin ein Unterthan, und reclamire das
+Gesez; man versagt mir Anwalde, ich bin also genoethigt, in eigner
+Person die Ansprueche an mein angestammtes Erbgut gelten zu machen.
+
+Northumberland.
+Der edle Herzog ist zu sehr gekraenkt worden.
+
+Ross.
+Es ligt nur bey euer Gnaden, ihm Recht wiederfahren zu lassen.
+
+Willoughby.
+Schlechte Leute sind durch seine Erbgueter gross gemacht worden.
+
+York.
+Milords von England, lasst mich euch sagen, dass ich gegen die
+Kraenkungen meines Neffen nicht unempfindlich gewesen bin, und mich
+so sehr ich konnte bemuehet habe, ihm sein Recht zu verschaffen.
+Aber auf eine solche Art zu kommen, in trozigen Waffen zu kommen,
+und sein Recht durch unerlaubte Gewalt zu suchen, das geht nicht an;
+und ihr, die ihr ihm hierinn beysteht, beguenstiget die Empoerung,
+und seyd alle Rebellen.
+
+Northumberland.
+Der Herzog hat geschworen, dass er nur gekommen sey, sein Recht zu
+suchen; und ihm zu diesem zu verhelfen, haben wir alle durch einen
+theuren Eid uns anheischig gemacht; und moeg' auf ewig den die
+Freude meiden, der seinen Eid bricht!
+
+York.
+Gut, gut, ich sehe den Ausgang dieser Waffen; ich muss es bekennen,
+es ist nicht in meiner Macht, ihn zu verhindern; aber koennte ich's,
+bey dem der mich erschaffen hat!  ihr solltet mir alle gebunden und
+in den Staub gebuekt, euer verwuerktes Leben von der koeniglichen
+Gnade erflehen!  Nun, da ich ohne Kraefte bin, so wisset, dass ich
+soviel als neutral bleiben werde.  Und hiemit gehabt euch wohl; es
+waere dann, dass es euch beliebte, in dieses Schloss zu kommen, und
+die Nacht da auszuruhen.
+
+Bolingbroke.
+Ein Anerbieten, mein Oheim, das wir annehmen wollen; aber wir
+muessen Euer Gnaden erbitten, mit uns nach Bristol-Castle zu gehen,
+worinn, wie man sagt, Buschy, Bagot, und ihre Mitschuldigen sich
+halten, diese Raupen des gemeinen Wesens, die ich auszureuten
+geschworen habe.
+
+York.
+Es mag seyn, ich will gehen--Doch nein, lasst mich ruhig bleiben;
+ich will nicht von denen seyn, die die Geseze meines Vaterlands
+brechen.  Weder Feinde noch Freunde, seyd ihr mir willkommen; und
+Dinge, denen nicht mehr zu helfen ist, sollen mich auch nicht mehr
+bekuemmern.
+
+(Sie gehen ab.)
+
+
+
+Eilfte Scene.
+(In Wales.)
+(Salisbury und ein Officier treten auf.)
+
+
+Officier.
+Milord von Salisbury, wir haben zehen Tage gewartet, und die groeste
+Muehe gehabt, unsre Landleute bey einander zu behalten; da wir aber
+noch immer keine Nachrichten von dem Koenig erhalten, so wollen wir
+wieder auseinander gehen.  Lebet wohl!
+
+Salisbury.
+Gedulde dich nur noch einen einzigen Tag, du rechtschaffner
+Welschmann; der Koenig sezt all sein Vertrauen in dich.
+
+Officier.
+Man glaubt, der Koenig sey todt; wir warten nicht laenger.  Die
+Lorbeer-Baeume in unserm Lande sind alle verdorben, Wunderzeichen
+schreken die Fix-Sterne vom Himmel; der bleiche Mond schaut blutig
+auf die Erde herab, und hagre Propheten lispeln furchtbare
+Veraenderung.  Reiche Leute sehen traurig aus, und Bettler und
+Spizbuben tanzen und springen; die eine, aus Furcht zu verliehren
+was sie gewonnen haben, die andre, in Hoffnung durch Krieg und
+Zerruettung zu gewinnen.  Alles dieses sind Zeichen, die den Tod der
+Koenige ankuendigen--Lebet wohl; unsre Landleute sind alle wieder
+auseinander gegangen, und lassen sich nicht benehmen, dass Koenig
+Richard todt sey.
+
+(Er geht ab.)
+
+Salisbury.
+Ach!  Richard!  ach!  mit thraenenbeladnen Augen seh' ich deinen
+Glanz, gleich einem fallenden Stern, vom Firmament zur Erde sinken.
+Die Sonne sizt weinend im niedrigen West, und propheceyt Stuerme,
+Unruhen und Ungluek.  Deine Freunde sind zu deinen Feinden
+uebergegangen, und alle Umstaende vereinigen sich zu deinem Verderben.
+
+(Er geht ab.)
+
+
+
+
+Dritter Aufzug.
+
+
+
+Erste Scene.
+(Bolingbroks Lager zu Bristoll.)
+(Bolingbroke, York, Northumberland, Ross, Percy, Willoughby, mit
+ Buschy, und Green, als Gefangnen treten auf.)
+
+
+Bolingbroke.
+Bringt diese Maenner naeher herbey--Buschy, und Green, ich will eure
+Seelen da es nun an dem ist, dass sie von ihren Leibern scheiden
+muessen, nicht mit so harten Vorwuerfen aengstigen, als euer
+verderbliches Leben verdient hat, denn das waere Unbarmherzigkeit;
+aber um euer Blut von meinen Haenden zu waschen, will ich hier, vor
+dieser Versammlung, einige Ursachen eures Todes entfalten.  Ihr
+habt einen Fuersten, den seine Geburt und sein angebohrner Edelmuth
+zu einem grossen und glueklichen Koenige bestimmte, missgeleitet,
+verderbt und unglueklich gemacht.  Ihr habt ihn durch die
+Ausschweiffungen, wozu ihr ihn reiztet, in gewissem Sinn von seiner
+Koenigin geschieden, die geheiligten Rechte eines koeniglichen
+Ehbettes geschmaelert, und die schoenen Wangen einer liebenswuerdigen
+Fuerstin durch die Thraenen beflekt, die eure Beleidigungen aus ihren
+Augen erpressten.  Ich selbst, durch das Gluek meiner Geburt, ein
+Prinz vom koeniglichen Gebluete, und von dem Koenig, meinem
+Blutsverwandten, werth gehalten, bis ihr durch giftige Eingebungen
+mich ihm verdaechtig gemacht; ich selbst habe meinen Naken unter
+euern Verfolgungen beugen muessen, und, das bittre Brodt der
+Verbannung essend, meinen Englaendischen Athem in auslaendische
+Wolken verseufzt; indess, dass ihr meine Herrschaften aufgezehrt,
+meine Waldungen und Lusthayne ausgehauen, mein Wappen von meinen
+Thoren abgerissen, und mir kein andres Zeichen uebrig gelassen habt,
+wodurch ich der Welt zeigen kan, dass ich ein Edelmann bin, als die
+Meynung der Leute und das Blut in meinen Adern: Dieses und viel
+mehr, viel mehr als zweymal so viel, verurtheilt euch zum Tode.
+Sehet, dass ihr Urtheil an ihnen vollzogen werde.
+
+Buschy.
+Willkommner ist mir der Streich des Todes, als Bolingbroke England
+ist--Milords, gehabt euch wohl.
+
+Green.
+Mein Trost ist, dass der Himmel unsre Seelen aufnehmen, und die
+Ungerechtigkeit mit den Qualen der Hoelle straffen wird.
+
+Bolingbroke.
+Milord von Northumberland, sehet, dass sie abgethan werden--Mein
+Oheim, ihr sagtet, die Koenigin befinde sich in ihrem Hause; um des
+Himmels willen, sorget davor, dass ihr geziemend begegnet werde;
+sagt ihr, dass ich sie meiner Ehrfurcht und Ergebenheit versichre;
+traget ja Sorge dafuer, dass ihr mein Gruss ueberbracht werde.
+
+York.
+Ich habe einen von meinen Edelleuten mit Briefen abgeschikt, worinn
+eure freundschaftliche Gesinnungen ausfuehrlich erklaert sind.
+
+Bolingbroke.
+Ich danke euch, mein guetiger Oheim, kommt, Milords, kommt, zum
+Gefecht mit Glendower und seinen Anhaengern; noch eine Weile Arbeit,
+und dann Feyer-Abend.
+
+(Sie gehen ab.)
+
+
+
+Zweyte Scene.
+(Verwandelt sich in eine Kueste von Wales.)
+(Trummeln und Trompeten.
+ Koenig Richard, Aumerle, der Bischoff von Carlisle, und Soldaten
+ treten auf.)
+
+
+Koenig Richard.
+Barkloughly-Castle nennt ihr jenes dort?
+
+Aumerle.
+Ja, Gnaedigster Herr; wie findet Eure Majestaet die Landluft, nach
+den Beschwerlichkeiten der See?
+
+Koenig Richard.
+Sie muss mir wol angenehm seyn--Freuden-Thraenen erfuellen meine Augen,
+da ich noch einmal wieder den Boden meines Koenigreichs betrete.
+Theure Erde, ich umarme dich, obgleich Aufruehrer dich mit den Hufen
+ihrer Pferde verwunden.  Wie eine lang von ihrem Kinde getrennte
+Mutter, beym Wiedersehn laechelnd in zaertliche Thraenen zerfliesst, so
+gruess' ich dich, zugleich weinend und laechelnd, meine Erde, und
+drueke dich an meine Koenigliche Brust.  O, naehre nicht deines Koenigs
+Feind, holde Erde, und labe nicht mit deinen Erquikungen seinen
+raubgierigen Muth: Sende die Schlangen, die deinen Gift in sich
+saugen, und schwellende Kroeten in ihren Weg, ihre verraethrischen
+Fuesse zu verwunden, die mit gewaltthaetigen Tritten dich stampfen;
+und wenn sie eine Blume von deinem Busen pflueken wollen, so
+bewaffne sie, ich bitte dich, mit einer laurenden Natter, deren
+zweygespizte Zunge den Tod in die Adern der Feinde deines Herrn
+sprize.  Spottet nicht, Milords, dass ich leblose Dinge beschwoere;
+diese Erde wird ein Gefuehl haben, und diese Steine werden zu
+bewaffneten Kriegern werden, eh ihr gebohrner Koenig unter den
+Waffen schaendlicher Empoerer fallen soll.
+
+Bischoff.
+Fuerchtet euch nicht, Gnaedigster Herr; diese Gewalt, die euch zum
+Koenige schuf, hat Macht genug, euch troz aller Welt als Koenig zu
+erhalten.  Aber wir muessen die Mittel ergreiffen, die uns der
+Himmel anbietet.
+
+Aumerle.
+Seine Meynung ist, dass wir zu schlaefrig sind, Gnaedigster Herr, und
+dem Bolingbroke Zeit lassen, durch unsre Sicherheit immer staerker
+zu werden.
+
+Koenig Richard.
+Untroestlicher Vetter, weissst du nicht, dass wenn das forschende Auge
+des Himmels hinter unsrer Halbkugel verborgen ist und der Unterwelt
+leuchtet, dass dann Diebe und Moerder ungesehn herumschleichen und
+Raeubereyen und blutige Gewalt verueben; aber sobald die
+wiederkehrende Sonne die stolzen Gipfel der oestlichen Huegel gluehen
+macht, und ihr Licht durch jede verbrecherische Gruft blizt, dass
+dann Mord und Verrath und jede schaendliche Suende, aus der
+Finsterniss schwarzem Mantel hervorgezogen, bloss und nakend da stehn,
+und ueber sich selbst erzittern?  So, wenn dieser Raeuber, dieser
+verraethrische Bolingbroke, der waehrend dieser ganzen Nacht, da wir
+unsern Lauf bey den Antipoden vollbrachten, ungestoert
+herumschwaermte, uns unsern Thron im Osten besteigen sehen wird,
+werden seine Verraethereyen, in seinem schaamgluehenden Angesicht
+enthuellt, den Tag nicht ertragen koennen, der sie vor ihrer eignen
+grauenvollen Gestalt erzittern machen wird.  Alle Wasser der
+ungestuemen See sind nicht faehig, das geheiligte Oel von einem
+gesalbten Koenige wegzuwaschen; und der Athem sterblicher Menschen
+kan denjenigen nicht entsezen, den der Herr zu seinem Statthalter
+ernannt hat.  Fuer einen jeden Mann, den Bolingbroke aufgetrieben
+hat, sein Schwerdt gegen unsre Crone zu ziehen, hat der Himmel fuer
+seinen Richard einen glorreichen Engel in himmlischem Sold, und wo
+Engel fechten, da muessen schwache Menschen fallen.--
+
+
+
+Dritte Scene.
+(Salisbury zu den Vorigen.)
+
+
+Koenig Richard.
+--Willkommen, Milord, wie weit ist eure Macht entfernt?
+
+Salisbury.
+Weder naeher noch ferner als dieser schwache Arm, mein Gnaedigster
+Herr.  Ich habe trostlose Zeitungen zu bringen.  Ein einziger Tag
+zu spaet, hat alle deine glueklichen Tage auf Erden umwoelkt.  O ruffe
+den gestrigen Tag zuruek, befiehl der Zeit zuruek zu kehren, und du
+wirst zwoelftausend streitbare Maenner haben.  Dieser Tag, dieser
+einzige ungluekselige Tag zu spaet, vernichtet deine Freuden, deine
+Freunde, dein Gluek und deinen Stand.  Alle Welschen, haben, auf die
+Zeitung von deinem Tode, sich zerstreut, oder sind zu Bolingbroke
+uebergegangen.
+
+Aumerle.
+Fasset Muth, Gnaedigster Herr, warum seht ihr so blass aus?
+
+Koenig Richard.
+Nur noch vor einem Augenblik triumphierte das Blut von
+zwanzigtausend Mann in meinem Gesicht, und nun sind sie
+verschwunden; und bis wieder so viel Blut dahin zuruek kommt, hab'
+ich nicht Ursach bleich und todtenhaft auszusehen?  Die Zeit hat
+meinen Stolz zuschanden gemacht, und wer seine Seele retten will,
+flieht von meiner Seite.
+
+Aumerle.
+Beruhiget euch, Gnaedigster Herr, erinnert euch, wer ihr seyd.
+
+Koenig Richard.
+Ich hatte mich selbst vergessen: Bin ich nicht ein Koenig?  Erwache,
+du schuechterne Majestaet, du schlaefst!  Ist nicht des Koenigs Name
+soviel als vierzigtausend Namen?  Rueste, rueste dich, mein Name; ein
+elender Unterthan draeuet deiner glaenzenden Majestaet.  Seht nicht so
+auf den Boden, ihr Guenstlinge eines Koenigs!  Sind wir nicht hoch?
+Lasst es uns wenigstens in Gedanken seyn.  Ich weiss, mein Oheim York
+hat ein ansehnliches Heer zu unserm Dienst aufgebracht.  Aber wer
+kommt hier?
+
+
+
+Vierte Scene.
+(Scroop zu den Vorigen.)
+
+
+Scroop.
+Ein besseres Gluek falle meinem Koenige zu, als meine kummerbeladne
+Zunge ihm ankuendigen muss.
+
+Koenig Richard.
+Mein Ohr ist offen, und mein Herz geruestet; das schlimmste was du
+sagen kanst, ist nur zeitlicher Verlust.  Sagst du, mein Koenigreich
+sey verlohren?  Nun dann, es war meine Sorge; was fuer ein Verlust
+ist es, seiner Sorgen entlediget zu werden?  Strebt Bolingbroke so
+gross zu werden als wir?  Groesser kan er nicht werden; und wenn er
+doch immer ein Unterthan des Himmels bleibt, so bin ich das auch,
+und so bleibt er meines gleichen.  Empoeren sich unsre Unterthanen?
+Das koennen wir nicht aendern; sie brechen ihre Treue gegen Gott eben
+sowol als gegen uns.  Ruffe immerhin Weh, Jammer, Verwuestung, Fall,
+Untergang; das schlimmste ist der Tod, und der Tod hat seinen
+unvermeidlichen Tag.
+
+Scroop.
+Es erfreut mich, dass Eure Majestaet so geruestet ist, ungluekliche
+Nachrichten zu ertragen.  Wie ein ungestuemer stuermischer Tag, der
+die Silberstroeme so hoch ueber ihre Ufer schwellen macht, als ob die
+ganze Welt in Thraenen zerflossen waere: So hoch ueber alle Schranken
+schwellt Bolingbroks Wuth, und bedekt euer geschrektes Land mit
+hartem schimmerndem Stahl, und mehr als staehlernen Herzen.  Weisse
+Baerte haben ihre nakten duennbehaarten Schaedel gegen deine Majestaet
+bewaffnet; Knaben mit Weiber-Stimmen bemuehen sich grob zu reden,
+und schmiegen ihre weiblichen Gelenke in unbiegsam Waffen gegen
+deine Crone; ja selbst Kunkel-Weiber schwingen rostige Hellebarden.
+Alte und Junge stehen gegen deinen Thron auf, und alles geht
+schlimmer, als ich es auszusprechen vermag.
+
+Koenig Richard.
+O nur zu gut, zu gut erzaehlst du eine so boese Geschichte.  Wo ist
+der Graf von Wiltschire?  Was ist aus Buschy worden?  Wo ist Green?
+Dass sie den Feind so ruhig sich ueber unsre Grenzen haben
+ausbreiten lassen?  Wenn wir die Oberhand erhalten, so sollen ihre
+Koepfe davor bezahlen.  Ich zweifle nicht, sie haben ihren Frieden
+mit Bolingbroke gemacht.
+
+Scroop.
+Sie haben Frieden mit ihm gemacht, in der That, Gnaedigster Herr.
+
+Koenig Richard.
+O Boesewichter, Vipern, verdammte Verraether!  Hunde, die sich leicht
+gewinnen lassen, einem jeden liebzukosen!  Schlangen, die ich in
+meinem Busen erwaermte, und die nun mein Herz durchstechen!  Drey
+Judasse, jeder dreymal aerger als Judas!  Haben sie Frieden gemacht?
+Die flammende Hoelle bekriege ihre beflekten Seelen fuer diese
+Schandthat!
+
+Scroop.
+Die suesseste Liebe wird, wie ich sehe, wenn sie ihre Natur aendert,
+zu bitterstem und toedtlichstem Hass.  Entlasset ihre Seelen wieder
+euers Fluchs; sie haben ihren Frieden mit Koepfen gemacht, nicht mit
+Haenden; diejenigen, denen ihr fluchet, haben des Todes
+gewaltthaetige Hand gefuehlt, und ligen tief in geweihtem Grund.
+
+Aumerle.
+Ist Buschy, Green, und der Graf von Wiltschire todt?
+
+Scroop.
+Ja, alle drey verlohren zu Bristol ihre Koepfe.
+
+Aumerle.
+Wo ist denn der Herzog, mein Vater, mit seinen Voelkern?
+
+Koenig Richard.
+O!  Frage nicht wo er ist; und niemand rede mehr von Trost!  Von
+Graebern lasst uns reden, von Wuermern und Grabschriften; lasst uns den
+Staub zu unserm Papier machen, und mit regnenden Augen unsern
+Jammer auf den Busen der Erde schreiben.  Lasst uns von Testamenten
+reden, und unsre Ausrichter erwaehlen--doch nein--Was koennen wir
+vermachen, als unsre abgelegte Leiber der Erde?  Unsre Laender,
+unser Leben, alles ist Bolingbroks, und wir koennen nichts unser
+nennen als den Tod, und dieses Bisschen Erde, das unsre Gebeine
+deken wird.  Ums Himmels willen!  lasst uns hier auf den Boden
+niedersizen, und einander melancholische Geschichten vom Tod der
+Koenige erzaehlen; wie einige entsezt, andre im Krieg erschlagen
+worden; andre von den Geistern derjenigen verfolgt, so sie aus dem
+Wege geraeumt hatten; andre von ihren Weibern vergiftet, andre im
+Schlaf umgebracht, alle ermordet!--denn in der holen Crone, die
+eines Koenigs sterbliche Schlaefe umfasst, haelt der Tod seinen Hof; da
+sizt das groteske Ungeheuer und spottet mit grinsendem Laecheln
+seines Pomps, erlaubt ihm einen Athem-Zug, eine kleine Scene lang
+zu herrschen, gefuerchtet zu werden, und mit Bliken zu toedten,
+lispelt ihm eitle schwuelstige Gedanken ein, als ob das Fleisch,
+worinn sein Leben eingeschlossen ist, unzerstoerbares Metall sey;
+und wann er ihn so bethoert hat, kommt er zulezt, durchbort mit
+einer kleinen Steknadel seine Schlaefe, und gute Nacht Koenig!--
+Bedekt eure Haeupter, und verspottet nicht Fleisch und Blut mit
+feyrlicher Ehrerbietung; werfet Ehrfurcht, Titel, Ceremoniel, und
+alle diese Zeichen der Unterwuerfigkeit weg; ihr habt mich diese
+ganze Zeit her misskannt.  Ich lebe von Athem wie ihr, ich habe
+Beduerfnisse wie ihr, fuehle Schmerzen, habe Freunde vonnoethen, wie
+ihr; so abhaengig, wie ich also bin, wie koennt ihr mir sagen: ich
+sey ein Koenig?
+
+Bischoff.
+Gnaedigster Herr, weise Maenner bejammern niemals ihre gegenwaertigen
+Uebel, sondern kommen gegenwaertig den Uebeln zuvor, die sie kuenftig
+bejammern muessten.  Den Feind fuerchten, giebt, da die Furcht die
+Staerke schwaecht, dem Feind einen Zuwachs von Staerke in unsrer
+Schwaeche, und so haben wir an unsrer eignen Thorheit einen Feind
+mehr.  Fuerchtet euch, so seyd ihr geschlagen; kan es euch schlimmer
+gehen, wenn ihr euch wehret?  Fechtet ihr und kommt um, so sterbt
+ihr doch edler, als wenn ihr aus Zagheit umkommt.
+
+Aumerle.
+Mein Vater hat Truppen; schiket nach ihm, und lernet aus einem
+Gliedmass einen Leib machen.
+
+Koenig Richard.
+Du beschiltst mich mit Recht.  Stolzer Bolingbroke, ich komme, um
+durch Streiche deinen oder meinen lezten Tag zu entscheiden.
+Dieser fiebrische Schauer von Furcht ist vorueber; es ist eine
+leichte Arbeit zu gewinnen was unser eigen ist.  Sage, Scroop, wo
+ligt unser Oheim mit seiner Macht?  Antworte etwas besseres, als
+deine duestern Blike versprechen.
+
+Scroop.
+Wol moegt ihr aus meinen duestern und kummerbeladnen Augen urtheilen,
+dass meine Zunge noch eine boesere Zeitung zu erzaehlen hat, wie man
+aus der Beschaffenheit des Himmels auf das heitre oder ungestueme
+Ende eines Tages zu schliessen pflegt.  Ich mache den Peiniger,
+indem ich das aergste was ich sagen muss, in die Laenge ziehe.  Euer
+Oheim York hat sich mit Bolingbroke vereiniget, alle eure
+Nordischen Schloesser sind uebergeben, und aller euer suedlicher Adel
+ist in Waffen auf seiner Parthey.
+
+Koenig Richard.
+Du hast genug gesagt.  Wehe dir, Vetter, dass du mich von diesem
+guten Weg, worauf ich war, in Verzweiflung gefuehrt hast.  Was sagt
+ihr izt?  Was fuer Hoffnung haben wir nun?  Beym Himmel!  ich hasse
+den auf ewig, der mir zumuthen will, noch etwas zu hoffen.  Geht
+nach Flint-Castle, dort will ich mich ungestoert dem Gefuehl meines
+Jammers ueberlassen.  Entlasset die Mannschaft die ich noch habe,
+lasst sie zu demjenigen gehen, der Hoffnung hat zu steigen.  Ich
+habe keine mehr.  Wende mir niemand etwas gegen diss ein; aller Rath
+ist umsonst.
+
+Aumerle.
+Nur ein Wort, Gnaedigster Herr--
+
+Koenig Richard.
+Schmeicheleyen in solchen Umstaenden worinn ich bin, machen meine
+Wunden nur tiefer.  Entlasst meine Leute; lasst sie gehen, lasst sie
+aus Richards Nacht in Bolingbroks aufgehenden Tag.
+
+(Sie gehen ab.)
+
+
+
+Fuenfte Scene.
+(Bolingbroks Lager bey Flint.)
+(Ein Aufzug mit Trummeln und Fahnen, Bolingbroke, York,
+ Northumberland und Gefolge treten auf.)
+
+
+Bolingbroke.
+Diese Nachricht belehrt uns also, dass die Welschen zerstreut sind,
+und dass Salisbury dem Koenige entgegengegangen ist, der mit einer
+kleinen Anzahl von Freunden kuerzlich an dieser Kueste angelaendet ist.
+
+Northumberland.
+Die Zeitung ist schoen und gut, Milord; Richard hat sein Haupt nicht
+weit von hier verborgen.
+
+York.
+Es wuerde dem Lord Northumberland nicht uebel anstehen, zu sagen,
+Koenig Richard.  O!  des unglueklichen Tags, da ein geheiligter Koenig
+sein Haupt verbergen muss!
+
+Northumberland.
+Euer Gnaden nimmt mir's anders auf als es gemeynt war; ich liess
+seinen Titel nur aus, um kuerzer zu seyn.
+
+York.
+Es war eine Zeit, wo ich es euch nicht gerathen haben wollte, so
+kurz mit ihm zu seyn, wenn es euch nicht gleichgueltig gewesen, dass
+er es so sehr mit euch sey, um euch eure ganze Kopfslaenge kuerzer zu
+machen.
+
+Bolingbroke.
+Nehmet seinen Ausdruk nicht uebler auf als recht ist, mein Oheim.
+
+York.
+Und nehmet ihr nicht mehr als recht ist, mein guter Neffe; oder ihr
+vergesst zulezt, dass der Himmel ueber euerm Haupt ist.
+
+Bolingbroke.
+Ich weiss es, mein Oheim, und widerseze mich seinem Willen nicht.
+Wer kommt hier?  (Percy zu den Vorigen.) Willkommen, Harry!  Wie?
+Will sich dieses Schloss noch nicht ergeben?
+
+Percy.
+Das Schloss ist gegen euern Einzug koeniglich bemannt, Milord.
+
+Bolingbroke.
+Koeniglich?  Wie, enthaelt es denn einen Koenig?
+
+Percy.
+Ja, Milord, es enthaelt einen Koenig; Koenig Richard ligt innert dem
+Bezirk von jenem Leim und Stein, und bey ihm Lord Aumerle, Lord
+Salisbury, Sir Stephan Scroop, und noch ein Geistlicher von
+heiligem und ehrfurchtwuerdigem Ansehn, dessen Name ich nicht
+erfahren konnte.
+
+Northumberland.
+Vermuthlich der Bischoff von Carlisle.
+
+Bolingbroke (zu Northumberland.)
+Mein edler Lord, geht vor die Mauren dieses alten Schlosses,
+fordert durch die eherne Stimme der Trompete eine Unterredung, und
+sprecht so: Heinrich von Bolingbroke kuesse auf seinen Knien Koenig
+Richards Hand, und sende ihm die Versicherung seiner
+Unterthaenigkeit und aufrichtigen Treue gegen seine Koenigliche
+Person; sagt ihm, ich sey in dem nemlichen Augenblik bereit, meine
+Waffen und Voelker zu seinen Fuessen niederzulegen, in welchem er mir
+die Widerruffung meiner Landes-Verweisung und die Wieder-Einsezung
+in meine Gueter freywillig garantiren wolle; wo nicht, so werde ich
+mich des Vortheils meiner Macht bedienen, und den Sommer-Staub mit
+Regen von Blut legen, die aus den Wunden erschlagner Englaender sich
+ergiessen sollen.  Wie entfernt aber von Bolingbroks Herzen der
+Gedanke sey, dass ein solch blutiges Ungewitter den frischen gruenen
+Schooss von Koenig Richards Land ueberschwemmen solle, davon koenne ihn
+meine Maessigung und Entfernung von allem pflichtwidrigen Gebrauch
+meiner Obermacht ueberzeugen.  Geht, erklaert ihm dieses, indessen
+dass wir ohne das Getoese drohender Trummeln ueber diese Ebne
+fortziehen, damit unser Betragen, von den zerfallnen Zinnen dieses
+Schlosses beobachtet, die Wahrheit unsrer Erklaerung bekraeftige.
+Mich daeucht, Koenig Richard und ich sollten uns mit nicht mindern
+Schreknissen begegnen, als die Elemente des Feuers und des Wassers,
+wenn ihr donnernder Zusammenstoss die bewoelkten Wangen des Himmels
+mit Thraenen badet.  Ist er das Feuer, so will ich das nachgiebige
+Wasser seyn; er mag rasen, indess dass ich meine Wasser auf die Erde
+regne; auf die Erde, nicht auf ihn.  Naehert euch den Mauren--Milord,
+und beobachtet die Fassung des Koenigs genau.
+
+
+
+Sechste Scene.
+(Aufforderung von aussen, Antwort von innen; Trompeten-Klang,
+ Koenig Richard, Bischoff von Carlisle, Aumerle, Scroop und Salisbury
+ kommen auf die Mauren.)
+
+
+York.
+Seht, seht, der Koenig tritt selbst hervor, gleich dem von Unmuth
+erroethenden Phoebus, wenn er, aus der gluehenden Pforte des Morgens
+hervorgehend, neidische Wolken gewahr wird, die sich vereiniget
+haben, seinen Glanz zu verhuellen, und die Pracht seines
+schimmernden Zugs nach Westen zu verdunkeln.  Und doch sieht er wie
+ein Koenig; seht, wie sein Auge, glaenzend wie eines Adlers,
+herrschende Majestaet um sich her blizt.  O beweinenswuerdig, dass
+eine so schoene Gestalt durch irgend einen Unfall entstellt werden
+soll.
+
+Koenig Richard (zu Northumberland.)
+Wir befremden uns, und stehen schon lange hier, auf die
+ehrfurchtvolle Beugung deiner Knie zu warten, indem wir uns selbst
+fuer deinen gesezmaessigen Koenig hielten; und sind wir's, wie duerfen
+sich deine Gelenke vergessen, den schuldigen Tribut der
+Unterthaenigkeit unsrer Gegenwart zu bezahlen?  Sind wir's aber
+nicht, so zeige uns die Hand Gottes, die uns unsrer
+Statthalterschaft entlassen hat.  Denn das wissen wir, dass keine
+Hand von Blut und Knochen, ohne Entweihung, Diebstal und Verrath,
+nach unserm geheiligten Scepter greiffen kan.  Und ob ihr gleich
+denkt dass alle von uns abgefallen, und wir allein und von Freunden
+entbloesst gelassen seyen, so sollt ihr doch wissen, der Allmaechtige,
+mein Herr, mustert um euertwillen Heere von Plagen in seinen Wolken,
+die euch treffen werden, euch, die ihre Vasallen-Haende gegen mich
+aufgehoben und der Majestaet meiner Crone gedraeuet haben, euch, und
+eure noch ungebohrnen Kinder.  Sagt dem Bolingbroke, (denn dort,
+daeucht mich, ist er,) dass ein jeder Schritt den er in meinem Lande
+macht, Hochverrath ist--Er ist gekommen, das purpurne Testament des
+blutigen Kriegs zu oeffnen; aber eh die Crone, nach der er strebt,
+ruhig auf sein Haupt herabsteigen wird, sollen zehentausend blutige
+Cronen von Mutter-Soehnen die Blume von Englands Antliz entstellen,
+die Farbe ihres jungfraeulich-blassen Friedens in feurigen Grimm
+verwandeln, und ihre fetten Weiden mit getreuem Englischem Blut
+bethauen.
+
+Northumberland.
+Der Koenig des Himmels verwehre, dass unser Herr, der Koenig, so mit
+buergerlichen und unbuergerlichen Waffen angefallen werden solle!
+Nein, dein edler Vetter, Heinrich von Bolingbroke, kuesst voll
+Ehrfurcht deine Hand, und schwoert, bey dem ehrenvollen Grabmal, das
+auf euers beydseitigen Ahnherrn koeniglichen Gebeinen ruht, bey der
+geheiligten Quelle euers gemeinschaftlichen Bluts, und bey der
+Helden-Hand seines verstorbnen Vaters, und bey seiner eignen Wuerde
+und Ehre schwoert er, dass seine Ankunft keinen andern Zwek hat, als
+die Besiznehmung von seinen eignen Gerechtsamen und Guetern, deren
+Zuruekgab er auf seinen Knien erbittet.  Wird bey euerm Koeniglichen
+Wort ihm nur dieses zugestanden, so will er seine blinkenden Waffen
+dem Rost ueberlassen, seine langmaehnichten Rosse den Staellen, und
+sein Herz dem getreuen Dienst Eurer Majestaet.  Diss schwoert er, so
+wahr er ein Prinz ist, und so wahr ich ein Edelmann bin, glaub' ich
+seinen Schwur.
+
+Koenig Richard.
+Northumberland, sag' ihm, so antwortet der Koenig: Sein edler Vetter
+ist sehr willkommen, und alle seine Forderungen, so viel ihrer seyn
+moegen, sollen ohne Widerspruch zugestanden seyn.  Sag' ihm in
+unserm Namen so viel verbindliches und freundschaftliches, als du
+nur immer kanst.--
+
+(zu Aumerle.)
+
+Wir erniedrigen uns, Vetter, nicht wahr, da wir so armselig
+aussehen, und so gute Worte geben?  Sollen wir Northumberland zuruek
+ruffen, den Verraether herausfordern lassen, und so sterben?
+
+Aumerle.
+Nein, Gnaedigster Herr, bis die Zeit uns Freunde leiht, und unsre
+Freunde ihre Schwerdter, bleibt uns nichts uebrig als mit Worten zu
+fechten.
+
+Koenig Richard.
+O Gott!  o Gott!  dass diese meine Zunge, die das Urtheil der
+Verbannung ueber jenen stolzen Mann ausgesprochen, dahingebracht
+seyn soll, es mit liebkosenden Worten zuruekzunehmen!  o dass ich so
+gross waere als mein Schmerz, oder kleiner als mein Name; O dass ich
+vergessen koennte was ich gewesen bin, oder nicht fuehlte was ich izt
+bin!  Schwillst du auf, stolzes Herz?  Ich gebe dir alle Freiheit,
+schlage wie du willt, da meine Feinde die Freyheit haben, dich und
+mich zu schlagen.
+
+Aumerle.
+Northumberland kommt von Bolingbroke zuruek.
+
+Koenig Richard.
+Was muss der Koenig noch mehr thun?  Muss er sich unterwerfen?  Der
+Koenig soll es thun.  Muss er abgesezt werden?  Der Koenig soll sich's
+gefallen lassen.  Muss er auch dem Namen eines Koenigs entsagen?  In
+Gottes Namen, es sey so.  Ich will meine Juweelen fuer einen
+Rosenkranz geben, meinen Palast fuer eine Einsiedeley, meine
+schimmernden Kleider fuer einen Bettlers-Mantel, mein goldnes
+Geschirr fuer einen hoelzernen Teller; meinen Scepter fuer einen
+Pilgrims-Stab, meine Unterthanen fuer ein Paar geschnizte Heilige,
+und mein grosses Koenigreich fuer ein kleines Grab; ein kleines,
+kleines Grab--ein dunkles Grab!--Oder ich will auf des Koenigs
+Landstrasse begraben werden, auf einem ungangbaren Weg, wo meiner
+Unterthanen Fuesse stuendlich auf ihres Koenigs Haupt trappen moegen;
+denn auf mein Herz treten sie, da ich noch lebe; warum nicht auf
+mein Haupt, wenn ich begraben bin?--Aumerle, du weinst?  Mein
+weichherziger Vetter!  Wir wollen boeses Wetter mit unsern
+verachteten Thraenen machen; unsre Seufzer und Thraenen sollen das
+Sommer-Korn legen, und eine Theurung in dieses rebellische Land
+bringen.  Oder wollen wir uns aus unserm Jammer eine Kurzweile
+machen?  Irgend ein artiges Spiel aus unsern fliessenden Thraenen?
+Als etwann, sie so lange an den nemlichen Ort tropfen zu lassen,
+bis sie uns ein paar Graeber in die Erde eingefressen haben; und
+wenn wir da ligen--Hier ligen zween Freunde, die sich ihr Grab mit
+ihren Thraenen gegraben haben.  Wuerde uns das unser Elend nicht
+versuessen?  Wohl, wohl, ich sehe, ich rede phantastisch, und ihr
+lachet ueber mich.  Grossmaechtigster Prinz, Milord Northumberland,
+was sagt der Koenig Bolingbroke?  Will seine Majestaet dem Richard
+erlauben zu leben, bis Richard stirbt?  Ihr macht einen Scharr-Fuss,
+und Bolingbroke sagt, ja.
+
+Northumberland.
+Gnaedigster Herr, er wartet in dem Hofe, mit euch zu reden; gefaellt
+es euch herunter zu kommen?
+
+Koenig Richard.
+Herunter, herunter komm ich, wie der schimmernde Phaeton, da er die
+unbaendigen Sonnen-Pferde nicht zu regieren wusste.  In den Hof
+herunter, ein Koenig in den Hof herunter, auf den Ruf eines
+Verraethers, um ihm seine Begnadigung zu geben.  Herunter dann,
+Koenig, herunter!
+
+Bolingbroke.
+Was sagt seine Majestaet?
+
+Northumberland.
+Kummer und Sorgen machen ihn wunderlich, und wie ein Mann der nicht
+recht bey sich selbst ist, reden.  Izt ist er da.
+
+Bolingbroke (kniend.)
+Tretet alle zuruek, und bezeuget Sr.  Majestaet eure schuldige
+Ehrfurcht.  Mein Gnaedigster Herr--
+
+Koenig Richard.
+Mein edler Vetter, ihr demuethiget eure fuerstlichen Knie zu tief,
+indem ihr die niedrige Erde stolz macht sie zu beruehren.  Mir waere
+lieber, wenn mein Herz eure Liebe fuehlte, als dass mein
+unbefriedigtes Aug' eure Hoeflichkeit sieht.  Auf, Vetter, auf; euer
+Herz ist zum wenigsten so hoch,
+
+(er deutet mit der Hand auf seine Crone)
+
+wenn eure Knie schon so niedrig sind.
+
+Bolingbroke.
+Mein Gnaedigster Herr, ich komme nur fuer das, was mein eigen ist.
+
+Koenig Richard.
+Euer Eigenthum ist euer, ich bin euer, alles ist euer.
+
+Bolingbroke.
+In so fern moege Eure Majestaet mein seyn, mein Gnaedigster Souverain,
+als meine getreuen Dienste eure Liebe verdienen werden.
+
+Koenig Richard.
+Ihr verdienet alles; wer verdient mehr zu haben, als wer den
+sichersten und kuerzesten Weg kennt, zu gewinnen?  Oheim, gebt mir
+eure Hand; nein, troknet eure Augen; Thraenen sind nur huelflose
+Zeichen der Liebe.  Vetter, ich bin zu jung euer Vater zu seyn, ob
+ihr gleich alt genug seyd, mein Erbe zu seyn.  Ich will euch geben
+was ihr haben wollt, und noch dazu mit Willen.  Denn warum sollen
+wir nicht wollen, was wir muessen?  Ziehet fort nach London.  Ist
+das nicht eure Absicht, Vetter?
+
+Bolingbroke.
+Ja, Gnaedigster Herr.
+
+Koenig Richard.
+So darf ich nicht nein sagen.
+
+(Trompeten.  Sie gehen ab.)
+
+
+
+Siebende Scene.
+(Ein Garten im Hofe der Koenigin.)
+(Die Koenigin tritt mit zwoen Damen auf.)
+
+
+Koenigin.
+Was fuer eine Kurzweil wollen wir uns in diesem Garten machen, um
+unsre kummervolle Gedanken zu vertreiben?
+
+Lady.
+Gnaedigste Frau, wir wollen mit Kugeln spielen.
+
+Koenigin.
+Das wuerde mich denken machen, dass die Welt voller Rauhigkeit und
+Zaken ist, und dass mein Gluek, wie eine Kugel, die ihre Kraft
+verlohren hat, seitwaerts rennt.
+
+Lady.
+Madam, so wollen wir tanzen.
+
+Koenigin.
+Meine Fuesse koennen kein Maass* im Vergnuegen halten, wenn mein armes
+Herz kein Maass in seinem Kummer haelt.  Also nichts vom Tanzen,
+Maedchen; irgend ein andres Spiel.
+
+{ed.-* Wortspiel mit dem Wort (measure), welches Cadenz, und Maass
+heisst.}
+
+Lady.
+So wollen wir Maehrchen erzaehlen, Gnaedigste Frau.
+
+Koenigin.
+Traurige oder lustige?
+
+Lady.
+Von beyderley Gattung, Madam.
+
+Koenigin.
+Von keiner von beyden, Maedchen.  Die Froelichen wuerden nur die
+Erinnerung meiner Schmerzen desto lebhafter machen, weil sie mir
+die Freude zeigten, die mir fehlt; und die Traurigen wuerden noch
+mehr Bekuemmerniss zu derjenigen hinzuthun, die ich schon habe.
+
+Lady.
+So wollen wir singen, Gnaedigste Frau.
+
+Koenigin.
+Es ist gut, wenn du Ursache dazu hast; aber du wuerdest mir besser
+gefallen, wenn du weinen wuerdest.
+
+Lady.
+Ich koennte wol weinen, Gnaedigste Frau, wenn es euch besser machte.
+
+Koenigin.
+Und ich koennte weinen, wenn mir weinen besser machte, ohne dass ich
+eine Thraene von dir entlehnen muesste.  Aber warte, hier kommen die
+Gaertner.  Wir wollen uns in den Schatten dieser Baeume verbergen--
+Sie werden vom Staat reden, wie alle Welt, wenn eine Veraenderung im
+Werk ist.  (Ein Gaertner mit zween Garten-Jungen tritt auf;
+die Koenigin und ihre Damen treten bey Seite.)
+
+Gaertner.
+Geh, binde du jene haengenden Apricosen auf, die, wie ungerathene
+Kinder, ihren Vater durch ihr verschwendrisches Gewicht zu Boden
+ziehen; unterstueze ein wenig die neigenden Zweige.  Geh du, und
+haue, gleich einem Nachrichter, die Koepfe der zu
+hochaufschiessenden Stauden-Gewaechse ab, die zu uebermuethig in
+unserm gemeinen Wesen aussehen.  In unsrer Regierung muss alles eben
+seyn.  Unterdessen dass ihr so beschaeftigst seyd, will ich gehen,
+und das unnueze Unkraut ausjaeten, das den gesunden Pflanzen die
+Nahrung entzieht.
+
+Junge.
+Wie verlangt ihr von uns, dass wir in dem Bezirk eines Zauns, Geseze,
+Form, und gehoeriges Ebenmaass beobachten, und wie in einem Model
+einen wolgeordneten Staat zeigen?  Indess dass unser vom Meer
+eingeschlossner Garten, das ganze Land voller Unkraut ist, seine
+schoensten Blumen zerknikt, seine fruchtbaren Baeume alle ungepuzt,
+seine Zaeune eingerissen, seine Knoten alle verwirrt sind, und seine
+heilsamen Gewaechse von Raupen wimmeln?
+
+Gaertner.
+Schweige du; derjenige, dessen Fruehling so wild und zuegellos war,
+hat nun den Fall seiner Blaetter erfahren.  Der Epheu, der unter dem
+Schirm seiner weitverbreiteten Zweige emporwuchs, und ihn zu
+unterstuezen schien, indem er ihn aussog, ist aller bis auf die
+Wurzeln, von Bolingbroke ausgereutet worden; ich meyne den Grafen
+von Wiltschire, Buschy, und Green.
+
+Junge.
+Was, sind sie todt?
+
+Gaertner.
+Das sind sie, und Bolingbroke hat sich des verungluekten Koenigs
+bemaechtiget.  Wie beklagenswerth ist es, dass er sein Land nicht so
+gehalten hat, wie wir unsern Garten.  Wir verwunden die Rinde
+unsrer Frucht-Baeume, weil der zu grosse Ueberfluss von Saft sie geil
+und ueppig machen, und durch zuviel Reichthum zu grund richten wuerde.
+Haette er es mit den Menschen so gemacht, die zu gross und ueppig
+wuchsen, sie moechten die Zeit erlebt haben dass sie ihm nuezliche
+Fruechte getragen, und er, dass er sie gekostet haette.  Wir schneiden
+alle ueberfluessigen Aeste weg, damit die tragenden Zweige leben moegen;
+haett' er's auch so gemacht, so wuerd' er selbst die Crone getragen
+haben, die ihm Verschwendung und Muessiggang so bald vom Haupte
+gerissen.
+
+Junge.
+Was?  denkt ihr dann, der Koenig werde abgesezt werden?
+
+Gaertner.
+Unterdruekt ist er schon, und abgesezt wird er ohne Zweifel werden.
+Es sind in verwichner Nacht Briefe von einem Freund des Herzogs von
+York angekommen, welche schlimme Zeitungen erzaehlen.
+
+Koenigin.
+O, ich werde zu todt gepresst, wenn ich laenger schweige--Du Ebenbild
+Adams, in diesen Garten gesezt, seiner zu pflegen, wie untersteht
+sich deine Zunge so leidige Zeitungen anzukuendigen.  Was fuer eine
+Eva, was fuer eine Schlange hat dir eingegeben, einen zweyten Fall
+des verfluchten Menschen zu machen?  Wie, sagst du, Koenig Richard
+ist entsezt?  Darfst du, kaum ein bessers Ding als die Erde die du
+graebst, seinen Fall weissagen?  Sprich, wo, wenn und wie kamst du
+zu dieser boesen Zeitung?  Sprich, du Ungluekseliger!
+
+Gaertner.
+Verzeihet mir, Madam.  Ich habe wenig Freude davon, diese
+Neuigkeiten zu sagen, aber man versichert, dass sie wahr seyen.
+Koenig Richard ist in Bolingbroks maechtiger Gewalt.  Ihr Gluek wird
+gegen einander abgewogen.  In euers Herrn Waagschale ist nichts als
+er selbst, und etliche wenige Eitelkeiten, die ihn leicht machen;
+aber in der Schaale des grossen Bolingbroks ligen, ausser ihm
+selbst, alle Pairs von England, und mit diesen wiegt er den Koenig
+Richard zu Boden.  Eilet nur nach London, und ihr werdet es so
+finden; ich sage nichts, als was jedermann weiss.
+
+Koenigin.
+Du behendes Ungluek, das so leicht auf den Fuessen ist, geht deine
+Gesandtschaft nicht mich an?  Warum bin ich dann die lezte, die sie
+erfaehrt?  O du denkst mich auf die Lezte zu sparen, damit ich deine
+Schmerzen desto laenger fuehle.  [** Kommt, Laedies, wir wollen gehen,
+um in London Londons Koenig im Jammer aufzusuchen.  Wie, ward ich
+hiezu gebohren, dass mein gedemuethigter Blik den Triumph des stolzen
+Bolingbroks vermehren soll?  Gaertner, fuer diese Zeitung, die du mir
+erzaehlt hast, wuensch' ich, dass die Pflanzen, die du pflanzest,
+nimmer wachsen moegen.
+
+{ed.-** Was in [ ] eingeschlossen ist, sind Reime im Original.}
+
+(Sie geht ab.)
+
+Gaertner.
+Arme Koenigin, moechte, wenn es dir helfen koennte, dein Fluch an
+meinem Fleisse wahr werden!--Hier liess sie eine Thraene fallen;--
+hier, an diesem Ort will ich einen Rautenstok sezen, zum Andenken,
+dass eine Koenigin hier geweint hat.]
+
+(Geht ab.)
+
+
+
+
+Vierter Aufzug.
+
+
+
+Erste Scene.
+(Der Parlament-Saal in London.)
+(Bolingbroke, Aumerle, Northumberland, Percy, Fizwater, Surrey,
+ der Bischoff von Carlisle, der Abbt von Westmuenster, Herolde,
+ Officianten, Gerichtsdiener, und Bagot, treten auf.)
+
+
+Bolingbroke.
+Ruft den Bagot hervor--Sage nun ohne Scheu, was du von Glosters
+Tode weissst; wer half dem Koenige dazu, und wer vollbrachte diese
+ungluekselige That?
+
+Bagot.
+Wenn ihr das wissen wollt, so stellt mir den Lord Aumerle vor die
+Augen.
+
+Bolingbroke.
+Vetter, tritt hervor, und sieh' diesem Mann in die Augen.
+
+Bagot.
+Milord Aumerle, ich weiss eure edelmuethige Zunge verschmaeht es, zu
+laeugnen was sie einmal gesagt hat.  In jener Zeit, da Glosters Tod
+angezettelt wurde, hoerte ich euch sagen: Ist mein Arm nicht lang
+genug, da er von dem ruhigen Englischen Hof bis nach Calais an
+meines Oheims Kopf reicht?  Unter vielen andern Reden, hoert ich
+euch damals auch dieses sagen: Ihr wolltet eher hunderttausend
+angebotne Cronen ausschlagen, als dass Bolingbroke nach England
+zuruek komme; und ihr seztet hinzu, wie glueklich dieses euers
+Vetters Tod dieses Land machen wuerde.
+
+Aumerle.
+Prinzen und Milords, was fuer eine Antwort soll ich diesem
+niedertraechtigen Mann geben?  Soll ich meine schoenen Sterne so sehr
+entehren, und ihm wie einem der meines gleichen ist, antworten.
+Und doch muss ich, oder ich muss es leiden, meine Ehre von dem Geifer
+seiner verlaeumderischen Zunge beflekt zu sehen.  Hier ist mein
+Pfand,
+
+(er wirft seinen Handschuh hin,)
+
+das Siegel des Todes, dass dich fuer die Hoelle auszeichnet.  Du
+liegst, und ich will, dass es falsch ist was du sagst, mit deinem
+Herzens-Blut beweisen, so unwuerdig es auch ist, den Stahl meines
+ritterlichen Schwerdts zu besudeln.
+
+Bolingbroke.
+Bagot, nim dich in Acht; du sollt es nicht aufheben.
+
+Aumerle.
+Einen einzigen ausgenommen, wollt' ich, der Beste in dieser
+Versammlung haette mich so herausgefordert.
+
+Fizwater.
+Wenn du es zufrieden bist, dass ein andrer seinen Plaz nehme, so ist
+hier mein Pfand gegen das Deinige.  Bey dieser schoenen Sonne, die
+mir zeigt, wo du stehst, ich hoerte dich sagen, und du sprachst es
+mit einem pralerischen Ton, du seyest die Ursach von des edlen
+Glosters Tod gewesen.  Wenn du das laeugnest, so luegst du eine
+zwanzigfache Luege, und mit diesem meinem Schwerdt will ich sie in
+dein Herz zuruek stossen, worinn sie ausgebruetet wurde.
+
+Aumerle.
+Feige Memme, du hast das Herz nicht, so lange zu leben, dass du
+diesen Tag sehest.
+
+Fizwater.
+Bey meiner Seele, ich wollt' es waere in dieser Stunde.
+
+Aumerle.
+Fizwater, diss verdammt dich zur Hoelle.
+
+Percy.
+Aumerle, du luegst; o seine Ehre ist in dieser Anklage so rein, als
+du ein Boesewicht bist.  Und dass du es bist, das will ich, hier ist
+mein Pfand dafuer, bis zum lezten Lebens-Athem an dir beweisen.
+Heb' es auf, wenn du Muth hast.
+
+Aumerle.
+Und wenn ich es nicht thue, o dann verdorre meine Hand, und
+schwinge niemals wieder den raechenden Stahl ueber den Helm meiner
+Feinde!  Wer beschuldigt mich noch mehr?  Beym Himmel, ich nehm' es
+mit allen auf Ich habe tausend Geister in meiner Brust, um
+zwanzigtausend solchen wie ihr seyd, zu antworten.
+
+Surrey.
+Milord Fizwater, ich erinnre mich der Zeit sehr wol, da Aumerle und
+ihr euch mit einander sprachet.
+
+Fizwater.
+Milord, es ist wahr; ihr waret dabey, und ihr koennt mir Zeugniss
+geben, dass es wahr ist.
+
+Surrey.
+So falsch, beym Himmel, als der Himmel selbst wahrhaft ist.
+
+Fizwater.
+Surry, du luegst.
+
+Surrey.
+Ehrloser Bube, diese Luege soll so schwer auf meinem Schwerdte ligen,
+dass es Rache ueber Rache nehmen soll, bis du, der mich luegen hiess,
+und deine Luege, so ruhig in der Erde ligen als deines Vaters
+Schaedel.  Zu dessen Beweiss, ist hier das Pfand meiner Ehre;
+verbinde dich zum Kampf, wenn du das Herz hast.
+
+Fizwater.
+Wie unnoethig spornst du ein feuriges Ross!  Wenn ich das Herz habe
+zu essen, zu trinken, Athem zu holen, so hab' ich auch das Herz,
+Surrey in einer Wildniss aufzusuchen, und ihn anzuspeyen, indem ich
+ihm sage, dass er luegt, und luegt, und luegt: Hier ist mein Pfand, dass
+ich dich zur Straffe ziehen will.  So wahr ich in dieser neuen Welt
+zu gedeyhen wuensche, Aumerle ist meiner wahrhaften Anklage schuldig.
+Ueberdem hoerte ich den verbannten Norfolk sagen, du Aumerle,
+habest zween von deinen Leuten abgeschikt, den Herzog zu Calais zu
+ermorden.
+
+Aumerle.
+Ist kein ehrlicher Christ hier, der mir einen Handschuh leiht,
+damit ich sagen kan, dass Norfolk luegt; hier zieh ich diesen ab, dass
+ich es auf ihn beweisen will, wenn er zuruekberuffen werden mag.
+
+Bolingbroke.
+Alle diese Haendel sollen zur Entscheidung ausgesezt bleiben, bis
+Norfolk zuruekberuffen ist; und das soll er werden, und, ob er
+gleich mein Feind ist, in alle seine Herrschaften wieder eingesezt;
+wenn er wieder da ist, soll er gegen Aumerle seinen Beweis machen.
+
+Carlile.
+Dieser ehrenvolle Tag wird nie gesehen werden.  Eine lange Zeit hat
+der verwiesne Norfolk fuer Jesum Christum, in glorreichen blutigen
+Kaempfen fuer die Ehre des heiligen Creuzes, mit schwarzen Heiden,
+Tuerken und Saracenen gefochten; hernach, von der kriegrischen
+Arbeit abgemattet, nach Italien sich zuruekgezogen, und endlich zu
+Venedig seinen Leib dieser anmuthsvollen Erde, seine reine Seele
+aber Christo, seinem Feldherrn, gegeben, unter dessen Fahne er so
+lange gestritten hatte.
+
+Bolingbroke.
+Wie, Bischoff, ist Norfolk todt?
+
+Carlile.
+So gewiss ich lebe, Milord.
+
+Bolingbroke.
+Seliger Friede fuehre seine Seele in Abrahams Schooss!--Milords
+Appellanten, eure Haendel sollen alle auf den gewechselten Pfaendern
+beruhen, bis wir euch den Tag zu eurer Probe angesezt haben.
+
+
+
+Zweyte Scene.
+(York zu den Vorigen.)
+
+
+York.
+Grosser Herzog von Lancaster, ich komme zu dir von dem berupften
+Richard abgeschikt, der mit williger Seele dich zu seinem Erben
+annimmt, und seinen hohen Scepter in deine koenigliche Hand
+uebergiebt.  Besteige also seinen Thron, als nunmehr von ihm
+abstammend, und lang lebe Koenig Heinrich der vierte!
+
+Bolingbroke.
+In Gottes Namen, will ich den koeniglichen Thron besteigen.
+
+Bischoff von Carlisle.
+Das verhuete der Himmel!  So schlimm das scheinen oder aufgenommen
+werden mag, was ich in dieser koeniglichen Gegenwart reden werde, so
+anstaendig ist es mir, die Wahrheit zu sagen.  Wollte Gott, dass
+einer in dieser edeln Versammlung edel genug waere ein aufrichtiger
+Richter des edeln Richards zu seyn; denn ein wahrer Edelmuth wuerde
+ihn eine so ungerechte That verabscheuen lehren.  Welcher Unterthan
+kan ein Urtheil ueber seinen Koenig sprechen?  Und wer sizt hier, der
+nicht Richards Unterthan ist?  Diebe, so sehr auch die Umstaende
+wider sie zeugen, werden nicht gerichtet, ohne dass man sie gehoert
+hat.  Und soll das Bild der Goettlichen Majestaet, sein Hauptmann,
+und selbsterwaehlter Statthalter, gesalbt, gekroent, und eingethront,
+von seinen Unterthanen verurtheilt werden, und er selbst nicht
+dabey zugegen seyn?  O verhuet' es, gerechter Himmel!  dass in einem
+Christlichen Lande, unter einem gesitteten Volk eine so scheussliche,
+schwarze, unflaetige That gesehen werde!  Ich rede zu Unterthanen,
+und als ein Unterthan; vom Himmel angetrieben red' ich so kuehn,
+denn ich rede fuer meinen Koenig.  Milord von Hereford hier, den ihr
+Koenig nennt, ist ein schaendlicher Verraether an Herefords Koenig.
+Und wenn ihr ihn kroent, so lasst mich propheceyen, Englisches Blut
+wird den Boden duengen, und kuenftige Zeitalter um dieser Schandthat
+willen aechzen.  Der Friede wird zu den Tuerken und Unglaeubigen
+schlafen gehen, und in diesem Siz des Friedens, aufruehrischer Krieg,
+Brueder gegen Brueder, und Buerger gegen Buerger erhizen.  Unordnung,
+ruchlose Gewalt, Misstrauen und Aufruhr wird hier wohnen, und dieses
+mit Menschen-Schaedeln bedekte Land Golgatha genennt werden.  O wenn
+ihr das koenigliche Haus gegen das koenigliche Haus empoert, so wird
+die jammervolleste Zwietracht daraus entstehen, die jemals auf
+diesem verfluchten Erdboden gewuethet hat.  O!  vermeidet sie,
+widerstehet, lasst es nicht so seyn, oder die Kinder eurer Kinder
+werden Weh ueber euch schreyen.
+
+Northumberland.
+Ihr habt vortrefflich gesprochen, Herr, und fuer eure Muehe nehmen
+wir euch hier wegen Hochverraths in Verhaft.  Milord von
+Westmuenster, lasst es eure Sorge seyn, ihn bis zum Tag seines
+Verhoers wol zu verwahren.  Gefaellt es euch, Milords, die Bitte der
+Gemeinen zu bewilligen?
+
+Bolingbroke.
+Bringet Richarden hieher, damit er vor allen Augen das Reich
+uebergebe: auf diese Art wird aller Verdacht gehoben.
+
+York.
+Ich will sein Fuehrer seyn.
+
+(Er geht ab.)
+
+
+
+Bolingbroke.
+Diejenigen von euch, Milords, die hier unter unserm Arrest sind,
+moegen fuer ihre Sicherheit auf den Tag ihrer Antwort besorgt seyn.
+Wir sind ihrer Liebe wenig schuldig, und haben uns wenig Beystand
+von ihnen zu versehen gehabt.
+
+
+
+Dritte Scene.
+(Koenig Richard und York zu den Vorigen.)
+
+
+Koenig Richard.
+Himmel, warum werde ich vor einen Koenig vorgefordert, eh ich die
+koeniglichen Gedanken abgeschuettelt habe, womit ich regierte?  Ich
+habe noch nicht lernen koennen, mich einzuschwazen, zu schmeicheln,
+zu bueken und die Knie zu beugen.  Lasset meinem Kummer noch Zeit
+mich zu dieser Unterwuerfigkeit anzugewoehnen.  Und doch will ich
+mich der Zeit erinnern, da mir diese Maenner guenstiger waren.  Waren
+sie nicht einmal mein?  Rieffen sie mir nicht einmal lauter Heil
+und Leben zu?  Das that Judas auch gegen Christum: Aber Christus
+fand unter zwoelfen Treue bey allen bis auf einen, ich unter
+zwoelftausend gar keine.  Gott erhalte den Koenig!--Will niemand
+sagen, Amen?  Bin ich Priester und Kuester zugleich?  Wol dann, Amen!
+Gott erhalte den Koenig, ob ich's gleich nicht bin, und auch Amen!
+Wenn der Himmel mich dafuer erkennt.  Was fuer Dienste fordert man
+von mir, dass man nach mir geschikt hat?
+
+York.
+Eine Handlung deines eignen freyen Willens, wozu du, der Majestaet
+ueberdruessig, dich selbst erboten hast, die Uebergabe deines Staats
+und deiner Crone.
+
+Koenig Richard.
+Gebt mir die Crone--hier, Vetter, nimm die Crone, hier auf dieser
+Seite, meine Hand; und auf dieser deine.  Izt ist diese goldne
+Crone wie ein tiefer Brunnen mit zween Kuebeln, wovon einer den
+andern fuellt; der leere tanzt immer in der Luft, indem der andre in
+der Tiefe, ungesehn und voll Wassers ist; dieser erniedrigte und
+mit Thraenen angefuellte Kuebel bin ich, der nun seinen Kummer wie
+Wasser in sich schluken muss, indess dass ihr in die Hoehe steigt.
+
+Bolingbroke.
+Ich dachte, ihr waeret willig, die Crone niederzulegen?
+
+Koenig Richard.
+Die Crone, ja; aber doch bleibt mein Schmerz mein, ihr koennt mich
+meiner Majestaet und meines Staats entsezen, aber nicht meiner
+Schmerzen; darueber bleib ich immer Koenig.
+
+Bolingbroke.
+Seyd ihr's zufrieden, die Crone zu uebergeben?
+
+Koenig Richard.
+Ja, nein--Nein, ja,--Denn ich muss nichts seyn--also nein, nein;
+denn ich uebergebe sie dir.  Nun, gebt acht wie ich mich selbst
+vernichte; ich gebe diese schwere Buerde von meinem Haupte weg,
+diesen unbehuelflichen Scepter aus meiner Hand, und den Stolz der
+Koenigs-Wuerde aus meinem Herzen; mit meinen eignen Thraenen wasch ich
+meine Salbung weg; mit meinen eignen Haenden geb ich meine Crone von
+mir; mit meiner eignen Zunge verlaeugne ich meinen geheiligten Stand,
+und mit meinem eignen Athem entlasse ich alle ihrer mir
+geschwornen Pflichten.  Ich verschwoere alle Majestaet und Hoheit,
+ich vergesse alle meine Domainen, Renten und Einkuenfte, ich
+vernichte alle meine Handlungen, Edicte und Verordnungen.  Gott
+verzeihe alle die Eidschwuere, die an mir gebrochen werden!  Gott
+erhalte alle diejenigen ungebrochen, die dir gethan werden.  Moegest
+du lange leben, um auf Richards Stuhl zu sizen, und Richard bald im
+Grabe Ruhe finden.  Gott erhalte den Koenig Heinrich, sagt der
+entkoenigte Richard, und sende ihm viele Jahre von glueklichen Tagen!--
+Was ist noch mehr zu thun?
+
+Northumberland.
+Nichts mehr, als dass ihr diese Anklagen und dieses Verzeichniss von
+abscheulichen Verbrechen leset, die von euch selbst und euern
+Anhaengern gegen den Staat und das Beste dieses Landes begangen
+worden; damit durch euer Gestaendniss alle Welt ueberzeugt werde, dass
+ihr mit Recht entsezt worden seyd.
+
+Koenig Richard.
+Muss ich das thun?  muss ich das Gewebe meiner Thorheiten Faden vor
+Faden ausfaeseln?  Lieber Northumberland, wenn deine Suenden alle
+aufgeschrieben waeren, wuerdest du nicht beschaemt seyn, sie in einer
+so schoenen Gesellschaft abzulesen?  Thaetest du es, du wuerdest einen
+scheuslichen Artikel, die Absezung eines Koenigs, darinn finden, den
+gewaltthaetigen Bruch eines geheiligten Eides, mit einem Strich der
+Verdammniss im Buch des Himmels bezeichnet.  O, ihr alle die ihr
+hier steht und mich anseht, wie mein Ungluek mich noethigt, mich
+selbst aufzureiben, wenn gleich einige von euch wie Pilatus ihre
+Haende mit heuchlerischen Thraenen waschen; so seyd ihr's dennoch,
+ihr Pilatusse, die mich hier zu meinem bittern Creuz ausliefern,
+und Wasser kan eure Suende nicht abwaschen.
+
+Northumberland.
+Milord, beschleunigst euch, ueberleset diese Artikel.
+
+Koenig Richard.
+Meine Augen sind voll Thraenen; ich kan nicht sehen, und doch
+blendet ihr Salz-Wasser sie nicht so sehr dass ich nicht einen Pak
+Verraether hier beysammen sehe.  Doch was sag ich?  ich bin selbst
+ein Verraether wie die uebrigen; denn ich habe die Einwilligung
+meiner Seele zur Entsezung eines Koenigs gegeben; ich habe die
+Majestaet entweiht, und einen Monarchen zu einem Sclaven gemacht;
+ich bin ein Verraether!
+
+Northumberland.
+Milord--
+
+Koenig Richard.
+Kein Lord von dir, du hohnsprechender Mann, niemands Lord; ich habe
+keinen Namen, keinen Titel mehr; nein, sogar der Name der mir ueber
+dem Taufstein gegeben wurde, ist usurpirt.  O!  des unglueklichen
+Tags!  dass ich so manche Winter ueberlebt haben, und meinen eignen
+Namen nicht mehr wissen soll!  O!  dass ich ein zum Scherz aus
+Schnee zusammengeballter Koenig waere, und hier, vor Bolingbroks
+Sonne stehend, in Wassertropfen wegschmelzen moechte!--Guter Koenig,--
+Grosser Koenig--wenn anders mein Wort noch gangbare Muenze in England
+ist, so lasst es diesen Augenblik einen Spiegel hieher befehlen,
+damit ich sehe, wie mein Gesicht aussieht, seitdem es seine
+Majestaet verlohren hat.
+
+Bolingbroke.
+Gehe jemand, und hole einen Spiegel.
+
+Northumberland.
+Ueberleset indessen dieses Papier, bis der Spiegel kommt.
+
+Koenig Richard.
+Teufel, du peinigst mich, eh ich noch in der Hoelle bin.
+
+Bolingbroke.
+Sezt ihm nicht weiter zu, Milord von Northumberland.
+
+Northumberland.
+Die Gemeinen werden so nicht zufrieden seyn.
+
+Koenig Richard.
+Sie sollen es werden; ich will genug lesen, wenn ich das Buch sehe,
+worinn, in der That, alle meine Suenden geschrieben sind, und das
+bin ich selbst.
+
+(Man bringt einen Spiegel.)
+
+Gieb mir den Spiegel, hierinn will ich lesen--Noch keine tiefere
+Runzeln!  Hat der Kummer so manche Streiche auf dieses mein Gesicht
+gefuehrt, und keine tiefere Wunden gemacht?  O!  schmeichelndes Glas!
+Du betruegst mich wie die Freunde meines glueklichen Zustands--War
+dieses das Gesicht, das taeglich zehntausend Menschen unter seinem
+Haus-Dach hielt?  War diss das Gesicht, das gleich der Sonne,
+diejenigen die es ansahen, blinzen machte?  und nun von Bolingbrok
+ueberglaenzt wird?  Eine zerbrechliche Majestaet leuchtet in diesem
+Gesicht,
+
+(er schmeisst den Spiegel auf den Boden,)
+
+und so zerbrechlich wie die Majestaet, ist auch das Gesicht; denn
+hier ligt es, in hundert Scherben zerbrochen.  Gieb Acht,
+stillschweigender Koenig, auf die Moral dieses Kinderspiels; wie
+schnell mein Kummer mein Gesicht zerstoert hat.
+
+Bolingbroke.
+Der Schatten euers Kummers hat den Schatten euers Gesichts zerstoert.
+
+Koenig Richard.
+Sagt das noch einmal.  Der Schatten meines Kummers!  Ha, lasst
+einmal sehen--es ist in der That so, mein Schmerz ligt ganz in
+meinem Innern, und alle diese aeusserlichen Zeichen von Jammer sind
+blosse Schatten des unsichtbaren Grams, der in geheim in der
+gepeinigten Seele schwellt.  Ich danke dir, Koenig, dass du mir nicht
+nur Ursache zum Wehklagen giebst, sondern mich auch noch lehrst,
+wie ich die Ursache bejammern soll.  Ich will nur noch um eine
+einzige Gefaelligkeit gebeten haben, und dann gehen und euch nicht
+mehr beunruhigen.  Werd' ich sie erhalten?
+
+Bolingbroke.
+Nennet sie, geliebter Vetter.
+
+Koenig Richard.
+Geliebter Vetter!  Ah!  ich bin groesser als ein Koenig; denn wie ich
+ein Koenig war, waren meine Schmeichler meine Unterthanen; nun da
+ich ein Unterthan bin, hab ich einen Koenig zum Schmeichler.  Da ich
+ein so grosser Mann bin, so hab ich nicht noethig zu bitten.
+
+Bolingbroke.
+So fordert.
+
+Koenig Richard.
+Und soll ich's haben?
+
+Bolingbroke.
+Ihr sollt.
+
+Koenig Richard.
+So erlaubt mir wegzugehen.
+
+Bolingbroke.
+Wohin?
+
+Koenig Richard.
+Wohin ihr wollt, wenn es nur aus euerm Gesicht ist.
+
+Bolingbroke.
+Einige von euch sollen ihn nach dem Tower begleiten--Auf naechsten
+Mitwoch sezen wir unsre Kroenung fest: Milords, haltet euch dazu
+gefasst.
+
+(Alle gehen ab, bis auf den Abbt von Westmuenster, den Bischoff und
+Aumerle.)
+
+
+
+Vierte Scene.
+
+
+Abbt.
+Welch ein jammervolles Schauspiel, das wir hier gesehen haben!
+
+Bischoff.
+Der Jammer wird erst kommen; die noch ungebohrne Nachwelt wird
+diesen Tag so scharf wie einen Dorn in ihrem Fleische fuehlen.
+
+Aumerle.
+Ihr heiligen Priester, ist denn kein Mittel, das Reich vor diesem
+verderblichen Unwesen zu retten?
+
+Abbt.
+Eh ich euch hierueber mein Innerstes entdeke, sollt ihr das
+Sacrament darauf empfangen, dass ihr nicht nur mein Vorhaben
+verschwiegen halten, sondern auch alles vollziehen wollet, was ich
+euch nur immer auftragen werde.  Ich sehe eure Stirne voll
+Missvergnuegen, euer Herz voll Gram, und eure Augen voll Thraenen.
+Kommt mit mir heim zum Nacht-Essen, und da wollen wir den Grund zu
+einem Entwurf legen, der uns einen glueklichen Tag sehen lassen soll.
+
+(Sie gehen ab.)
+
+
+
+
+Fuenfter Aufzug.
+
+
+
+Erste Scene.
+(Eine Strasse in London.)
+(Die Koenigin mit ihren Damen tritt auf.)
+
+
+Koenigin.
+Diesen Weg wird der Koenig kommen: Diss ist der Weg zu jenem fatalen
+Thurm, den Julius Caesar auffuehrte, und worein der stolze
+Bolingbroke meinen Herrn zur Gefangenschaft verurtheilt hat.  Hier
+wollen wir ausruhen; wenn diese aufruehrische Erde anders noch eine
+Ruhe fuer ihres rechtmaessigen Koenigs Gemalin hat.--
+(Koenig Richard tritt mit seiner Wache auf.) Aber stille!  aber
+seht, doch seht lieber nicht, wie verwelkt meine schoene Rose ist--
+Nein, seht auf, schaut und zerfliesst aus Mitleiden in Thau, um ihn
+mit den Thraenen einer getreuen Liebe wieder frisch zu waschen.  O
+du, der Truemmer, wo das alte Troja stand, du Ruin der Majestaet, du
+Grabmal von Koenig Richard, und nicht Koenig Richard selbst!  Du
+schoener Gasthof, soll Gram und Jammer in dir herbergen, indess dass
+Triumph der Gast in einer Bierschenke worden ist?
+
+Koenig Richard.
+Vereinige dich nicht mit meinem Kummer, schoenes Weib, mein Ende zu
+sehr zu beschleunigen.  Lerne, gute Seele!  unsern vorigen Zustand
+als einen glueklichen Traum ansehen, von dem wir nun erwacht sind,
+und uns in der That in keinen bessern Umstaenden finden, als worinn
+wir sind.  Meine Liebe, ich bin ein geschworner Bruder der
+unerbittlichen Nothwendigkeit, und wir beyde werden im Buendniss
+stehen bis zum Tode.  Eile du nach Frankreich, und verbirg dich in
+irgend eine andaechtige Freystaette.  Es ist uns nichts uebrig, als
+durch ein heiliges Leben die Crone in einer bessern Welt wieder zu
+gewinnen, die wir durch unheilige Stunden verlohren haben.
+
+Koenigin.
+Wie?  Ist mein Richard an Gestalt und Gemueth verwandelt?  Hat
+Bolingbroke auch deinen Geist abgesezt?  Ist er bis in dein Herz
+eingedrungen?  Ein sterbender Loewe straeubt sich, und verwundet, aus
+Wuth ueberwaeltigt zu seyn, wenigstens die Erde, wo er fiel; und du,
+willt wie ein unmuendiger Knabe deine Zuechtigung mit Sanftmuth
+empfangen, die Ruthe kuessen, und deinem Feind mit schaamwuerdiger
+Demuth die Fuesse lecken, du, der ein Loewe, ein Koenig der Thiere war?
+
+Koenig Richard.
+Ein Koenig von Thieren, in der That; und wenn es nichts als Thiere
+gewesen waeren, so waer' ich noch ein glueklicher Koenig von Menschen.
+Meine gute ehmalige Koenigin, mache dich reisefertig nach Frankreich.
+Denk, ich sey todt, und dass du eben hier, als bey meinem Todbette,
+den lezten Abschied von mir nimmst.  In verdrieslichen
+Winternaechten size mit guten alten Leuten zum Feuer, und lass dir
+Geschichten von Jammer und Ungluek erzaehlen, die laengst begegnet
+sind; und ehe du ihnen gute Nacht giebst, erzaehl' ihnen hinwieder
+meinen klaeglichen Fall, und schike die hoerenden weinend zu Bette--
+
+
+
+Zweyte Scene.
+(Northumberland und Gefolge zu den Vorigen.)
+
+
+Northumberland.
+Milord, Bolingbrok hat seine Gedanken geaendert, ihr sollt nach
+Pomfret, nicht nach dem Tower--Madam, es sind schon Anstalten
+euertwegen gemacht; ihr muesst in moeglichstes Eile nach Frankreich.
+
+Koenig Richard.
+Northumberland, du Leiter, auf welcher Bolingbroke an meinen Thron
+hinaufgestiegen ist; die Zeit wird nicht lange aussenbleiben, da
+dein schwaehrendes Verbrechen von faulem Eyter aufbrechen wird.  Du
+wirst denken, wenn er gleich das Reich theilt, und dir die Haelfte
+giebt, es sey zu wenig, weil du ihm alles gegeben habest; und er
+wird denken, du, der den Weg kennt unrechtmaessige Koenige zu sezen,
+werdest, auf die kleinste Veranlassung, auch wissen, ihn wieder, so
+lang er ist, von seinem angemassten Thron herab zu stuerzen.  Die
+Liebe lasterhafter Freunde verwandelt sich in Misstrauen, und diss
+Misstrauen in Hass; und der Hass wird einen oder beyde dem verdienten
+Untergang ueberliefern.
+
+Northumberland.
+Mein Verbrechen sey ueber meinem Haupt, und soviel hievon!  Nehmt
+Abschied von einander, ihr muesst scheiden.
+
+Koenig Richard.
+Doppelt geschieden?  Gottlose Leute, ihr entheiligt eine zweyfache
+Ehe; zwischen mir und meiner Crone, und zwischen mir und meinem
+vermaehlten Weib.  Lass mich den Eid hinwegkuessen, der dich und mich
+vereinigt; und doch, nicht so, denn mit einem Kuss ward er gemacht.
+Scheid' uns, Northumberland; ich, nach Norden, wo schauernde Kaelte
+das kranke Clima verzehrt; meine Koenigin nach Frankreich, von
+wannen sie im Pomp heruebergesandt wurde, geschmuekt wie der holde
+May, nun zuruek geschikt, verduestert und traurig wie der kuerzeste
+Tag.
+
+Koenigin.
+Und muessen wir denn getrennt seyn?  Muessen wir denn scheiden?
+
+Koenig Richard.
+Ja, Hand von Hand, meine Liebe, und Herz von Herz.
+
+Koenigin.
+Verbannet uns beyde, und schikt den Koenig mit mir.
+
+Northumberland.
+Das waere guetig, aber sehr unpolitisch.
+
+Koenigin.
+So lasst mich mit ihm gehen.
+
+Koenig Richard.
+Weine du in Frankreich fuer mich, und ich will hier fuer dich weinen;
+es ist besser entfernt, als naeher geschieden zu seyn.  Geh, zaehle
+deinen Weg mit Seufzern ab, ich mit Aechzen den meinigen.
+
+Koenigin.
+So wird der laengste Weg die meisten Seufzer haben.
+
+Koenig Richard.
+Ich will bey jedem Schritt zweymal aechzen, weil mein Weg der
+kuerzere ist.  Komm, komm, ein Kuss soll uns den Mund schliessen, und
+dann fahr' wohl; so geb' ich dir mein Herz, und so nehm' ich deines.
+
+(Sie kuessen sich.)
+
+Koenigin.
+Nein, gieb mir das meinige zuruek; es waere kein schoener Abschied,
+wenn ich dein Herz mit mir nehmen wollte, um es zu toedten.
+
+(Sie kuessen sich wieder.)
+
+So, nun hab' ich das Meinige wieder, damit ich mich bestreben kan,
+es mit einem Seufzer zu toedten.
+
+Koenig Richard.
+Wir vermehren nur unsern Schmerz mit diesen zaertlichen
+Verzoegerungen; noch einmal, leb' wohl; das uebrige lass unsre Thraenen
+sagen.--
+
+(Sie gehen ab.)
+
+
+
+Dritte Scene.
+(Des Herzogs von York Palast.)
+(York und seine Herzogin treten auf.)
+
+
+Herzogin.
+Milord, ihr wolltet fortfahren, mir den Einzug unsrer beyden
+Vettern in London zu erzaehlen, als ihr durch Thraenen genoethigt
+wurdet, eure Geschichte zu unterbrechen.
+
+York.
+Wo blieb ich stehen?
+
+Herzogin.
+Bey dem klaeglichen Absaz, Milord, da ruchlose unmenschliche Haende
+aus einem Fenster Staub und Auskehricht auf Koenig Richard herunter
+schuetteten.
+
+York.
+Der Herzog, der grosse Bolingbroke, von einem heissen feurigen
+Hengst getragen, der, als ob er seinen emporstrebenden Reuter kenne,
+mit langsamem aber stolzem Schritt dahergieng, sezte also, wie ich
+sagte, seinen Zug fort, indem alle Zungen ihm entgegenriefen: Gott
+erhalte dich, Bolingbroke!  Unzaehliche weitoffne Augen schossen
+ihre verlangende Blike nach ihm, und das Zujauchzen war so gross,
+dass ihr gedacht haettet, die Mauren selbst mit den Bildern womit sie
+uebermahlt sind, haetten auf einmal zu ruffen angefangen: Gott
+erhalte dich, willkommen, Bolingbroke!  Indess dass er, sich immer
+von einer Seite zur andern drehend, mit entbloesstem Haupt, und alle
+Augenblike bis unter seines stolzen Rosses Kopf sich buekend, ihnen
+antwortete: Ich danke euch, meine Mitbuerger; und so zog er langsam
+die Strasse durch.
+
+Herzogin.
+O Jammer!  Armer Richard!  Wie gieng es ihm indessen?
+
+York.
+Wie in einem Schauspiel die Augen der Leute, wenn ein beliebter
+Schauspieler die Scene verlaesst, sich unachtsam von demjenigen
+wegwenden, der zunaechst auftritt, in der Einbildung, dass sie nichts
+als ein langweiliges Gewaesche von ihm zu erwarten haben; eben so,
+oder noch veraechtlicher, runzelte sich jede Stirne, da Richard kam;
+niemand rief.  Gott erhalte ihn!  Keine erfreute Zunge hiess ihn in
+seiner Hauptstadt willkommen; sondern Staub wurde auf sein
+geheiligtes Haupt geschuettet, den er mit einem so sanftmuethigen
+Schmerz und mit einem Gesicht, worinn Thraenen und Laecheln, auf eine
+so herzruehrende Art kaempften, von sich abschuettelte, dass, haette
+nicht Gott, aus irgend einer furchtbaren Ursache, die Herzen der
+Menschen verhaertet, sie nothwendig haetten schmelzen, und Barbarey
+selbst ihn haette beweinen muessen.  (Aber der Himmel hat seine Hand
+in diesen Begebenheiten, und in seinen hohen Willen muessen wir den
+unsrigen ergeben.  Wir sind nun Bolingbroks Unterthanen, und ihm
+hab' ich nun auf ewig meine Treue angelobt.)
+
+
+
+Vierte Scene.
+(Aumerle zu den Vorigen.)
+
+
+Herzogin.
+Hier kommt mein Sohn, Aumerle.
+
+York.
+Der Aumerle war, und es nicht mehr ist, weil er Richards Freund war.
+Ihr muesst ihn nunmehr Rutland nennen, Madam; ich bin Buerge im
+Parlament fuer seine Treue gegen den neuen Koenig worden.
+
+Herzogin.
+Willkommen, Sohn; wo sind nun die Veilchen, die den gruenen Schooss
+des jungen Fruehlings bestreuen?
+
+Aumerle.
+Madam, ich weiss es nicht, und bekuemmre mich wenig darum.  Gott weiss,
+dass es mir gleichgueltig ist, ob ich bin, oder ob ich nicht bin.
+
+York.
+Gut, betragt euch wohl in diesem Fruehling einer neuen Zeit, sonst
+moechtet ihr abgeschnitten werden, eh ihr geblueht habt.  Was giebts
+neues von Oxford?  Dauren diese Lustbarkeiten und Ritterspiele noch
+immer fort?
+
+Aumerle.
+So viel ich weiss, noch immer.
+
+York.
+Geht ihr auch dahin?
+
+Aumerle.
+Wenn Gott es nicht verhindert, so ist es mein Vorsaz.
+
+York.
+Was fuer ein Siegel ist das, so aus deinem Busen heraushaengt--Wie,
+du erblassest?  Lass mich die Schrift sehen.
+
+Aumerle.
+Es ist nichts, Milord.
+
+York.
+So ist auch nichts daran gelegen, dass ichs sehe.  Ich will
+befriedigt seyn, lass mich die Schrift sehen.
+
+Aumerle.
+Ich bitte Euer Gnaden um Vergebung; es ist eine Kleinigkeit, die
+ich aus gewissen Ursachen nicht gerne sehen lassen moechte.
+
+York.
+Die ich aus gewissen Ursachen sehen will, Herr.  Ich fuerchte, ich
+fuerchte--
+
+
+Herzogin.
+Was koennt ihr fuerchten, Milord?  Es wird nichts als irgend eine
+Handschrift seyn, die er wegen seiner Equipage zum Einzug
+ausgestellt haben wird.
+
+York.
+Ich glaube du bist nicht klug, Weib--Jung, lass mich die Schrift
+sehen.
+
+Aumerle.
+Ich bitte euch, haltet mir's zu Gnaden; ich kan es nicht sehen
+lassen.
+
+York.
+Ich will es aber sehen, sag ich--
+
+(Er reisst ihms weg und liesst es.)
+
+Verrath!  Schaendlicher Hochverrath!  Nichtswuerdiger!  Verraether!
+Sclave!
+
+Herzogin.
+Was ist es dann, Milord?
+
+York.
+He!  wer ist da drinn?  Sattlet mein Pferd.  Himmel, was fuer eine
+Verraetherey ist das!
+
+Herzogin.
+Wie, was ist es, Milord?
+
+York.
+Meine Stiefel her, sag ich; sattlet mein Pferd.  Nun bey meiner
+Ehre, bey meinem Leben, ich will dein Anklaeger seyn, Boesewicht.
+
+Herzogin.
+Was ist es dann?
+
+York.
+Still, naerrisches Weibsbild.
+
+Herzogin.
+Ich will nicht still seyn; was ist es, Sohn?
+
+Aumerle.
+Meine gute Mutter, gebt euch zufrieden, es ist nichts mehr, als
+wovor mein armes Leben gut stehen muss.
+
+Herzogin.
+Dein Leben!
+
+
+
+
+Fuenfte Scene
+(Ein Bedienter kommt mit Stiefeln herein.)
+
+
+York.
+Gieb mir die Stiefel her; ich will zum Koenige.
+
+Herzogin.
+Schlag ihn zu Boden, Aumerle--(Armer Junge, du bist betaeubt.) Weg,
+Schurke, und komm mir nicht mehr vor die Augen.
+
+(Zum Bedienten.)
+
+York.
+Meine Stiefel!
+
+Herzogin.
+Wie, York, was willt du thun?  Du willt den Tod deines eignen Kinds
+befoerdern?  Haben wir noch mehr Soehne?  Oder koennen wir noch mehr
+bekommen?  Willt du meinen einzigen Sohn in meinem Alter von mir
+reissen, und mich des gluekseligen Namens einer Mutter berauben?
+Ist er nicht dein eigen?
+
+York.
+Du zaertliche Thoerin!  Wolltest du diese schwarze
+Zusammenverschwoerung verheeren?  Ihrer Zwoelfe haben das Sacrament
+empfangen, und sich die Haende darauf gegeben, den Koenig zu Oxford
+zu ermorden.
+
+Herzogin.
+Das soll er nicht; wir wollen ihn hier behalten.
+
+York.
+Weg, naerrisches Weib.  Waer' er zwanzigmal mein Sohn, so wollt' ich
+ihn angeben.
+
+Herzogin.
+Haettest du seinetwegen aechzen muessen wie ich, du wuerdest
+mitleidiger seyn.  Aber nun merke ich deine Gedanken; du argwoehnest,
+dass ich deinem Bette ungetreu gewesen sey, und dass er ein Bastard
+sey, nicht dein Sohn; liebster York, liebster Gemal, denke nicht so;
+er ist dir so gleich als man seyn kan; er ist weder mir noch
+irgend jemand aus meiner Verwandtschaft aehnlich, und doch lieb ich
+ihn.
+
+York.
+Aus dem Weg, widerspenstiges Weibsbild.
+
+(Er geht ab.)
+
+Herzogin.
+Geh ihm nach, Aumerle; besteig' sein Pferd, sporn' es so gut, dass
+du vor ihm zum Koenig kommst, und bitt' um Gnade, eh er dich
+anklagen kan.  Ich will nicht lange dahinten bleiben; wenn ich
+schon alt bin, so will ich doch noch wol so schnell reiten als York;
+und nimmer will ich vom Boden aufstehen, bis Bolingbroke dich
+begnadigt hat.  Hinweg.
+
+(Sie gehen ab.)
+
+
+
+Sechste Scene.
+(Verwandelt sich in den Hof zu Windsor.)
+(Bolingbroke, Percy, und andre Lords treten auf.)
+
+
+Bolingbroke.
+Kan mir niemand Nachricht von meinem ungerathnen Sohne geben?  Es
+sind volle drey Monate, seitdem ich ihn das leztemal sah.  Wenn ja
+eine Plage ueber uns haengt, so ist es er; ich wollte zu Gott,
+Milords, dass er gefunden wuerde.  Fragt zu London in den
+Weinschenken nach ihm, denn dort sagt man, haelt er sich taeglich in
+Gesellschaft zuegelloser luederlicher Leute auf, sogar mit solchen,
+die in holen Wegen lauren und die Reisenden berauben, indess dass der
+junge ausgelassene Bube eine Ehre darinn sucht, eine so schaendliche
+Rotte zu beschuezen.
+
+Percy.
+Gnaedigster Herr, es sind etwann zween Tage, dass ich den Prinzen sah,
+und ihm von den Ritterspielen zu Oxford erzaehlte.
+
+Bolingbroke.
+Und was antwortete der Busch-Kloepfer?
+
+Percy.
+Er sagte, er wolle in ein Bordel, und der gemeinsten Meze einen
+Handschuh abziehen, ihn ihr zu Ehren auf den Hut steken, und damit
+den herzhaftesten Ritter aus dem Sattel heben.
+
+Bolingbroke.
+So luederlich als wild; und doch seh' ich durch beydes einige Funken
+von Hoffnung schimmern, welche mit zunehmenden Jahren glueklich
+ausschlagen moegen.  Aber wer kommt hier?  (Aumerle zu den Vorigen.)
+
+Aumerle.
+Wo ist der Koenig?
+
+Bolingbroke.
+Was hat unser Vetter, dass er so starr und wild aussieht?
+
+Aumerle.
+Gott erhalte Euer Majestaet.  Ich bitte euch, etliche Augenblike mit
+Euer Majestaet allein sprechen zu duerfen.
+
+Bolingbroke.
+Entfernet euch, und lasst uns hier allein; was ist dann nun die
+Sache, Vetter?
+
+Aumerle (kniend.)
+Auf ewig moegen meine Knie in die Erde wachsen, und meine Zunge an
+meinen Gaumen, oder Euer Majestaet ertheile mir Gnade, eh ich rede!
+
+Bolingbroke.
+Was ist dein Fehler, vorgesezt, oder wuerklich begangen?  Wenn nur
+das erste, so gross er seyn mag, so vergeb' ich ihn dir, um deine
+kuenftige Liebe zu gewinnen.
+
+Aumerle.
+So erlaubet mir, Gnaedigster Herr, dass ich den Schluessel umdrehen
+darf, damit niemand herein komme, bis meine Erzaehlung zu ende ist.
+
+Bolingbroke.
+Das magst du.
+
+York (hinter der Scene.)
+Gnaedigster Herr, nehmt euch in Acht, seht euch vor, ihr habt einen
+Verraether bey euch.
+
+Bolingbroke (zu Aumerle.)
+Nichtswuerdiger, ich will bald mit dir fertig seyn--
+
+Aumerle.
+Halt deine raechende Hand zuruek, du hast keine Ursache zu fuerchten.
+
+York.
+Mach die Thuer auf, sichrer, unbesonnener Koenig; oeffne die Thuer,
+oder ich werde sie einstossen.
+
+
+
+Siebende Scene.
+(York zu den Vorigen.)
+
+
+Bolingbroke.
+Was giebt es, mein Oheim?  Sprich, komm erst zu Athem; sag uns, wie
+nah ist die Gefahr, damit wir uns waffnen koennen, ihr entgegen zu
+gehen?
+
+York.
+Ueberlies diese Schrift, so wirst du die Verraetherey kennen, von
+der ich, athemloss wie ich bin, noch nicht reden kan.
+
+Aumerle.
+Erinnre dich, indem du liesest, deines gegebnen Versprechens.  Es
+reuet mich, lies meinen Namen nicht, mein Herz ist kein
+Bundsgenosse meiner Hand.
+
+York.
+Nichtswuerdiger, dein Herz war ein Verraether, eh deine Hand es war--
+ich riss es aus des Verraethers Busen, Koenig.  Furcht, nicht Liebe
+zeugt seine Reue; habe kein Mitleiden mit ihm, oder dein Mitleiden
+moechte eine Schlange werden, und dein Herz durchstechen.
+
+Bolingbroke.
+O grauliche, verwegne und maechtige Verschwoerung!  O rechtschaffner
+Vater eines verraetherischen Sohns, du reine, unbeflekte
+Silberquelle, aus welcher dieser Strom durch sumpfige Oerter
+geflossen, und so sich selbst verunreinigt hat.  Der Ueberfluss
+deiner Verdienste soll diesen toedtlichen Fleken von deinem
+verbrecherischen Sohn abwaschen.
+
+York.
+So wuerde meine Tugend die Kupplerin seines Lasters seyn; und wie
+verschwendrische Soehne ihrer kargen Vaeter Gold, so wuerde er durch
+seine schaendliche Thaten meine Ehre verprassen.* Meine Ehre lebt
+nur, wenn seine Schande stirbt; du toedtest mich, du toedtest den
+rechtschaffnen Mann, wenn du den Verraether leben laessest.
+
+{ed.-* Von hier bis zur 9ten Scene lauter Reime im Original.}
+
+Die Herzogin (hinter der Scene.)
+O!  Gnaedigster Herr, um Gottes willen, lasst mich ein.
+
+Bolingbroke.
+Was fuer ein hellstimmiger Supplicant macht dieses aengstliche
+Geschrey?
+
+Herzogin.
+Ein Weib, und deine Tante, grosser Koenig, ich bin's.  O lasset mich
+vor, habet Mitleiden mit mir, lasst die Thuer oeffnen.  Eine Bettlerin
+bettelt, die zuvor noch nie gebettelt hat.
+
+Bolingbroke.
+Unsre Scene hat ihre ernsthafte Gestalt verlohren, und hat sich in
+den Bettler und den Koenig verwandelt; mein gefaehrlicher Vetter,
+lasst eure Mutter herein, sie kommt ohne Zweifel fuer euch zu bitten.
+
+York.
+Wenn du vergiebst, wer es auch sey, der dich um Gnade bittet, so
+wird deine Gnade die Aufmuntrung zu neuen Verbrechen seyn.
+Schneide dieses eyternde Gelenk ab, so bleibt das uebrige gesund; wo
+nicht, so wird der ganze Leib angestekt werden.
+
+
+
+Achte Scene.
+(Die Herzogin von York zu den Vorigen.)
+
+
+Herzogin.
+O Koenig, glaube nicht diesem hartherzigen Mann; wer kan jemand
+andern lieben, der sich selbst nicht liebt?
+
+York.
+Du aberwiziges Weibsbild, was machst du hier?--
+
+Herzogin.
+Geduld, lieber York; hoeret mich, Gnaedigster Herr.
+
+(Sie kniet.)
+
+Bolingbroke.
+Steht auf, meine Tante.
+
+Herzogin.
+Noch nicht, ich bitte euch; ewig will ich hier auf meinen Knien
+ligen, bis du durch die Begnadigung meines armen Sohns mir das
+Leben giebst.
+
+Aumerle.
+Kniend fueg' ich zu meiner Mutter Bitte die meinige.
+
+York.
+Und kniend heisst mich meine Treue wider beyde bitten; nimmer wirst
+du gedeyhen, wenn du Gnade widerfahren laessest.
+
+Herzogin.
+Bittet er im Ernst?  O betrachtet sein Gesicht; seine Augen lassen
+keine Thraenen fallen, sein Bitten ist nur Verstellung, seine Worte
+kommen nur aus seinem Mund, unsre aus dem Herzen; er bittet nur, um
+nicht erhoert zu werden, wir bitten mit Herz und Seele; seine mueden
+Knie, ich weiss es, hoffen freudig aufzustehen; die unsrige sollen
+knien, bis sie in den Boden wachsen.  O so lasst dann unser
+aufrichtiges Flehen seine heuchlerische Bitte ueberschreyen!
+
+Bolingbroke.
+Meine liebe Tante, steht auf.
+
+Herzogin.
+Nein, sagt nicht, dass ich aufstehen soll, ihr habt dann zuvor seine
+Begnadigung ausgesprochen.  O waer ich deine Amme, und sollte dich
+reden lehren, Gnade sollte das erste Wort seyn, das deine Zunge
+aussprechen lernte.  Noch nie verlangte ich mit Ungeduld ein Wort
+zu hoeren als izt, o Koenig, sprich Gnade, so erhaeltst du zwey Leben
+mit einem Wort.
+
+Bolingbroke.
+Steht auf, meine gute Tante.
+
+Herzogin.
+Ich bitte nicht, um Erlaubniss, zu stehen; Vergebung ist alles,
+warum ich bitte.
+
+Bolingbroke.
+Ich vergebe ihm, wie der Himmel mir vergeben soll!
+
+Herzogin.
+O!  du bist ein Gott auf Erden!  Wo ist ein Wort, das aus einem
+koeniglichen Munde schoener toent?  O!  Sag es noch einmal, mein
+aengstlich-zweifelndes Herz gewiss zu machen.
+
+Bolingbroke.
+Von ganzem Herzen vergeb' ich ihm.  Aber was unsern getreuen
+Schwager, den Abbt, betrift--und alle uebrige von dieser zusammen-
+verschwornen Rotte, die soll unerbittliches Verderben an den Fersen
+ereilen!--Mein geliebter Oheim, sorget dafuer, dass eine hinlaengliche
+Anzahl von Truppen nach Oxford, oder wo diese Verraether immer seyn
+moegen, abgeordnet werde.  Ich will sie haben, sobald ich weiss wo
+sie sind, und ich schwoere sie sollen in dieser Welt nicht leben!
+Lebet wohl, Oheim; und ihr, Vetter, Adieu; eure Mutter hat euch
+gute Dienste gethan; es ist nun an euch, einen guten Gebrauch davon
+zu machen.
+
+Herzogin.
+Komm, mein alter Sohn; ich bitte den Himmel, dass er dich neu mache.
+
+(Sie gehen ab.)
+
+
+
+Neunte Scene.
+(Exton und ein Bedienter treten auf.)
+
+
+Exton.
+Hoertest du die Worte nicht, die dem Koenig entfuhren: "Hab ich denn
+keinen Freund, der mich von diesen unaufhoerlichen Besorgnissen
+befreyen mag?" Sagte er nicht so?
+
+Bedienter.
+Das waren wuerklich seine Worte.
+
+Exton.
+"Hab' ich keinen Freund?"--sagte er; er sagte es zweymal, und
+zweymal mit einer gewissen Heftigkeit.  That er's nicht?
+
+Bedienter.
+Er that es.
+
+Exton.
+Und indem er's sagte, sah' er mir starr ins Gesicht, als wollt' er
+sagen--Ich wuensche, du waer'st der Mann, der mein Herz dieser
+Besorgnisse erledigen moechte--er meynte den Koenig zu Pomfret.  Komm,
+wir wollen gehen--Ich bin des Koenigs Freund, und will ihm von
+seinem Feinde helfen.
+
+(Sie gehen ab.)
+
+
+
+Zehnte Scene.
+(Verwandelt sich in das Gefaengniss zu Pomfret-Castle.)
+(Koenig Richard tritt auf.)
+
+
+Koenig Richard.
+Ich studiere schon lange, wie ich dieses Gefaengniss, worinn ich lebe,
+mit der Welt vergleichen wolle; und weil die Welt volkreich ist,
+und hier kein anders Geschoepf als ich selbst, so kan ich nicht
+damit zurecht kommen.  Und doch will ich's versuchen--Mein Gehirn
+soll das Weib meiner Seele werden, und meine Seele, der Vater; und
+diese zwey sollen ein Geschlecht von Gedanken mit einander zeugen,
+und diese Gedanken sollen diese kleine Welt bevoelkern, humorisirt,
+wie die Einwohner der grossen Welt, denn kein Gedank' ist zufrieden.
+Sogar die besten (die Gedanken von goettlichen Dingen) sind mit
+Zweifeln untermischt, und sezen das Wort selbst dem Wort entgegen;
+zum Exempel: Kommt, ihr Kleinen; und dann wieder: Es ist so schwer
+zu kommen, als einem Cameel durch ein Nadeloehr zu gehen.--Gedanken,
+die nach Unabhaenglichkeit streben, brueten unmoegliche Wunder aus,--
+wie diese schwachen Naegel mir eine Oeffnung durch die steinernen
+Rippen dieser Kerker-Mauren krazen koennten, und weil sie es nicht
+koennen, so zerplazen sie an ihrem eignen schwellenden Stolz.
+Gedanken, die nach Vergnuegen streben, schmeicheln sich selbst, "sie
+seyen nicht die ersten Sclaven des Glueks, und werden nicht die
+lezten seyn," (wie schelmisches Bettelvolk, wenn sie im Stok sizen,
+sich damit troesten, dass schon viele da gesessen sind, und noch
+viele sizen werden.) Und in diesem Gedanken finden sie eine Art von
+Erleichterung, indem sie ihr eignes Elend auf dem Rueken derer
+tragen, die ehmals das nemliche ausgestanden haben.  So spiel ich,
+in einem Gefaengniss, mancherley Personen, wovon keine mit sich
+selbst zufrieden ist.  Zuweilen bin ich ein Fuerst; dann macht
+Verraetherey, dass ich mich zu einem Bettler wuensche, und das bin ich.
+Alsdann ueberredet mich die Duerftigkeit, es sey mir besser gewesen,
+da ich ein Fuerst war, und dann werd' ich wieder gefuerstet; und
+unvermerkt besinn' ich mich, dass mich Bolingbroke entfuerstet hat,
+und da bin ich wieder nichts--Was ich aber seyn mag, so ist doch
+dieses gewiss, weder ich noch irgend ein andrer, wer er seyn mag,
+wird eher nicht zur Ruhe kommen, bis er nicht mehr ist--Hoer' ich
+nicht Musik?
+
+(Eine Musik.)
+
+Ha, ha!  Haltet den Tact; wie widrig die anmuthigste Musik ist,
+wenn das Zeitmaass gebrochen, und die Proportion nicht gehalten wird!
+So ist es auch mit der Musik des menschlichen Lebens--Wie kommt
+es, dass ich ein so feines Ohr habe, von dem kleinsten Missklang
+einer verstimmten Sayte, oder eines verspaeteten Tons beleidigt zu
+werden; und dass ich kein Ohr hatte, die schlechte Zusammenstimmung
+in meinem Staat, das gebrochne Zeitmaass in meiner Regierung zu
+bemerken?  Ich verderbte die Zeit; nun verderbt die Zeit mich.  Die
+Zeit hat nun ihre Stunden-Uhr aus mir gemacht; meine Gedanken sind
+die Minuten, und meine jammernden Seufzer die Toene, die an mein
+Herz anschlagen, und so die Stunden anzeigen--Diese Musik macht
+mich naerrisch--lasst sie schweigen; wenn sie gleich schon oefters
+naerrischen Leuten wieder zu ihrem Verstand geholfen hat, so scheint
+es doch an mir, dass sie kluge Leute naerrisch mache.  Und doch
+gesegnet sey der, so sie mir giebt; es ist immer ein Zeichen seiner
+Liebe, und Liebe zu Richard ist ein seltnes Kleinod in einer Welt,
+wo der Hass allezeit den Fall begleitet.
+
+
+
+Eilfte Scene.
+(Ein Stallknecht kommt herein.)
+
+
+Stalknecht.
+Heil, koeniglicher Herr!
+
+Koenig Richard.
+Grossen Dank, edler Pair.  Der Wohlfeilste von uns beyden ist um
+zehn Groschen zu theuer.  Wer bist du?  Wie kommst du hieher?
+Wohin niemand kommt, als ein schwermuethiger Sclave, der mir zu
+essen bringt; um mein Ungluek zu verlaengern.
+
+Stalknecht.
+Ich war ein armer Stallknecht in deinem Marstall, Koenig, wie du
+noch ein Koenig warst; und da ich unlaengst nach York reisen musste,
+so hab' ich um die Erlaubniss angesucht, meinen ehmaligen Herrn
+sehen zu duerfen.  O wie weh that mir's im Herzen, wie ich in den
+Strassen von London, an dem Kroenungs-Tag zusehen musste, wie
+Bolingbroke auf dem weiss- und roth getuepfelten Barber, euerm
+Leibpferd, ritt; auf diesem Pferd das ihr so oft geritten, und das
+ich mit so grosser Sorgfalt abgerichtet hatte.
+
+Koenig Richard.
+Ritt er auf meinem Barber?  Sag mir, mein guter Freund, wie gieng
+er unter ihm?
+
+Stalknecht.
+So stolz, als ob er den Boden aus Verachtung nicht beruehren wolle.
+
+Koenig Richard.
+So stolz, weil er Bolingbrok auf seinem Rueken hatte?  Die
+Schindmaehre hat Brodt aus meiner koeniglichen Hand gefressen; diese
+Hand hat ihn so oft durch streicheln stolz gemacht.  Und er
+stolperte nicht?  Er fiel nicht, und brach diesem uebermuethigen Mann
+den Hals, der seinen Rueken usurpirte?  Um Vergebung, du gutes Pferd!
+du verdienst mein Schelten nicht; du warst dazu geschaffen, dem
+Menschen unterthan zu seyn, und zum Tragen gebohren.  Ich war zu
+keinem Pferd gemacht, und doch trag' ich die Last eines Esels, und
+lasse mich von dem trottenden Bolingbroke mit Sporrn zerfleischen
+und zuschanden reiten.
+
+
+
+Zwoelfte Scene.
+(Ein Hueter mit einer Schuessel, zu den Vorigen.)
+
+
+Hueter.
+Kerl, mach' Plaz, du darfst nicht laenger bleiben.
+
+(Zum Stallknecht.)
+
+Koenig Richard.
+Wenn du mich liebst, so ist es Zeit, dass du gehst.
+
+Hueter.
+Milord, beliebt es euch zu essen?
+
+Koenig Richard.
+Kost' es vorher, wie du gewohnt bist.
+
+Hueter.
+Milord, ich darf nicht; Sir Pierce von Exton, der kuerzlich auf des
+Koenigs Befehl hieher gekommen ist, hat mir's verboten.
+
+Koenig Richard.
+Der Teufel hole Heinrichen von Lancaster und dich!  Die Geduld geht
+mir aus.
+
+(Er schlaegt den Hueter.)
+
+Hueter.
+Huelfe, Huelfe, Huelfe!--(Exton und Bediente zu den Vorigen.)
+
+Koenig Richard.
+Wie?  was soll das bedeuten?  Kommt ihr mich zu ermorden?--
+Ungluekseliger, stirb durch dein eignes Schwerdt!
+
+(Er reisst einem sein Schwerdt aus der Hand und stosst ihn nieder.)
+
+Geh du und fuell' einen andern Plaz in der Hoelle aus,
+
+(er toedtet noch einen; Exton schlaegt ihn mit einem Streich zu Boden,
+)
+
+diese Hand soll in unausloeschlichem Feuer brennen die mit des
+Koenigs Blut des Koenigs eignes Land befleket hat!--Erheb' erhebe
+dich, meine Seele, einen himmlischen Thron einzunehmen, indem mein
+sterblicher Theil zur Erde sinkt.
+
+(Er stirbt.)
+
+Exton.
+So voll von Tapferkeit als koeniglichem Blut!  Und dieses hab' ich
+nun vergossen!  O wie wollt ich, dass diese That gut waere!  Aber der
+Teufel, der mir sagte, ich thue recht, sagt izt, dass sie in die Tag-
+Buecher der Hoelle eingeschrieben ist.  Ich will nun diesen todten
+Koenig zu dem lebenden tragen; ihr, schleppt die uebrigen fort, und
+sorgt, dass sie hier begraben werden.
+
+(Sie gehen ab.)
+
+
+
+Dreyzehnte Scene.
+(Verwandelt sich in den Hof zu Windsor.)
+(Trompeten; Bolingbroke, York, Lords und Gefolge treten auf.)
+
+
+Bolingbroke.
+Mein geliebter Oheim York, die neueste Nachricht die wir haben, ist,
+das die Rebellen unsre Stadt Cicester in Glocesterschire in Brand
+gestekt haben; aber wir hoeren nicht, ob sie geschlagen oder
+gefangen worden--
+(Northumberland zu den Vorigen.) Willkommen, Milord, was bringt
+ihr neues?
+
+Northumberland.
+Zuerst wuensch' ich deiner geheiligten Person und Regierung
+vollkommne Gluekseligkeit; die naechste Zeitung ist, dass ich die
+Koepfe von Salisbury, Spencer, Blunt und Kent nach London geschikt
+habe.  Die Umstaende ihrer Gefangennehmung sind aus diesem Papier
+ausfuehrlich zu ersehen.
+
+Bolingbroke.
+Wir danken dir, werther Percy, fuer deine Muehe, und werden deine
+Verdienste nach Wuerden zu belohnen wissen.  (Fizwater zu den
+Vorigen.)
+
+Fizwater.
+Gnaedigster Herr, ich habe die Koepfe von Broccas und Sir Bennet
+Seely von Oxford nach London geschikt, von zween jener zusammen-
+verschwornen Verraether, die eure Majestaet zu Oxford zu unterdrueken
+suchten.
+
+Bolingbroke.
+Deine Bemuehungen und Verdienste sollen nicht vergessen werden,
+Fizwater; ich weiss und schaeze ihren Werth.  (Percy und der Bischoff
+von Carlisle zu den Vorigen.)
+
+Percy.
+Das Haupt der Zusammen-Verschwornen, der Abbt von Westmuenster, hat,
+von Schwermuth und Gewissens-Bissen erdruekt, seinen Leib dem Grab
+abgetreten; aber hier ist Carlisle, der euerm koeniglichen Urtheil
+ueber sein Verbrechen sich unterwirft.
+
+Bolingbroke.
+Carlile, diss ist dein Urtheil; waehle dir irgend eine stille
+geheiligte Freystaedte aus, und geniesse darinn deines Lebens; und
+so wie du in Ruhe leben wirst, sollst du ruhig sterben: Ob du
+gleich immer mein Feind warest, so ehr' ich doch deine Tugend.
+(Exton tritt mit einem Sarg auf.)
+
+Exton.
+Grosser Koenig, in diesem Sarg ueberliefre ich dir deine begrabne
+Besorgnisse.  Hierin ligt athemlos der groeste von deinen Feinden,
+Richard von Bourdeaux, von mir hieher gebracht.
+
+Bolingbroke.
+Exton, ich danke dir nicht; deine fatale Hand hat Schmach und Fluch
+ueber mein Haupt, und ueber dieses ganze ruhmvolle Land gebracht.
+
+Exton.
+Aus euerm eignen Munde, Gnaedigster Herr, that ich diese That.
+
+Bolingbroke.
+Man kan Gift noethig haben, aber man liebt es nicht, und ich dich
+eben so wenig; ob ich ihn gleich todt wuenschte, so hass ich doch den
+Moerder, und liebe nun den Ermordeten.  Nimm du die Schuld eines
+boesen Gewissens fuer deine Muehe, aber weder meinen Beyfall noch
+meine Gnade.  Geh, wandre wie Cain durch den Schatten der Nacht,
+und zeige nie dem Tag dein verabscheutes Antliz.  Milords, ich
+schwoere euch, meine Seele ist bekuemmert, dass Blut mich besprengen
+soll, damit ich wachsen moege.  Kommt, leget die Farbe der
+kummervollen Traurigkeit an.  Ich will einen Zug in das gelobte
+Land thun, um dieses Blut von meiner schuldigen Hand abzuwaschen.
+Folget mir in stillschweigender Trauer, und weinet mit mir ueber
+dieser unzeitigen Baare.
+
+(Sie gehen alle ab.)
+
+
+Ende dieses Projekt Gutenberg Etextes Leben und Tod Koenigs Richard
+des zweyten, von William Shakespeare (Uebersetzt von Christoph
+Martin Wieland).
+
+
+
+
+
+End of the Project Gutenberg EBook of Leben und Tod Koenigs Richard des
+zweyten, by William Shakespeare
+
+*** END OF THE PROJECT GUTENBERG EBOOK KONIGS RICHARD DES ZWEYTEN ***
+
+This file should be named 7gs1510.txt or 7gs1510.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 7gs1511.txt
+VERSIONS based on separate sources get new LETTER, 7gs1510a.txt
+
+Produced by Delphine Lettau
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

@@ -1,0 +1,5092 @@
+The Project Gutenberg EBook of Maass fuer Maass (Measure for Measure)
+by William Shakespeare
+#31 in our series by William Shakespeare
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Maass fuer Maass (Measure for Measure)
+       Wie einer misst, so wird ihm wieder gemessen
+
+Author: William Shakespeare
+
+Release Date: January, 2005 [EBook #7233]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on March 29, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBERG EBOOK MAASS FUER MAASS ***
+
+
+
+
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 7-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+
+
+
+Maass fuer Maass (Measure for Measure)
+oder:
+Wie einer misst, so wird ihm wieder gemessen.
+
+William Shakespeare
+
+Ein Lustspiel.
+
+Uebersetzt von Christoph Martin Wieland
+
+
+Personen des Lustspiels.
+
+Vincentio, Herzog zu Wien.
+Angelo, Stadthalter in Abwesenheit des Herzogs.
+Escalus, ein alter Herr von Stande, dem Angelo in Verwaltung der
+Regierung beygefuegt.
+Claudio, ein junger Edelmann.
+Lucio, ein Libertiner.
+Zwey Edelleute.
+Varrius, einer von den Hofleuten des Herzogs.
+Thomas und Peter, zwey Franciscaner-Moenche.
+Ein Richter.
+Kerkermeister.
+Ellbogen, ein Policey-Aufseher in einem Quartier der Stadt.
+Schaum, ein naerrischer Junker.
+Harlequin, Diener der Frau Overdone.
+Abhorson, ein Nachrichter.
+Bernardin, ein ruchloser Gefangner.
+Isabella, Claudios Schwester.
+Mariane, mit Angelo versprochen.
+Juliette, Claudios Liebste.
+Francisca, eine Nonne.
+Frau Overdone, eine Kupplerin.
+Wache, Stadtbediente, und andre aufwartende Personen.
+
+Der Schauplaz ist in Wien.
+
+Die Geschichte ist aus Cinthios* Novellen genommen.
+
+{ed.-* "Epitia" von Giambattista Giraldi, gen.  Cintio (Cinzio),
+1504--1573.}
+
+
+
+
+Erster Aufzug.
+
+
+
+Erste Scene.
+(Des Herzogs Palast.)
+(Der Herzog, Escalus, und einige Herren vom Hofe.)
+
+
+Herzog.
+Escalus--
+
+Escalus.
+Gnaedigster Herr--
+
+Herzog.
+Es wuerde eine unzeitige Sucht zu reden an mir scheinen, wenn ich
+euch die Eigenschaften einer klugen Regierungsart entfalten wollte,
+da mir bekannt ist, dass eure Wissenschaft hierinn alle Erinnerungen,
+die ich euch geben koennte, ueberfluessig macht; es bleibt mir also
+nichts uebrig, als euch die Gelegenheit zu geben, diese
+Geschiklichkeit im Werke zu zeigen.  Fleiss und Erfahrung hat euch
+den Character unsers Volkes, die Geseze unsrer Stadt, und die
+allgemeinen Regeln der Gerechtigkeit so bekannt gemacht, dass wir
+niemand kennen, der euch hierinn uebertreffe.  Hier ist unser
+Auftrag, welchem wir puenctlich nachgelebt wissen wollen--Man rufe
+den Angelo hieher--Wie meynt ihr, dass er unsre Stelle vertreten
+werde?  Denn ihr muesst wissen, dass wir ihn mit besonderer Vollmacht
+ersehen haben, unsre Abwesenheit zu ersezen; ihm haben wir unsre
+volle Macht zu strafen und gutes zu thun geliehen; sagt, was denkt
+ihr hiezu?
+
+Escalus.
+Wenn jemand in Wien eines solchen Vertrauens, und einer so hohen
+Ehre wuerdig ist, so ist es Angelo.
+
+
+
+Zweyte Scene.
+(Angelo zu den Vorigen.)
+
+
+Angelo.
+Ich komme, Euer Durchlaucht Befehle zu vernehmen.
+
+Herzog.
+Angelo, dein Leben entdekt dem aufmerksamen Beobachter die ganze
+Gestalt deines Characters.  Die Ausuebung jeder Tugend ist durch
+eine lange Uebung deine Natur geworden.  Wir zuenden keine Fakeln an,
+damit sie sich selbst leuchten; so macht es der Himmel mit uns;
+wofern unsre Tugenden nicht ausser uns wuerken, so waere es gleich
+viel, wenn wir sie gar nicht haetten.  Geister werden nur zu grossen
+Endzweken vollkommner von der Natur ausgebildet, und diese sparsame
+Goettin leyht nicht das kleinste Quintchen von ihrer Vortreflichkeit,
+ohne die Absicht, Dank und Interesse davon zu ziehen.  Doch ich
+rede dieses zu einem, der mich selbst in dem Amt, das ich ihm
+auftrage, unterrichten koennte.  Sey also in unsrer Abwesenheit der
+Vertreter unsres voelligen Selbst in dieser Stadt; Leben und Tod,
+Angelo, hange von deinen Lippen ab; der alte Escalus, ob gleich der
+erste deiner Raethe, ist nur der zweyte nach dir.  Hier ist deine
+Commission.
+
+Angelo.
+Nein, mein gnaedigster Herr; lasst mein Metall vorher auf irgend eine
+schaerfere Probe gesezt werden, eh eine so edle und grosse Figur
+darauf gestempelt wird.
+
+Herzog.
+Kommt, keine Ausfluechte mehr; wir haben euch mit wohlbedachter Wahl
+hiezu ersehen; uebernehmt also unsre Stelle.  Unsre Abreise von hier
+wird so schleunig seyn, dass wir Sachen von Wichtigkeit
+unentschieden zurueklassen muessen.  Wir werden euch, so viel Zeit
+und Umstaende zulassen, von unserm Befinden Nachricht geben, und uns
+erkundigen, wie es hier stehe.  Lebet also wohl; ich ueberlasse euch
+der hoffnungsvollen Ausfuehrung unsrer Auftraege.
+
+Angelo.
+Erlaubet wenigstens, gnaedigster Herr, dass wir euch einige Umstaende--
+
+Herzog.
+Wir koennen keinen Augenblik laenger verziehen.  Auch habt ihr, bey
+meiner Ehre, nicht noethig euch das mindeste Bedenken zu machen.
+Euer Werk ist, wie das unsrige, die Geseze so einzurichten und in
+Wuerksamkeit zu sezen, wie ihr es am besten achtet.  Gebt mir eure
+Hand, ich werde in geheim abreisen.  Ich liebe das Volk, aber ich
+seze mich ihm nicht gern zur Schau aus; ob es gleich wohl thut, so
+bin ich doch kein Liebhaber ihres lauten Zujauchzens, und habe
+keine grosse Meynung von der Bescheidenheit derjenigen, die
+dergleichen Dinge lieben.  Noch einmal, lebet wohl.
+
+Angelo.
+Der Himmel befoerdere euer Vorhaben.
+
+Escalus.
+Und bringe euch glueklich zuruek.
+
+Herzog.
+Ich danke euch, lebet wohl.
+
+(Er geht ab.)
+
+Escalus.
+Ich muss euch, mein Herr, um Erlaubniss bitten, eine freye
+Unterredung mit euch zu haben.  Es ist mir daran gelegen, mein Amt
+recht zu kennen.  Ich habe eine Gewalt; aber ich bin nicht belehrt,
+wie weit sie sich erstrekt.
+
+Angelo.
+Es geht mir eben so; wir wollen uns mit einander hinwegbegeben, und
+durch Vergleichung unsrer Instructionen uns ins Klare sezen.
+
+Escalus.
+Ich werde Euer Gnaden folgen.
+
+(Sie gehen ab.)
+
+
+
+Dritte Scene.
+(Eine Straasse.)
+(Lucio und zween Edelleute.)
+
+
+Lucio.
+Wenn der Herzog, und die uebrigen Herzoge sich mit dem Koenig von
+Ungarn nicht vergleichen koennen, so werden sich alle Herzoge wider
+den Koenig vereinigen.
+
+1. Edelmann.
+Der Himmel geb uns seinen Frieden, aber nicht des Koenigs in Ungarn
+seinen.
+
+2. Edelmann.
+Amen!
+
+Lucio.
+Du betest wie jener andaechtiger Seeraeuber, der mit den zehen
+Gebotten zu Schiffe stieg, aber eines aus der andern Tafel
+auskrazte.
+
+2. Edelmann.
+Du sollt nicht stehlen--
+
+Lucio.
+Eben das.
+
+1. Edelmann.
+Hatte er nicht Ursache?  Das ist ein Gebott, das seine Leute von
+ihrer Schuldigkeit abgehalten haette; denn sie schiften sich ein, um
+zu stehlen.  Es ist nicht einer unter uns Soldaten, dem in dem
+Gebet vor dem Essen, die Bitte fuer den Frieden gefiele.
+
+2. Edelmann.
+Ich habe doch nie keinen Soldaten gehoert, der sie missbilligt haette.
+
+Lucio.
+Das glaub ich dir; du bist vermuthlich nie dabey gewesen, wenn man
+das Tischgebet gesprochen hat.
+
+2. Edelmann.
+Nie?  wenigstens ein duzendmal.
+
+1. Edelmann.
+Wie?  In Reimen?
+
+Lucio.
+In allen Reim-Arten und in allen Sprachen.
+
+1. Edelmann.
+Und auch in allen Religionen denk' ich.
+
+Lucio.
+Warum das nicht?--Aber seht, seht, hier kommt Madam Gutherzigkeit.
+
+1. Edelmann.
+Wahrhaftig, die Krankheiten, die ich unter ihrem Dach aufgelesen
+habe, kommen mich--
+
+2. Edelmann.
+Wie hoch, wenn ich bitten darf?
+
+1. Edelmann.
+Rathet?
+
+2. Edelmann.
+Dreytausend Thaler jaehrlich?
+
+1. Edelmann.
+Ja, und mehr.
+
+Lucio.
+Eine franzoesische Crone mehr.
+
+
+
+Vierte Scene.
+(Die Kupplerin, die Vorigen.)
+
+
+1. Edelmann.
+Wie gehts, Mutter, auf welcher Seite habt ihr das Hueftweh am
+nachdrueklichsten?
+
+Kupplerin.
+Gut, gut, dort wird einer ins Gefaengniss gefuehrt, der fuenftausend
+wie ihr seyd werth ist.
+
+1. Edelmann.
+Wer ist das, ich bitte dich?
+
+Kupplerin.
+Zum Henker, Junker, es ist Claudio; Signor Claudio.
+
+1. Edelmann.
+Claudio ins Gefaengniss?  das kan nicht seyn.
+
+Kupplerin.
+Ich weiss aber dass es ist; ich sah, wie er angehalten wurde; ich sah
+ihn wegfuehren, und was noch mehr ist, in den naechsten drey Tagen
+wird ihm der Kopf abgeschlagen werden.
+
+Lucio.
+Das stuende mir gar nicht an; bist du dessen gewiss?
+
+Kupplerin.
+Nur allzugewiss; und das alles, weil er der Fraeulein Juliette ein
+Kind gemacht hat.
+
+Lucio.
+Glaubt mir, es kan seyn; er versprach mir, vor zwey Stunden mich
+hier anzutreffen, und er war immer genau sein Wort zu halten.
+
+1. Edelmann.
+Und ueberdas stimmt dieser Bericht mit dem oeffentlichen Ausruf ein.
+
+Lucio.
+Kommt, wir wollen sehen, was an der Sache ist.
+
+
+
+Fuenfte Scene.
+(Die Kupplerin, Harlequin.)
+
+
+Kupplerin.
+Was bringst du neues?
+
+Harlequin.
+Seht ihr nicht den Mann dort, den man ins Gefaengniss fuehrt?
+
+Kupplerin.
+Was hat er denn gemacht?
+
+Harlequin.
+Eine Frau.
+
+Kupplerin.
+Ich frage, was ist sein Verbrechen?
+
+Harlequin.
+Dass er in einem fremden Bache Dreuschen gefangen hat.
+
+Kupplerin.
+Wie?  geht ein Maedchen mit einem Kind von ihm?
+
+Harlequin.
+Nein, aber ein Weib geht mit einem Maedchen von ihm.  Ihr habt den
+Ausruf nicht gehoert, habt ihr?
+
+Kupplerin.
+Was fuer einen Ausruf, Mann?
+
+Harlequin.
+Alle Haeuser in den Vorstaedten von Wien sollen niedergerissen werden.
+
+Kupplerin.
+Und was soll aus denen in der Stadt werden?
+
+Harlequin.
+Die laesst man zum Saamen stehen; sie haetten auch weg sollen, aber
+einige weise Buerger haben sich fuer sie ins Mittel geschlagen.
+
+Kupplerin.
+So sollen also alle unsre Schenk- und Spiel-Haeuser in den
+Vorstaedten niedergerissen werden?
+
+Harlequin.
+Bis auf den Grund, Madam.
+
+Kupplerin.
+Wahrhaftig, es geht eine grosse Veraenderung im gemeinen Wesen vor;
+was wird aus mir werden?
+
+Harlequin.
+O, dafuer macht euch keine Sorgen: gute Rathgeber haben nie Mangel
+an Clienten; wenn ihr schon euern Plaz aendert, so braucht ihr
+desswegen nicht euer Gewerbe zu aendern; ich will immer euer treuer
+Diener bleiben.  Habt nur gut Herz, man wird Mitleiden mit euch
+haben; ihr, die ihr eure Augen im Dienst des gemeinen Wesens
+beynahe aufgebraucht habt, ihr werdet in Betrachtung gezogen werden.
+
+Kupplerin.
+Was giebts hier, Thomas, wir wollen uns zuruek ziehen.
+
+(Sie gehen ab.)
+
+
+
+Sechste Scene.
+(Der Kerkermeister, Claudio, Juliette, und Stadtbediente.)
+(Lucio, und zwey Edelleute.)
+
+
+Claudio.
+Guter Freund, warum fuehrst du mich so zur Schau herum?  fuehre mich
+in das Gefaengniss, wohin ich verurtheilet bin.
+
+Kerkermeister.
+Ich thu es nicht aus boesem Willen, sondern auf ausdrueklichen Befehl
+des Herrn Stadthalters.
+
+Claudio.
+So kan der Halbgott, Authoritaet, uns das volle Gewicht unsrer
+Uebertretungen bezahlen machen.  So sind die Urtheile des Himmels;
+wem er verzeihen will, dem will er; wem er nicht will, will er
+nicht, und ist doch immer gerecht.
+
+Lucio.
+Wie, was ist dieses, Claudio?  Warum befindet ihr euch in solchen
+Umstaenden?  Was ist euer Verbrechen?
+
+Claudio.
+Nur davon zu reden, wuerde ein neues Verbrechen seyn.
+
+Lucio.
+Wie, ist es eine Mordthat?
+
+Claudio.
+Nein.
+
+Lucio.
+Unzucht?
+
+Claudio.
+Wenn ihr es so nennen wollt.
+
+Kerkermeister.
+Fort, mein Herr, ihr muesst gehen.
+
+Claudio.
+Nur ein Wort, guter Freund Lucio, ein Wort mit euch.
+
+Lucio.
+Hundert, wenn sie euch etwas nuezen koennen; wird Unzucht so hart
+angesehen?
+
+Claudio.
+Diss ist mein Fall: Auf ein beydseitiges Eheversprechen hin nahm ich
+Besiz von Juliettens Bette; (ihr kennet sie;) sie ist mein wahres
+Eheweib, ausser dass uns die Ceremonien mangeln, wodurch unsre
+Heurath oeffentlich gemacht worden waere.  Die einzige Ursache warum
+wir sie unterliessen, war ein Erbe, das noch in den Kisten ihrer
+Verwandten ligt, denen wir unsre Liebe noch so lange zu verbergen
+gedachten, bis die Zeit sie uns guenstiger gemacht haben wuerde.
+Allein das Ungluek wollte, dass das Geheimniss unsrer Vertraulichkeit
+vor der Zeit verrathen wuerde--es ist mit zu grossen Buchstaben an
+Julietten geschrieben.
+
+Lucio.
+Mit einem Kind, vielleicht?
+
+Claudio.
+Leider!  und der neue Stadthalter des Herzogs (ob es daher kommt,
+dass der Staatskoerper ein Pferd ist, welches der Stadthalter
+zureiten soll, und dem er, das erste mal, die Sporren staerker zu
+fuehlen giebt, damit es wisse, dass er seiner meister ist; oder ob
+die Tyranney in dem Plaz oder in demjenigen ist, der ihn einnimmt?
+kan ich nicht entscheiden:) Kurz, der neue Stadthalter erwekt bey
+meinem Anlas alle die veralteten Straffen, die gleich einer
+ungepuzten Ruestung, so lange an der Wand gehangen, bis neunzehn
+Zodiaci sich umgewaelzt haben, ohne dass sie in einem einzigen
+gebraucht worden; und um eines Namens willen, wekt er das vergessne
+tiefeingeschlafne Gesez wider mich auf; in der That, um eines
+Namens willen.
+
+Lucio.
+Du hast recht, es ist nicht anders; und dein Kopf steht so schwach
+auf deinen Schultern, dass ihn ein verliebtes Milchmaedchen
+wegseufzen koennte.  Schikt dem Herzog nach, und appellirt an ihn.
+
+Claudio.
+Ich hab es gethan; aber man kan ihn nirgends finden.  Ich bitte
+dich, Lucio, thu mir diesen Liebesdienst; ich hab eine Schwester im
+Kloster, die an diesem Tag ihre Probzeit enden soll.  Gieb ihr
+Nachricht von der Gefahr worinn ich bin; bitte sie in meinem Namen,
+dass sie Freunde an den strengen Stadthalter schike; bitte sie, dass
+sie in eigner Person einen Anfall auf ihn thue; von dem leztern
+macht' ich mir die meiste Hoffnung.  Eine junge Person wie sie, hat
+eine Art von sprachloser Beredsamkeit, der die Maenner selten
+widerstehen koennen; und ausserdem, so ist sie auch geschikt genug,
+wenn sie durch Gruende und Vorstellungen ueberreden will.
+
+Lucio.
+Ich wuensche, dass sie es koenne; sowol zum Trost Aller die sich in
+aehnlichen Umstaenden befinden, als um deines Lebens willen; es wuerde
+mich sehr verdriessen, wenn es wegen eines Spiels Trictrak so
+naerrischer Weise verlohren gehen sollte.  Ich will zu ihr.
+
+Claudio.
+Habe Dank, mein guter Freund, Lucio.
+
+Lucio.
+Binnen zwo Stunden--
+
+Claudio.
+Kommt, Kerkermeister, wir wollen gehen.
+
+(Sie gehen ab.)
+
+
+
+Siebende Scene.
+(Ein Kloster.)
+(Der Herzog und Bruder Thomas.)
+
+
+Herzog.
+Nein, heiliger Vater, lasst diesen Gedanken fahren: Glaubet nicht,
+dass der schmuzige Pfeil der Liebe einen maennlichen Busen
+durchdringen koenne.  Die Ursache, warum ich euch um eine geheime
+Beherbergung bitte, ist wichtiger und ernsthafter, als die
+ausschweiffenden Absichten der gluehenden Jugend.
+
+Bruder.
+Kan Eure Durchlaucht davon reden--
+
+Herzog.
+Mein ehrwuerdiger Vater, niemand weiss besser als ihr, wie sehr ich
+immer das abgesonderte Leben geliebt, und wie wenig ich an den
+Gesellschaften, wo Jugend, Verschwendung, und froeliche Thorheit
+sich vereinigen, Geschmak gehabt habe.  Ich habe dem Freyherrn
+Angelo, einem Mann von strengen Sitten und geuebter Enthaltsamkeit,
+meine ganze unumschraenkte Gewalt in Wien uebertragen; und er ist in
+der Einbildung, dass ich nach Polen gereisst sey; denn so hab' ich
+unter die Leute streuen lassen, und so ist es angenommen: Nun, mein
+frommer Herr, werdet ihr mich fragen, warum ich das thue?
+
+Bruder.
+Wenn es erlaubt ist, Gnaedigster Herr.
+
+Herzog.
+Wir haben strenge Geseze, (ein nothwendiges Gebiss fuer unbaendige
+Unterthanen) die wir diese neunzehn Jahre her haben schlaffen
+lassen, gleich einem ueberfuellten Loewen, der in seiner Hoele ligen
+bleibt, und nicht auf Beute ausgeht.  Wie es nun zu begegnen pflegt,
+dass wenn allzu zaertliche Vaeter die Ruthe nicht zum Gebrauch,
+sondern nur zum Schreken, ihren Kindern vor die Augen steken, sie
+in kurzer Zeit mehr verlacht als gefuerchtet wird; so ist es unsern
+Gesezen gegangen: Anstatt den Verbrechern den Tod zu geben, sind
+sie selbst todt; die ungebundne Freyheit zieht die Gerechtigkeit
+bey der Nase, der Saeugling schlaegt die Amme, und alle Anstaendigkeit
+der Sitten geht verlohren.
+
+Bruder.
+Es hieng nur von Euer Durchlaucht ab, diese gefesselte
+Gerechtigkeit wieder los zu lassen, und es wuerde an Euch
+furchtbarer geschienen haben, als an Angelo.
+
+Herzog.
+Ich besorge, nur allzu furchtbar.  Da es mein Fehler war, dem Volk
+so viel Freyheit zu lassen, so wuerde es Tyranney gewesen seyn, sie
+fuer das zu strafen, was ich selbst ihnen zu thun befahl.  Denn wir
+befehlen Boeses zu thun, wenn wir den Uebelthaten statt der Straffe
+ihren freyen Lauf lassen.  Dieses ist der wahre Grund, mein Vater,
+warum ich dieses Amt dem Angelo aufgetragen habe, der unter dem
+schuezenden Ansehen meines Namens straffen kan, ohne dass, so lange
+meine Person nicht gesehen wird, der Tadel auf mich faellt.  Um aber
+selbst ein Augenzeuge von dieser Regierung zu seyn, will ich unter
+dem Namen eines Bruders von euerm Orden, sowol den Regenten als das
+Volk besuchen.  Ich bitte dich also, schaffe mir einen Habit, und
+unterrichte mich, damit ich die vollstaendige Person eines aechten
+Franciscaner-Moenchs spielen koenne.  Noch mehr Gruende fuer diese
+Handlung will ich bey mehrerer Musse eroeffnen; einer davon ist
+dieser: Angelo ist strenge; steht gegen jeden Tadel auf der Hut,
+gesteht kaum, dass sein Blut fliesst, oder dass er zu Brot mehr
+Appetit hat als zu Stein.  Wir koennen vielleicht bey dieser
+Gelegenheit lernen, wie viel man sich auf diese strengen Tugenden
+verlassen kan.
+
+(Sie gehen ab.)
+
+
+
+Achte Scene.
+(Ein Frauen-Kloster.)
+(Isabella, und Francisca.)
+
+
+Isabella.
+Und habt ihr Kloster-Frauen keine andern Freyheiten?
+
+Francisca.
+Sind diese nicht gross genug?
+
+Isabella.
+Ja, freylich; ich frage nicht, als ob ich mehr wuenschte; sondern
+weil ich wuenschte, dass die Schwesterschaft der heiligen Clara noch
+enger eingeschraenkt seyn moechte.  (Lucio laesst seine Stimme hinter
+der Scene hoeren.)
+
+Isabella.
+Was ist das?  Wer ruft?
+
+Francisca.
+Es ist eines Mannes Stimme.  Meine liebe Isabella, schliesst ihr auf,
+und fragt ihn was er will; ihr duerft es thun, ich nicht; ihr habt
+das Geluebde noch nicht gethan; wenn ihr es gethan habt, so duerft
+ihr mit keiner Mannsperson sprechen, ausser in Gegenwart der
+Priorin; und auch dann, wenn ihr redet, duerft ihr euer Gesicht
+nicht zeigen, oder wenn ihr das Gesicht zeigt, duerft ihr nicht
+reden.  Er ruft wieder; ich bitte euch, gebt ihm Antwort.
+
+(Francisca geht ab.)
+
+Isabella.
+Wer ruft hier?
+
+(Sie macht die Thuere auf.)
+
+(Lucio kommt herein.)
+
+Lucio.
+Heil, Jungfrau, wenn ihr seyd, wofuer euch diese Rosenwangen
+ankuendigen; wollt ihr so gefaellig seyn, und mich vor Isabellen
+bringen, der schoenen Schwester des unglueklichen Claudio, die sich
+unter den Probe-Schwestern dieses Hauses befindet.
+
+Isabella.
+Warum des unglueklichen Claudio, lasst mich zuruekfragen, indem ich
+euch sage, dass ich diese Isabella und seine Schwester bin.
+
+Lucio.
+Holdselige Schoene, euer Bruder gruesset euch; um euch nicht lange
+aufzuhalten, er ligt im Gefaengniss.
+
+Isabella.
+Weh mir!  Und warum?
+
+Lucio.
+Fuer etwas, wofuer er, wenn ich sein Richter waere, Belohnung statt
+Strafe erhalten sollte; er hat einer guten Freundin ein Kind
+gemacht.
+
+Isabella.
+Mein Herr, erzaehlt mir nicht eure eigne Geschichte.
+
+Lucio.
+Es ist wie ich sage; wenn es gleich meine Schoosssuende ist, den
+Kybizen mit den Maedchen zu spielen, und ihnen zum Spass Dinge
+vorzusagen, wovon mein Herz nichts weiss, so wollte ich doch nicht
+mit allen Jungfrauen so scherzen.  Ich sehe euch fuer ein
+geheiligtes und dem Himmel geweyhtes Geschoepf an; und, aufrichtig
+zu reden, euer Stand macht euch in meinen Augen schon zu einem
+abgeschiednen seligen Geist.
+
+Isabella.
+Ihr laestert das Gute, indem ihr meiner spottet.
+
+Lucio.
+Denket das nicht von mir.  In wahrem Ernst, diss ist die Sache: Euer
+Bruder hat seine Liebste in einen Zustand gesezt, der dasjenige was
+zwischen ihnen vorgegangen, unleugbar macht.
+
+Isabella.
+Ist eine schwanger von ihm?--Meine Base Juliette?
+
+Lucio.
+Ist sie eure Base?
+
+Isabella.
+Durch Adoption, durch die Liebe, die wir als Kinder fuer einander
+gehabt.
+
+Lucio.
+Sie ist es.
+
+Isabella.
+O!  So kan er sie ja heurathen.
+
+Lucio.
+Das ist eben der Knoten.  Der Herzog hat sich auf eine sehr
+seltsame Art von hier wegbegeben; und manchen Edelmann, worunter
+ich selbst einer bin, in der Hoffnung, einen Antheil an der Staats
+Verwaltung zu bekommen, getaeuscht.  Allein wenn denjenigen zu
+glauben ist, welche die wahren Nerven des Staats kennen, so ist die
+Bestellung die er gemacht, unendlich weit von seiner wuerklichen
+Absicht entfernt.  Indessen herrschet an seinem Plaz, und mit
+seiner ganzen unumschraenkten Gewalt, der Freyherr Angelo, ein Mann
+dessen Blut Schneewasser ist; ein Mann der durch die Staerke seiner
+Seele, durch Studieren und Fasten den Stachel der Natur stumpf
+gemacht hat; der die Bewegung der Sinne, und den Trieb der
+unordentlichen Lust nie gefuehlt hat.  Dieser, (um den Muthwillen
+und die Ausgelassenheit, die eine lange Zeit um die drohenden
+Geseze, wie Maeuse um Loewen, herumgeschwaermt, in Schreken zu sezen)
+hat ein Gesez hervorgesucht, unter dessen schwerem Inhalt eures
+Bruders Leben der Todesstraffe verfallen ist; er hat ihn also
+gefangen gesezt, und will durch Vollziehung der ganzen Strenge des
+Gesezes, ihn andern zu einem Beyspiel machen.  Alle Hoffnung ist
+hin, wofern ihr nicht das Gluek habt, durch eure schoene Fuerbitte den
+Angelo zu ruehren; und dieses ist, warum ich euch in euers Bruders
+Namen bitte.
+
+Isabella.
+Er will ihm das Leben nehmen, sagt ihr?
+
+Lucio.
+Er hat das Urtheil schon gesprochen, und der Kerkermeister hat, wie
+ich hoere, schon den Befehl wegen der Hinrichtung.
+
+Isabella.
+Ach Himmel!  Was kan ich ihm also helfen?
+
+Lucio.
+Versucht die Macht, die ihr habt.
+
+Isabella.
+Meine Macht?  Ach!  ich zweifle--
+
+Lucio.
+Unsre Zweifel sind Betrueger, und bringen uns oft um das Gute, das
+wir gewinnen koennten, durch die blosse Furcht vor dem Versuch.
+Geht zu dem Stadthalter, und lasst ihn erfahren lernen, was die
+Bitten, die gebognen Knie und die Thraenen der Schoenheit ueber einen
+Mann vermoegen.
+
+Isabella.
+Ich will sehen was ich thun kan.
+
+Lucio.
+Aber beschleuniget euch.
+
+Isabella.
+Ich will nicht laenger saeumen, als um der wuerdigen Mutter Nachricht
+von meinem Geschaefte zu geben.  Ich danke euch von Herzen; gruesset
+meinen Bruder: eh es Nacht ist, will ich ihm von meiner Ausrichtung
+Nachricht geben.
+
+Lucio.
+Ich beurlaube mich von euch, schoene Schwester--
+
+Isabella.
+Lebet wohl, mein guetiger Herr.
+
+(Sie gehen ab.)
+
+
+
+
+Zweyter Aufzug.
+
+
+
+Erste Scene.
+(Der Palast.)
+(Angelo, Escalus, ein Richter, Bediente.)
+
+
+Angelo.
+Wir muessen kein Schrek-Bild aus dem Gesez machen, das, die
+Raubvoegel zu verscheuchen, aufgestellt wird; und ihm so lang
+einerley Gestalt lassen, bis die Gewohnheit macht, das sie sich
+darauf sezen, anstatt davor zu fliehen.
+
+Escalus.
+Auch ist mein Rath, nur in diesem Fall einige Nachsicht verwalten
+zu lassen.  Ach!  der junge Mann den ich retten wollte, hatte einen
+sehr edeln Vatter.  Ich halte Euer Gnaden fuer einen Mann von
+strenger Tugend; aber moechtet ihr die Ueberlegung machen, ob ihr
+selbst, wenn Zeit und Gelegenheit euerm Wunsch oder dem Trieb des
+feurigen Blutes guenstig gewesen waere, ob ihr nicht selbst in
+gewissen Augenbliken euers Lebens, in eben diesem Punct, wesswegen
+ihr ihn strafen wollt, gefehlt und das Gesez wider euch gereizt
+haettet.
+
+Angelo.
+Ein anders ist, versucht werden, Escalus, ein anders, fallen.  Ich
+laeugne nicht, dass unter den zwoelf Geschwornen, die ueber eines
+Gefangnen Leben sprechen sollen, einer oder zween seyn koennen, die
+noch groessere Diebe sind, als der den sie verhoeren.  Die
+Gerechtigkeit straft nur die Verbrechen, die ihr bekannt sind.  Was
+weiss das Gesez davon, dass Diebe ueber Diebe urtheilen?  Es ist
+natuerlich, dass wir bey einem Edelstein, den wir finden, still
+stehen und ihn aufheben, weil wir ihn sehen; aber wenn wir ihn
+nicht sehen, so treten wir auf ihn und denken nicht daran.  Ihr
+koennt sein Vergehen dadurch nicht verringern, dass ihr voraussezt,
+ich habe auch solche Fehler machen koennen; aber dann, wenn ich, der
+ihn bestraft, mich wuerklich so vergehe, dann redet, und lasst mein
+eignes Urtheil mir den Tod zu erkennen.  Mein Herr, er muss sterben!
+(Der Kerkermeister zu den Vorigen.)
+
+Escalus.
+So sey es, wie eure bessere Einsicht es will.
+
+Angelo.
+Wo ist der Kerkermeister?
+
+Kerkermeister.
+Hier, zu Euer Gnaden Befehl.
+
+Angelo.
+Sorget dafuer, dass Claudio bis morgen um neun Uhr gerichtet werde.
+Bringt ihm seinen Beichtiger, lasst ihn vorbereitet werden; denn
+diese Zeit ist alles, was er noch zu leben hat.
+
+(Kerkermeister geht ab.)
+
+Escalus (vor sich.)
+Gut, der Himmel verzeihe ihm!  und verzeih' uns allen!  Einige
+steigen durch Suende, andre fallen durch Tugend: Einige ueberwaelzen
+sich in Lastern, und werden nur nicht zur Rede gestellet; andre
+muessen fuer einen einzigen Fehltritt die Straffe des groesten
+Verbrechens leiden.
+
+
+
+Zweyte Scene.
+(Ellbogen, Schaum, Harlequin und Gerichtsdiener.)
+
+
+Ellbogen.
+Kommt, fuehrt sie her; wenn das nuezliche Leute im gemeinen Wesen
+sind, die nichts thun, als das Pflaster treten, und in H** Haeusern
+herumschwaermen, so versteh ich nichts vom Gesez.  Fuehrt sie her.
+
+Angelo.
+Was giebts, mein Herr?  Wie heisst ihr?  Wovon ist die Rede?
+
+Ellbogen.
+Mit Euer Gnaden Erlaubniss, ich bin des armen Herzogs Policey-
+Aufseher in diesem Quartier, und mein Name ist Ellbogen.  Ich
+appelliere an die Justiz, und bringe hier vor Euer Gnaden ein paar
+notorische Beneficanten.
+
+Angelo.
+Beneficanten?  Was haben sie denn Gutes gethan?  Du willt
+Maleficanten sagen, vermuthlich.
+
+Ellbogen.
+Euer Gnaden nehmen mir nicht uebel, ich weiss nicht wer sie sind;
+aber ausgemachte Buben sind es, das weiss ich gewiss, und leer an
+aller Profanation, welche gute Christen haben sollten.
+
+Escalus.
+Das geht gut; das ist ein weiser Official.
+
+Angelo.
+Zur Sache; von was fuer einer Gattung Leute sind sie?  Ellbogen
+heisst ihr?  Warum redst du nicht, Ellbogen?
+
+Harlequin.
+Er kan nicht, Gnaediger Herr; er hat ein Loch im Ellbogen.
+
+Angelo.
+Wer seyd ihr, Monsieur?
+
+Ellbogen.
+Er?  Ein Bierzapfer, Gnaediger Herr, ein Schlingel von einem H**
+Wirth, einer der bey einem uebelberuechtigten Weibsbild in Diensten
+ist; dessen Haus, Gnaediger Herr, wie die Leute sagen, in den
+Vorstaedten nieder gerissen worden ist.  Izt haelt sie ein Badhaus,
+welches, denk ich, wohl so gut oder nicht besser seyn wird, als ein
+H** Haus.
+
+Escalus.
+Woher wisst ihr das?
+
+Ellbogen.
+Mein Weib, Gnaediger Herr, die ich vorm Angesicht des Himmels und
+Euer Gnaden detestire--
+
+
+Escalus.
+Wie?  dein Weib?
+
+Ellbogen.
+Ja, Gnaediger Herr, Gott sey Dank, sie ist ein ehrliches Weib--
+
+Escalus.
+Und darum detestirst du sie?
+
+Ellbogen.
+Ich sage Gnaediger Herr, ich detestire mich selbst sowohl als sie,
+dass dieses Haus, wenn es nicht ein H** Haus ist, so daurt mich ihr
+Leben, denn es ist ein schlimmes Haus.
+
+Escalus.
+Und woher weist du es denn?
+
+Ellbogen.
+Sapperment, Gnaediger Herr, von meinem Weib, die, wenn sie ein Weib
+waere, das den cardinalischen* Luesten nachhienge, in diesem Haus in
+Hurerey, Ehebruch, und alle Unreinigkeit haette gerathen koennen.
+
+{ed.-* Es braucht kaum der Anmerkung, dass Ellbogen den Fehler hat,
+gerne lateinische Worte einzumengen, die er nicht recht ausspricht;
+er sagt detestiren fuer attestiren, cardinalisch fuer carnalisch.
+respectirt fuer suspect, u.s.w.}
+
+Escalus.
+Durch dieser Frauen Vorschub?
+
+Ellbogen.
+Ja, Gnaediger Herr, durch Frau Overdons Vorschub; aber sie spie ihm
+ins Gesicht, wie er sie--
+
+
+Harlequin.
+Mit Euer Gnaden Erlaubniss, es ist nicht so.
+
+Ellbogen.
+Beweis es, beweis es vor diesen Schurken, du Ehrenmann!  beweis es.
+
+Escalus.
+Hoert ihr, wie er sich verspricht?
+
+Harlequin.
+Gnaediger Herr, sie gieng mit dem Kind als sie in unser Haus kam,
+und hatte (mit Respect vor Euer Gnaden zu sagen) einen Gelust nach
+gebratnen Pflaumen; Gnaediger Herr, wir hatten nur zwey im Hause,
+und die lagen zu eben derselben Zeit, wie das begegnete, in einem
+Confect-Teller, einem Teller fuer drey oder vier Groschen; Euer
+Gnaden haben wol auch solche Teller gesehen, es sind keine
+Porcellan-Teller, aber sehr gute Teller.
+
+Escalus.
+Weiter, weiter, es ist am Teller nichts gelegen--
+
+Harlequin.
+Nein, in der That nicht, Gnaediger Herr, in diesem Stuek hat Euer
+Gnaden recht: Aber zur Sache zu kommen; wie ich sagte, diese Madam
+Ellbogen gieng mit dem Kind, und hatte, wie ich sagte, schon einen
+ziemlich grossen Bauch, und geluestete, wie ich sagte, nach Pflaumen,
+und es waren nur noch zwey auf dem Teller, wie ich sagte; denn
+dieser Herr von Schaum hier, dieser Junker, der hier steht, hatte
+die uebrigen gegessen, wie ich sagte, und er bezahlte sie ehrlich,
+das muss ich sagen; denn, wie ihr wisst, Junker Schaum, ich konnte
+euch nicht drey Kreuzer herausgeben--
+
+Schaum.
+Nein, in der That.
+
+Harlequin.
+Das muss wahr seyn; ihr waret eben daran, wenn ihr euch noch
+erinnert, die Steine von den vorbesagten Pflaumen aufzuknaken.
+
+Schaum.
+Ja, das that ich, in der That.
+
+Escalus.
+Fort, ihr seyd ein langweiliger Narr, zur Sache; was that man denn
+Ellbogens seinem Weib, dass er Ursach zu klagen hat?  Kommt auf das,
+was man ihr that.
+
+Harlequin.
+Gnaediger Herr, Euer Gnaden kan noch nicht auf das kommen.
+
+Escalus.
+Das ist auch nicht meine Absicht.
+
+Harlequin.
+Aber Euer Gnaden soll darauf kommen, mit Euer Gnaden Erlaubniss; und
+ich bitte euch, sehet einmal diesen Junker Schaum an, Gnaediger Herr,
+einen Mann von achtzig Pfund Renten des Jahrs, dessen Vater an
+aller Heiligen Tag gestorben ist.  War es nicht aller Heiligen Tag,
+Junker Schaum?
+
+Schaum.
+Aller Heiligen Abend.
+
+Harlequin.
+Gut, gut; ich hoffe, das ist ein Mann dem man glauben muss.  Er sass
+eben, Gnaediger Herr, wie ich sagte, in einem niedern Sessel,
+Gnaediger Herr; es war in der Traube, wo ihr in der That so gerne zu
+sizen pflegt; nicht wahr?
+
+Schaum.
+Es ist so, weil es eine huebsche offne Stube ist, und gut fuer den
+Winter.
+
+Harlequin.
+Das heisst gesprochen, wie es sich gehoert; ich hoffe, hier ist ein
+Mann, der Glauben finden wird.
+
+Angelo.
+Das wird eine Russische Nacht auswaehren, wenn die Naechte am laengsten
+sind.  Ich will mich beurlauben und es euch ueberlassen, die Sache
+zu untersuchen, in der Hoffnung, ihr werdet gute Ursache finden,
+ihnen allerseits den Staupbesen geben zu lassen.
+
+(Geht ab.)
+
+
+
+Dritte Scene.
+(Die Vorigen.)
+
+
+Escalus.
+Nun, Monsieur, zur Hauptsache; was that man Ellbogens Weib?
+
+Harlequin.
+Was man ihr that, Gnaediger Herr?  Nichts, gar nichts, mit Euer
+Gnaden Erlaubniss.
+
+Ellbogen.
+Ich bitte Euer Gnaden, fragt ihn, was dieser Mann hier meinem Weibe
+gethan hat?
+
+Harlequin.
+Ich bitte Euer Gnaden, fragt mich.
+
+Escalus.
+Gut, Herr, was that ihr dann dieser Edelmann?
+
+Harlequin.
+Ich bitte Euer Gnaden, schauet diesem Edelmann ins Gesicht; Junker
+Schaum, sehet den Gnaedigen Herrn an; es geschieht aus keiner boesen
+Absicht; beobachtet Euer Gnaden seine Physionomie?
+
+Escalus.
+Ja, Herr, sehr wohl.
+
+Harlequin.
+Nun, ich bitte euch, beobachtet es nur wol.
+
+Escalus.
+Das thu ich.
+
+Harlequin.
+Kan Euer Gnaden etwas gefaehrliches darinn entdeken?
+
+Escalus.
+Nein.
+
+Harlequin.
+Nun will ich auf ein Buch schwoeren, dass sein Gesicht das schlimmste
+Ding an seiner ganzen Person ist; wohlan dann, wenn sein Gesicht
+das schlimmste an ihm ist, wie konnte Jkr.  Schaum des Ellbogens
+Weib etwas zuleide thun?  Das moecht ich von Euer Gnaden hoeren.
+
+Escalus.
+Er hat recht; Herr Commiss, was sagt ihr dazu?
+
+Ellbogen.
+Fuers Erste, so ist das Haus, mit Euer Gnaden Erlaubniss, ein
+respectirtes Haus; Zweytens, ist das ein respectirter Bursche, und
+seine Frau ein respectirtes Weib.
+
+Harlequin.
+Bey dieser Hand, Gnaediger Herr, sein Weib ist die respectirteste
+Person unter uns allen.
+
+Ellbogen.
+Schurke, du luegst; du luegst, du Schurke du; die Zeit soll noch
+kommen, da sie jemals mit einem Mann, Weib oder Kind respectirt
+gewesen--
+
+Harlequin.
+Gnaediger Herr, er war mit ihr respectirt; eh er sie heurathete.
+
+Escalus.
+Ist das wahr, Ellbogen?
+
+Ellbogen.
+O du Galgenschwengel!  o du Schurke!  du gottloser Hannibal!  Ich,
+respectirt mit ihr, eh ich sie heurathete?  Wenn ich jemals mit ihr
+respectirt war, oder sie mit mir, so soll Euer Gnaden mich nicht
+fuer des armen Herzogs Beamten halten; beweis es, du verruchter
+Hannibal, oder ich will eine Injurien-Actie gegen dich anstellen.
+Was ist Euer Gnaden Befehl, dass ich mit diesem gottlosen
+Galgenbuben anfangen soll?
+
+Escalus.
+Im Ernst, Herr Commiss, weil er ein und anders angestellt hat, das
+du gern entdeken moechtest wenn du koenntest, so lass ihn seinen Weg
+fortgehen, bis du weist was es ist.
+
+Ellbogen.
+Sapperment; ich danke Euer Gnaden davor; da siehst du, du
+leichtfertiger Schurke, wo es mit dir hinkommt; du darfst nur so
+fortmachen, du Schurke, du darfst nur so fortmachen--
+
+Escalus (zu Schaum.)
+Wo seyd ihr gebohren, guter Freund?
+
+Schaum.
+Hier, in Wien.
+
+Escalus.
+Habt ihr achtzig Pfund Renten, Herr?
+
+Schaum.
+Ja, mit Euer Gnaden Erlaubniss.
+
+Escalus.
+So.
+
+(Zum Harlequin)
+
+was ist eure Profession, Meister--
+
+Harlequin.
+Ein Bierzapfer, einer armen Wittfrauen Bierzapfer.
+
+Escalus.
+Wie heisst eure Frau?
+
+Harlequin.
+Frau Overdon.
+
+Escalus.
+Hat sie mehr als einen Mann gehabt?
+
+Harlequin.
+Neune, Gnaediger Herr, Overdon war der lezte.
+
+Escalus.
+Neune?  tretet naeher her, Junker Schaum; Junker Schaum, ich sehe
+nicht gerne dass ihr mit Bierzapfern so wohl bekannt seyd; sie
+zapfen euch euer Geld ab, Junker Schaum, und ihr bringt sie an den
+Galgen.  Gehet euers Weges, und lasst mich nichts mehr von euch
+hoeren.
+
+Schaum.
+Ich danke Euer Gnaden; ich fuer meinen Theil bin noch nie in keiner
+Bierschenke gesessen, da ich nicht hineingezogen worden waere.
+
+Escalus.
+Genug, und nichts weiter mehr von dieser Art, Junker Schaum, gehabt
+euch wohl.  --
+
+(Schaum geht ab.)
+
+
+
+Vierte Scene.
+
+
+Escalus.
+Kommt zu mir her, Meister Bierzapfer, wie ist euer Name, Meister
+Bierzapfer?
+
+Harlequin.
+Pompey.
+
+Escalus.
+Meister Pompey, ihr seyd ein Stuek von einem H** Wirth, ob ihr es
+gleich hinter dem Bierzapfer versteken wollt.  Seyd ihr's nicht?
+Kommt, sagt mir die Wahrheit, es wird euch nicht desto schlimmer
+gehen.
+
+Harlequin.
+In gutem Ernst, Gnaediger Herr, ich bin ein armer Kerl, der gerne
+leben moechte.
+
+Escalus.
+Wie wollt ihr leben, Pompey?  Von der H** Wirthschaft?  Was duenkt
+euch zu dieser Handthierung?  Ist es eine gesezmaessige
+Begangenschaft?
+
+Harlequin.
+Wenn das Gesez sie gestattet, Gnaediger Herr.
+
+Escalus.
+Aber das Gesez gestattet sie nicht, Pompey; dazu soll es in Wien
+nimmermehr kommen.
+
+Harlequin.
+Hat Euer Gnaden vielleicht im Sinn, alle jungen Leute in der Stadt
+verschneiden zu lassen?
+
+Escalus.
+Nein, Pompey.
+
+Harlequin.
+Wahrhaftig, gnaediger Herr, so werden sie nach meiner einfaeltigen
+Meynung nicht davon abzuhalten seyn; wenn Euer Gnaden den H** und
+den luederlichen Mannsleuten wehren wird, so habt ihr nicht noethig
+die Kuppler und Kupplerinnen zu fuerchten.
+
+Escalus.
+Dafuer sind huebsche Anstalten im Werk; es ist nur um Koepfen und
+Haengen zu thun.
+
+Harlequin.
+Wenn ihr nur zehn Jahre nach einander alle die sich in diesem Stueke
+verfehlen, koepfen und haengen lassen wollt, so werdet ihr in Zeiten
+Commission fuer mehr Koepfe geben muessen; wenn dieses Gesez zehen
+Jahre in Wien gehalten wird, so will ich das schoenste Haus in der
+Stadt das Stokwerk fuer drey Kreuzer miethen; wenn ihr so lang lebt,
+das zu erleben, so sagt, Pompey hab es euch vorher gesagt.
+
+Escalus.
+Grossen Dank, Pompey, und, um eure Propheceyung zu erwiedern, so
+sag ich euch hiemit gleichfalls, lasst mich keine Klage mehr wider
+euch hoeren, worueber es seyn mag, auch nicht ueber laengern Aufenthalt
+in dem Hause, wo ihr gewesen seyd; hoer ich das mindeste, Pompey, so
+will ich euch in euer Lager zuruek schlagen, und ein strenger Caesar
+gegen euch seyn; aufrichtig zu sprechen, Pompey, ihr haettet
+verdient, dass ich euch ein wenig abpeitschen liesse; und hiemit,
+Pompey, gehabt euch fuer dissmal wohl.
+
+Harlequin.
+Ich danke Euer Gnaden fuer den guten Rath; ich werde ihm folgen, wie
+das Schiksal, und Fleisch und Blut es erlauben werden--
+
+(fuer sich)
+
+Sapperment!  Ein dapfrer Mann laesst sich nicht sogleich aus seinem
+Handwerk peitschen.
+
+(Geht ab.)
+
+
+
+Fuenfte Scene.
+
+
+Escalus.
+Kommt zu mir hieher, Meister Ellbogen; kommt her, Herr Commis; wie
+lang ist es, dass ihr dieses Amt in euerm Quartier verwaltet?
+
+Ellbogen.
+Sieben und ein halb Jahr, Gnaediger Herr.
+
+Escalus.
+Ich dachte, nach euerer Fertigkeit in diesem Amte zu urtheilen, ihr
+haettet es schon eine gute Zeit getrieben.  Sieben ganze Jahre, sagt
+ihr?
+
+Ellbogen.
+Und ein halbes, Gnaediger Herr.
+
+Escalus.
+Es wird euch viele Muehe gemacht haben, mein guter Mann; sie meynen
+es nicht gut mit euch, dass sie euch so oft dazu anstrengen; hat es
+denn keine Leute in euerm Kirchspiel, die im Stande waeren es zu
+versehen?
+
+Ellbogen.
+Mein Treu, Gnaediger Herr, nicht viele die den Verstand zu solchen
+Geschaeften haben; wenn sie gewaehlt werden, so ist es ihnen immer
+eine Gefaelligkeit, wenn ich den Dienst fuer sie versehe; sie
+bezahlen mich dafuer, und so trag ich eben das Amt fuer alle.
+
+Escalus.
+Seht ihr, bringt mir die Namen von sechs oder sieben, die die
+tauglichsten in euerm Kirchspiel sind.
+
+Ellbogen.
+In Euer Gnaden Haus?
+
+Escalus.
+In mein Haus; behuet euch Gott.
+
+(Ellbogen geht ab.)
+
+(Zum Richter.)
+
+Wie viel denkt ihr dass die Gloke ist?
+
+Richter.
+Eilfe, Gnaediger Herr.
+
+Escalus.
+Ich bitte euch, kommt mit mir zum Mittag-Essen.
+
+Richter.
+Ich danke euer Gnaden unterthaenig.
+
+Escalus.
+Ich kraenke mich herzlich ueber Claudios Tod; aber es ist nicht zu
+helfen.
+
+Richter.
+Der Freyherr Angelo ist streng.
+
+Escalus.
+Es ist nur allzu noethig; Guete hoert auf es zu seyn, wenn sie immer
+die gleiche Mine macht; und Nachsicht ist allemal die Mutter neuer
+Verbrechen.  Und doch--armer Claudio!  Es ist nicht zu helfen!--
+Folget mir, mein Herr.
+
+(Gehen ab.)
+
+
+
+Sechste Scene.
+(Der Kerkermeister, ein Bedienter.)
+
+
+Bedienter.
+Er giebt nur einer Partey Gehoer; er wird gleich kommen: Ich will
+ihm sagen, dass ihr hier seyd.
+
+Kerkermeister.
+Ich bitte euch, thut es; ich moechte wissen, was sein Wille ist;
+vielleicht ihn wieder frey zu lassen--Ach!  Er hat kaum mehr als in
+einem Traum gesuendiget; alle Staende, alle Alter riechen nach diesem
+Laster--und er soll dafuer sterben.  (Angelo zu den Vorigen.)
+
+Angelo.
+Nun, was giebt es, Kerkermeister?
+
+Kerkermeister.
+Ist es Euer Gnaden Wille, dass Claudio morgen sterben solle?
+
+Angelo.
+Sagt' ich dir nicht schon, ja?  Hast du nicht Befehl?  Wozu
+brauchst du noch einmal zu fragen?
+
+Kerkermeister.
+Aus Furcht, ich moechte zu rasch seyn.  Mit Euer Gnaden Erlaubniss,
+ich habe den Fall schon erlebt, da der Richter nach der Vollziehung
+sein Urtheil gerne wiederruffen haette.
+
+Angelo.
+Thu du deine Pflicht, und lass das meine Sorge seyn; thu deine
+Pflicht, oder gieb dein Amt auf; und es soll dir keine Muehe mehr
+gemacht werden.
+
+Kerkermeister.
+Ich bitt' unterthaenig um Verzeihung, Gnaediger Herr--Und was soll
+ich mit der winselnden Juliette anfangen?  Sie ist ihrer Entbindung
+sehr nahe.
+
+Angelo.
+Bringe sie an einen bequemem Ort, und das unverzueglich.
+
+Der Bediente.
+Gnaediger Herr, hier ist die Schwester des verurtheilten Manns, und
+bittet vor Euer Gnaden gelassen zu werden.
+
+Angelo.
+Hat er eine Schwester?
+
+Kerkermeister.
+Ja, Gnaediger Herr, eine sehr tugendhafte junge Person, die im
+Begriff ist eine Klosterfrau zu werden, wenn sie es nicht schon ist.
+
+Angelo.
+Gut; lass sie herein kommen.
+
+(Bedienter geht ab.)
+
+Sorgt ihr davor, dass die Hure in einen andern Ort gebracht werde;
+lasst ihr bloss die nothduerftige, und keine ueberfluessige Unterhaltung
+geben; es soll Befehl deshalb ertheilt werden.
+
+
+
+Siebende Scene.
+(Lucio und Isabella, zu den Vorigen.)
+(Kerkermeister will abtreten.)
+
+
+Angelo.
+Bleibt noch ein wenig--
+
+(Zu Isabella.)
+
+Seyd willkommen; was ist euer Begehren?
+
+Isabella.
+Ich bin eine bekuemmerte Person, die eine Bitte an Euer Gnaden thun
+moechte, wenn es euch gefiele mich anzuhoeren.
+
+Angelo.
+Gut; was ist eure Bitte?
+
+Isabella.
+Es ist ein Laster, das ich von Herzen verabscheue; das ich gestraft
+zu sehen wuensche, und fuer welches ich keine Fuerbitte thun wuerde,
+wenn ich nicht muesste.
+
+Angelo.
+Gut, zur Sache.
+
+Isabella.
+Ich habe einen Bruder der zum Tod verurtheilt ist; ich bitte euch,
+lasst das Urtheil auf sein Verbrechen, und nicht auf meinen Bruder
+fallen.
+
+Kerkermeister (leise.)
+Der Himmel gebe dir die Gnade, ihn zu ruehren;
+
+Angelo.
+Das Verbrechen verurtheilen, und nicht den Thaeter?  Ein jedes
+Verbrechen ist schon verurtheilt, eh es gethan wird.  Was wuerde
+mein Amt seyn, wenn ich die Verbrechen faende, deren Strafe die
+Geseze bestimmt haben, und die Thaeter gehen liesse?
+
+Isabella.
+O!  allzugerechtes wiewohl strenges Gesez!--Ich habe also keinen
+Bruder mehr--
+
+(Sie will fortgehen.)
+
+Lucio (leise.)
+Gebt nicht so gleich auf; versucht es noch einmal, bittet ihn,
+fallt auf die Knie, haengt euch an seinen Rok; ihr seyd zu kalt;
+wenn ihr eine Steknadel noethig haettet, koenntet ihr sie mit keiner
+gleichgueltigern Art verlangen.  Noch einmal an ihn, sag' ich.
+
+Isabella (zu Angelo.)
+Muss er denn nothwendig sterben?
+
+Angelo.
+Maedchen, dafuer ist kein Mittel.
+
+Isabella.
+Ey ja, ich denke ihr koenntet ihm Gnade widerfahren lassen; weder
+der Himmel noch die Menschen missbilligen es, wenn man Gnade vor
+Recht gehen laesst.
+
+Angelo.
+Ich will aber nicht.
+
+Isabella.
+Koenntet ihr, wenn ihr wolltet?
+
+Angelo.
+Seht, was ich nicht will, das kan ich auch nicht.
+
+Isabella.
+Aber koenntet ihr es thun, ohne dass die Welt einen Schaden davon
+haette, wenn euer Herz das Mitleiden des meinigen gegen ihn fuehlte?
+
+Angelo.
+Sein Urtheil ist gesprochen; es ist zu spaet.
+
+Lucio (leise.)
+Ihr seyd zu kalt.
+
+Isabella.
+Zu spaet?  Warum?  nein; ich kan ja ein Wort wiederruffen, das ich
+gesprochen habe: Glaubet nur, den Koenig ziert seine Crone, den
+Statthalter sein Schwerdt, den Marschall sein Stab, und den Richter
+sein Rok nicht halb so sehr als Gnade; waeret ihr an seinem Plaze
+gewesen und er an euerm, ihr wuerdet gestrauchelt haben, wie er;
+aber er wuerde nicht so strenge gewesen seyn.
+
+Angelo.
+Ich bitte euch, geht.
+
+Isabella.
+Wollte der Himmel, ich haette eure Macht, und ihr waeret Isabella; es
+sollte nicht so seyn.
+
+Lucio.
+Nur weiter--das ist der rechte Ton--
+
+Angelo.
+Das Gesez hat euern Bruder verurtheilt; alle eure Worte sind
+verschwendet.
+
+Isabella.
+Ach!  gnaediger Himmel!  wie?  Alle Seelen hatten einst gesuendigt,
+und waren vom Gesez verurtheilt.  Aber der, der sie mit bestem Fug
+straffen konnte, fand ein Mittel aus.  Wenn er euch richten wollte,
+wie ihr seyd?  O!  denkt an das!  und Gnade wird, gleich dem
+neuerschaffnen Menschen, aus euern Lippen athmen.
+
+Angelo.
+Gebt euch zufrieden, schoenes Maedchen; das Gesez verurtheilt euern
+Bruder, nicht ich.  Waer' er mein Verwandter, mein Bruder, mein Sohn,
+so wuerd' es ihm nicht anders ergehen; morgen stirbt er.
+
+Isabella.
+Morgen?  O!  das ist zu schnell.  Schonet seiner, gebt ihm noch
+Frist; er ist nicht zum Sterben bereitet.  Wir toedten ja das
+Gefluegel fuer unsre Kueche nicht eher, bis es Zeit ist; sollen wir
+den Himmel schlechter bedienen, als den groebsten Theil von uns
+selbst?  O!  mein guetiger Herr, bedenkt euch: Wenn ist jemals einer
+fuer diss Vergehen gestorben.  Es sind manche, die es begangen haben.
+
+Lucio (leise.)
+Gut, wohl gesprochen!
+
+Angelo.
+Das Gesez ist nicht todt gewesen, ob es gleich geschlaffen hat.
+Diese (Manche) haetten sich nicht unterstanden zu suendigen, wenn der
+erste, der das Gesez uebertrat, gestraft worden waere.  Izt, ist es
+aufgewacht, erkundigt sich dessen was gethan wird, und sieht,
+gleich einem Wahrsager, in einem Spiegel, alle die kuenftigen
+Verbrechen vor, die durch eine laengere Nachsicht veranlasst wuerden,
+und auf keine andere Art verhindert werden koennen, als wenn sie vor
+ihrer Geburt getoedtet werden.
+
+Isabella.
+Lasst wenigstens einiges Mitleiden sehen.
+
+Angelo.
+Ich kan es nicht besser sehen lassen, als wenn ich Gerechtigkeit
+sehen lasse; denn alsdann hab' ich sogar Mitleiden mit denen, die
+ich nicht kenne, indem ich verhindere, dass ein ungestraftes
+Verbrechen sie nicht zur Nachfolge reize; ja mit dem Verbrecher
+selbst, der wenn er fuer eine boese That buessen muss, nicht lebt um
+die zweyte zu begehen.  Gebt euch zufrieden; euer Bruder stirbt
+morgen; gebt euch zufrieden.
+
+Isabella.
+So muesst ihr also der erste seyn, der ein solches Urtheil spricht,
+und er der erste, der dadurch leidet.  O!  es ist vortrefflich, die
+Staerke eines Riesen zu haben; aber es ist tyrannisch, sie wie ein
+Riese zu gebrauchen.
+
+Lucio (leise.)
+Das ist wohl gesprochen.
+
+Isabella.
+Koennten die Grossen der Welt donnern wie Jupiter, so wuerde Jupiter
+selbst keine Ruhe vor ihnen haben; denn bis auf den kleinsten
+ledernen Officianten wuerde ein jeder seinen Himmel zum donnern
+brauchen wollen.  Nichts als donnern--Guetiger Himmel!  dein
+scharfer schweflichter Keil zersplittert lieber die harte und
+knottichte Eiche als die sanfte Myrrthe: O!  nur der Mensch, der
+stolze Mensch, fuer etliche Augenblike in ein wenig Ansehen
+gekleidet, vergisst was er am gewissesten wissen kan, seiner
+zerbrechlichen Natur; und spielt, gleich einem erbossen Affen, so
+phantastische Streiche vor den Augen des Himmels, dass die Engel
+darueber weinen, die, wenn sie unsre Milz* haetten, sich alle
+sterblich lachen muessten.
+
+{ed.-* Die Alten schrieben ein unmaessiges Gelaechter der Groesse der Milz
+zu.  Warbuerton.}
+
+Lucio (leise.)
+Weiter, weiter, Maedchen--das wird wuerken--es koemmt ihm, ich merk'
+es.
+
+Kerkermeister.
+Wollte Gott, sie moechte ihn gewinnen!
+
+Isabella.
+Ich darf meinen Bruder nicht gegen euch abwaegen; grosse Herren
+duerfen mit Heiligen scherzen; an ihnen ist Wiz, was an geringem
+Gottlosigkeit waere.
+
+Lucio.
+Du hast recht, Maedchen; mehr dergleichen--
+
+Isabella.
+An dem Hauptmann ist das nur ein hastiges Wort, was an dem gemeinen
+Soldaten eine platte Laesterung ist.
+
+Angelo.
+Wozu sagt ihr diese Dinge mir?
+
+Isabella.
+Weil das hoechste Ansehn, ob es gleich dem Irrthum eben so sehr
+unterworffen ist als andre Leute, doch immer eine Art von Arzney
+bey sich fuehrt, die seine Vergehungen sogleich wieder zuheilt; geht
+in euch selbst; klopft an euerm Busen an, und fragt euer Herz, was
+es sich bewusst ist, das meines Bruders Fehler aehnlich ist; und wenn
+es euch wenigstens die Faehigkeit gesteht, eben so zu suendigen wie
+er, so erlaubt ihm keinen Gedanken gegen meines Bruders Leben auf
+eure Zunge zu toenen.
+
+Angelo (fuer sich.)
+Sie spricht mit einem Verstand, der den meinigen ueberwaeltiget--
+Lebet wohl--
+
+(Er will weggehen.)
+
+Isabella.
+O!  mein Gnaediger Herr, kehret zuruek.
+
+Angelo.
+Ich will mich bedenken; kommt morgen wieder.
+
+Isabella.
+Hoeret doch, wie ich euch bestechen will; mein guetiger Herr, kehret
+zurueck.
+
+Angelo.
+Wie?  Mich bestechen?
+
+Isabella.
+Ja, mit solchen Geschenken, die der Himmel mit euch theilen soll.
+
+Lucio (leise.)
+Gut, sonst haettet ihr alles verdorben.
+
+Isabella.
+Nicht mit Gold oder Steinen, die nur werth sind, was die Einbildung
+sie gelten laesst, sondern mit unschuldigen Fuerbitten, die zum Himmel
+aufsteigen, und durch ihn eindringen sollen, eh die Sonne wieder
+aufgeht; mit Fuerbitten von unbeflekten Seelen, von fastenden
+Jungfrauen, deren Herzen zu nichts Zeitlichem geweihet sind.
+
+Angelo.
+Gut, kommt morgen wieder.
+
+Lucio (leise.)
+Geht izt, es ist genug--weg.
+
+Isabella.
+Der Himmel erhalte Euer Gnaden gesund.  Um welche Zeit soll ich
+morgen Euer Gnaden aufwarten?
+
+Angelo.
+Vor Mittag, wenn ihr wollt.
+
+(Isabella geht ab mit Lucio und Kerkermeister.)
+
+
+
+Achte Scene.
+
+
+Angelo (allein.)
+Von dir?  Von deiner Tugend selbst?  Was ist das?  Was ist das?
+Ist es deine Schuld oder meine?  Wer suendiget am meisten, der
+Versucher, oder der Versuchte?  Nicht sie, denn sie denkt nur nicht
+daran mich versuchen zu wollen; ich bin es, der neben dem Veilchen
+in der Sonne ligend, gleich einem Aass, nicht wie die Blume, von der
+holden Fruehlings-Waerme faule.  Ists moeglich, dass die Sittsamkeit
+eines Weibes unsern Sinnen gefaehrlicher seyn soll, als ihre
+Schluepfrigkeit?  Sollen wir, da wir genug unnuezen Boden haben,
+einen Tempel niederreissen, um unsre Laster hinein zu steken?--O
+pfui, pfui, pfui!  Was thust du, oder was bist du, Angelo?  O lass
+ihren Bruder leben: Diebe haben Entschuldigung fuer ihre Raeubereyen,
+wenn die Richter selbst stehlen.  Wie?  lieb ich sie, dass ich so
+begierig bin, sie wieder zu hoeren, und mich an ihren Augen zu
+weiden?  Was war diss was ich traeumte?  O!  listiger Teufel, der, um
+Heilige zu fangen, eine Heilige an deinen Angel stekst!  Die
+gefaehrlichste Versuchung ist, die uns durch die Liebe zur Tugend
+zur Suende reizt.  Nimmermehr koennt ein feiles Weibsbild, mit aller
+ihrer verdoppelten Staerke, mit allen Reizungen der Natur und Kunst,
+meine Sinnen nur einen Augenblik aufruehrisch machen; aber dieses
+tugendhafte Maedchen ueberwaeltiget mich ganz, mich, der bis auf
+diesen Augenblik, wenn ich von verliebten Mannsleuten hoerte,
+laechelte, und nicht begreiffen konnte, wie sie es seyn koennten.
+
+(Geht ab.)
+
+
+
+Neunte Scene.
+(Verwandelt sich in ein Gefaengniss.)
+(Der Herzog in einem Moenchshabit, und der Kerkermeister, treten
+ auf.)
+
+
+Herzog.
+Gott gruesse euch, Kerkermeister; denn das seyd ihr, denke ich.
+
+Kerkermeister.
+Ich bin's; was ist euer Wille, mein guter Pater?
+
+Herzog.
+Von Christlicher Liebe getrieben, und nach den Pflichten meines
+Ordens komm' ich, die betruebten Seelen in diesem Gefaengniss zu
+besuchen; lasst mich sie sehen, damit ich die Natur ihrer Suenden
+erkundigen, und nach Befinden mein Amt bey ihnen verrichten koenne.
+
+Kerkermeister.
+Ich wollte noch mehr thun als das, wenn es noethig waere.  (Juliette
+tritt auf.)
+
+Kerkermeister.
+Seht, hier kommt eine von meinen Gefangnen, ein Fraeulein, die in
+die Flammen ihrer eignen Jugend gefallen ist, und ihren guten Namen
+darinn versengt hat: Sie ist schwanger, und der Vater ihres Kinds
+ist zum Tode verurtheilt; ein junger Mann, der bereiter ist, noch
+eine solche Suende zu begehen, als fuer diese zu sterben.
+
+Herzog.
+Wenn soll er sterben?
+
+Kerkermeister.
+Ich denke, morgen.
+
+(Zu Juliette.)
+
+Ich habe Vorsehung fuer euch gethan, bleibt eine Weile, und ihr
+sollt weggefuehrt werden.
+
+Herzog.
+Bereuet ihr, schoenes Kind, die Suende, die ihr begangen habt?
+
+Juliette.
+Ich bereue sie und trage die Schmach gedultig.
+
+Herzog.
+Ich will euch lehren, wie ihr euer Gewissen pruefen koennt, um zu
+erfahren, ob eure Busse aufrichtig ist oder nicht.
+
+Juliette.
+Ich will es gerne lernen.
+
+Herzog.
+Liebt ihr den Mann, der euch zu Falle gebracht hat?
+
+Juliette.
+Ja, so sehr als ich die Weibsperson liebe, die ihn zu Falle
+gebracht hat.
+
+Herzog.
+Es scheint also, ihr habt aus beydseitigem Einverstaendniss
+gesuendiget.
+
+Juliette.
+So ist es.
+
+Herzog.
+Also war eure Suende von einer schwerern Art, als die Seinige.
+
+Juliette.
+Ich bekenn' und bereu' es, mein Vater.
+
+Herzog.
+Es ist billig, meine Tochter; aber bereut ihr eure Suende vielleicht
+nur darum, weil sie euch in diese Schmach gebracht hat, anstatt aus
+Betruebniss dass ihr den Himmel beleidiget habt?  Eine gewoehnliche Art
+von Reue, wodurch wir beweisen, dass wir den Himmel nicht suchen
+weil wir ihn lieben, sondern nur wenn wir seine Strafen fuerchten.
+
+Juliette.
+Es reut mich, in so fern es ein Uebel ist, und ich ertrage die
+Schmach mit Freuden.
+
+Herzog.
+Bleibet bey dieser Gesinnung.  Euer Mitschuldiger muss, wie ich hoere,
+morgen sterben, und ich gehe izt zu ihm, ihn vorzubereiten.  Also
+geb ich euch meinen Segen.
+
+(Er geht ab.)
+
+
+
+Zehnte Scene.
+(Der Palast.)
+(Angelo tritt auf.)
+
+
+Angelo.
+Wenn ich beten oder mit geistlichen Gedanken mich unterhalten will,
+so bete ich, und denke an verschiedne Gegenstaende; aber der Himmel
+hat nur meine leeren Worte, indess mein Gemueth, ohne meine Zunge zu
+hoeren, auf Isabellen ankert.  Der Himmel ist auf meinen Lippen, und
+der maechtige und schwellende Vorsaz der Suende in meinem Herzen.
+Der Staat, worinn ich studirte, ist mir wie ein gutes Buch, das man
+so oft gelesen hat, bis man es ueberdruessig worden ist; ja, diese
+Ernsthaftigkeit, auf die ich (lass niemand es hoeren) stolz war,
+koennt ich mit Aufgabe gegen eine leichte Feder vertauschen, die der
+Wind hin und her treibt.  O!  Plaz, o aeusserliches Ansehen!  Wie
+oft erzwingst du Ehrfurcht von den Thoren, und hintergehest selbst
+die weisern Seelen durch deine betruegliche Gestalt!  Wir brauchen
+nur (guter Engel) auf des Teufels Horn zu schreiben, so ists nicht
+mehr des Teufels Horn--
+(Ein Bedienter kommt herein.) Was giebts, wer ist da?
+
+Bedienter.
+Eine gewisse Isabella, eine Nonne, verlangt vor Euer Gnaden
+gelassen zu werden.
+
+Angelo.
+Fuehre sie herein--O Himmel!  wie treibt mein Blut zu meinem Herzen,
+und entsezt auf einmal alle meine andern Theile ihrer noethigen
+Staerke--So spielt der alberne Hauffe mit einem der in Ohnmacht
+sinkt; alle lauffen ihm zu Huelfe, und verstopfen dadurch die Luft,
+durch die er wieder aufleben koennte: Und so verlassen die
+Unterthanen, einen geliebten Koenig zu sehen, ihre eignen Geschaefte,
+und draengen sich in dienstfertiger Zaertlichkeit zu seiner Gegenwart,
+wo ihre unbescheidene Liebe einer Beleidigung gleich sehen muss--
+(Isabella kommt herein.) Wie geht es, schoenes Maedchen?
+
+
+
+Eilfte Scene.
+
+
+Isabella.
+Ich komme zu hoeren, was Euer Gnaden beliebt--
+
+Angelo.
+Dass ihr es wissen moechtet, wuerde mir besser belieben, als dass ihr
+darnach fragt.  Euer Bruder kan nicht bey Leben bleiben.
+
+Isabella.
+Ist es dieses?--Der Himmel erhalte Eu.  Gnaden.
+
+(Sie will gehen.)
+
+Angelo.
+Und doch moecht' er noch eine Zeitlang leben, und das moechte seyn,
+so lang als ihr oder ich; aber er muss sterben.
+
+Isabella.
+Durch euer Urtheil?
+
+Angelo.
+Ja.
+
+Isabella.
+Wenn, ich bitte euch?  Lasst ihm wenigstens so viel Zeit als er
+noethig hat, damit seine Seele geheilt werden koenne.
+
+Angelo.
+Ha?  Pfui dieser garstigen Laster!  Es waere eben so gut denjenigen
+zu begnadigen, der einen schon gemachten Menschen aus der Natur
+weggestohlen haette, als solchen Leuten, die das Bild des Himmels
+auf verbotne Stempel graben, ihre unverschaemte Ueppigkeit zu
+verzeihen.
+
+Isabella.
+So wird im Himmel geurtheilt, aber nicht auf Erden.
+
+Angelo.
+Sagt ihr das?  Nun will ich euch bald zum Stillschweigen bringen.
+Was wolltet ihr lieber, dass das gerechteste Gesez euerm Bruder das
+Leben nehme; oder dass ihr, um ihn zu retten, euern Leib eben so
+behandeln lassen muesstet, wie diejenige, die er beflekt hat?
+
+Isabella.
+Gnaediger Herr, glaubt mir das, ich wollte lieber meinen Leib preiss
+geben als meine Seele.
+
+Angelo.
+Ich rede nicht von eurer Seele; Suenden, wozu wir genoethiget werden,
+stehen nicht auf unsrer Rechnung.
+
+Isabella.
+Wie sagt ihr?
+
+Angelo.
+Ich will nicht davor gut stehen; denn ich kan vieles gegen das was
+ich gesagt habe, einwenden.  Antwortet mir nur auf das: Ich, durch
+dessen Mund nur das Gesez redet, spreche das Todes-Urtheil wider
+euern Bruder aus: Waere nicht Barmherzigkeit in einer Suende, die ihr
+nur darum begienget, um euers Bruders Leben zu retten?
+
+Isabella.
+Schenket ihm das Leben, ich will es auf die Gefahr meiner Seele
+nehmen, dann ist gar keine Suende darinn, sondern blosse
+Barmherzigkeit.
+
+Angelo.
+Hoert mich nur, ihr versteht mich nicht; entweder seyd ihr unwissend,
+oder stellt euch so, und das ist nicht gut.
+
+Isabella.
+Lasst mich unwissend seyn, und in nichts gut, als in der demuethigen
+Erkenntniss, dass ich nicht besser bin.
+
+Angelo.
+So wuenscht die Weisheit nur desto glaenzender zu scheinen, wenn sie
+sich selbst tadelt; wie diese schwarze Tuecher die eingehuellte
+Schoenheit zehnmal lauter ankuendigen als die enthuellte Schoenheit
+selbst thun koennte.  Aber hoeret mich, um besser verstanden zu
+werden, will ich deutlicher reden; euer Bruder muss sterben.
+
+Isabella.
+So.
+
+Angelo.
+Und wegen eines Verbrechens, worauf das Gesez diese Strafe gelegt
+hat.
+
+Isabella.
+Es ist wahr.
+
+Angelo.
+Gesezt, es waere kein ander Mittel ihm das Leben zu retten (ich sage
+nicht, dass ich es gelten lassen wuerde, sondern nur um den Fall zu
+sezen) als dass ihr, seine Schwester, wofern jemand euer begehrte,
+den sein eigner Plaz oder sein Ansehen bey dem Richter in den Stand
+sezte, euern Bruder aus den Fesseln des Gesezes zu befreyen, und
+dass kein andres Mittel ihn zu retten waere, als ihr muesstet entweder
+diesem vorausgesezten den Genuss eurer Schoenheit ueberlassen, oder
+euern Bruder leiden sehen, was wuerdet ihr thun?*
+
+{ed.-* Die unrichtige Construction dieser Rede ist im Original,
+und man hat sie beybehalten, weil sie die Verwirrung ausdrukt,
+worinn sich Angelo in diesem Augenblik befinden musste.}
+
+Isabella.
+Soviel fuer meinen armen Bruder, als fuer mich selbst; das ist, waer
+ich zum Tode verurtheilt, so wollt ich die Striemen scharfer
+Geisseln wie Rubinen tragen, und mich auf die Marterbank mit der
+Sehnsucht eines Kranken wie auf ein Ruhbette werfen, eh ich meinen
+Leib der Schande preiss geben wollte.
+
+Angelo.
+So muesste euer Bruder sterben.
+
+Isabella.
+Besser, dass ein Bruder einen einzigen Augenblik sterbe, als dass die
+Schwester, um ihn zu retten, ewig sterbe.
+
+Angelo.
+Waeret ihr in diesem Falle nicht eben so grausam als das Urtheil,
+das ihr so genennt habt?
+
+Isabella.
+So wie eine schaendliche Ranzion, und eine freye Begnadigung von
+zweyerley Haeusern sind; so ist auch ganz gewiss nicht die mindeste
+Verwandtschaft zwischen einer gesezmaessigen Barmherzigkeit, und
+einer lasterhaften Erloesung.
+
+Angelo.
+Ihr schienet lezthin das Gesez fuer einen Tyrannen, und den
+Fehltritt euers Bruders eher fuer eine Kurzweil als fuer ein
+Verbrechen anzusehen.
+
+Isabella.
+Verzeihet mir Gnaediger Herr; um zu erhalten was wir suchen, sind
+wir oft genoethiget nicht zu sagen, was wir denken.  Aus Liebe zu
+einem unglueklichen Bruder wuenschte ich die That entschuldigen zu
+koennen, die ich verabscheue.
+
+Angelo.
+Wir sind alle gebrechlich.
+
+Isabella.
+Waer' es nicht so, so moechte mein Bruder immerhin sterben.
+
+Angelo.
+Die Weiber sind auch gebrechlich.
+
+Isabella.
+Ja, wie die Spiegel, worinn sie sich beschauen; die Weiber!  Der
+Himmel stehe ihnen bey!  Die Maenner verderben ihre angebohrne
+Unschuld zum Vortheil ihrer Leidenschaften; ja, nennet uns zehenmal
+gebrechlich, denn wir sind sanft wie unsre Bildung, und weich genug
+jeden fremden Eindruk anzunehmen.
+
+Angelo.
+So denke ich auch; und durch das Zeugniss euers eignen Geschlechts
+lasst mich kuehner werden.  Ich halte euch bey euern Worten.  Seyd
+was ihr seyd, ein Weib; wenn ihr mehr seyd, seyd ihr keines.  Seyd
+ihr's, wie diese Gestalt auf eine so reizende Art es bezeuget, so
+zeiget es izt, indem ihr diese geweyhte Liverey ableget.
+
+Isabella.
+Ich habe nur eine Zunge; ich bitte Euer Gnaden, deutlich zu
+sprechen.
+
+Angelo.
+Ich liebe euch.
+
+Isabella.
+Mein Bruder liebte die Juliette, und ihr sagt mir, dass er dafuer
+sterben muesse.
+
+Angelo.
+Er soll nicht sterben, wenn ihr meine Liebe beguenstiget.
+
+Isabella.
+Ich weiss dass eure Tugend die Freyheit hat, ein wenig schlimmer zu
+scheinen als sie ist, um andre auf die Probe zu sezen.
+
+Angelo.
+Glaubt mir, auf meine Ehre, meine Worte erklaeren meine Absicht.
+
+Isabella.
+Ha!  was fuer eine Ehre?  und was fuer eine Absicht?  O!  Schein!
+Schein!  Ich will dich ausruffen, Angelo; siehe zu!  Unterzeichne
+mir diesen Augenblik die Begnadigung meines Bruders, oder ich will
+so laut als ich schreyen kan, der Welt sagen, was fuer ein Mann du
+bist.
+
+Angelo.
+Wer wird dir glauben, Isabella?  Mein unbeflekter Name, mein
+strenges Leben, mein Ansehen im Staat, mein blosses Zeugniss wider
+dich, werden deine Anklage so sehr ueberwiegen, dass du in deiner
+eignen Aussage erstiken und nach Verlaeumdung stinken wirst.  Der
+erste Schritt ist gethan, und nun will ich meinem sinnlichen Theil
+den Zuegel lassen.  Bereite dich meiner erhizten Begierde
+nachzugeben, lege alle Sproedigkeit, alle diese verzoegernden
+Erroethungen ab, die das verbannen warum sie bitten; erloese deinen
+Bruder, indem du deinen Leib meinem Willen ueberlassest; oder er muss
+nicht nur den Tod sterben, sondern deine Sproedigkeit soll seinen
+Tod durch langsame Martern verlaengern.  Bringe mir morgen die
+Antwort, oder, bey der Leidenschaft, die mich izt beherrschst, ich
+will ein Tyrann gegen ihn werden.  Was euch betrift, sagt was ihr
+koennt; meine Luegen ueberwiegen eure Wahrheiten.
+
+(Er geht ab.)
+
+Isabella.
+Gegen wen soll ich mich beklagen?  Wuerd' ich diss erzaehlen, wer
+wuerde mir glauben?  Ich will zu meinem Bruder gehen.  Ob er gleich
+durch Antrieb des wallenden Blutes gefallen ist, so hat er doch so
+viel Empfindung von Ehre, dass wenn er auch zwanzig Haeupter auf
+zwanzig Bloeke hinzustreken haette, er eher sie alle hingeben wuerde,
+eh seine Schwester ihren Leib zu einer so schaendlichen Beflekung
+missbrauchen lassen sollte.  Leb' also keusch, Isabella, und stirb
+du, Bruder; unsre Keuschheit ist mehr als unser Bruder; inzwischen
+will ich ihm das Zumuthen dieses Angelo kund machen, und ihn
+sterben lehren, damit seine Seele leben moege.
+
+
+
+
+Dritter Aufzug.
+
+
+
+Erste Scene.
+(Das Gefaengniss.)
+(Der Herzog, Claudio und Kerkermeister treten auf.)
+
+
+Herzog.
+Ihr hofft also Begnadigung von dem Stadthalter Angelo?
+
+Claudio.
+Die Unglueklichen haben keine andre Arzney als Hoffnung: Ich hoffe
+zu leben, und bin bereitet zum Sterben.
+
+Herzog.
+Stellt euch als gewiss vor, dass ihr sterben muesst; Tod oder Leben
+wird euch dadurch nur desto suesser werden.  Redet so mit dem Leben:
+Verliehr ich dich, so verliehr ich ein Ding, das nur von Thoren
+hochgeachtet wird; was bist du als ein Hauch, allen Einfluessen der
+Elemente unterwuerffig, welche diese Wohnung, worinn du dich
+aufhaeltst, stuendlich beunruhigen; du bist nichts anders als des
+Todes Narr,* du arbeitest, ihm durch deine Flucht zu entgehn, und
+rennst ihm immer entgegen; du bist nicht edel, denn du naehrst dich
+von den veraechtlichsten Dingen; du bist nicht dapfer, denn du
+fuerchtest die kleine und schwache Zange eines armen Wurms; dein
+bester Theil ist der Schlaf, du liebest ihn, und fuerchtest doch den
+Tod, der nichts mehr ist.  Du bist nichts Selbstbestaendiges, denn
+du bestehst durch viele tausend Koerner, die aus einem Staub
+hervorkeimen; glueklich bist du nicht, denn immer bestrebst du dich,
+was du nicht hast zu gewinnen, und zu vergessen was du hast; du
+bist nicht gewiss, denn dein Zustand wechselt, wie der Mond; wenn du
+reich bist, bist du doch arm, denn du traegst gleich einem mit
+Silberstangen beladnen Esel deinen schweren Reichthum nur eine
+Tagreise, und der Tod ladet dich ab; Freunde hast du keine, denn
+deine eigene Eingeweide, die dich Vater nennen, fluchen dem Podagra,
+der Gicht und dem Aussaz, dass sie dir nicht baelder ein Ende machen.
+Du hast weder Jugend noch Alter; beydes ist nur ein Traum in
+einem nachmittaeglichen Schlaf; denn kaum ist das Feuer deiner
+Jugend verrochen, so steht sie ab, und bettelt Almosen von dem
+gichtbruechigen Alter; und wenn du alt und reich bist, so hast du
+weder Guete, noch Hize, Trieb und Glieder, deines Reichthums froh zu
+werden.  Was ist denn in diesem allem, das den Namen des Lebens
+traegt?  Und doch ligen in diesem Leben zehentausend Tode verborgen;
+und wir fuerchten den Tod, der alle diese seltsamen Dinge eben macht?
+
+{ed.-* Dieses ist eine Anspielung auf gewisse Schauspiele, die in den
+barbarischen Zeiten unter dem Namen (Moralitys) in England ueblich
+waren, worinn die lustige Person und der Tod die Hauptpersonen
+waren, und die erste alle nur ersinnliche Kunstgriffe anwenden
+musste, dem lezten, dem sie alle Augenblike in die Haende lief, zu
+entgehen.}
+
+Claudio.
+Ich danke euch; nun find ich, dass ich, wenn ich zu leben wuensche,
+zu sterben suche; und wenn ich den Tod suche, das Leben finde: Lass
+es kommen.  (Isabella zu den Vorigen.)
+
+Isabella.
+Wie?  Friede sey mit dieser guten Gesellschaft.
+
+Kerkermeister.
+Wer ist da?  herein--der Wunsch verdient einen Willkomm.
+
+Herzog.
+Mein lieber Herr, ich werde euch in kurzem wieder besuchen.
+
+Claudio.
+Ich danke euch, heiliger Vater.
+
+Isabella.
+Mein Geschaefte besteht in einem oder zwey Worten mit Claudio.
+
+Kerkermeister.
+Von Herzen willkommen.  Sehet, mein Herr, hier ist eure Schwester.
+
+Herzog.
+Kerkermeister, ein Wort mit euch.
+
+Kerkermeister.
+Soviele als euch beliebt.
+
+Herzog (leise.)
+Bringet mich an einen Ort, wo ich sie hoeren kan, ohne dass sie mich
+sehen.
+
+(Herzog und Kerkermeister gehen ab.)
+
+
+
+Zweyte Scene.
+
+
+Claudio.
+Nun, Schwester, was fuer einen Trost bringt ihr?
+
+Isabella.
+Wie sie alle zu seyn pflegen; einen sehr guten in der That; der
+Freyherr Angelo, welcher Geschaefte im Himmel hat, ist entschlossen
+euch zu seinem Abgesandten dahin zu machen; macht euch also ohne
+Verzug reisefertig, morgen sollt ihr uebersezen.
+
+Claudio.
+Ist denn kein Mittel?
+
+Isabella.
+Keines als solch ein Mittel, das, um einen Kopf zu retten, ein Herz
+entzwey brechen wuerde.
+
+Claudio.
+Aber ist denn eines?
+
+Isabella.
+Ja, Bruder, ihr koennt bey Leben bleiben; es ist ein Mittel--Aber
+eines, dass wenn ihr faehig waeret es zu billigen, eure Ehre sich von
+diesem Rumpf, den ihr tragt, abstreifen, und euch nakend lassen
+wuerde.
+
+Claudio.
+Und was ist es denn?
+
+Isabella.
+O, ich fuerchte dich, Claudio, ich fuerchte du moechtest, um ein
+fieberhaftes Leben zu verlaengern, sechs oder sieben Winter theurer
+schaezen als eine immerwaehrende Ehre--Hast du den Muth zu sterben?
+Die Empfindung des Todes ist das fuerchterlichste an ihm; der arme
+Kaefer, auf den wir treten, leidet so viel als ein sterbender Riese.
+
+Claudio.
+Warum denkst du so schmaehlich von mir?  Haltst du mich fuer so
+schwach, dass ich keiner maennlichen Entschliessung faehig seyn
+sollte?  Wenn ich sterben muss, so will ich der Finsterniss wie einer
+Braut entgegen gehn, und sie in meine Arme drueken.
+
+Isabella.
+Izt sprach mein Bruder, und eine Stimme stieg aus meines Vaters
+Grab empor.  Ja, du musst sterben; du bist zu edel, ein Leben durch
+niedertraechtige Gefaelligkeiten zu erkauffen.  Dieser, mit
+Heiligkeit uebertuenchte Stadthalter, dessen gesezte Mine und
+wohlbedaechtliche Rede der Jugend die Klauen in den Kopf schlaegt,
+und ihre Thorheiten berupft, wie der Falke die Eule, ist doch nur
+ein Teufel, dessen Herz einen Abgrund von Unrath, so tief als die
+Hoelle, in sich hat.
+
+Claudio.
+Der priesterliche Angelo?
+
+Isabella.
+O das ist die betruegerische Liverey der Hoelle, den verdammtesten
+Koerper in priesterliches Gewand einzuhuellen.  Kanst du glauben,
+Claudio, dass wenn ich ihm meine Jungfrauschaft ueberlassen wollte,
+du frey werden koenntest?
+
+Claudio.
+O Himmel!  das kan nicht seyn.
+
+Isabella.
+So ist es; diese Nacht ist die Zeit, da ich thun soll, was ich zu
+nennen verabscheue, oder morgen stirbst du.
+
+Claudio.
+Du sollst es nicht thun.
+
+Isabella.
+O!  waer' es nur mein Leben, ich wollt es fuer deine Befreyung so
+willig hinwerfen, als eine Steknadel.
+
+Claudio.
+Ich danke dir, meine theurste Isabella.
+
+Isabella.
+Bereite dich also morgen zu sterben, Claudio.
+
+Claudio.
+Ja.  So hat er auch solche Begierden, die das Gesez in die Nase
+beissen, wenn er es uebertreten will--Gewisslich, es ist keine Suende,
+oder es ist doch wenigstens von den sieben Todsuenden die lezte.
+
+Isabella.
+Was ist die lezte?
+
+Claudio.
+Wenn es so verdammlich waere, wuerde er, der ein so weiser Mann ist,
+um die Lust eines Augenbliks ewig verdammt seyn wollen?  O Isabella
+--
+
+Isabella.
+Was sagt mein Bruder?
+
+Claudio.
+Tod ist ein fuerchterliches Ding.
+
+Isabella.
+Und ein schaendliches Leben ein hassenswuerdiges.
+
+Claudio.
+Ja, aber sterben, und gehn wo man nicht weiss wohin; in kalter
+Erstarrung da ligen und verfaulen; diese warme gefuehlvolle Bewegung
+zum starren Kloz werden, indess dass der wollustgewohnte Geist sich
+in feurigen Fluthen badet, oder in Gegenden von aufgehaeuftem Eyss
+erstarret, oder in unsichtbare Winde eingekerkert mit rastloser
+Gewalt rund um die schwebende Welt getrieben wird; oder noch
+unseliger ist als das unseligste, was zuegellose und schwaermende
+Gedanken heulend sich vorbilden--Das ist entsezlich!  Das
+armseligste Leben, mit allem Ungemach belastet, was Alter,
+Krankheit, Duerftigkeit und Gefangenschaft der Natur auflegen koennen,
+ist ein Paradies gegen das, was wir auf den Tod fuerchten.
+
+Isabella.
+O weh!
+
+Claudio.
+Liebste Schwester, lass mich leben.  Wenn das Suende seyn kan,
+wodurch du deines Bruders Leben erkaufst, so spricht die Natur so
+nachdrueklich fuer eine solche That, dass sie zur Tugend wird.
+
+Isabella.
+O!  du Thier!  O!  du ehrlose Memme!  O!  du schaendlicher Elender!
+Willt du durch mein Verbrechen zum Menschen gemacht werden?  Ist es
+nicht eine Art von Blutschande, dein Leben von deiner eignen
+Schwester Schaam zu empfangen?  Was muss ich denken?  Moege der
+Himmel verhuetet haben, dass meine Mutter meinem Vater untreu gewesen;
+ein so niedertraechtiges Unkraut konnte nicht aus seinem Blut
+entstehen.  Stirb, vergeh Elender!  Koennt ich dich durch einen
+blassen Kniefall vom Tod erretten, ich wollt es nicht thun.  Ich
+will tausend Gebette fuer deinen Tod sprechen, und nicht ein Wort,
+dich zu retten.
+
+Claudio.
+Nein, hoere mich, Isabella.
+
+Isabella.
+O Pfui, Pfui, Pfui, deine Suende, izt seh ichs, ist kein Fall,
+sondern ein Handwerk; Gnade gegen dich wuerde selbst zur Kupplerin
+werden; das beste ist, du sterbest ungesaeumt.
+
+Claudio.
+O hoere mich, Isabella.
+
+
+
+Dritte Scene.
+(Der Herzog und der Kerkermeister zu den Vorigen.)
+
+
+Herzog.
+Ein Wort mit euch, junge Schwester, nur ein Wort.
+
+Isabella.
+Was ist euer Begehren?
+
+Herzog.
+Wenn eure Zeit es zuliesse, so moecht ich eine kleine Unterredung
+mit euch haben, deren Inhalt zu euerm eignen Besten abzielt.
+
+Isabella.
+Ich habe keine ueberfluessige Zeit; ich muss mein Verweilen andern
+Geschaeften stehlen; aber doch will ich noch eine Weile hier bleiben,
+euch anzuhoeren.
+
+Herzog.
+Sohn, ich habe gehoert was zwischen euch und eurer Schwester
+vorgegangen ist.  Angelo hat nie den Vorsaz gehabt sie zu verfuehren;
+seine Absicht war nur, ihre Tugend auf die Probe zu stellen, und
+er ist erfreut dass sie ihn so muthig abgewiesen hat.  Ich bin des
+Angelo Beichtiger, und weiss dass diss wahr ist; bereitet euch also
+zum Tode.  Entkraeftet eure Entschlossenheit nicht durch betruegliche
+Hoffnungen; morgen muesst ihr sterben; auf eure Knie nieder, und
+bereitet euch zu!
+
+Claudio.
+Lasst mich meine Schwester um Verzeihung bitten.  Die Liebe zum
+Leben ist mir so vergangen, dass ich froh seyn werde, davon los zu
+kommen.
+
+(Claudio geht ab.)
+
+Herzog.
+Gehabt euch wohl.  Kerkermeister, ein Wort mit euch.
+
+Kerkermeister.
+Was ist euer Wille, Vater?
+
+Herzog.
+Dass ihr euch ein wenig entfernen sollt; lasst mich eine Weile bey
+dieser Schwester; mein Habit und mein Character sind euch Buerge,
+dass sie von meiner Gesellschaft nichts zu besorgen hat.
+
+Kerkermeister.
+Das kan wohl geschehen.
+
+(Geht ab.)
+
+Herzog.
+Das Gluek hat es so gefuegt, dass ich von dem Anfall, den Angelo auf
+eure Tugend gethan hat, benachrichtiget worden bin; und wenn diese
+Gebrechlichkeit nicht durch andre Beyspiele begreiflich gemacht
+wuerde, so wuerde sie mich an Angelo wundern: aber was wollt ihr thun,
+diesen Statthalter zu befriedigen, und euern Bruder zu retten?
+
+Isabella.
+Ich bin im Begriff ihm meinen Entschluss zu melden; ich will lieber,
+mein Bruder sterbe durch das Gesez, als mein Sohn werde gegen das
+Gesez gebohren.  Aber, o!  wie sehr hat sich der gute Herzog in
+diesem Angelo betrogen!  Wenn er jemals wieder zuruek koemmt, und ich
+vor ihn kommen kan, so will ich die Sprache verliehren, oder ihm
+diese schaendliche Regierung entdeken.
+
+Herzog.
+Das wird nicht uebel gethan seyn; aber so wie die Sache izt steht,
+wird Angelo eure Anklage unkraeftig machen; er wird sagen, er habe
+euch nur auf die Probe gesezt.  Hoeret also meinen Rath; meine
+Begierde Gutes zu thun, giebt mir ein Mittel ein: Mich daeucht, ihr
+koenntet auf die unschuldigste Art und zu gleicher Zeit einem armen
+beleidigten Frauenzimmer einen Dienst leisten den sie verdient,
+euerm Bruder das Leben retten, und euch dem abwesenden Herzog nicht
+wenig gefaellig machen, wenn er jemals wiederkommen, und von dieser
+Sache hoeren sollte.
+
+Isabella.
+Redet weiter; ich habe Muth genug alles zu unternehmen, wovon mein
+Herz mir nicht sagt, dass es unrecht ist.
+
+Herzog.
+Die Tugend ist herzhaft, und die Guete niemals furchtsam.  Habt ihr
+nicht von einer gewissen Mariana gehoert, einer Schwester des
+Schiffhauptmann Friedrichs der auf dem Meer verungluekte?
+
+Isabella.
+Ich habe viel Gutes von diesem Frauenzimmer sagen gehoert.
+
+Herzog.
+Sie sollte dieser Angelo geheurathet haben, er hatte sich mit ihr
+versprochen, und der Hochzeit-Tag war schon angesezt: Allein
+waehrend der Zwischenzeit hatte Friedrich das Ungluek, in einem
+Schiffbruch sein Vermoegen, seiner Schwester Erbtheil, und sein
+Leben zu verliehren.  Die arme Fraeulein verlor dadurch einen edeln
+und angesehnen Bruder der sie zaertlichst liebte, mit ihm ihr
+Heurathgut, und mit beyden ihren Braeutigam, diesen scheinbaren
+Angelo.
+
+Isabella.
+Ist das moeglich?  Angelo verliess sie?
+
+Herzog.
+Verliess sie in Thraenen, und troknete nicht eine derselben mit
+seinem Trost ab, brach sein Geluebde unter dem Vorwand einige Fleken
+an ihrer Ehre entdekt zu haben; kurz, ueberliess sie ihrem Elend, und
+den Schmerzen die sie um seinetwillen leidet--
+
+
+Isabella.
+Wie wohl wuerde der Tod thun, wenn er dieses arme Maedchen aus der
+Welt naehme!  Und wie ungerecht ist dieses Leben, dass es einen
+solchen Mann leben laesst!  Aber wie kan ihr geholfen werden?
+
+Herzog.
+Es ist ein Bruch, den ihr leicht heilen koennet; und die Heilung
+desselben rettet nicht nur euern Bruder, sondern macht auch dass ihr
+ihn ohne Verlezung eurer Ehre retten koennet.
+
+Isabella.
+Wie kan das geschehen, mein guter Vater?
+
+Herzog.
+Die vorbenannte Person hegt noch immer ihre erste Leidenschaft;
+sein ungerechter Kaltsinn, der ihre Liebe billig ausgeloescht haben
+sollte, hat sie, gleich einem Hinderniss das dem Lauf eines Stroms
+entgegensieht, nur heftiger und unordentlicher gemacht.  Geht ihr
+zu Angelo, antwortet seinem Begehren durch den Verspruch eines
+verstellten Gehorsams; gestehet ihm die Hauptsache zu, nur behaltet
+euch diese Bedingungen vor, dass ihr euch nicht lange bey ihm
+verweilen muesset, dass die Zeit von Dunkelheit und Stillschweigen
+begleitet sey, und der Ort die Bequemlichkeiten habe, die ein
+Geheimniss erfodert.  Gesteht er euch dieses zu, so geht alles nach
+unserm Wunsche; wir unterrichten alsdenn dieses beleidigte Maedchen,
+sich zur gesezten Stunde an euern Plaz zu stehlen; dieses kan, wenn
+die Wahrheit sich in der Folg' entdekt, ihn noethigen ihr
+Gerechtigkeit wiederfahren zu lassen, euer Bruder kommt dadurch in
+Freyheit, eure Ehre bleibt unbeflekt, die arme Mariana wird
+versorgt, und dem Stadthalter wird die Larve abgezogen.  Ich nehm'
+es ueber mich, das gute Maedchen dazu vorzubereiten; wenn euch dieser
+Entwurf sonst gefaellt, so braucht ihr euch kein Bedenken zu machen;
+das dreyfache Gute das daraus entspringt, macht den Betrug
+untadelhaft.  Was duenkt euch hiezu?
+
+Isabella.
+Die Vorstellung davon beruhigt mich bereits und ich hoffe der
+Ausgang werde erfreulich seyn.
+
+Herzog.
+Es kommt alles auf euern Beytrag an; eilet unverzueglich zu Angelo;
+wenn er euch um diese Nacht bittet, so sagt es ihm zu, unter den
+Bedingungen, die wir abgeredt haben.  Ich will indessen zu Marianen
+gehen; fraget mir bey St.  Lucas wieder nach, und macht dass ihr von
+Angelo bald zuruekkommt.
+
+Isabella.
+Ich danke euch fuer diesen Beystand; lebet wohl indessen, mein guter
+Vater.
+
+(Sie gehen ab.)
+
+
+
+Vierte Scene.
+(Die Straasse.)
+(Der Herzog als ein Moench, Ellbogen, Harlequin, und Stadtbediente.)
+
+
+Ellbogen.
+Was wird noch aus der Welt werden, wenn man euch das Handwerk nicht
+legt, Maenner und Weiber wie das liebe Vieh zu verkauffen?  Fort,
+fort, euers Weges--He!  Gott gruess euch, guter Pater Bruder.
+
+Herzog.
+Und euch, guter Bruder Vater, was hat dieser Mann begangen, mein
+Herr?
+
+Ellbogen.
+Beym Sapperment, Herr, er hat wider das Gesez gesuendiget, und, Herr,
+wir glauben er sey ein Dieb dazu, Herr; denn wir haben einen
+seltsamen Schluessel-Haken bey ihm gefunden, Herr, den wir dem
+Stadthalter geschikt haben.
+
+Herzog.
+Pfui, du Schurke, ein H** Wirth, ein schaendlicher H** Wirth!  Du
+lebst von dem Boesen das du verursachst.  Hast du auch einmal daran
+gedacht, was das ist, von einem so unflaetigen Laster den Magen zu
+fuellen, oder den Rueken zu kleiden?  Sage zu dir selbst: Von ihren
+abscheulichen viehischen Betastungen, ess' ich, trink' ich, kleid'
+ich mich und lebe.  Kanst du das fuer ein Leben halten, das von
+einem so stinkenden Unterhalt abhaengt?  Geh, bessre dich, bessre dich!
+
+Harlequin.
+In der That, es stinkt in gewisser Maasse, Herr; aber doch, Herr,
+wollt' ich beweisen koennen--
+
+Herzog.
+Was willt du beweisen?  Du bist ein verstokter Bube.  Fuehr ihn in
+den Kerker, Commiss; Zuechtigung und Unterricht muessen zugleich
+wuerken, um ein so wildes Vieh zahm zu machen.
+
+Ellbogen.
+Er muss vor den Stadthalter, Herr; er ist gewarnet worden; der
+Stadthalter kan einen H** Wirth nicht leiden.  Wenn er ein H**
+Wirth ist, und kommt vor den Stadthalter, so waer' es ihm eben so
+gut, er waer' eine halbe Stunde weit von ihm.
+
+Harlequin.
+Hier kommt ein junger Herr von meinen guten Freunden.
+
+
+
+Fuenfte Scene.
+(Lucio zu den Vorigen.)
+
+
+Lucio.
+Wie gehts, edler Pompey?  Wie?  in Caesars Fesseln?  Wirst du im
+Triumph gefuehrt?  Wie?  war keine von Pygmalions Statuen, die
+kuerzlich wieder zu einem Weib gemacht worden*, die man haette dafuer
+beym Kopf kriegen koennen, dass sie die Hand in eine Tasche gestekt,
+und eine Faust wieder herausgezogen?  He!  was sagst du zu dieser
+neuen Methode?  So gieng es nicht unter der lezten Regierung.  Ha?
+Was sagst du, Pflastertreter?  wie gefaellt dir diese neue Welt?  Du
+wanderst, daeucht mich, ins Gefaengniss?
+
+{ed.-* Das ist: Die aus der Salivations-Cur gekommen.  Warbuerton.}
+
+Harlequin.
+Ihr habt's errathen, mein Herr.
+
+Lucio.
+Das laesst sich hoeren, Pompey, Gluek zu; allenfalls kanst du sagen,
+ich habe dich wegen einer Schuld dahin geschikt; oder warum--
+
+Ellbogen.
+Weil er ein H** Wirth ist, ein H** Wirth.
+
+Lucio.
+Gut, so sezt ihn immer ein; wenn das die Straffe ist die einem H**
+Wirth gehoert, so geht die Sache in ihrer Ordnung.  Ein H** Wirth
+ist er, das hat seine Richtigkeit, und das nicht erst von gestern
+her; er ist ein gebohrner H** Wirth.  Guten Abend, Pompey; mein
+Compliment an das Gefaengniss, Pompey; ihr werdet nun ein braver
+Hausmann werden, Pompey, ihr werdet huebsch das Haus hueten.
+
+Harlequin.
+Ich hoffe Euer Gnaden werden Buerge fuer mich seyn.
+
+Lucio.
+Nein, wahrhaftig, das werd ich nicht, Pompey; es verlohnt sich der
+Muehe nicht; ich will um die Verlaengrung eurer Gefangenschaft bitten;
+schikt ihr euch nicht geduldig drein, desto schlimmer fuer euch;
+fahr wohl, ehrlicher Pompey.  Guten Abend, Bruder!
+
+Herzog.
+Ebenfalls.
+
+Lucio.
+Mahlt sich Brigitte noch immer, Pompey?  ha?
+
+Ellbogen.
+Fort euers Weges, Herr, fort.
+
+Lucio.
+Munter, Pompey, es muss schon seyn.  Was giebts neues, Frater, was
+Neues?
+
+Ellbogen.
+Fort, Herr, geht euers Weges.
+
+Lucio.
+Geh, in den Stall, Pompey, geh.
+
+(Ellbogen, Harlequin und Bediente geben ab.)
+
+
+
+Sechste Scene.
+
+
+Lucio.
+Was giebts neues, Frater, vom Herzog?
+
+Herzog.
+Ich weiss nichts; wisst ihr etwas?
+
+Lucio.
+Einige sagen, er sey bey dem Russischen Kayser; andre, er sey in Rom;
+aber wo meynt ihr, dass er ist?
+
+Herzog.
+Das weiss ich nicht, aber wo er auch seyn mag, wuensch' ich ihm Gutes.
+
+Lucio.
+Das war ein wunderlicher Einfall von ihm, sich aus dem Staat
+wegzustehlen, und auf der Betteley herumzuziehen, die seines
+Handwerks nicht ist.  Der Herr Angelo haelt indessen huebsch Haus, er
+beunruhiget die Uebertretung, dass es nicht auszustehen ist.
+
+Herzog.
+Daran thut er wohl.
+
+Lucio.
+Ein wenig mehr Gelindigkeit gegen die Galanterie moechte nicht
+schaden; in diesem Stuek ist er ein wenig zu streng, Bruder.
+
+Herzog.
+Ein so verfuehrisches Laster kan nur durch Strenge geheilt werden.
+
+Lucio.
+Frater, so lang essen und trinken nicht abgeschaft werden kan, wird
+es unmoeglich seyn, es ganz auszurotten.  Man sagt, dieser Angelo
+sey nicht durch den ordentlichen Weg der Natur von einem Mann und
+einem Weib entstanden; ist es wahr, was daeucht euch?
+
+Herzog.
+Wie soll er denn entstanden seyn?
+
+Lucio.
+Einige erzaehlen, eine Wassernixe habe ihn gebrutet; andre, er sey
+von zwey Stokfischen gezeugt worden.  Soviel ist gewiss, dass wenn er
+das Wasser abschlaegt, sein Urin gleich zu Eis gefriert; ich weiss
+dass es wahr ist, und dass er zur Zeugung unfaehig ist, daran ist auch
+nicht zu zweifeln.
+
+Herzog.
+Ihr scherzet, mein Herr--
+
+Lucio.
+Zum Henker, was fuer eine Unbarmherzigkeit ist es von ihm, um der
+Empoerung eines H*s*nlazes willen einem ehrlichen Kerl das Leben zu
+nehmen?  Haette der abwesende Herzog das gethan?  Ehe er jemand, und
+wenn es auch um hundert Bastarte willen gewesen waere, haette haengen
+lassen, ehe haette er fuer tausend das Kostgeld aus seinem Beutel
+bezahlt.  Er liebte das Spiel selbst ein wenig, und das machte ihn
+gelinde.
+
+Herzog.
+Ich habe nie gehoert, dass man den abwesenden Herzog mit Weibsleuten
+im Verdacht gehabt haette; seine Neigung gieng nicht dahin.
+
+Lucio.
+O mein Herr, ihr betruegt euch sehr.
+
+Herzog.
+Es ist nicht moeglich.
+
+Lucio.
+Wie?  der Herzog nicht?  Das alte Mensch, das fuer euch bettelt,
+koennte euch davon sagen; er warf ihr nicht umsonst allemal einen
+Ducaten in ihre Buechse.  Der Herzog hat seine Schliche.  Er liebte
+auch den Trunk, das koennt ihr mir glauben.
+
+Herzog.
+Gewisslich, ihr thut ihm unrecht.
+
+Lucio.
+Herr, ich war ein Vertrauter von ihm; ein schlauer Bursche ist der
+Herzog, und ich glaube ich weiss warum er sich entfernt hat.
+
+Herzog.
+Ich bitte euch, was mag die Ursache seyn?
+
+Lucio.
+Um Vergebung, das ist ein Geheimniss, davon sich nicht reden laesst;
+aber so viel kan ich euch zu verstehen geben; der groeste Theil
+seiner Unterthanen hielt den Herzog fuer weise?
+
+Herzog.
+Weise?  wie, es ist wohl keine Frage, ob er es war.
+
+Lucio.
+Ein sehr superficieller, unwissender, unbedaechtlicher Geselle.
+
+Herzog.
+Entweder ist es Neid, oder Narrheit oder Irrthum dass ihr so redet.
+Sein ganzes Leben, und alle seine oeffentlichen Handlungen geben ihm
+ein besseres Zeugniss; und der Neid selbst muss gestehen, dass er
+gelehrt, ein Staatsmann und ein Soldat ist.  Ihr sprecht also sehr
+unbesonnen; oder wenn es nicht aus Mangel an Einsicht geschieht, so
+verrathet ihr viel Bosheit.
+
+Lucio.
+Herr, ich kenn' ihn und ich lieb' ihn.
+
+Herzog.
+Ihr wuerdet ihn besser lieben wenn ihr in kenntet, und ihn besser
+kennen wenn ihr ihn liebtet.
+
+Lucio.
+Gut, Herr, ich weiss was ich weiss.
+
+Herzog.
+Ich kan es schwerlich glauben, da ihr nicht wisst was ihr redet.
+Wofern aber der Herzog wieder zuruekkommt, so gestattet dass ich von
+euch begehre, euch bey ihm zu verantworten.  Habt ihr die Wahrheit
+gesagt, so werdet ihr auch Herz haben, sie zu behaupten; meine
+Schuldigkeit ist, euch dazu aufzufordern, und ich bitte euch
+desswegen um euern Namen.
+
+Lucio.
+Herr, mein Name ist Lucio, der Herzog kennt ihn wohl.
+
+Herzog.
+Er wird euch noch besser kennen lernen, wenn ich so lange lebe, ihm
+Nachricht von euch geben zu koennen.
+
+Lucio.
+Ich fuerchte euch nicht.
+
+Herzog.
+O!  ihr hoft, der Herzog werde nicht wieder kommen, oder ihr bildet
+euch ein ich sey ein Gegner, der euch nicht schaden koenne; und in
+der That, ich werde euch wenig schaden, denn ihr werdet alles was
+ihr hier gesagt habt, wieder abschwoeren.
+
+Lucio.
+Erst will ich mich haengen lassen; du kennst mich nicht, Frater.
+Doch nichts weiter hievon.  Kanst du sagen, ob Claudio morgen
+stirbt oder nicht?
+
+Herzog.
+Warum sollt' er sterben, mein Herr?
+
+Lucio.
+In der That ist es hart, einem darum den Kopf zu nehmen, weil er
+die Hosen herunter gelassen hat; denn das ist doch zulezt alles,
+was er gethan hat.  Ich wollte, der Herzog von dem wir reden, waere
+wieder da; dieser unvermoegende Statthalter wird das ganze Land
+durch Enthaltsamkeit entvoelkern.  Er leidet nicht, dass die
+Sperlinge in seinem Hause nisten, weil sie Liebhaber vom Paaren
+sind.  Der Herzog wuerde Dinge, die im Finstern geschehen, auch im
+Finstern ausmachen; er wuerde sie gewiss nicht ans Licht ziehen.  Ich
+wollt' er waere wieder da!  Leb' wohl, mein guter Frater; ich bitte
+um dein Gebet.  Der Herzog, ich sag dir's noch einmal, macht sich
+nichts daraus, an einem Freytag von einer Schoepskeule zu essen;
+seine Zeit ist noch nicht vorbey; ich versichre dich, er wuerde eine
+Bettlerin schnaebeln, wenn sie gleich nach schwarz Brot und
+Knoblauch roeche.  Sag, ich hab' es gesagt, und gehab dich wohl.
+
+(Lucio geht ab.)
+
+Herzog.
+Weder Macht noch Hoheit kan dem Tadel entgehen, und die hinterrueks
+verwundende Verlaeumdung scheuet sich nicht, die weisseste Tugend
+anzugeifern.
+
+
+
+Siebende Scene.
+(Escalus, Kerkermeister, Kupplerin, und Stadtbediente.)
+
+
+Escalus.
+Geht, fuehrt sie ins Gefaengniss.
+
+Kupplerin.
+Ach, Gnaediger Herr, schonet meiner; Euer Gnaden wird von jedermann
+fuer einen so mitleidigen Herrn gehalten!  Ach mein guetiger Herr!
+
+Escalus.
+Doppelt, dreyfach gewarnt werden, und doch immer in dem gleichen
+Verbrechen fortzufahren--das koennte die Gnade selbst zum Tyrannen
+machen.
+
+Kerkermeister.
+Eine H** Wirthin, die das Handwerk eilf ganzer Jahre hinter
+einander treibt, mit Euer Gnaden Erlaubniss.
+
+Kupplerin.
+Gnaediger Herr, das geschieht alles auf Anstiften eines gewissen
+Lucio; Jungfer Kaethchen Legdich wurde schwanger von ihm, in des
+Herzogs Zeiten; er versprach ihr die Ehe; sein Kind ist auf
+naechsten Philippi und Jacobi fuenf Virtheil Jahr alt; ich hab es
+selbst unterhalten, und das ist nun der Dank den er mir davor giebt.
+
+Escalus.
+Dieser Lucio ist ein sehr ausgelassener Bursche; lasst ihn vor uns
+ruffen.  Weg mit ihr ins Gefaengniss; fort, fort, keine Worte mehr.
+
+(Sie gehen mit der Kupplerin ab.)
+
+Kerkermeister, mein Bruder Angelo laesst sich nicht ueberreden;
+Claudio muss morgen sterben, versorget ihn mit Geistlichen, und mit
+allem was er zu seiner Vorbereitung noethig hat.  Wenn mein
+Mitleiden ihm etwas helfen koennte, sollte es nicht so seyn.
+
+Kerkermeister.
+Dieser Franciscaner ist bey ihm gewesen, und hat ihn zum Tod
+vorbereitet.
+
+Escalus.
+Guten Abend, Vater.
+
+Herzog.
+Heil und Segen sey mit euch!
+
+Escalus.
+Woher seyd ihr?
+
+Herzog.
+Nicht aus diesem Land, ob es mich gleich getroffen hat, eine
+Zeitlang mich darinn aufzuhalten; ich bin ein Bruder aus einem
+gesegneten Orden, und vor kurzem mit einem besondern Auftrag von
+seiner Heiligkeit ueber das Meer gekommen.
+
+Escalus.
+Was giebt es Neues in der Welt?
+
+Herzog.
+Nichts, als eine Neuigkeit die so alt ist als die Welt, und die
+doch die Neuigkeit jedes Tages ist, dass die Tugend siech und das
+Laster munter, und dass es leichter ist, das Boese zu strafen als
+selbst unverwerflich zu seyn.  Ich bitte euch, mein Herr, von was
+fuer einer Denkungsart war der Herzog?
+
+Escalus.
+Von einer, die sich nichts angelegner seyn laesst, als sich selbst zu
+kennen.
+
+Herzog.
+Was fuer einem Vergnuegen war er ergeben?
+
+Escalus.
+Wenn er sich ueber etwas freute, so war es mehr ueber die Freude
+andrer Leute, als dass er an irgend etwas, das ihn belustigen wollte,
+eine sonderliche Lust gehabt haette.  Doch wir wollen ihn seinen
+Geschaeften ueberlassen, und nur bitten, dass sie glueklich seyn moegen;
+erlaubet mir euch zu fragen, wie findet ihr den Claudio
+vorbereitet?  Ich hoere, dass ihr ihn besucht habt.
+
+Herzog.
+Er bekennt, dass ihm sein Richter nicht zuviel gethan habe, und
+ergiebt sich mit gelassner Demuth in den Willen der Gerechtigkeit;
+doch hat er Schwachheit genug gehabt, sich allerley betruegliche
+Hoffnungen zum Leben zu machen, die ich ihm aber so benommen habe,
+dass er izt entschlossen ist zu sterben.
+
+Escalus.
+Ihr habt gegen den Himmel und den Gefangnen die Pflichten euers
+Berufs erfuellt.  Ich habe mir fuer den armen Edelmann so viel Muehe
+gegeben, als es die Bescheidenheit zuliess; allein ich habe meinen
+Collegen Angelo so strenge gefunden, dass er mich genoethiget hat ihm
+zu sagen, er sey in der That die Gerechtigkeit selbst.
+
+Herzog.
+Wenn sein eignes Leben mit der Strenge seines Richter-Amts
+uebereinstimmt, wird es ihm wohl bekommen; wo nicht, so hat er sich
+selbst das Urtheil gesprochen.
+
+Escalus.
+Ich gehe den Gefangnen zu besuchen; lebet wohl.
+
+(Er geht ab.)
+
+
+
+Achte Scene.
+(Der Herzog allein.)
+
+
+Herzog.
+Wer das Schwerdt des Himmels tragen will, soll eben so heilig und
+unverwerflich seyn als er streng ist.  Schaam ueber den, dessen
+tyrannische Hand die Verbrechen an andern bestraft, die er sich
+selbst nachsieht; dreyfache Schaam ueber Angelo, der andrer Laster
+ausreutet, und die seinigen wachsen laesst.  O!  was fuer Unrath kan
+in einem Menschen verborgen seyn, wenn er von aussen gleich ein
+Engel scheint!  Wie leicht ist's dem Laster, unter dieser Gestalt,
+die Welt und die Zeit selbst zu betruegen, und mit schwachen
+Spinnenfaden die gewichtigsten Dinge, Reichthum, Macht und Ehre, an
+sich zu ziehen.  Ich muss List gegen Laster gebrauchen.  Diese Nacht
+soll seine ehmalige verlassne und verschmaehte Braut bey dem Angelo
+ligen, um durch einen unschuldigen Betrug die keusche Unschuld zu
+befreyen, und einen alten Eheverspruch gueltig zu machen.
+
+
+
+
+Vierter Aufzug.
+
+
+
+Erste Scene.
+(Eine Scheuer.)
+(Mariane und ein kleiner Knabe treten singend auf.
+ Der Herzog als ein Franciscaner-Moench kommt dazu.)
+
+
+Mariane.
+Hoer auf zu singen, und begieb dich eilends hinweg.  Hier kommt ein
+Mann des Trostes, dessen Zuspruch schon oft meinen murrenden Kummer
+gestillet hat--
+
+(Zum Herzog.)
+
+Ich bitte euch um Vergebung, mein ehrwuerdiger Herr, und wuenschte,
+dass ihr mich hier nicht so musicalisch angetroffen haettet;
+entschuldiget mich und glaubet mir, diese erzwungne Froelichkeit ist
+nur ein schwaches Lindrungsmittel meines Schmerzens.
+
+Herzog.
+Es ist gut; obgleich die Musik oft eine so zaubrische Kraft hat,
+dass sie das Boese gut und das Gute boese machen kan.  Ich bitte euch,
+hat niemand hier nach mir gefragt; es wird schon ueber die Zeit seyn,
+da ich versprochen habe, mit jemand an diesem Orte zusammen zu
+kommen.
+
+Mariane.
+Es hat niemand bey mir nach euch gefragt, ob ich gleich den ganzen
+Tag hier gesessen bin.  (Isabella kommt.)
+
+Herzog.
+Ich glaube euch in allen Sachen;--Die Zeit ist gekommen, eben izt--
+Ich muss euch um ein wenig Geduld bitten; ich werde euch sogleich
+wieder zuruek rufen, um von einer Sache mit euch zu sprechen, die zu
+euerm Besten abgezielt ist.
+
+Mariane.
+Ich werde euern Befehl erwarten.
+
+(Sie geht ab.)
+
+
+
+Zweyte Scene.
+
+
+Herzog.
+Willkommen, Isabella, ihr haltet euer Wort genau; was giebt es
+Neues von dem ehrlichen Stadthalter?
+
+Isabella.
+Er hat einen Garten, der mit einer Mauer von Ziegelsteinen
+eingeschlossen ist, und an der West-Seite an einen Weinberg stoesst;
+hier ist der Schluessel, der das Thor in diesen Weinberg aufschliesst;
+und hier ein andrer, der eine kleine Thuer oeffnet, die aus dem
+Weinberg in den Garten fuehrt.  Hier habe ich versprochen, in der
+finstern Mitternacht ihm einen Besuch zu geben.
+
+Herzog.
+Aber seyd ihr auch gewiss, den Weg zu finden?
+
+Isabella.
+Er hat mir denselben mit einer so grossen Sorgfalt zu wiederholten
+malen gezeigt, dass ich ihn ganz genau angeben kan.
+
+Herzog.
+Sind keine andre Verabredungen zwischen euch genommen worden, die
+das Frauenzimmer wissen muss, das eure Stelle vertreten wird?
+
+Isabella.
+Keine andre, als dass die Zusammenkunft im Finstern geschehen soll;
+und dass ich ihm beygebracht, mein Aufenthalt koenne nur sehr kurz
+seyn, indem ich mit einer Magd kommen werde, die, in der Meynung,
+dass ich eine heimliche Zusammenkunft mit meinem Bruder habe, auf
+mich warten solle.
+
+Herzog.
+Das ist wohl ausgesonnen.  Aber ich habe Marianen noch kein Wort
+von der Sache entdekt.  Ha!  kommt heraus, wenn es euch beliebt!
+
+
+
+Dritte Scene.
+(Mariane zu den Vorigen.)
+
+Herzog (zu Isabella.)
+Ich bitte euch, macht Bekanntschaft mit diesem jungen Frauenzimmer;
+sie kommt, euch Gutes zu thun.
+
+Isabella.
+Ich wuensche, dass es zu ihrem eignen Besten ausschlage.
+
+Herzog (zu Mariane.)
+Seyd ihr ueberzeugt, dass ich euch hoch schaeze?
+
+Mariane.
+Mein guetiger Vater, ich bin vollkommen ueberzeugt, und habe Proben
+davon.
+
+Herzog.
+So nehmt dann diese eure Freundin bey der Hand, und hoeret die
+Geschichte, die sie euch zu erzaehlen hat; ich will hier auf eure
+Zuruekkunft warten; aber beschleuniget euch; die Nacht bricht an.
+
+(Mariane und Isabella gehen ab.)
+
+Herzog (allein.)
+* O Macht und Groesse.  Millionen falscher Augen sind auf dich
+geheftet; ganze Baende voll unaechter und widersprechender
+Nachrichten verfaelschen deine Thaten; und tausend halbkluge
+Wizlinge machen dich zum Vater ihrer muessigen Traeume, und foltern
+dich in ihrer Einbildung--Willkommen!  Wie versteht ihr euch mit
+einander?
+
+{ed.-* Diese Rede, die augenscheinlicher Weise keinen
+begreiflichen Zusammenhang mit dem Inhalt dieser Scene hat, gehoert,
+nach des Dr.  Warbuertons Meynung, zum Schluss der Scene zwischen
+Lucio und dem Herzog in dem vorigen Aufzug; und ist, wie er glaubt,
+von den Schauspielern, die es nicht so genau zu nehmen pflegen,
+hieher versezt worden, damit der Herzog in der Abwesenheit der
+beyden Damen keine lange Weile habe.}
+
+
+
+Vierte Scene.
+(Mariane und Isabella kommen zuruek.)
+
+
+Isabella.
+Sie will die Verrichtung auf sich nehmen, wenn ihr nichts dawider
+einzuwenden habt, Vater.
+
+Herzog.
+Ich gebe nicht nur meine Einwilligung, sondern ich bitte euch darum.
+
+Isabella.
+Wenn ihr euch wieder wegbegebet, so braucht ihr ihm nichts zu sagen,
+als mit leiser Stimme: ("Erinnert euch nun meines Bruders.")
+
+Mariane.
+Seyd unbekuemmert--
+
+Herzog.
+Auch seyd ihr es nicht um euer selbst willen, meine liebe Tochter.
+Ein gueltiger Eheverspruch macht ihn zu euerm Gemahl, und es ist
+also keine Suende euch so zusammen zu bringen, indem die
+Gerechtigkeit euers Anspruchs an ihn den Betrug unschuldig macht.
+Kommt, lasst uns gehen; wir haben das wichtigste noch vor uns.
+
+(Sie gehen ab.)
+
+
+
+Fuenfte Scene.
+(Das Gefaengniss.)
+(Der Kerkermeister und Harlequin.)
+
+
+Kerkermeister.
+Hieher, Bursche, koennt ihr einem Mann den Kopf abschlagen?
+
+Harlequin.
+Wenn der Mann ein Junggeselle ist, Herr, so kan ich's; wenn er aber
+ein Ehemann ist, so ist er seines Weibes Haupt; und ich kan
+unmoeglich einem Weibsbild den Kopf abschlagen.*
+
+{ed.-* Der Spass ligt hier in einem Wortspiel, das
+sich nicht uebersezen laesst.}
+
+Kerkermeister.
+Lasst eure Schaekereyen, Herr, und gebt mir eine gescheidte Antwort.
+Morgen frueh sollen Claudio und Bernardin sterben; wir haben hier in
+diesem Gefaengniss einen oeffentlichen Scharfrichter, der einen
+Gehuelfen noethig hat; wenn ihr euch entschliessen wollt, dieser
+Gehuelfe zu seyn, so wird es euch von euern Fesseln frey machen; wo
+nicht, so macht euch gefasst eure volle Zeit im Gefaengniss
+auszuhalten, und bey eurer Entlassung eine unbarmherzige Tracht
+Pruegel mit auf den Weg zu bekommen; denn ihr wisst, dass ihr ein
+stadtkuendiger H** Wirth gewesen seyd.
+
+Harlequin.
+Herr, ich bin ein unehrlicher H** Wirth gewesen; doch, das ist nun
+vorbey, und man redt nicht gerne davon; ich bin es zufrieden, nun
+ein ehrlicher Henker zu werden; es wird mir ein Vergnuegen seyn,
+einigen Unterricht von meinem Herrn Collegen zu erhalten.
+
+Kerkermeister.
+Holla, Abhorson!  Wo ist Abhorson?  (Abhorson kommt.)
+
+Abhorson.
+Ruft ihr mir, mein Herr?
+
+Kerkermeister.
+Hier ist ein Kerl, der euch morgen bey Hinrichtung der
+Verurtheilten helfen will; wenn ihr es gut findet, so vergleicht
+euch mit ihm fuer ein Jahr, und behaltet ihn hier bey euch; wo nicht,
+so braucht ihn fuer diesesmal, und lasst ihn wieder seines Weges
+gehen.  Er kan sich nicht beschweren, dass er mit euch in die
+gleiche Linie gestellt wird; er ist ein H** Wirth gewesen.
+
+Abhorson.
+Ein H** Wirth, mein Herr?  Pfui, er wird unsre Kunst in einen boesen
+Ruf bringen.
+
+Kerkermeister.
+Geht, geht, und macht euch keinen Scrupel; ihr waegt gleich viel;
+eine Feder wuerde die Wagschalen verrueken.
+
+(Er geht ab.)
+
+Harlequin (zu Abhorson.)
+Ich bitte euch, mein Herr, mit eurer Erlaubniss, nennt ihr eure
+Beschaeftigung eine Kunst?
+
+Abhorson.
+Ja, Herr, eine Kunst.
+
+Harlequin.
+Mahlen, Herr, hab ich sagen gehoert, ist eine Kunst, und da eure H**,
+welche sich sehr gut auf das Mahlen verstehen, Mitglieder meiner
+Zunft sind, so ist also bewiesen, dass meine Beschaeftigung eine
+Kunst ist; aber was fuer eine Kunst--im Haengen seyn sollte, wenn ich
+gehenkt wuerde, kan ich mir nicht vorstellen--
+** (Der Kerkermeister kommt zuruek.)
+
+{ed.-** Hier ist, nach Herrn Warbuertons Anmerkung, eine ziemliche
+Lueke im Original, welche auch die zwey Reden, die noch uebrig sind,
+ganz unverstaendlich macht.  Es verlohnt sich der Muehe nicht, diese
+Scene ergaenzen zu wollen, da sie selbst nach Warbuertons darauf
+uebelangewandter Arbeit ein abgeschmaktes Gewebe von albernen
+Wortspielen bleibt.}
+
+Kerkermeister.
+Seyd ihr mit einander uebereingekommen?
+
+Harlequin.
+Herr, ich bin entschlossen, sein Knecht zu seyn; denn es daeucht
+mich, ein Henker zu seyn ist ein bussfertigeres Gewerbe als ein H**
+Wirth zu seyn; er bittet oefter um Verzeihung.
+
+Kerkermeister.
+Macht euern Blok und euer Beil zu rechte, bis morgen um vier Uhr.
+
+Abhorson.
+Komme mit, H**bube, ich will dir zeigen wie du dich zu deinem neuen
+Handwerk anschiken must; folge mir.
+
+Harlequin.
+Ich bin sehr lehrbegierig, Herr; und ich hoffe, wenn ihr etwann
+Gelegenheit bekommen solltet, mich fuer euch selbst zu gebrauchen,
+ihr werdet mich eifrig finden; Eure Gewogenheit fuer mich verdient
+wahrhaftig keine geringere Dankbarkeit von meiner Seiten.
+
+(Sie gehen ab.)
+
+Kerkermeister.
+Ruft Claudio und Bernardin hieher; mit dem einen hab' ich Mitleiden;
+mit dem andren, der ein Moerder ist, nicht ein Jot, und wenn er
+mein Bruder waere.
+
+
+
+Sechste Scene.
+(Claudio kommt herein.)
+
+
+Kerkermeister.
+Siehe hier, Claudio, dein Todesurtheil; es ist izt Mitternacht, und
+bis morgen um acht Uhr must du unsterblich gemacht werden.  Wo ist
+Bernardin?
+
+Claudio.
+So stark vom Schlaf gefesselt als ob er unschuldig waere, und nichts
+zu befuerchten haette.  Er wird nicht aufzuweken seyn.
+
+Kerkermeister.
+Und was wuerd' es ihm auch helfen; er ist ein verhaerteter Bube--Gut,
+begebt euch wieder weg und bereitet euch.
+
+(Claudio geht ab.)
+
+Still!  was fuer ein Getoese ist das?--der Himmel staerke euch!--Ich
+komme--Hoffentlich ist es Begnadigung, oder doch einiger Aufschub
+fuer den wakern Claudio--Willkommen, Vater.  (Der Herzog kommt
+herein.)
+
+Herzog.
+Die besten und heilsamsten Geister der Nacht steigen auf euch herab,
+wakrer Kerkermeister!  Wer klopfte seit einiger Zeit hier an?
+
+Kerkermeister.
+Niemand, seitdem die Nachtgloke gelaeutet worden.
+
+Herzog.
+Nicht Isabella?
+
+Kerkermeister.
+Nein.
+
+Herzog.
+So wird sie doch nicht lange mehr ausbleiben.
+
+Kerkermeister.
+Was fuer Hoffnung haben wir fuer den Claudio?
+
+Herzog.
+Es ist noch nicht alle verlohren.
+
+Kerkermeister.
+Der Statthalter ist ein harter Mann.
+
+Herzog.
+Nicht so, nicht so; sein Leben lauft mit seiner strengen
+Gerechtigkeit in gleicher Linie: Mit der Enthaltung eines Heiligen
+bezwingt er den Trieb in ihm selbst, dessen Ausschweiffungen sein
+Amt an andern strafen muss.  Ja, dann wenn er selbst ausuebte, was er
+an andern straft, dann waer' er tyrannisch; aber so wie er ist, ist
+er gerecht--Nun kommen sie.
+
+(Man hoert an der Thuere klopfen.  Der Kerkermeister geht hinaus.)
+
+Dieser Kerkermeister ist ein wakrer Mann; es ist etwas seltnes an
+einem Mann von seinem Beruf, ein Menschenfreund zu seyn.  Aber was
+giebts?  Was fuer ein Getoese?  Das muss ein hastiger Geist seyn, der
+so ungestuem an der Thuere pocht.  (Der Kerkermeister kommt zuruek.)
+
+Kerkermeister.
+Er kan warten, bis der Waechter wieder kommt, der ihn hineinfuehren
+soll; er ist abgeruffen worden.
+
+Herzog.
+Habt ihr noch keinen Gegenbefehl wegen des Claudio?  Muss er morgen
+sterben?
+
+Kerkermeister.
+Keinen, ehrwuerdiger Herr, keinen.
+
+Herzog.
+Es faengt schon an zu daemmern, Kerkermeister; ihr werdet, eh es
+Morgen seyn wird, mehr hoeren.
+
+Kerkermeister.
+Wie glueklich waer's, wenn ihr etwas wisstet; aber ich fuerchte, es
+kommt kein Gegenbefehl; wir haben kein solch Exempel; und zudem, so
+hat der Stadthalter, auf dem Thron der Gerechtigkeit selbst, und
+vor den Ohren des ganzen Volks das Gegentheil versichert.
+
+
+
+Siebende Scene.
+(Ein Bote zu den Vorigen.)
+
+
+Herzog.
+Dieses ist einer von Sr.  Gnaden Bedienten.
+
+Kerkermeister.
+Und hier kommt Claudios Begnadigung.
+
+Bote.
+Mein Gnaediger Herr ueberschikt euch diesen schriftlichen Befehl, und
+durch mich diesen muendlichen Zusaz, dass ihr nicht von dem kleinsten
+Theil desselben abweichen sollt, weder was die Zeit, noch die
+andern Umstaende betrift.  Guten Morgen, denn ich denke, es ist
+beynahe Tag.
+
+Kerkermeister.
+Ich werde gehorchen.
+
+(Der Bote geht.)
+
+Herzog (fuer sich.)
+Diss ist seine Begnadigung; Angelo findet billig eine Suende zu
+vergeben die er selbst begeht--Nun, mein Herr, was habt ihr Neues?
+
+Kerkermeister.
+Was ich euch sagte; Angelo, der mich vermuthlich fuer nachlaessig in
+meinem Dienst ansieht, erwekt mich durch dieses ungewoehnliche
+Betreiben; ich begreiffe nicht was es zu bedeuten hat; denn er hat
+es noch niemals so gemacht.
+
+Herzog.
+Ich bitte euch, lasst mich's hoeren.
+
+Der Kerkermeister (lisst den Befehl.)
+"Alles was ihr auch diesem meinem Befehl widersprechendes hoeren
+moeget, ungeachtet, lasset den Claudio morgen um vier Uhr hinrichten,
+und des Nachmittags den Bernardin; und zu meiner bessern
+Versicherung sorget dafuer, dass mir der Kopf des Claudio um fuenf Uhr
+zugeschikt werde.  Lasst dieses gehoerig vollzogen werden, und
+beobachtet hierinn eine noch groessere Sorgfalt als wir euch
+anbefohlen.  Eure eigne Gefahr soll uns fuer die Ausuebung eurer
+Pflicht Buerge seyn." Was sagt ihr hiezu, mein Herr?
+
+Herzog.
+Wer ist dieser Bernardin, der Nachmittags hingerichtet werden soll?
+
+Kerkermeister.
+Ein gebohrner Zigeuner, der aber hier zu Lande erzogen worden, und
+schon neun Jahre gefangen ligt.
+
+Herzog.
+Wie kam es, dass der abwesende Herzog ihn nicht entweder in Freyheit
+sezte, oder hinrichten liess?  Ich hoerte, es sey allezeit sein
+Gebrauch gewesen, es so zu machen.
+
+Kerkermeister.
+Seine Freunde wuerkten immer einen Aufschub nach dem andern aus; und
+in der That, kam sein Verbrechen, bis izo in der Regierung des
+Freyherrn Angelo, zu keinem vollstaendigen Beweis.
+
+Herzog.
+Es ist also nun erwiesen?
+
+Kerkermeister.
+Vollkommen erwiesen, und von ihm selbst nicht gelaeugnet.
+
+Herzog.
+Wie hat er sich im Gefaengniss aufgefuehrt?  Scheint er geruehrt zu
+seyn?
+
+Kerkermeister.
+Er ist ein Mann, der sich nicht mehr vor dem Tod fuerchtet, als vor
+einem trunknen Schlaf; ohne Reue, ohne Kummer und ohne Furcht vor
+irgend etwas Vergangnem, Gegenwaertigen oder Zukuenftigen,
+unempfindlich gegen die Unsterblichkeit, und auf eine viehische Art
+sterblich.
+
+Herzog.
+Es mangelt ihm an Unterricht.
+
+Kerkermeister.
+Er nimmt keinen an; er hat im Gefaengniss allezeit viel Freyheit
+gehabt; man koennte ihm erlauben, zu entwischen, ohne dass er es thun
+wuerde; er ist die meiste Zeit vom Tag, und oft ganze Tage
+hintereinander betrunken.  Wir haben ihn oft aufgewekt, als ob wir
+ihn zur Hinrichtung fuehren wollten, und ihm alle Zuruestungen dazu
+gezeigt, ohne dass es ihn im mindesten bewegt hat.
+
+Herzog.
+Hernach ein mehrers von ihm.  Kerkermeister, Redlichkeit und
+Standhaftigkeit sind auf eure Stirne geschrieben; wenn ich nicht
+recht lese, so betruegt mich eine Kunst, in der ich einige
+Erfahrenheit habe.  Ich will mich selbst auf diese gute Meynung hin
+wagen.  Claudio, zu dessen Hinrichtung ihr hier einen Befehl habt,
+ist kein groesserer Suender gegen das Gesez als Angelo, der ihn
+verurtheilt hat.  Um euch hievon durch eine augenscheinliche Probe
+zu ueberzeugen, verlange ich nur vier Tage Zeit; fuer welche ich euch
+um eine eben so verbindliche als gefaehrliche Gefaelligkeit ersuche.
+
+Kerkermeister.
+Und worinn besteht sie, ich bitte euch.
+
+Herzog.
+Den Tod des Claudio aufzuschieben.
+
+Kerkermeister.
+Aber wie kan ichs, da mir die Stunde vorgeschrieben, und der
+ausdruekliche Befehl bey angedrohter Straffe gegeben ist, sein Haupt
+dem Angelo vor Augen zu bringen?  Die Ueberschreitung des kleinsten
+Umstands koennte mir das Schiksal des Claudio zuziehen.
+
+Herzog.
+Bey meinem Ordens-Geluebde, ich steh euch fuer alles, wenn ihr meinem
+Rath Gehoer geben wollt.  Lasst diesen Bernardin morgen hingerichtet
+werden, und schiket dem Angelo seinen Kopf statt Claudios.
+
+Kerkermeister.
+Angelo hat beyde gesehen, und wird den Betrug entdeken.
+
+Herzog.
+O!  besorget das nicht, der Tod ist ein Meister im Verstellen, und
+ihr koennt ihm noch helfen, die Unkenntlichkeit vollkommen zu machen;
+scheert ihm den Kopf glatt und den Bart weg, und sagt, der arme
+Suender hab' es vor seinem Ende so haben wollen; ihr wisst, dass es
+gewoehnlich ist.  Wenn ihr irgend etwas anders davon haben werdet,
+als Dank und gutes Gluek, so will ich, bey dem Heiligen, von dessen
+Familie ich bin, es mit meinem Leben von euch abwenden.
+
+Kerkermeister.
+Verzeihet mir, mein guter Vater, es ist wider meinen Eid.
+
+Herzog.
+Habt ihr dem Herzog geschworen, oder seinem Stadthalter?
+
+Kerkermeister.
+Dem Herzog, und allen die seine Stelle vertreten wuerden.
+
+Herzog.
+Wollt ihr glauben, dass ihr euch nicht vergehet, wenn der Herzog
+diese Handlung billiget?
+
+Kerkermeister.
+Wie kan er das, da er abwesend ist?
+
+Herzog.
+Er kan es, weil er es wuerklich thut; da ich sehe dass ihr so
+furchtsam seyd, dass weder mein Habit, noch meine Redlichkeit, noch
+meine Ueberredung euch bewegen koennen, so will ich weiter gehen,
+als ich im Sinn hatte, um alle Furcht in euch auszureuten.  Sehet,
+mein Herr, hier ist des Herzogs Hand und Sigel; ihr kennt ohne
+Zweifel seine Hand, und das Signet wird euch auch nicht fremde seyn.
+
+Kerkermeister.
+Ich erkenne beydes.
+
+Herzog.
+Der Inhalt dieses Briefs ist die Wiederkunft des Herzogs.  Ihr
+sollt ihn hernach bey Musse ganz durchlesen, ihr werdet finden, dass
+er binnen diesen zween Tagen hier seyn wird.  Diss ist ein Umstand,
+den Angelo nicht weiss, denn diesen heutigen Tag erhaelt er Briefe
+von seltsamem Inhalt; vielleicht von des Herzogs Tod; vielleicht
+dass er in ein Kloster gegangen sey; aber, zum Gluek, nichts von dem
+was hier geschrieben ist.  Seht, der Morgen bricht schon an.
+Haenget der Verwundrung nicht nach, wie diese Dinge zugehen; alle
+Schwierigkeiten sind nur leicht, wenn man sie kennt.  Ruft euern
+Nachrichter, und weg mit Bernardins Kopf; ich will sogleich seine
+Beichte hoeren, und ihm dann an einen bessern Ort Anweisung geben.
+Ich sehe dass ihr noch erstaunt seyd, aber dieses hier muss euch
+schlechterdings zum Entschluss bringen.  Kommt mit mir, es ist schon
+beynahe heitrer Tag.
+
+
+
+Achte Scene.
+(Harlequin tritt auf.)
+
+
+Harlequin.
+Ich bin hier so bekannt als ob ich daheim waere; einer moechte denken,
+es waere Frau Overdons eignes Haus, soviel von ihren alten
+Kundsleuten trift man hier an.  Fuers erste ist hier der junge Herr
+Rasch, wegen einer Kleinigkeit von braunem Pfeffer und altem Ingwer,
+hundert und sieben und neunzig Pfund, aus denen er fuenf Mark
+baares Geld gemacht hat: Meiner Six, der Ingwer muss damals nicht
+viel Abgang gefunden haben; die alten Weiber muessen alle todt
+gewesen seyn.  Hernach ist hier ein gewisser Herr Caper, auf
+Ansuchen Meister Three-Pile, des Kraemers, wegen etlicher Stueke
+Pfersichbluethfarbnen Atlas, welche Herr Caper umsonst gekauft haben
+moechte.  Ferner der junge Schwindel, der junge Herr Kupfersporn,
+und Monsieur Hungerdarm der Klopffechter, und der junge Herr
+Luederlich, der den braven Pudding erschlug, und Hr.  Schuezen, der
+grosse Wanderer, und der wilde Halbkanne, der den Pott' erstochen
+hat, und ich denke, noch vierzig andre, lauter grosse Maenner in
+unsrer Profession, die izt hier sind, und sehen moegen, wie sie
+wieder heraus kommen.  (Abhorson kommt herein.)
+
+Abhorson.
+Fort, Kerl, Bring den Bernardin hieher.
+
+Harlequin.
+Monsieur Bernardin, ihr sollt aufwachen und euch haengen lassen;
+Monsieur Bernardin!
+
+Abhorson.
+Holla, ho, Bernardin.
+
+Bernardin (hinter der Scene.)
+Dass ihr die Kraenke kriegt, ihr Hunde!  Was fuer einen Lerm macht ihr
+da?  Wer seyd ihr?
+
+Harlequin.
+Herr, euer guter Freund, der Henker; ihr sollt so gut seyn, Herr,
+und aufstehen und euch erdrosseln lassen.
+
+Bernardin (hinter der Scene.)
+Geh zum T** du Schurke, geh, sag ich; ich bin schlaefrig.
+
+Abhorson.
+Sag ihm, er muesse aufstehen, und das nur gleich.
+
+Harlequin.
+Ich bitte euch, Monsieur Bernardin, wacht nur auf, bis ihr gehenkt
+seyd, und schlaft denn wieder so lang ihr wollt.
+
+Abhorson.
+Geh zu ihm hinein, und schaff ihn heraus.
+
+Harlequin.
+Er kommt, Herr, er kommt; ich hoere das Stroh rascheln.  (Bernardin
+zu den Vorigen.)
+
+Abhorson.
+Ligt das Beil auf dem Blok, Kerl?
+
+Harlequin.
+Ja, Herr.
+
+Bernardin.
+Wie gehts, Abhorson?  Was habt ihr Neues?
+
+Abhorson.
+In gutem Ernst, Herr, ich wollte ihr wuerdet hurtig euer Gebet
+verrichten; denn, seht hier, der Befehl fuer eure Execution ist da.
+
+Bernardin.
+Ihr Schurke, ich habe die ganze Nacht durch gesoffen, es ist mir
+izt ungelegen.
+
+Harlequin.
+O, desto besser, Herr; einer der die ganze Nacht trinkt, und des
+Morgens bey Zeiten gehenkt wird, kan den ganzen naechsten Tag desto
+ruhiger schlafen.  (Der Herzog zu den Vorigen.)
+
+Abhorson.
+Seht, Herr, hier kommt euer geistlicher Vater; meynt ihr noch, dass
+es nur Spass sey?
+
+Herzog.
+Mein Herr, da ich gehoert habe, wir schnell ihr die Welt verlassen
+sollt, so komm ich aus Christlicher Liebe bewogen, euch
+vorzubereiten, zu troesten, und mit euch zu beten.
+
+Bernardin.
+Frater, ich nicht; Ich habe die ganze Nacht stark getrunken, und
+ich will mehr Zeit zu meiner Vorbereitung haben, oder sie sollen
+mir das Hirn mit Knitteln ausschlagen; ich werde mich nimmermehr
+dazu verstehen, heute zu sterben, das ist ausgemacht.
+
+Herzog.
+O, mein Herr, ihr muesst; und also bitte ich euch, bedenket die Reise
+wohl, die ihr zu machen habt.
+
+Bernardin.
+Ich schwoer euch aber, dass mich kein Mensch in der Welt ueberreden
+soll, heute zu sterben.
+
+Herzog.
+Aber ihr hoert ja--
+
+Bernardin.
+Nicht ein Wort; wenn ihr mir etwas zu sagen habt, so kommt in mein
+Gefaengniss, denn heute soll mich niemand anders wo hin bringen.
+
+(Er geht ab.)
+
+
+
+Neunte Scene.
+(Der Kerkermeister zu den Vorigen.)
+
+
+Herzog.
+Er ist ungeschikt zum Leben und zum Sterben: es aengstiget mein Herz!
+aber es muss seyn--Geht ihm nach, ihr Leute, und fuehrt ihn zu dem
+Blok.
+
+Kerkermeister.
+Nun, mein Ehrwuerdiger Herr, wie findet ihr den Gefangnen?
+
+Herzog.
+Unbereitet und untuechtig zum Sterben; ihn in der Gemuethsfassung
+worinn er ist, in die andre Welt zu schiken, waere verdammlich.
+
+Kerkermeister.
+Diesen Morgen, Vater, starb hier im Gefaengniss an einem hizigen
+Fieber ein gewisser Ragozin, ein sehr beruechtigter Raeuber, ein Mann
+von Claudios Jahren; Bart und Haar voellig von der nemlichen Farbe;
+wie wenn wir diesen Ruchlosen gehen liessen, bis er sich besser
+anlaesst, und den Statthalter mit Ragozins Haupt befriedigten, der
+dem Claudio aehnlicher sieht?
+
+Herzog.
+O, diss ist ein Zufall, den uns der Himmel geschikt hat; nur hurtig
+zur Ausfuehrung geschritten; die von Angelo bestimmte Stunde ruekt
+heran; sorget davor, dass alles seinem Befehl so gemaess eingerichtet
+werde, dass er den Tausch nicht merken koenne; indessen dass ich mich
+bemuehen werde, diesen rohen Ungluekseligen zum Tode willig zu machen.
+
+Kerkermeister.
+Es soll alles sogleich geschehen, mein guter Vater; aber Bernardin
+muss diesen Nachmittag sterben; und wie sollen wir den Claudio
+laenger hier behalten, ohne dass ich in Gefahr komme, wenn es bekannt
+wird dass er noch lebt?
+
+Herzog.
+Bringet Claudio und Bernardin jeden in irgend einen geheimen
+Enthalt; eh die Sonne zweymal untergegangen seyn wird, sollt ihr
+von eurer Sicherheit durch den Augenschein ueberzeugt werden.
+
+Kerkermeister.
+Ich gehorche euch mit Vergnuegen.
+
+Herzog.
+Schnell, beschleunigt euch, und schiket dem Angelo den Kopf.
+
+(Kerkermeister geht ab.)
+
+Nun will ich dem Angelo neue Briefe zufertigen, aus denen er
+ersehen soll, dass ich nahe bey der Stadt bin, und dass wichtige
+Ursachen mich verbinden, einen oeffentlichen Einzug zu halten; ich
+will ihm darinn befehlen, mir eine halbe Stunde weit vor der Stadt
+bis zum heiligen Brunnen entgegen zu gehen: Von da soll sich dann,
+nach der geheimen Veranstaltung, die wir machen werden, ein Umstand
+nach dem andern entfalten; und Angelo, in die Unmoeglichkeit gesezt,
+sich losszuwinden, soll sich selbst das Urtheil sprechen.  (Der
+Kerkermeister kommt.)
+
+Kerkermeister.
+Hier ist der Kopf; ich will ihn selbst hintragen.
+
+Herzog.
+Es ist das sicherste; beschleunigt eure Ruekkunft, denn ich habe
+euch Sachen zu eroeffnen, die keine andre Ohren brauchen als die
+eurigen.
+
+Kerkermeister.
+Ich will so hurtig seyn als ich kan.
+
+(Geht ab.)
+
+(Isabella ruft hinter der Scene.)
+
+Herzog.
+Das ist der Isabella Stimme--Sie kommt sich zu erkundigen, ob ihres
+Bruders Begnadigung angelangt sey.  Aber ich will ihr das Beste
+noch verhalten, damit sie desto angenehmer davon ueberraschet werde,
+wenn sie es am wenigsten erwarten kan.
+
+
+
+Zehnte Scene.
+
+
+Isabella.
+Mit eurer Erlaubniss--
+
+Herzog.
+Guten Morgen, meine schoene und liebenswuerdige Tochter.
+
+Isabella.
+Von einem so heiligen Mann kan dieser Gruss nicht anders als werth
+seyn.  Hat der Stadthalter Befehl fuer meines Bruders Begnadigung
+geschikt?
+
+Herzog.
+Er hat ihn von der Welt abgeruffen, Isabella; sein Kopf ist
+abgeschlagen, und dem Angelo zugeschikt.
+
+Isabella.
+Nein, es ist nicht so, will ich hoffen.
+
+Herzog.
+Es ist nicht anders.  Gebt durch eure gedultigste Gelassenheit,
+meine Tochter, eine Probe eurer Weisheit.
+
+Isabella.
+O, ich will zu ihm, und ihm die Augen ausreissen.
+
+Herzog.
+Ihr wuerdet nicht vor ihn gelassen werden.
+
+Isabella.
+Unglueklicher Claudio!  Arme Isabella!  Ungerechte Welt!  Verdammter
+Angelo!
+
+Herzog.
+Diss schadet ihm nichts, und nuezt euch nicht ein Jot.  Geduldet euch
+also, stellet eure Sache dem Himmel anheim; hoeret was ich euch sage;
+ihr werdet ganz gewiss erfahren, dass es von Sylbe zu Sylbe eine
+sichre Wahrheit ist.  Morgen kommt der Herzog wieder heim; troknet
+eure Augen; ein Priester von eurem Orden, der sein Beichtvater ist,
+hat mir diese Nachricht gegeben: Er hat dieses dem Angelo und
+Escalus schon zuwissen gethan, welche sich ruesten, ihm vor die
+Stadt entgegen zu gehen, und ihre Gewalt zu uebergeben.  Wenn ihr
+soviel von euch selbst gewinnen koennet, meinem Rath zu folgen, so
+werdet ihr durch den Herzog alle Rache die euer Herz wuenschen kan,
+an diesem Ungluekseligen nehmen, und allgemeinen Ruhm davon tragen.
+
+Isabella.
+Ich ueberlasse mich eurer Fuehrung.
+
+Herzog.
+Uebergebet also dieses Schreiben dem Bruder Peter; es ist eben
+dasjenige, worinn er mir von des Herzogs Wiederkunft Nachricht
+giebt.  Sagt ihm, es soll das Zeichen seyn, dass ich ihn heute
+Nachts in Marianens Hause sprechen wolle.  Ich will ihm daselbst
+von eurer und Marianens Sache vollkommne Wissenschaft geben; er
+soll euch vor den Herzog stellen, und den Angelo ins Angesicht
+anklagen und ueberweisen.  Denn ich selbst bin durch ein geheiligtes
+Geluebde genoethiget, um diese Zeit abwesend zu seyn.  Geht izt mit
+diesem Briefe: Fasset guten Muth, und befehlet diese aezenden
+Thraenen aus euern Augen.  Bey der Ehre meines heiligen Ordens, eure
+Sache soll einen guten Ausgang gewinnen.  Wer ist hier?
+
+
+
+Eilfte Scene.
+(Lucio zu den Vorigen.)
+
+
+Lucio.
+Guten Abend; Frater, wo ist der Kerkermeister?
+
+Herzog.
+Nicht hier, mein Herr.
+
+Lucio.
+O!  meine artige Isabella, ich bin recht von Herzen blass, deine
+schoene Augen so roth zu sehen; du must geduldig seyn; ich muss mich
+auch gedulden, statt der Mittags- und Abend-Mahlzeit mit Wasser und
+Brot vorlieb zu nehmen; ich darf mich fuer meinen Kopf nicht
+unterstehen, meinen Bauch zu fuellen; eine einzige gute Mahlzeit
+wuerde mich liefern.  Aber sie sagen, der Herzog werde morgen hier
+seyn.  Bey meiner Treu, Isabell, ich liebte deinen Bruder; waere der
+alte phantastische Herzog anstatt der finstern Winkel, bey Hause
+gewesen, so lebte er noch.
+
+(Isabella geht ab.)
+
+Herzog.
+Mein Herr, der Herzog ist euch fuer eure Discourse von ihm
+ausserordentlich wenig Dank schuldig; das beste ist indessen, dass
+sie nicht wahr sind.
+
+Lucio.
+Frater, du kennst den Herzog nicht sowol als ich; er ist ein bessrer
+Weidmann als du dir einbildest.
+
+Herzog.
+Gut, ihr sollt zu seiner Zeit Red' und Antwort davor geben.  Lebet
+wohl.
+
+Lucio.
+Nein, warte noch, ich will mit dir gehen; ich kan dir artige
+Histoerchen von dem Herzog erzaehlen.
+
+Herzog.
+Ihr habt mir bereits schon zuviel von ihm erzaehlt, wenn sie wahr
+sind; und sind sie es nicht, so waeren gar keine schon genug.
+
+Lucio.
+Ich bin einmal vor ihm gewesen, weil ich einem Menschen ein Kind
+gemacht hatte.
+
+Herzog.
+Thatet ihr das?
+
+Lucio.
+Das denk ich, zum Henker, dass ich es that; aber ich schwur es
+sauber weg; mein Seel, wenn ichs nicht gethan haette, sie haetten
+mich an die faule Mispel verheurathet.
+
+Herzog.
+Mein Herr, eure Gesellschaft ist schoener als ehrenhaft: Bleibt ein
+wenig zuruek oder geht voraus, wenn ich bitten darf.
+
+Lucio.
+Mein Seel, ich gehe mit dir, bis die Gasse zu Ende ist; wenn dir
+H**jaegers-Discourse aergerlich sind, so wollen wir sparsam damit
+seyn; mein Seel, Frater, ich bin eine Art von Klette, ich haenge
+mich an.
+
+(Sie gehen ab.)
+
+
+
+Zwoelfte Scene.
+(Der Palast.)
+(Angelo.  Escalus.)
+
+
+Escalus.
+Jeder Brief den er geschrieben hat, widerspricht dem vorhergehenden.
+
+Angelo.
+Seine Handlungen sehen dem Wahnwiz nur allzu gleich.  Der Himmel
+gebe, dass sein Verstand nicht angegriffen seyn moege!  Und warum
+sollen wir ihm vor dem Thor entgegen kommen, und unsre Aemter dort
+niederlegen?
+
+Escalus.
+Das kan ich nicht errathen.
+
+Angelo.
+Und warum sollen wir eine Stunde vor seinem Einzug ausruffen lassen,
+dass wofern irgendjemand sich durch einen ungerechten Spruch
+beschwert zu seyn glaube, er seine Bitte auf der Strasse uebergeben
+solle?
+
+Escalus.
+Fuer dieses sagt er uns seine Ursache; seine Absicht ist, allen
+Klagen auf einmal abzuhelfen, und uns fuers kuenftige gegen
+Beschwerungen sicher zu stellen, die hernach keine Kraft mehr gegen
+uns haben sollen.
+
+Angelo.
+Gut; ich bitte euch, lasst den Ausruf morgen bey Zeiten geschehen;
+ich will euch in euerm Hause abholen: Lasset es alle diejenige
+wissen, denen es zusteht, ihm mit uns entgegen zu gehen.
+
+Escalus.
+Ich werde nicht ermangeln, mein Herr; lebet wohl.
+
+Angelo.
+Gute Nacht.  Diese That entmannet mich gaenzlich, macht mich unfaehig
+zum Denken, und ungeschikt zu allem was ich thun soll?  Eine
+geschaendete Jungfrau!  Und von wem?  Von demjenigen, der das Gesez
+wider solche Verbrechen in seiner ganzen Strenge gelten machte.
+Allein, ausserdem dass ihre zaertliche Schaamhaftigkeit sich nicht
+wird ueberwinden koennen, den Verlust ihrer jungfraeulichen Ehre
+selbst auszuruffen, was wuerde ihr Zeugniss gegen mich vermoegen?  Was
+ich auch sagen mag, so kan ich allemal ihrem Nein troz bieten.
+Mein Ansehen ist zu gross, zu befestigt, als dass irgend eine
+Beschuldigung von dieser Art an mir haften koennte, und nicht mit
+Schaam auf denjenigen zurueckfiele, der meinen Ruhm anhauchen wollte--
+Ich haette ihn leben lassen, wenn ich nicht besorgt haette, seine
+hizige Jugend moechte dereinst seine beleidigte Ehre raechen, ohne
+sich mir fuer ein Leben verbunden zu halten, das er mit einer
+solchen Schande erkauffen musste.  Und doch wuenschte ich, dass er
+noch lebte!  Himmel!  Wie unglueklich sind wir, wenn wir nur einmal
+unsrer Pflicht vergessen haben!  Wie schnell reisst uns eine boese
+That zur andern fort!  Und wie wenig bleiben wir Meister ueber das,
+was wir wollen oder nicht wollen!
+
+(Geht ab.)
+
+
+
+Dreyzehnte Scene.
+(Eine Gegend vor der Stadt.)
+(Der Herzog in seiner eignen Kleidung, und Bruder Peter.)
+
+
+Herzog.
+Vor allen Dingen gebt diese Briefe ab, wohin sie gehoeren.  Der
+Kerkermeister weiss bereits von unserm Vorhaben und von der
+Veranstaltung desselben.  Wenn die Sache einmal anhaengig gemacht
+ist, so spielet eure Rolle wohl, und haltet euch immer an eure
+besondere Instruction, ob ihr gleich zuweilen einen kleinen
+Absprung machen koennt, wenn es die Gelegenheit erfordert: Geht,
+suchet den Flavius auf, und sagt ihm, wo ich anzutreffen bin; eben
+diese Nachricht gebt auch dem Valentius, Roland und Crassus, und
+befehlet ihnen, die Trompeten vor das Thor bringen zu lassen.  Aber
+schiket vorher zu dem Flavius.
+
+Peter.
+Es soll aufs schleunigste geschehen.
+
+(Peter geht ab.)
+
+(Varrius.)
+
+Herzog.
+Ich danke dir, Varrius; du bist sehr hurtig gewesen; Komm, wir
+wollen auf und abgehen; Es sind noch andre gute Freunde, die uns
+hier gruessen werden, mein werther Varrius.
+
+(Sie gehen ab.)
+
+
+
+Vierzehnte Scene.
+(Isabella und Mariane treten auf.)
+
+
+Isabella.
+Ich verstehe mich ungern dazu, so viele Umschweife zu gebrauchen;
+ich moechte die Wahrheit sagen; aber ihn so geradezu anzuklagen, ist
+eure Rolle; die meinige ist mir so vorgeschrieben; er sagt, dass es
+zu Erreichung unsrer Absicht noethig sey.
+
+Mariane.
+Ueberlasst es ihm, euch zu sagen, was ihr thun sollt.
+
+Isabella.
+Er sagt mir auch, ich soll' es mir nicht seltsam vorkommen lassen,
+wenn er allenfalls auch auf die andre Seite, und wider mich reden
+sollte--
+
+Mariane.
+Ich wuenschte, der Bruder Peter--
+
+Isabella.
+Stille, da kommt er ja.
+
+(Peter zu den Vorigen.)
+
+Peter.
+Kommt, ich habe einen Ort fuer euch ausfuendig gemacht, wo ihr ganz
+bequem warten koennet, und wo euch der Herzog nicht entgehen kan.
+Die Trompeten haben schon zweymal getoent; die angesehensten Buerger
+haben sich schon bey dem Stadt-Thor versammelt; der Herzog ist im
+Anzug; wir muessen eilen.
+
+(Sie gehen ab.)
+
+
+
+
+Fuenfter Aufzug.
+
+
+
+Erste Scene.
+(Ein oeffentlicher Plaz nahe bey der Stadt.)
+(Der Herzog, Varrius, etliche andre Edelleute, Angelo, Escalus,
+ Lucio und einige Buerger, treten auf verschiednen Seiten auf.)
+
+
+Herzog.
+Mein wuerdiger Vetter, ich danke euch fuer diesen Willkomm; unser
+alter und getreuer Freund, wir sind erfreut euch zusehen.
+
+Angelo und Escalus.
+Begluekt sey Euer Durchlaucht Wiederkunft!
+
+Herzog.
+Wir danken euch beyden von Herzen.
+
+(Zu Angelo.)
+
+Wir haben uns nach euch erkundiget, und wir hoeren so viel Gutes
+von der Gerechtigkeit eurer Staatsverwaltung, dass wir nicht umhin
+koennen, euch desswegen oeffentlichen Dank zu erstatten, bis wir
+Gelegenheit haben, es auf eine vollstaendigere Art zu thun.
+
+Angelo.
+Euer Durchlaucht macht meine Verpflichtungen immer groesser.
+
+Herzog.
+O!  euer Verdienst redet laut, und ich wuerde ungerecht gegen
+dasselbe seyn, wenn ich es in den Kerker meines eignen Busens
+einschliessen wollte; da es wuerdig ist, mit Buchstaben von Erzt
+gegen den Zahn der Zeit und den Rost der Vergessenheit gesichert zu
+werden.  Gebt mir eure Hand, und lasst die Unterthanen sehen, wie
+begierig wir sind, unsre innerliche Achtung fuer euch durch
+aeusserliche Merkmale oeffentlich bekannt zu machen.  Kommt, Escalus;
+ihr sollt auf der andern Seite mit uns gehen, ihr habt euch unsers
+Zutrauens wuerdig bewiesen.
+
+(Der Herzog macht einige Schritte, als ob er weiter gehen wollte.)
+
+
+
+Zweyte Scene.
+(Peter und Isabella zu den Vorigen.)
+
+
+Peter (zu Isabella.)
+Izt ist eure Zeit: Redet laut, und kniet vor ihm.
+
+Isabella.
+Gerechtigkeit, Gnaedigster Herr; werfet euern Blik auf eine
+ungluekliche, misshandelte--Schier haette ich gesagt, Jungfrau: O,
+wuerdiger Fuerst, entehret euer Auge nicht, es auf einen andern
+Gegenstand zu richten, bevor ihr meine gerechten Klagen angehoert,
+und mir Recht verschaft habt.
+
+Herzog.
+Was fuer Unrecht ist euch dann geschehen, worinn?  von wem?  macht
+es kurz; hier ist der Freyherr Angelo, der euch Recht schaffen wird;
+eroeffnet euch ihm.
+
+Isabella.
+O mein Gnaedigster Herr!  Ihr befehlet mir, Erloesung bey dem Teufel
+zu suchen.  Hoeret mich selbst an, denn das was ich zu sagen habe,
+muss entweder mich straffen, wenn ich keinen Glauben finde, oder
+euch Rache abnoethigen; o, hoeret mich, hoeret mich.
+
+Angelo.
+Gnaedigster Herr, ich besorge, sie ist nicht recht bey Vernunft; sie
+hat eine vergebliche Fuerbitte fuer ihren Bruder bey mir eingelegt,
+der nach dem Lauf der Gerechtigkeit den Kopf verlohren hat.
+
+Isabella.
+Lauf der Gerechtigkeit!
+
+Angelo.
+Und izt wird sie in ihrer Verbitterung seltsame Reden ausstossen.
+
+Isabella.
+Hoechst seltsame; aber nur allzuwahr ist es, was ich sagen werde;
+dass Angelo ein meyneydiger Mann ist, ist das nicht seltsam?  dass
+Angelo ein Moerder ist, ist das nicht seltsam?  dass Angelo ein
+ehebrechrischer Raeuber, ein Heuchler, ein Jungfrauen-Schaender ist?
+ist das nicht seltsam, und abermal seltsam?
+
+Herzog.
+In der That, es ist zehenmal seltsam.
+
+Isabella.
+Und doch ist es nicht wahrer, dass er Angelo ist, als dass alles
+dieses so wahr ist, als es seltsam ist; ja, es ist zehenmal wahrer;
+denn Wahrheit ist am Schluss allemal Wahrheit.
+
+Herzog.
+Schaft sie hinweg, die arme Seele; sie sagt das in der Verruekung
+ihres Gehirns.
+
+Isabella.
+O Fuerst ich beschwoehre dich, wenn du anders glaubest dass noch ein
+andrer Trost ist als diese Welt, verachte mich nicht, in der
+Meynung, dass ich nicht bey gesunder Vernunft sey.  Mache nicht
+unmoeglich, was nur unbegreiflich scheint; es ist nicht unmoeglich,
+dass der aergste Bube im Herzen von aussen so sproede, so ernsthaft,
+so gerecht, so unstraeflich scheinen kan, als Angelo;
+gleichergestalt kan Angelo, mit allen seinen Masken, Charactern,
+Titeln und Anscheinungen, doch nur ein Erz-Boesewicht seyn; Glaubet
+mir, gnaedigster Herr, er ist es; wenn er weniger ist, so ist er gar
+nichts; aber er ist mehr, wenn ich Namen fuer seine Bossheit haette.
+
+Herzog.
+Bey meiner Ehre, wenn sie unsinnig ist, wie ich nicht anders glaube,
+so hat doch ihr Unsinn die seltsamste Gestalt von Vernunft; so
+viel Zusammenhang in allem was sie spricht, als ich jemals in den
+Reden eines Wahnwizigen gehoert habe.
+
+Isabella.
+Gnaedigster Herr, bleibet doch nicht immer auf dieser Einbildung;
+verwerfet die Vernunft nicht, weil sie unwahrscheinliche Dinge sagt;
+sondern bedient euch der eurigen, die Wahrheit ans Licht zu ziehen,
+wo sie verborgen scheint, anstatt den Irrthum zu verbergen, weil
+er Wahrheit scheint.
+
+Herzog.
+Manche, die nicht wahnwizig sind, haben, wahrhaftig, weniger
+Vernunft--Was wollt ihr dann sagen?
+
+Isabella.
+Ich bin die Schwester eines gewissen Claudio, der wegen der Suende
+der Hurerey verurtheilt wurde, den Kopf zu verliehren; Angelo war
+es, der ihn verurtheilte: Ich, die im Begriff bin meine Probzeit in
+einem Kloster zu vollenden, wurde von meinem Bruder zu ihm geschikt;
+ein gewisser Lucio, von dem ich die Nachricht hatte--
+
+Lucio.
+Das bin ich, mit Euer Durchlaucht Erlaubniss; Claudio hatte mich zu
+ihr geschikt, um sie zu bewegen, dass sie versuchen sollte, durch
+ihre ruehrende Fuerbitte die Begnadigung ihres Bruders auszuwuerken.
+
+Isabella.
+Er ist es, in der That.
+
+Herzog (zu Lucio.)
+Man hat euch nicht befohlen zu reden.
+
+Lucio.
+Nein, Gnaedigster Herr, noch gewuenscht dass ich schweigen moechte.
+
+Herzog.
+Ich wuensch euch's also izt; seyd so gut und merkt euch das; und
+wenn ihr Gelegenheit bekommt fuer euch selbst zu sprechen, so bittet
+den Himmel, dass ihr alsdenn nicht verstummen moeget.
+
+Lucio.
+Dafuer steh' ich Euer Gnaden.
+
+Herzog.
+Es wird sich zeigen.
+
+Isabella.
+Dieser Edelmann erzaehlte etwas von meiner Geschichte.
+
+Lucio.
+So ists.
+
+Herzog.
+Es mag so seyn, aber ihr sollt nicht eher reden bis die Reyhe an
+euch kommt.  Weiter!
+
+Isabella.
+Ich gieng also zu diesem verderblichen gottlosen Stadthalter.
+
+Herzog.
+Das ist ein wenig wahnwizig gesprochen.
+
+Isabella.
+Vergebet mir, der Ausdruk ist der Materie gemaess.
+
+Herzog.
+Wieder verbessert--der Materie--Nur weiter.
+
+Isabella.
+Kurz, um die unnoethigen Umstaende zu uebergehen, wie viel
+Vorstellungen ich ihm gemacht, wie sehr ich gebeten, wie ich ihm zu
+Fusse gefallen, was er mir entgegengesezt, und wie ich ihm
+geantwortet, denn dieses daurte sehr lang--ich will den Anfang
+damit machen, womit dieser Auftritt sich beschloss, wenn ich es
+anders vor Schmerz und Schaam heraussagen kan.  Er beharrte darauf,
+dass er meinen Bruder unter keiner andern Bedingung losgeben wollte,
+als wenn ich meinen jungfraeulichen Leib seiner unkeuschen Begierde
+ueberlassen wuerde; und nach vielem Wortwechsel uebertaeubte endlich
+das schwesterliche Mitleiden die Stimme der Ehre, und ich gab nach:
+Aber den folgenden Morgen frueh, nachdem er seinen Zwek erhalten
+hatte, schikt' er Befehl, dass meinem Bruder der Kopf abgeschlagen
+werden sollte.
+
+Herzog (spoettisch.)
+Das ist sehr wahrscheinlich!
+
+Isabella.
+O moecht es so scheinbar* seyn, als es wahr ist.
+
+{ed.-* Der Sinn dieser Rede besteht in einem Spiel mit dem Wort (like),
+welches der Herzog fuer wahrscheinlich, und Isabella fuer artig oder
+anstaendig gebraucht; denn es hat beyde Bedeutungen.}
+
+Herzog.
+Beym Himmel, du wahnwiziger Tropf, du weist nicht was du sprichst,
+oder du bist durch boshafte Kuenste gegen seine Ehre aufgestiftet
+worden.  Fuers erste, so ist er ein Mann, dessen Tugend ausser
+Zweifel ist.  Zweytens ist es wider alle Vernunft, dass er eine
+Vergehung, deren er sich selbst schuldig gemacht, so hart an einem
+andern gestraft haben sollte; haette er sich so vergangen, so wuerde
+er deinen Bruder nach sich selbst gemessen, und ihm seinen Kopf
+gelassen haben.  Ihr seyd von jemand aufgestiftet worden; Gesteht
+die Wahrheit, und sagt, auf wessen Anrathen habt ihr diese Anklage
+hier vorgebracht?
+
+Isabella.
+Und ist das alles?  O dann, so verleihet mir Geduld, ihr Heiligen
+dort oben!  und entdeket zu seiner Zeit die Uebelthat, die hier in
+partheyische Gunst eingehuellet wird!  Der Himmel bewahre Euer
+Durchlaucht so gewiss vor Unfall, als es wahr ist, dass ich das
+Unrecht erlitten habe, ob ich gleich keinen Glauben finde.
+
+Herzog.
+Das glaube ich, dass ihr gerne davon gehen moechtet.  Einen
+Stadtbedienten, ins Gefaengnis mit ihr.  Sollten wir gestatten, dass
+eine Person die uns so nahe ist, ungestraft so aergerlich
+angeschmizt werden duerfte?  Das muss nothwendig eine angestellte
+Sache seyn.  Wer weiss mit von euerm Vorhaben und Hieherkommen?
+
+Isabella.
+Einer den ich gerne hieher wuenschen moechte, der Pater Ludewig.
+
+Herzog.
+Ein Ordensmann, wie es scheint; wer kennt diesen Ludewig?
+
+Lucio.
+Gnaedigster Herr, ich kenn' ihn; es ist ein Moench, der seine Nase in
+alles stekt, ich kan ihn nicht leiden; waer er ein Lay gewesen,
+Gnaedigster Herr, ich wollte ihn wegen einiger Reden, die er wider
+Euer Durchlaucht, in Dero Abwesenheit ausgestossen hat,
+abgeschmiert haben, dass er es gefuehlt haette.
+
+Herzog.
+Reden wider mich?  Das ist ein feiner Ordensmann, dem Ansehen nach;
+und dieses ungluekliche Weibsbild wider unsern Stadthalter
+aufzustiften!  Lasst diesen Moenchen aufsuchen.
+
+Lucio.
+Erst noch in verwichner Nacht, traf ich sie und diesen Moench im
+Gefaengniss bey einander an; eine unverschaemte Kutte, wie gesagt, ein
+recht boshafter Geselle.
+
+Peter.
+Mit Euer Durchlaucht gnaedigster Erlaubniss, ich stand dabey, und ich
+hoerte genug um zu sehen, wie sehr euer koenigliches Ohr missbraucht
+wird.  Fuers erste; so hat dieses Weibsbild euern Stadthalter hoechst
+frefelhafter Weise angeklagt; er ist so rein von einiger Besudlung
+mit ihr, als sie von einem, der noch nicht gebohren ist.
+
+Herzog.
+Ich glaube auch nichts anders.  Kennt ihr diesen Pater Ludewig, von
+dem sie spricht?
+
+Peter.
+Ich kenn ihn als einen heiligen Mann; nicht boshaft, nicht fuerwizig
+sich in zeitliche Dinge einzumischen, wie dieser Edelmann gesagt
+hat; und ein Mann, bey meiner Treue, der niemals, wie er vorgiebt,
+von Euer Durchlaucht ungebuehrlich gesprochen hat.
+
+Lucio.
+Gnaedigster Herr, auf eine ganz infame Art; glaubet mir.
+
+Peter.
+Gut; er kan noch zeitig genug kommen sich zu rechtfertigen; aber in
+diesem Augenblik, Gnaedigster Herr, ist er an einem wunderbaren
+Fieber krank.  Bloss auf sein Bitten (da es bekannt wurde, dass hier
+eine Klage wieder den Freyherrn Angelo angestellt werden sollte)
+bin ich hieher gekommen, um aus seinem Munde zu sagen, was er von
+der Sache weiss, und was er, wenn er vorgeladen werden sollte, mit
+seinem Eyde zu bekraeftigen im Stand ist.  Was anforderst dieses
+Weibsbild betrift, so sollt ihr, zur Rechtfertigung dieses wuerdigen
+Herrn, der auf eine so oeffentliche und persoenliche Art von ihr
+beschimpft wird, hoeren wie sie vor euern Augen dergestalt wird
+ueberwiesen werden, dass sie es selbst wird eingestehen muessen.
+
+Herzog.
+Mein guter Pater; lasst's uns hoeren.  Laechelt ihr nicht ueber diese
+Begebenheiten, Angelo?  Himmel!  Was fuer eine Unbesonnenheit von
+diesen unglueklichen Thoren!--Gebt uns Size; kommt, mein Vetter
+Angelo; ich will an dieser Sache keinen Theil nehmen; seyd ihr
+Richter in eurer eignen Sache.
+
+(Isabella wird mit einer Wache weggefuehrt,
+und Mariane tritt mit einem Schleyer bedekt auf.)
+
+
+
+Dritte Scene.
+
+
+Herzog.
+Ist das der Zeuge, Pater?  Sie mag zuerst ihr Gesicht sehen lassen,
+eh sie spricht.
+
+Mariane.
+Um Vergebung, Gnaedigster Herr; ich lasse mein Gesicht nicht sehen,
+ausser mein Gemahl befoehl' es mir.
+
+Herzog.
+So seyd ihr verheurathet?
+
+Mariane.
+Nein, Gnaedigster Herr.
+
+Herzog.
+Seyd ihr ein Maedchen?
+
+Mariane.
+Nein, Gnaedigster Herr.
+
+Herzog.
+Eine Wittwe also?
+
+Mariane.
+Auch das nicht, Gnaedigster Herr.
+
+Herzog.
+Wie, seyd ihr denn nichts?  Weder Maedchen, noch Frau, noch Wittwe?
+
+Lucio.
+Gnaedigster Herr, sie ist vielleicht eine Pf** Koechin--
+
+
+Herzog.
+Macht doch diesen Kerl schweigen; ich wollte, er haette etwas mit
+sich selbst zu dahlen.
+
+Lucio.
+Gut, Gnaedigster Herr.
+
+Mariane.
+Gnaedigster Herr, ich gesteh's, ich bin nie verheurathet gewesen;
+ich gesteh auch zugleich, dass ich kein Maedchen bin; ich habe meinen
+Gemahl gekannt, aber mein Gemahl weiss nicht, dass er mich jemals
+gekannt hat.
+
+Lucio.
+So war er also betrunken, Gnaedigster Herr, es kan nicht anders seyn.
+
+Herzog.
+Ich wollte du waer'st es auch, so schwiegest du doch wenigstens.
+
+Lucio.
+Gut, Gnaedigster Herr.
+
+Herzog.
+Das ist keine Zeugin fuer den Freyherrn Angelo.
+
+Mariane.
+Ich komme nun dazu, Gnaedigster Herr.  Das Frauenzimmer, das ihn
+beschuldiget, dass er sie entehrt habe, klagt dadurch meinen Gemahl
+an, indem sie vorgiebt, dass es zu einer Zeit geschehen sey, von der
+ich behaupte, dass ich ihn mit allen Wuerkungen der Liebe in meinen
+Armen hatte.
+
+Angelo.
+Beschuldiget sie jemand mehr als mich?
+
+Mariane.
+Nicht dass ich wuesste.
+
+Herzog.
+Nicht?  Ihr sagt, euer Gemahl?
+
+Mariane.
+So ist es, Gnaedigster Herr, und der ist Angelo; der sich einbildt,
+er wisse gewiss, dass er mich nie beruehrt habe, aber gewiss weiss, dass
+er sich einbildt, es sey Isabella gewesen.
+
+Angelo.
+Das heisst die Bosheit weit getrieben; lass dein Gesicht sehen!
+
+Mariane.
+Mein Gemahl befiehlt es, nun will ichs thun.
+
+(Sie nimmt ihren Schleyer ab.)
+
+Siehe hier, du grausamer Angelo, siehe das Gesicht, welches einst,
+wenn deine Schwuere Glauben verdienten, werth war angesehen zu
+werden; dieses ist die Hand, die durch einen feyerlichen
+Ehverspruch in die deinige geschlossen wurde; diss ist der Leib, der
+das Versprechen der Isabella bezahlte, und in deinem Gartenhaus
+ihre eingebildete Person vorstellte!
+
+Herzog (zu Angelo.)
+Kennt ihr dieses Frauenzimmer?
+
+Lucio.
+Fleischlicher Weise, sagt sie.
+
+Herzog.
+Schlingel, kein Wort mehr.
+
+Lucio.
+Genug, Gnaedigster Herr.
+
+Angelo.
+Gnaedigster Herr, ich muss gestehen, dass ich dieses Frauenzimmer
+kenne.  Vor ungefehr fuenf Jahren wurde eine Verbindung zwischen mir
+und ihr in Vorschlag gebracht, die sich aber wieder zerschlug,
+theils weil ihr Vermoegen sich weit geringer befand als man es
+angegeben hatte; vornemlich aber, weil der Ruf einer unvorsichtigen
+Auffuehrung ihre Ehre zweifelhaft machte.  Seit diesem bezeuge ich
+bey meiner Ehre und Treue, dass ich sie binnen fuenf Jahren weder
+gesehen, noch mit ihr gesprochen, noch von ihr gehoert habe.
+
+Mariane.
+Grosser Fuerst, so gewiss als das Licht vom Himmel, und Worte vom
+Athem kommen; so gewiss als Vernunft in der Wahrheit, und Wahrheit
+in der Tugend ist; so gewiss bin ich, in Kraft der feyerlichsten
+Geluebde, dieses Mannes verlobtes Weib: Und nur erst in verwichner
+Dienstags-Nacht, in seinem Garten-Hause, erkannte er mich wie ein
+Weib.  So wahr als diss ist, moege ich gesund von meinen Knien wieder
+aufstehen, oder wo nicht, auf ewig hier als ein marmornes Denkbild
+stehen bleiben.
+
+Angelo.
+Ich laechelte bisher nur; aber nun, Gnaedigster Herr, muss ich Euer
+Durchlaucht bitten, mir Recht zu schaffen.  Meine Geduld geht zu
+Ende; ich sehe, dass diese armen einfaeltigen Weibsbilder nur die
+Werkzeuge einer verborgnen und maechtigern Hand sind, die sie in
+Bewegung sezt.  Verstattet mir, Gnaedigster Herr, dass ich mich
+bemuehe, auf den Grund dieses Complots zu kommen.
+
+Herzog.
+Von Herzen gern, und die Schuldigen so hart als ihr wollt,
+abzustraffen.  Du thoerichter Moench und du boshaftes Weibsbild,
+denkt ihr, eure Eydschwuere selbst, und wenn sie alle Heiligen
+persoenlich herabschwoeren wuerden, waeren ein hinlaengliches Zeugniss
+gegen sein bewaehrtes und so lange festgeseztes Ansehen?  Escalus,
+sezet euch mit meinem Vetter, und leihet ihm eure freundschaftliche
+Muehe, die Quelle dieser schaendlichen Verlaeumdungen zu entdeken.  Es
+ist noch ein andrer Moench, der sie aufgestiftet hat; lasst ihn
+herbeyschaffen.
+
+Peter.
+Ich wuenschte, Gnaedigster Herr, er waere hier; denn in der That ist
+er derjenige, der diese Frauenzimmer aufgemuntert, diese Klagen
+anhaengig zu machen.  Euer Kerkermeister kennt den Ort, wo er sich
+aufhaelt, und kan ihn holen.
+
+Herzog.
+Geht, thut es augenbliklich; und ihr, mein edler und wuerdiger
+Vetter, dem am meisten daran ligt, diese Sache genauer zu
+untersuchen, verfahret nach euerm Gutduenken in Bestrafung der
+Schuldigen.  Ich will euch fuer eine Weile verlassen; aber bleibt
+ihr so lange zuruek, bis ihr die Bosheit dieser Verlaeumder voellig zu
+Schanden gemacht habt.
+
+(Er geht ab.)
+
+
+
+Vierte Scene.
+
+
+Escalus.
+Gnaedigster Herr, wir wollen nichts ermangeln lassen.  Herr Lucio,
+sagtet ihr nicht, ihr kennet diesen Frater Ludewig fuer einen Mann
+von schlechter Auffuehrung?
+
+Lucio.
+(Cucullus non facit Monachum;) es ist nichts ehrwuerdig an ihm als
+seine Kutte; er hat auf eine hoechst infame Art von der Person des
+Herzogs gesprochen.
+
+Escalus.
+Wir ersuchen euch, hier zu bleiben, bis er kommt, und ihn dessen zu
+ueberweisen; es wird sich finden, dass dieser Moench ein schlimmer
+Vogel ist.
+
+Lucio.
+Als irgend einer in Wien, auf mein Wort.
+
+Escalus.
+Ruft diese Isabella wieder hieher; ich moechte mit ihr reden; ich
+bitte euch, Gnaediger Herr, erlaubet mir, sie abzuhoeren; ihr sollt
+sehen wie ich sie behandeln werde.
+
+Lucio (vor sich.)
+Ich denke nicht besser als er, nach ihrer eignen Aussage.
+
+Escalus.
+Wie beliebt?
+
+Lucio.
+Mein Seel, ich denke mein Herr, wenn ihr sie ohne Zeugen behandeln
+wuerdet, sie wuerde schneller bekennen; vielleicht schaemt sie sich,
+es so vor allen Leuten zu thun.  (Der Herzog in Moenchshabit, und
+der Kerkermeister;
+Isabella wird herbeygefuehrt.)
+
+Escalus.
+Ich will ernstlich mit ihr zu Werke gehen.  Ein wenig naeher Madam;
+Hier ist ein Frauenzimmer, das allem widerspricht, was ihr gesagt
+habt.
+
+Lucio.
+Gnaediger Herr, hier kommt der Schurke, von dem ich sagte, hier mit
+dem Kerkermeister.
+
+Escalus.
+Er kommt eben recht; sagt ihr nichts zu ihm, bis wir euch aufruffen.
+
+Lucio.
+Nein!--
+
+Escalus.
+Kommt, Herr, seyd ihr derjenige, der diese Weibsbilder aufstiftete,
+den Freyherrn Angelo zu verlaeumden?  Sie haben bekennt, dass ihr es
+seyd.
+
+Herzog.
+Es ist nicht wahr.
+
+Escalus.
+Wie?  Wisst ihr auch wo ihr seyd?
+
+Herzog.
+Den Respect vor eurer hohen Wuerde vorbehalten, der Teufel selbst
+kan manchmal um seines brennenden Throns willen geehrt werden.  Wo
+ist der Herzog?  Er soll mich hoeren, wenn ich reden soll.
+
+Escalus.
+Der Herzog ist in uns, und wir wollen euch reden hoeren; sehet zu,
+dass ihr die Wahrheit sagt.
+
+Herzog.
+Ganz ungescheut.  Aber, o ihr armen Seelen, kommt ihr, das Lamm
+hier von dem Fuchs zu fordern?  Gute Nacht eurer Satisfaction!
+Wenn der Herzog weggegangen ist, so ist eure Sache verlohren.  Der
+Herzog handelt unbillig, eure Appellation an ihn so abzuweisen, und
+die Untersuchung eurer Sache dem Boesewicht zu ueberlassen, den ihr
+anzuklagen gekommen seyd.
+
+Lucio.
+Da haben wir den Schurken; es ist der von dem ich sagte.
+
+Escalus.
+Wie, du unehrwuerdiger und unheiliger Moench, ist es dir nicht genug,
+dass du diese Weibsleute heimlich gewonnen hast, diesen wuerdigen
+Mann anzuklagen; unterstehst du dich noch, ihn unverschaemter Weise
+und vor seinen eignen Ohren einen Boesewicht zu nennen?  ja von ihm
+auf den Herzog selbst zu fallen, und ihn der Ungerechtigkeit zu
+beschuldigen?  Fuehrt ihn fort; an die Folter mit ihm; wir wollen
+dir eher Glied fuer Glied verzetteln, eh du uns dein Vorhaben
+ablaeugnen sollst.  Was?  Ungerecht?
+
+Herzog.
+Nicht so hizig; der Herzog hat so wenig das Herz, einen Finger von
+mir streken zu lassen, als seinen eignen: Ich bin sein Unterthan
+nicht, ich stehe auch nicht unter der hiesigen Provinz; meine
+Geschaefte in diesem Staat gaben mir Gelegenheit, auf das was hier
+in Wien vorgeht Acht zu geben; ich habe gesehen, wie die Verderbniss
+der Sitten siedet und strudelt, bis der Kessel ueberlauft; Geseze
+gegen alle Verbrechen; aber Verbrechen, die so vorsichtig begangen
+werden, dass sie der Geseze spotten.
+
+Escalus.
+Er schmaeht den Staat, weg mit ihm ins Gefaengniss.
+
+Angelo.
+Was habt ihr wider ihn vorzubringen, Herr Lucio?  Ist das der Mann,
+von dem ihr uns erzaehltet?
+
+Lucio.
+Er ists, Gnaediger Herr; kommt naeher, guter Freund Kahlkopf; kennt
+ihr mich?
+
+Herzog.
+Ich erinnre mich eurer am Ton eurer Stimme; ich traf euch waehrender
+Abwesenheit des Herzogs im Gefaengniss an.
+
+Lucio.
+So, traft ihr mich an?  und erinnert ihr euch noch, was ihr von dem
+Herzog sagtet?
+
+Herzog.
+Vollkommen, mein Herr.
+
+Lucio.
+Vollkommen, mein Herr?  Und war denn der Herzog ein Hurenjaeger, ein
+Gek, ein Hasenfuss, wie ihr sagtet?
+
+Herzog.
+Ihr muesst erst eure Person mit mir tauschen, eh ihr mich das sagen
+lassen koennt; ihr sagtet das von ihm, und noch aergers.
+
+Lucio.
+O du verruchter Geselle!  Zog ich dich nicht bey der Nase, wie du
+so redtest?
+
+Herzog.
+Ich versichre, dass ich den Herzog so sehr liebe als mich selbst.
+
+Angelo.
+Hoert ihr, wie der Bube sich wieder heraushalftern moechte, nachdem
+er so verraethrische Reden ausgestossen hat?
+
+Escalus.
+Mit einem solchen Kerl muss man sich nicht einlassen; weg mit ihm
+ins Gefaengniss; wo ist der Kerkermeister?  weg mit ihm ins Gefaengniss;
+legt ihm Fesseln an; lasst ihn nicht mehr reden; weg mit diesen
+Mezen, ins Gefaengniss, und mit den uebrigen Zusammenverschwornen.
+
+Herzog.
+Haltet, mein Herr, haltet noch ein wenig.
+
+Angelo.
+Wie?  er widersezt sich?  helft ihm, Lucio.
+
+Lucio.
+Kommt, mein Herr; hey da, Herr, kommt, ein wenig hieher, mein Herr;
+wie?  du kahlkoepfichter luegenhafter Schurke; du must um einen Kopf
+kuerzer gemacht werden; gelt, du must?  Zeig dein Schelmengesicht,
+dass du die Kraenke kriegest; zeig dein bissiges Schaafs-Gesicht, und
+lass dich in einer Stunde haengen: Willt du nicht fort?
+
+(Er reisst die Moenchs-Kutte ab, und entdekt den Herzog.)
+
+Herzog.
+Du bist der erste Spizbube, der jemals einen Herzog gemacht hat.
+Fuers erste, Kerkermeister, lass mich fuer diese drey wakern Leute
+Buerge seyn--Schleicht euch nicht hinweg, junger Herr, denn der
+Frater und ihr haben noch ein Wort mit einander zu sprechen; macht
+ihn feste.
+
+Lucio.
+Das kan noch aerger werden, als haengen.
+
+Herzog (zu Escalus.)
+Was ihr gesprochen habt, soll vergeben seyn; Sezt euch; wir wollen
+einen Plaz von diesem Herrn da borgen.
+
+(Zu Angelo.)
+
+Mit eurer Erlaubniss, mein Herr--Hast du Worte, oder Wiz, oder
+Unverschaemtheit, die dir noch Dienste thun koennen?  Wenn du hast,
+so stueze dich darauf, bis ich meine Erzaehlung gemacht habe, und
+halte dann noch aus, wenn du kanst.
+
+Angelo.
+O mein furchtbarer Fuerst, ich muesste schuldiger seyn als meine
+Schuld, wenn ich hoffen wollte verborgen zu bleiben, da ich merke,
+dass Euer Durchlaucht, gleich einer unsichtbaren Gottheit, meine
+Tritte beobachtet hat: Lasset also, Gnaedigster Herr, kein laengeres
+Gericht ueber meine Schande gehalten werden, mein eignes Bekenntniss
+macht alle Untersuchung ueberfluessig; ein unmittelbares Urtheil und
+der Tod, ist alle Gnade, um die ich bitte.
+
+Herzog.
+Kommt hieher, Mariane!  Sprich, warst du jemals mit diesem
+Frauenzimmer verlobt?
+
+Angelo.
+Ich war, Gnaedigster Herr.
+
+Herzog.
+So nimm sie hier, und heurathe sie diesen Augenblik; verrichtet ihr
+die Ceremonie, Pater; wenn sie vorbey ist, so bringt ihn wieder
+hieher: Geht mit ihm, Kerkermeister.
+
+(Angelo, Mariane, Peter und Kerkermeister gehen ab.)
+
+
+
+Fuenfte Scene.
+
+
+Escalus.
+Gnaedigster Herr, ich bin mehr ueber seine Schande bestuerzt, als ueber
+die Seltsamkeit der Sache.
+
+Herzog.
+Tretet naeher, Isabella; euer Frater ist nun euer Fuerst, ich war in
+jener Person euer getreuer Freund und Rathgeber, und, ohne mein
+Herz mit meinem Anzug zu veraendern, werde ich allezeit zu euerm
+Dienst gewidmet bleiben.
+
+Isabella.
+O!  vergebet mir, mein gnaedigster Herr, dass ich, eure Vasallin,
+eure unerkannte Hoheit beschaeftigt und bemuehet habe.
+
+Herzog.
+Es ist euch vergeben, Isabella; und nun, theures Maedchen, lasset
+mir das gleiche Recht wiederfahren.  Ich weiss es, euers Bruders Tod
+ligt schwer auf euerm Herzen, und ihr werdet euch wundern, warum
+ich mich begnuegt, verborgner Weise seine Rettung zu suchen, und
+nicht lieber meine verkleidete Macht ploezlich zu erkennen gegeben,
+als ihn so verlohren gehen zu lassen; aber wisset,
+liebenswuerdigstes Geschoepf, dass nichts als die zuschnelle
+Vollziehung seines Todesurtheils, von der ich dachte, dass sie
+spaeter erfolgen wuerde, meinem Vorsaz zuvoreilte; doch Friede sey
+ueber ihn!  Das Leben ist das Beste, das sich vor keinem Tode mehr
+fuerchten muss; troestet euch damit; euer Bruder ist glueklich.
+
+Isabella.
+Ich thu es, Gnaedigster Herr.
+
+
+
+Sechste Scene.
+(Angelo, Mariane, Peter und Kerkermeister zu den Vorigen.)
+
+
+Herzog (zu Isabella.)
+Was diesen neuvermaehlten Mann, der hier wieder zuruek kommt, betrift,
+dessen ueppige Einbildungskraft eure wolvertheidigte Ehre beleidigt
+hat, so vergebt ihm um Marianens willen: Allein in sofern er, der
+eines doppelten Verbrechens, der verlezten Keuschheit und des
+gebrochnen Versprechens, sich schuldig wusste, euerm Bruder das
+Todes-Urtheil sprach, so ruft selbst die Barmherzigkeit des Gesezes
+mit lauter Stimme, und aus seinem eignen Munde, Angelo fuer Claudio,
+Tod fuer Tod, Gleiches fuer gleiches, und Maass fuer Maass.
+
+(Er wendet sich zum Angelo.)
+
+Angelo, deine Verbrechen sind so offenbar, dass du sie nicht
+laeugnen koenntest, wenn du auch wolltest; wir verurtheilen dich also,
+auf eben demselben Blok dein Leben zu verliehren, worauf Claudio
+sich zum Tod buekte, und mit eben solcher Eile.  Hinweg mit ihm.
+
+Mariane.
+O!  mein Gnaedigster Herr, ich hoffe Euer Durchlaucht hat mir nicht
+zum Scherz einen Gemahl gegeben.
+
+Herzog.
+Ich hielt eure Vermaehlung nur noethig, um eure Ehre sicher zu
+stellen, und einen Vorwurf von euch abzuwenden, der euerm kuenftigen
+Gluek im Wege gestanden waere; was seine Gueter betrift, so sezen wir,
+ob sie gleich durch Confiscation unser waeren, euch in den Besiz
+davon, und machen sie zu euerm Witthum, damit ihr einen bessern
+Gemahl kauffen koennet.
+
+Mariane.
+O Mein theurester Fuerst, ich verlange keinen andern und keinen
+bessern Mann.
+
+Herzog.
+Bittet nicht fuer ihn, unser Schluss ist gefasst.
+
+Mariane.
+Mein gnaedigster Herr--
+
+Herzog.
+Ihr verliehrt nur eure Muehe--weg mit ihm zum Tode.
+
+(Zu Lucio.)
+
+Nun, mein Herr, kommt die Reyhe an euch.
+
+Mariane.
+O!  mein gnaedigster Herr!  O!  theurste Isabella, kommet mir
+zuhuelfe; lehnt mir eure Knie, und mein ganzes kuenftiges Leben soll
+zu eurem Dienst gewidmet seyn.
+
+Herzog.
+Was ihr von ihr fordert ist unbillig, und wider die Natur; sollte
+sie niederknien, um fuer eine solche That Erbarmung zu erflehen,
+ihres Bruders Geist wuerde sein Grab durchbrechen, und sie in
+Schreknissen von hinnen reissen.
+
+Mariane.
+Isabella, liebste Isabella, kniet doch mit mir hin; breitet eure
+Haende aus, redet nichts, ich will alles sagen.  Die besten Menschen,
+sagt man, werden erst durch die Fehler die sie gemacht haben,
+vollkommen; dieses kan auch meines Mannes Fall seyn.  O Isabella,
+wollt ihr nicht mit mir knien?
+
+Herzog.
+Er stirbt fuer Claudios Tod.
+
+Isabella (kniend.)
+Guetigster Fuerst, sehet, wenn es euch gefaellt, auf diesen
+verurtheilten Mann, als ob er mein Bruder waere; ich glaube, ich
+hoffe es, seine Tugend war aufrichtig, bis er mich sah; wenn dieses
+ist, so lasst ihn nicht sterben.  Meinem Bruder ist nichts als
+Gerechtigkeit widerfahren; er starb fuer eine Suende, die er wuerklich
+ausgeuebt hatte; Angelo suendigte nur durch einen Vorsaz der nicht
+zur Vollziehung kam; Gedanken sind dem Gesez nicht unterworffen,
+und Vorsaeze sind blosse Gedanken.
+
+Mariane.
+Blosse Gedanken, Gnaedigster Herr.
+
+Herzog.
+Eure Fuerbitte ist fruchtlos; stehet auf, sage ich.  Ich habe mich
+indessen eines andern Fehlers erinnert.  Kerkermeister, wie kam es,
+dass Claudio zu einer ungewoehnlichen Stunde enthauptet wurde?
+
+Kerkermeister.
+Es wurde so befohlen.
+
+Herzog.
+Hattet ihr einen Richterlichen Befehl desswegen?
+
+Kerkermeister.
+Nein, Gnaedigster Herr, es geschah auf eine privat-Botschaft.
+
+Herzog.
+Und desswegen entseze ich euch eures Amts; gebt die Schluessel ab.
+
+Kerkermeister.
+Vergebet mir, Gnaedigster Herr; ich dachte gleich, es moechte ein
+Fehler seyn, doch wusste ichs nicht gewiss; aber es reuete mich, da
+ich mich besser erkundigt hatte; und der Beweiss hievon ist dieses,
+dass ich einen gewissen Gefangnen, der kraft eines privat-Befehls
+sterben sollte, noch habe leben lassen.
+
+Herzog.
+Wer ist er?
+
+Kerkermeister.
+Er nennt sich Bernardin.
+
+Herzog.
+Ich wollte, du haettest dieses beym Claudio gethan; geht, holt ihn
+hieher, ich will ihn sehen.
+
+Escalus.
+Es ist mir leid, dass ein so gelehrter und weiser Mann, als ihr,
+Freyherr Angelo, allezeit geschienen habt, beydes durch Hize des
+Bluts und Mangel einer klugen Ueberlegung, so grosse Fehltritte
+gemacht habt.
+
+Angelo.
+Mir ist leid, dass ich euch dieses Leid verursache, und ich fuehle
+mein Verbrechen so sehr, dass ich mit groesserm Verlangen um den Tod
+flehe als um Gnade: Ich habe ihn verdient, und ich bitte darum.
+
+
+
+Siebende Scene.
+(Der Kerkermeister, Bernardin, Claudio und Juliette zu den Vorigen.)
+
+
+Herzog.
+Welcher ist dieser Bernardin, von dem ihr sprachet?
+
+Kerkermeister.
+Dieser, Gnaedigster Herr.
+
+Herzog.
+Ein gewisser Moench sagte mir von diesem Manne; Kerl, man sagt du
+habest eine verstokte Seele, die nach dieser Welt nichts fuerchte,
+und du lebest dieser Denkungsart gemaess; du bist zum Tode
+verurtheilt; doch will ich dir die Strafe nachlassen, die deine
+Verbrechen in dieser Welt verdient haben; ich bitte dich, wende
+diese Gnade dazu an, fuer eine bessere Zukunft besorgt zu seyn;
+Frater, gebt ihm Anleitung dazu, ich uebergebe ihn in eure Haende.
+Was fuer ein vermummter Geselle ist das?
+
+Kerkermeister.
+Es ist ein andrer Gefangner, den ich rettete und welcher sterben
+sollte, als Claudio den Kopf verlohr; er gleicht dem Claudio so
+sehr als sich selbst.
+
+Herzog (zu Isabella.)
+Wenn er euerm Bruder gleicht, so sey er um euertwillen begnadiget,
+und um euers liebenswuerdigen Selbst willen, gebt mir eure Hand, und
+sagt ihr wollt mein seyn, so ist er mein Bruder dazu; doch hievon
+zu gelegnerer Zeit.  Angelo siehet hieraus, dass er nichts mehr zu
+besorgen hat; mich daeucht ich sehe einen Schimmer von Hoffnung in
+seinen Augen.  Gut, Angelo, ihr habt euer Vergehen abgebuesst; liebet
+eure Gemahlin, ihr Werth ergaenzt den Eurigen.  Ich finde mich heut
+ungemein aufgelegt zur Nachsicht, und doch ist hier einer, dem ich
+nicht verzeihen kan.
+
+(Zu Lucio.)
+
+Ihr, frecher Bursche, der mich fuer einen Geken, eine Memme, einen
+luederlichen Bruder, einen Esel, einen Wahnwizigen kennet, womit hab
+ich um euch verdient, dass ihr mich so erhebet?
+
+Lucio.
+Bey meiner Seele, Gnaedigster Herr, ich sagt' es nur, weil es Mode
+ist, boeses von den Leuten zu sagen; wenn Euer Durchlaucht mich
+deswegen haengen lassen will, so muss ich es leiden; aber ich wollte
+lieber, dass es euch gefallen moechte, mir den Staupbesen geben zu
+lassen.
+
+Herzog.
+Den Staupbesen zuerst, Herr, und hernach den Galgen.  Kerkermeister,
+lasst durch die ganze Stadt ausruffen, wenn irgend ein Weibsbild
+sey, die sich ueber diesen Gesellen zu beschweren habe, (wie ich ihn
+dann selbst habe sagen gehoert, es sey eine schwanger von ihm,) so
+soll sie sich darstellen, und er soll sie heurathen; wenn die
+Hochzeit vorbey ist, so lasst ihn peitschen und aufhaengen.
+
+Lucio.
+Ich bitte Euer Durchlaucht, mich nicht an eine H** zu verheurathen;
+Euer Durchlaucht sagte nur erst, ich habe euch zum Herzog gemacht;
+Mein Gnaedigster Herr, belohnet mich nicht so uebel dafuer, und macht
+mich zu einem Hahnrey.
+
+Herzog.
+Bey meiner Ehre, du sollst sie heurathen.  Deine Schmaehungen und
+alle deine uebrigen Uebelthaten sollen dir vergeben seyn; fuehrt ihn
+indessen ins Gefaengniss, und sehet, dass mein Wille hierinn vollzogen
+werde.  Ihr, Claudio, saeumet euch nicht, dem Frauenzimmer, das ihr
+gekraenkt habt, Genugthueung zu geben.  Ich wuensche euch Gluek,
+Mariane; liebet sie, Angelo, ich habe ihre Beichte gehoert, und
+kenne ihre Tugend.  Habe Dank, mein guter Freund Escalus, fuer
+deinen guten Willen, du sollt Ursache finden dich dessen zu
+erfreuen.  Habe Dank, Kerkermeister, fuer deine Sorgfalt und
+Verschwiegenheit; wir werden dich in einem wuerdigern Plaz zu
+gebrauchen wissen.  Vergebt ihm, Angelo, dass er euch Ragozins Kopf
+statt Claudios gebracht hat; die Beleidigung vergiebt sich von
+selbst.  Und ihr, meine theure Isabella, wenn ihr ein williges Ohr
+zu der guten Gesinnung neiget, die ich fuer euch trage, so ist was
+mein ist euer, und was euer ist, mein; und hiemit fuehret uns in
+unsern Palast, wo wir euch deutlicher entdeken werden, was ihr alle
+zu wissen noethig habt.
+
+
+Ende dieses Projekt Gutenberg Etextes Maass fuer Maass, oder:
+Wie einer misst, so wird ihm wieder gemessen, von  William Shakespeare
+(Uebersetzt von Christoph Martin Wieland).
+
+
+
+
+
+End of the Project Gutenberg EBook of Maass fuer Maass (Measure for Measure)
+by William Shakespeare
+
+*** END OF THE PROJECT GUTENBERG EBOOK MAASS FUER MAASS ***
+
+This file should be named 7gs3110.txt or 7gs3110.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 7gs3111.txt
+VERSIONS based on separate sources get new LETTER, 7gs3110a.txt
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*

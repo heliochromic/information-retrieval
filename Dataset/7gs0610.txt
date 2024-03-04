@@ -1,0 +1,3364 @@
+The Project Gutenberg EBook of Die Irrungen (The Comedy of Errors)
+by William Shakespeare
+#6 in our series by William Shakespeare
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Die Irrungen (The Comedy of Errors)
+       Die Doppelten Zwillinge
+
+Author: William Shakespeare
+
+Release Date: January, 2005 [EBook #7225]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on March 28, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBERG EBOOK DIE IRRUNGEN ***
+
+
+
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 7-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfügung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+
+
+
+Die Irrungen,
+oder
+die doppelten Zwillinge,
+
+William Shakespeare
+
+ein Lustspiel.
+
+Uebersetzt von Christoph Martin Wieland
+
+
+Personen.
+
+Salinus, Herzog von Ephesus.
+Aegeon, ein Kauffmann von Syracus.
+Antipholis von Ephesus und Antipholis von Syracus, Zwillings-Brueder
+und Soehne von Aegeon und Aemilia, aber einander unbekannt.
+Dromio von Ephesus und Dromio von Syracus, Zwillings-Brueder und
+Sclaven der beyden Antipholis.
+Balthasar, ein Kauffmann.
+Angelo, ein Goldschmidt.
+Zween andre Kauffleute.
+Dr. Zwik, ein Schulmeister und Beschwoerer.
+Aemilia, Aegeons Weib, eine Abbtissin zu Ephesus.
+Adriana, des Antipholis von Ephesus Weib.
+Eine Courtisane.
+Luciana, Ihre Schwester.
+Kerkermeister, Gerichtsdiener, Trabanten, und andre stumme Personen.
+
+
+Die Scene ist zu Ephesus.
+
+
+
+
+Erster Aufzug.
+
+
+
+Erste Scene.
+(Des Herzogs Palast.)
+(Der Herzog von Ephesus, Aegeon, ein Kerkermeister, und einige vom
+ Gefolge des Herzogs treten auf.)
+
+
+Aegeon.
+Saeume dich nicht laenger, Salinus, durch den Ausspruch meines
+Urtheils, meinem unglueklichen Leben ein Ende zu machen.
+
+Herzog.
+Kauffmann von Syracus, sage nichts mehr zu deiner Verantwortung;
+ich kan zum Nachtheil des Gesezes nicht partheylich seyn.  Das
+neuliche grausame Verfahren euers Herzogs gegen einige Kauffleute,
+unsre getreue Unterthanen, welche, weil sie nicht Gold genug hatten
+ihr Leben loszukaufen, sein strenges Gesez mit ihrem Blute
+besiegelt haben, schliesst alles Erbarmen aus unsern draeuenden
+Bliken aus.  Denn seitdem diese verderbliche Zwietracht zwischen
+deinen aufruehrischen Landsleuten und uns ausgebrochen, ist in der
+allgemeinen Versammlung des Volks, sowol von den Syracusern als von
+uns, beschlossen worden, keine Handlung noch Gemeinschaft zwischen
+unsern feindseligen Staedten zu erlauben; noch mehr, welcher
+gebohrne Epheser sich auf den Maerkten und Jahrsmessen von Syracus
+betreten laesst, der stirbt; und hinwieder, welcher gebohrne
+Syracuser in der Bay von Ephesus gefunden wird, der stirbt, und
+seine Gueter werden zu Handen des Staats eingezogen; es sey dann,
+dass er tausend Mark zu seinem Loesegeld bezahlen koenne.  Nun belauft
+sich alles was du hast, nach der aeussersten Schazung, kaum auf
+hundert Mark; du bist also nach dem Geseze zum Tode verdammt.
+
+Aegeon.
+Mein Trost ist, dass die Vollziehung euers Worts noch vor Sonnen-
+Untergang auch meinen Unglueks-Faellen ein Ende machen wird.
+
+Herzog.
+Gut, Syracuser, erzaehl' uns kuerzlich die Ursache, warum du deine
+vaeterliche Heimath verlassen hast, und warum du hieher nach Ephesus
+gekommen bist.
+
+Aegeon.
+Eine schwerere Verrichtung koennte mir nicht auferlegt werden, als
+dass ich von meinem unaussprechlichen Kummer reden soll.  Jedoch,
+damit die Welt erkenne, dass der natuerliche Lauf der menschlichen
+Zufaelle, und nicht irgend ein scheussliches, die Rache der Goetter
+aufforderndes Verbrechen, mir dieses ungluekliche Ende zuzieht; so
+will ich sagen, was mein Schmerz mir zu sagen Vermoegen lassen wird.
+Zu Syracus ward ich gebohren, und mit einem Weibe vermaehlt, die
+mich glueklich machte, und es durch mich selbst gewesen waere, wenn
+ein feindseliges Schiksal die Dauer unsrer Gluekseligkeit gestattet
+haette.  Mit ihr lebt' ich vergnuegt; mein Vermoegen nahm durch
+begluekte Reisen zu, die ich haeuffig nach Epidamnum machte; bis der
+Tod meines Factors, und die Sorge fuer meine Gueter, die dadurch ohne
+Aufsicht gelassen worden, mich aus den Umarmungen meiner Gattin riss.
+Ich war noch nicht volle sechs Monat von ihr entfernt, als sie
+(obgleich zu einer Zeit, da sie unter der angenehmen Straffe ihres
+Geschlechts schmachtete,) Anstalten machte, mir nachzufolgen, und
+bald und glueklich anlangte wo ich war.  Sie war nicht lange da, so
+wurde sie eine freudenvolle Mutter von zween huebschen Knaben, die
+einander so wundersam gleich sahen, dass es unmoeglich war, sie
+anders, als durch Namen zu unterscheiden.  In eben dieser Stunde und
+an dem nemlichen Ort, ward eine arme Frau gleichfalls von zween
+maennlichen Zwillingen entbunden, die einander eben so gleich sahen;
+diese kaufte ich ihren Eltern ab, denn es waren bettelarm Leute,
+und zog sie auf, dass sie meinen Soehnen aufwarten sollten.  Mein Weib,
+die auf zween solche Knaben nicht wenig stolz war, drang taeglich
+in mich, unsre Heimreise zu beschleunigen; ich willigt' endlich,
+wiewol ungern ein, und wir giengen, ach allzubald!  zu Schiffe.  Wir
+hatten kaum eine Meile von Epidamnum fortgesegelt, als ein
+ploezlicher Sturm den Tag verdunkelnd, uns nur noch so viel duestres
+Licht uebrig liess als noethig war, unsern erschroknen Augen die
+Gewissheit des unvermeidlichen Todes zu zeigen.  Ich, fuer meinen
+eignen Theil, wuerde mich willig darein ergeben haben; aber das
+herzruehrende Jammern eines geliebten Weibes, und das Geschrey ihrer
+holdseligen Kinder, die, ohne zu wissen was sie fuerchten sollten,
+nur weinten, weil sie ihre Mutter weinen sahen, noethigte mich auf
+Rettung oder wenigstens auf einige Frist fuer sie und mich zu denken;
+und diss war es, denn kein anders Mittel hatt' ich nicht.  Das
+Schiffs-Volk suchte seine Rettung in unserm Boot, und ueberliess uns
+das Schiff, welches schon zum Versinken reif war.  Mein Weib, fuer
+ihren Erstgebohrnen am meisten besorgt, hatte ihn an einen
+vorraethigen duennen Mastbaum gebunden, dergleichen die Seeleute zur
+Vorsorge mit sich zu nehmen pflegen; zu ihm wurde einer von den
+andern beyden Zwillingen gebunden, indessen dass ich mit den uebrigen
+beyden das nemliche that.  Nachdem wir nun die Kinder solchergestalt
+besorgt hatten, banden wir uns, mein Weib und ich, die Augen auf
+den Gegenstand unsrer zaertlichen Sorgen geheftet, jedes an das
+andere Ende des Mastbaums, und ueberliessen uns so den Wellen, von
+denen unser Schiff, wie uns daeuchte, nach Corinth getrieben wurde.
+Endlich zerstreute die Sonne das Gewoelke, und die See wurde wieder
+ruhiger; da entdekten wir bey ihrem wohlthaetigen Licht zwey Schiffe,
+die auf uns zusegelten, eines von Corinth, und das andre von
+Epidaurus; aber eh sie zu uns kamen--o, zwingt mich nicht
+fortzufahren!  Errathet das Folgende aus dem Vorhergehenden.
+
+Herzog.
+Nein, fahre fort, alter Mann, brich deine Erzaehlung nicht so ab;
+wenn wir dich nicht retten koennen, so koennen wir doch Erbarmniss mit
+dir haben.
+
+Aegeon.
+O haetten die Goetter das gethan, so haett' ich keine Ursach, sie
+unbarmherzig gegen uns zu nennen.  Wir waren nur wenige Meilen noch
+von diesen Schiffen entfernt, als unser huelfloses Schiff, durch
+einen ploezlichen Stoss an einen im Meer verborgnen Felsen mitten
+entzwey geschmettert wurde.  Das Gluek, welches mein Weib und mich
+auf eine so ungerechte Weise schied, liess einem jeden was uns
+zugleich Freude und Kummer machte.  Ihr Theil, der armen Seele!
+Vermuthlich weil er leichter beladen war, wurde vom Wind schneller
+vorwaerts getrieben, und alle drey wurden in meinem Gesicht, von
+Corinthischen Fischern, wie mir dauchte, aufgefangen.  Endlich
+bemaechtigte sich ein andres Schiff meiner auch; ich fand bekannte
+Freunde darinn, welche sich freuten, dass sie uns in einer solchen
+Noth hatten Huelfe leisten koennen; sie wuerden auch, mir zu lieb, die
+Fischer ihrer Beute gerne beraubt haben; allein da ihre Barke
+schlecht besegelt war, mussten sie es aufgeben, und richteten ihren
+Lauf der Heimat zu--Und nun habt ihr gehoert was mich meiner
+Gluekseligkeit beraubt hat, und durch was fuer Unfaelle mein Leben nur
+dazu verlaengert worden ist, dass ich klaegliche Geschichten erzaehlen
+kan, von denen mein eignes Ungluek der Innhalt ist.
+
+Herzog.
+Um derer willen, um welche du traurest, erzeige mir die
+Gefaelligkeit, und melde noch, wie es ihnen und dir ferner ergangen
+ist.
+
+Aegeon.
+Mein juengster Sohn bekam als er achtzehn Jahre hatte, ein heftiges
+Verlangen, seinen Bruder aufzusuchen, und liess nicht nach, biss ich
+ihm erlaubte sich auf den Weg zu machen, und seinen Diener (der in
+dem gleichen Fall wie er, und seines Bruders beraubt war, aber den
+Namen desselben, wie mein Sohn den Namen seines aeltern Bruders,
+behalten hatte,) zu seiner Gesellschaft mitzunehmen.  Ich wagte also
+einen geliebten Sohn, den ich hatte, um denjenigen zu finden, den
+ich nicht hatte; und verlohr dadurch beyde.  Fuenf Sommer hab' ich
+schon angewandt, um sie in dem fernsten Griechenland zu suchen, und
+nachdem ich durch alle Gegenden von Asien auf- und niedergeschwaermt,
+kam ich endlich nach Ephesus, zwar ohne Hoffnung sie da zu finden,
+aber doch entschlossen, weder diesen noch irgend einen andern von
+Menschen bewohnten Ort undurchsucht zu lassen.  Allein hier muss ich
+die Geschichte meines Lebens enden, und der Tod wuerde mir
+willkommen seyn, wenn ich von allen meinen Reisen nur soviel
+erhalten haette, dass ich von ihrem Leben versichert waere.
+
+Herzog.
+Unglueklicher Aegeon, den die Goettinnen des Geschikes dazu bestimmt
+haben, den aeussersten Grad der grausamsten Widerwaertigkeiten zu
+erfahren; glaube mir, waer' es nicht gegen unsre Geseze, (welche
+Fuersten, wenn sie auch wollten, nicht vernichten koennen,) waer' es
+nicht gegen meine Crone, meinen Eid, und meine Wuerde, mein Herz
+wuerde keinen Augenblik verziehen, der Regung Plaz zu geben, die
+darinn fuer dich spricht.  Allein, ob dich gleich ein
+unwiderrufflicher Spruch zum Tode verurtheilt, so will ich doch
+soviel zu deiner Rettung thun, als mir Macht gelassen ist; ich
+schenke dir also noch diesen Tag, Kauffmann, damit du dein Leben
+durch andrer Beyhuelfe zu erhalten suchen koennest; stelle alle
+Freunde, die du in Ephesus haben magst, auf die Probe; bettle oder
+borge soviel als du noethig hast, um dein Loesegeld voll zu machen,
+und lebe; wo nicht, so bist du verurtheilt zu sterben.--
+Kerkermeister, nimm ihn in deine Aufsicht.
+
+(Der Herzog und Gefolge gehen ab.)
+
+Kerkermeister.
+Ich will, Gnaedigster Herr.
+
+Aegeon.
+Huelf- und hoffnunglos geht Aegeon, um das Ende seines Lebens einen
+Tag spaeter zu sehen.
+
+(Aegeon und Kerkermeister gehen ab.)
+
+
+
+Zweyte Scene.
+(Antipholis von Syracus, ein Kauffmann und Dromio treten auf.)
+
+
+Kauffmann.
+Wenn ihr nicht wollt, dass euer Geld sogleich wieder verlohren sey,
+so gebt aus, ihr seyd von Epidamnum.  Erst diesen nemlichen Morgen
+ist ein Syracusischer Kauffmann hier eingezogen worden, und weil er
+nicht im Stande war, sein Leben loszukauffen, so muss er nach unserm
+Gesez noch vor Sonnen Untergang sterben.  Hier ist euer Geld, das
+ihr bey mir hinterlegt hattet.
+
+Antipholis.
+Geh, Dromio, trag es in den Centaur, wo wir unser Quartier genommen
+haben; warte dort bis ich komme, in einer Stunde wird es
+Mittagessens-Zeit seyn.  Ich will indessen die Stadt in Augenschein
+nehmen, mit den Kauffleuten Bekanntschaft machen, die Gebaeude
+anschauen, und dann in mein Wirthshaus zuruekkommen und schlafen;
+denn ich bin von langwierigen Reisen ganz steiff und muede.  Geh
+deiner Wege.
+
+Dromio.
+Mancher wuerde euch beym Worte nehmen, und mit einem so huebschen
+Reisegeld seines Wegs gehen.
+
+(Dromio geht ab.)
+
+Antipholis.
+Er ist ein ehrlicher Schurke, mein Herr, der mich, wenn ich
+niedergeschlagen und melancholisch bin, mit seinen naerrischen
+Einfaellen oft wieder aufgeraeumt macht.  Wie ists, wollt ihr nicht
+mit mir in der Stadt herum gehen, und hernach in meinem Gasthof mit
+mir zu Mittag essen?
+
+Kauffmann.
+Mein Herr, ich bin zu etlichen andern Kauffleuten bestellt, von
+denen ich einen ansehnlichen Profit zu machen hoffe; ihr werdet
+mich also entschuldiget halten.  Sobald es fuenfe geschlagen hat,
+will ich euch, wenn es beliebig ist, auf dem Markt wieder antreffen,
+und euch dann bis zur Schlafzeit Gesellschaft leisten.  Dissmal
+ruffen mich meine Geschaefte von euch ab.
+
+Antipholis.
+Lebet wohl bisdahin; ich will indess allein herumgehen, und die
+Stadt besehen.
+
+Kauffmann.
+Mein Herr, ich ueberlass' euch euerm eignen Vergnuegen.
+
+(Der Kauffmann geht ab.)
+
+
+
+Dritte Scene.
+
+
+Antipholis.
+Wer mich meinem eignen Vergnuegen ueberlaesst, ueberlaesst mich einem Ding,
+dass ich nirgends finden kan.  Ich bin in der Welt wie ein Tropfen
+Wassers, der im Ocean einen andern Tropfen suchen will, und indem
+er hineinfallt sich selbst verliehrt, ohne den andern zu finden.  So
+geht es unglueklicher Weise auch mir; indem ich eine Mutter und
+einen Bruder suchen will, verliehr' ich mich selbst.  (Dromio von
+Ephesus tritt auf.) Hier kommt mein Kerl wieder--Was hat das zu
+bedeuten?Warum kommst du sobald wieder zuruek?
+
+Dromio von Ephesus.
+Sobald wieder zuruek!  Sagt vielmehr: Warum findst du mich so spaet?
+Der Capaun dorrt aus, das Spanferkel faellt vom Spiess ab, die Gloke
+hat zwoelfe geschlagen; meine Frau machte, dass es auf meinem Baken
+eins wurde; sie ist so heiss, weil das Essen kalt wird; das Essen
+wird kalt, weil ihr nicht heim kommt; ihr kommt nicht heim, weil
+ihr keinen Appetit habt; ihr habt keinen Appetit, weil ihr eure
+Fasten gebrochen habt; und wir, welche wissen was fasten und beten
+ist, wir muessen nun dafuer buessen, dass ihr gesuendigt habt.
+
+Antipholis.
+Spare deinen Athem, junger Herr; sage mir erst, ich bitte dich, wo
+du das Geld gelassen hast, das ich dir gab?
+
+Dromio von Ephesus.
+Oh--Die drey Bazen, die ich Mittwochs kriegte, um den Sattler fuer
+den Schwanz-Riemen an meiner Frauen ihrem Pferd zu bezahlen?Der
+Sattler hat sie, Herr; ich habe sie nicht behalten.
+
+Antipholis.
+Ich bin izt in keinem spasshaften Humor; sag' mir ohne zu schaekern,
+wo ist das Geld?Wie unterstehst du dich, an einem Orte wo wir
+fremde sind, eine so grosse Summe aus deiner eignen Verwahrung zu
+geben?
+
+Dromio von Ephesus.
+Ich bitte euch Herr, scherzet wenn ihr bey Tische sizt.  Meine Frau
+hat mich in groester Eile geschikt euch zu suchen; wenn ihr nicht
+gleich kommt, wird es mein Schedel entgelten muessen; mir daeucht,
+euer Magen sollte, wie der meinge, eure Gloke seyn, und euch ohne
+einen Boten heimschlagen.
+
+Antipholis.
+Komm, Dromio, komm, diese Possen sind izt zur Unzeit, spare sie auf
+eine lustigere Stunde.  Wo ist das Gold, das ich dir aufzuheben gab?
+
+Dromio von Ephesus.
+Mir, Herr?Wie, ihr habt mir kein Gold gegeben.
+
+Antipholis.
+Hey da, Herr Spizbube, hoer auf den Narren zu treiben, und sag mir,
+wie hast du deinen Auftrag besorgt?
+
+Dromio von Ephesus.
+Mein Auftrag war, euch von dem Markt nach Hause zu holen, in den
+Phoenix, Herr, zum Mittag-Essen, meine Frau und ihre Schwester
+warten auf euch.
+
+Antipholis.
+Nun, so wahr ich ein Christ bin, antworte mir wo du mein Geld
+hingethan hast, oder ich werde dir diesen kurzweiligen Kragen
+umdrehen, der so unzeitigen Spass treibt wenn es mir nicht gelegen
+ist; wo sind die tausend Mark, die du von mir empfangen hast?
+
+Dromio von Ephesus.
+Ich hab' einige Marken von euch auf meinem Kopf, und einige Marken
+von meiner Frauen auf meinen Schultern; aber von tausend Mark
+ausser diesen weiss ich nichts.  Wenn ich sie Euer Gestreng wieder
+zuruekzahlen wuerde, so wuerdet ihr's vielleicht nicht geduldig tragen.
+
+Antipholis.
+Deiner Frauen Marken?Welcher Frauen, Schurke?Was hast du fuer eine
+Frau?
+
+Dromio von Ephesus.
+Euer Gestreng eigne Frau, meine Frau zum Phoenix; Sie, welche fasten
+muss, bis ihr nach Hause kommt, und betet, dass ihr bald kommen moeget.
+
+Antipholis.
+Wie, willt du mich so ins Gesicht fuer deinen Narren haben, und
+dir's nicht wehren lassen?Da nimm das, Herr Schurke.
+
+(Er giebt ihm Schlaege.)
+
+Dromio von Ephesus.
+Was denkt ihr, Herr?Um Gottes willen, haltet eure Haende--Nein,
+wenn ihr nicht wollt, Herr, so will ich meine Fuesse brauchen --
+
+
+(Er geht ab.)
+
+Antipholis.
+So wahr ich lebe, der Bube ist durch irgend einen schlimmen Streich
+um mein Geld gebracht worden.  Man sagt, diese Stadt sey voller
+Spizbuben-Gesindel*, als, Taschenspieler, so die Augen betruegen,
+Zauberer, so durch magische Getraenke das Gemueth zerruetten, und
+Hexen, so den Leib verunstalten; verkleidete Beutelschneider,
+geschwaezige Marktschreyer, und wer weiss was noch mehr fuer
+dergleichen Leute die sich alles erlaubt halten; wenn es so ist, so
+will ich desto schneller heimgehen.  Ich will in den Centaur, und
+diesen Schurken aufsuchen, ich sorge, mein Geld ist nicht wol
+verwahrt.
+
+{ed.-* Diss war der Character, den die Alten von dieser Stadt geben.
+Daher das gemeine Spruechwort: Ejesia alexijarmaka, so auch beym
+Menander, wo Ejesia grammata in dem nemlichen Sinn vorkommt.
+Warburton.}
+
+(Er geht ab.)
+
+
+
+
+Zweyter Aufzug.
+
+
+
+Erste Scene.
+(Das Haus des Antipholis von Ephesus.)
+(Adriana und Luciana treten auf.)
+
+
+Adriana.
+Weder mein Mann noch mein Sclave kommt zuruek, den ich doch so
+eilfertig seinem Herrn entgegen geschikt habe?ganz gewiss, Luciana,
+es ist schon zwey Uhr.
+
+Luciana.
+Vielleicht ist er vom Markte weg, mit irgend einem Kauffmann, der
+ihn eingeladen hat, zum Mittag-Essen gegangen; meine liebe
+Schwester, wir wollen essen, und uns nicht desswegen graemen.  Ein
+Mann ist Herr ueber seine Freyheit, und hat keinen andern Herrn als
+seine Gelegenheit; sie kommen und gehen, je nachdem es ihnen
+gelegen ist; und da es nun einmal so ist, so seyd geduldig,
+Schwester.
+
+Adriana.
+Warum sollen sie mehr Freyheit haben, als wir?
+
+Luciana.
+Weil ihre meisten Geschaefte ausser dem Hause ligen.
+
+Adriana.
+Seht, wenn ich ihn auf diesen Fuss bedienen will, nimmt er's uebel.
+
+Luciana.
+Oh, ihr muesst wissen, dass er der Zaum euers Willens ist.*
+
+{ed.-* Der Zusammenhang ligt hier in den Reimen, worinn
+dieser Dialogus im Original geschrieben ist.}
+
+Adriana.
+Nur Esel werden sich gutwillig so zaeumen lassen.
+
+Luciana.
+Es ist nichts unter dem Himmel, das nicht in der Erde, in der See,
+oder in der Luft einem andern unterworfen sey.  Die Fische, die
+Thiere und die Voegel sind ihren Maennlein unterworfen, und stehen
+unter ihrem Gebott; der goettlichere Mensch, Herr ueber sie alle,
+Beherrscher dieser weiten Welt und des Oceans, der sie umstroemt,
+mit einer denkenden Seele begabt, die ihn ueber alle andern Thiere
+hinaufsezt, wird nicht in diesem einzigen Stuek weniger als sie seyn;
+er ist Herr ueber sein Weib, und ihr rechtmaessiger Gebieter; lasst
+euch's also nicht verdriessen, euern Willen nach dem seinigen zu
+stimmen.
+
+Adriana.
+Und doch ist es bloss diese Dienstbarkeit, die euch bewegt
+unverheurathet zu bleiben.
+
+Luciana.
+Nicht diese Unterwuerfigkeit, sondern die Unruhen und Sorgen des
+Ehebetts.
+
+Adriana.
+Aber wenn ihr verheurathet waeret, so wolltet ihr doch auch etwas zu
+befehlen haben.
+
+Luciana.
+Eh ich die Liebe kennen lerne, will ich mich in der Kunst zu
+gehorchen ueben.
+
+Adriana.
+Aber wie, wenn euer Mann sich gerne ausser dem Hause verweilte?
+
+Luciana.
+Ich wuerde Geduld haben, bis er wieder heim kaeme.
+
+Adriana.
+Eine ungereizte Geduld kan leicht geduldig seyn; es ist keine Kunst
+gut zu seyn, wenn man keine Ursache zum Gegentheil hat; wir wollen
+haben, dass der Ungluekliche, den sein Kummer quaelt, ruhig bleiben
+soll, weil uns sein Geschrey beunruhiget; aber druekte uns die
+nemliche Buerde, wir wuerden eben so viel oder noch mehr klagen als
+er.  Du, die du keinen unzaertlichen Ehegatten hast, der dich kraenkte,
+weissst mir keinen andern Trost zu geben, als dass du mich zu
+huelfloser Geduld anweisest; aber wir wollen sehen, wie lange du
+diese alberne Geduld behalten wirst, wenn du's erlebst, mein
+Schiksal zu erfahren.
+
+Luciana.
+Gut, ich will mich einmal auf einen Tag verheurathen um ein Probe
+zu machen.  Aber hier kommt euer Sclave, sein Herr wird also nicht
+weit weg seyn.
+
+
+
+Zweyte Scene.
+(Dromio von Ephesus zu den Vorigen.)
+
+
+Adriana.
+Sag', ist dein zaudernder Herr nun bey der Hand?
+
+Dromio von Ephesus.
+Nein, er ist mit zwo Haenden bey mir, und davon sind meine zwey
+Ohren Zeugen.
+
+Adriana.
+Sag', redtest du mit ihm?Sagt' er dir seine Meynung?
+
+Dromio von Ephesus.
+Ja, ja, er sagte mir seine Meynung auf mein Ohr; Dank seiner Hand;
+es wurde mir sauer sie zu begreiffen.
+
+Luciana.
+Sprach er so zweydeutig, dass du seine Meynung nicht fassen konntest?
+
+Dromio von Ephesus.
+Nein, er schlug so gerade zu, dass ich seine Ohrfeigen nur gar zu
+gut fasste; und doch sprach er so zweydeutig, dass ich kaum verstehen
+konnte, was sie bedeuten sollten.
+
+Adriana.
+Aber sag', ich bitte dich, wird er heim kommen?Es scheint, er
+bekuemmert sich viel darum, seinem Weib gefaellig zu seyn.
+
+Dromio.
+Versichert, Frau, mein Herr ist nicht recht gescheidt; das hat
+seine Richtigkeit; wie ich ihn bat, er moechte heim zum Mittag-Essen
+kommen, so fragt' er mich nach tausend Mark an Gold; es ist
+Essenszeit, sagt' ich; mein Gold, sagt' er; euer Essen verdorrt,
+sagt' ich; mein Gold, sagt' er; wollt ihr heim kommen, sagt' ich;
+mein Gold, sagt' er; wo sind die tausend Mark, die ich dir gab,
+Galgenschwengel?Das Ferkel, sagt' ich, ist ganz verbraten; mein
+Gold, sagt' er.  Meine Frau, sagt' ich; an den Galgen mit deiner
+Frau!  Ich weiss nicht wer deine Frau ist; zum Henker mit deiner Frau!
+
+Luciana.
+Sagte wer?
+
+Dromio.
+Sagte mein Herr.  Ich weiss nichts, sagt' er, von keinem Haus, und
+von keinem Weib und von keiner Frau, sagt' er; so dass ich also
+meine Commission, die meiner Zunge aufgegeben werden sollte, Dank
+sey ihm!  auf meinen Schultern heimtrage; denn mit einem Wort, er
+gab mir Schlaege.
+
+Adriana.
+Geh wieder zuruek du Sclave, und hol' ihn heim.
+
+Dromio.
+Geh wieder und lass dich noch einmal pruegeln?Ich bitt' euch
+schoenstens Frau, schikt einen andern Abgesandten.
+
+Adriana.
+Zuruek, Sclave, oder ich will dir den Schaedel entzweyschlagen.
+
+Dromio.
+Und er wird den Bruch mit andern Schlaegen wieder ganz machen; das
+wird gut gehen.
+
+Adriana.
+Pake dich, du wortreicher Schlingel, hohl deinen Herrn heim.
+
+Dromio.
+Bin ich dann so rund mit euch als ihr mit mir, dass ihr mich so wie
+eine Kugel vor euch her stosst?Ihr stosst mich fort, und er wird
+mich wieder zuruekstossen; wenn ich in einem solchen Dienst
+ausdauren soll, muesst ihr ein ledernes Futteral ueber mich machen
+lassen.
+
+(Er geht ab.)
+
+
+
+Dritte Scene.
+
+
+Luciana.
+Fy, wie entstellt diese Ungeduld euer Gesicht!
+
+Adriana.
+Er kan seinen Liebling seiner angenehmen Gesellschaft nicht
+berauben, und ich muss indess daheim sizen, und zum Verhungern nach
+einem freundlichen Blik schmachten.  Hat denn das Alter die
+anziehende Schoenheit schon von meiner armen Wange genommen?Wenn es
+ist, so hat Er sie verderbt.  Ist mein Gespraech troken, und mein Wiz
+stumpf?Seine Unfreundlichkeit ist der harte Marmor, woran er seine
+Schaerfe verlohren hat.  Gefallen ihm andre besser, weil sie schoener
+aufgepuzt sind?Das ist nicht mein Fehler; er ist Herr ueber mein
+Vermoegen.  Was fuer Ruinen koennen an mir gefunden werden, die er
+nicht gemacht hat?Wuerde nicht ein einziger sonnichter Blik von ihm,
+meine verwelkte Schoenheit wieder herstellen?Aber ach!  er
+verschmaeht ein Weib, von der er ohne Maass geliebt wird, und sucht,
+ausser seinem Haus, ein Vergnuegen --
+
+
+Luciana.
+Sich selbst peinigende Eifersucht!  Fy, jagt sie fort.
+
+Adriana.
+Nur gefuehllose alberne Troepfe koennen bey solchen Beleidigungen
+gleichgueltig bleiben; ich bin gewiss, seine Augen haben irgendwo
+einen andern Gegenstand den sie anbeten.  Warum wuerd' er sonst nicht
+hier seyn?Schwester, ihr wisst, er versprach mir eine goldne Kette.
+Wollte der Himmel, es waere nur das was er mir vorenthielte--Ich
+sehe wol, ein Kleinod, so schoen es immer gefasst seyn mag, verliehrt
+endlich seine Schoenheit, wenn wir's immer tragen; und so wie das
+Gold selbst, ungeachtet seiner Dauerhaftigkeit, durch bestaendiges
+Beruehren sich endlich abnuzt, so ist kein Gemueth so edel, das nicht
+durch langwierige Untreu und Falschheit endlich seinen Glanz
+verliehre.  Wenn meine Schoenheit in seinen Augen keinen Reiz mehr
+hat, so will ich ihren Rest wegweinen, und weinend sterben.
+
+Luciana.
+Was fuer alberne Geschoepfe kan nicht die Eifersucht aus diesen
+verliebten Seelen machen!
+
+(Sie gehen ab.)
+
+
+
+Vierte Scene.
+(Verwandelt sich in eine Strasse.)
+(Antipholis von Syracus tritt auf.)
+
+
+Antipholis.
+Das Gold, das ich dem Dromio gab, ist im Centaur sicher verwahrt;
+und der allzu sorgfaeltige Tropf ist weggegangen, um mich zu suchen,
+aus Besorgniss, es moechte mir etwas zugestossen seyn.  Wenn ich die
+Umstaende der Zeit und meines Wirths Erzaehlung mit einander
+vergleiche, so kan ich den Dromio nicht gesprochen haben, seitdem
+ich ihn zuerst vom Markte fortschikte.  Ha, hier koemmt er eben recht.
+(Dromio von Syracus tritt auf.) Wie gehts, junger Herr?Seyd ihr
+noch so spasshaft?Wenn ihr Liebhaber von Ohrfeigen seyd, so treibt
+wieder den Narren mit mir.  Ihr wisst nichts vom Centaur?Ihr habt
+kein Gold empfangen?Eure Frau schikte euch, mich zum Mittag-Essen
+nach Hause zu ruffen?Mein Haus war zum Phoenix?Warst du toll, dass
+du mir so unsinnige Antworten gabst?
+
+Dromio von Syracus.
+Was fuer Antworten, Herr?Wenn sagt' ich dergleichen?
+
+Antipholis.
+Nur eben, nur eben, es ist noch keine halbe Stunde.
+
+Dromio von Syracus.
+Hab ich euch doch bis izt mit keinem Auge gesehen, seitdem ihr mich
+mit dem Golde, so ihr mir gabt, in den Centaur schiktet.
+
+Antipholis.
+Galgenschwengel, du leugnetest ja, dass du das Gold empfangen habest,
+und redtest mir von einer Frau, und von einem Mittag-Essen; doch
+ich hoffe, du hast gefuehlt, wie wohl es mir gefallen hat.
+
+Dromio von Syracus.
+Es erfreut mich, euch in so gutem Humor zu sehen.  Was soll dieser
+Scherz bedeuten, ich bitte euch, Herr, sagt mir's?
+
+Antipholis.
+Wie, du spottest mir noch ins Gesicht?denkst du ich spasse?Halt,
+nimm das, und das.
+
+(Er giebt ihm Schlaege.)
+
+Dromio von Syracus.
+Haltet ein, Herr, ums Himmels willen, izt fuehl' ich's, dass aus
+euerm Spass Ernst wird, aber warum gebt ihr mir diese Schlaege, wenn
+man fragen darf?
+
+Antipholis.
+Weil ich zuweilen vertraulich genug mit dir umgehe, dich fuer meinen
+Lustigmacher zu gebrauchen, und Spass mit dir treibe, so treibst du
+die Unverschaemtheit so weit, meine Guetigkeit zu missbrauchen, und
+mir deine Possen auch in meinen ernsthaften Stunden aufzudraengen.
+Wenn die Sonne scheint, moegen gaukelnde Mueken ihre Kurzweile
+treiben; aber sie sollen in Spalten kriechen, wenn sie ihre Stralen
+verbirgt: Wenn du mit mir spassen willst, so sieh erst wie ich
+aussehe, und richte dein Betragen nach meinen Bliken ein; oder ich
+will dir diese Methode auf eine andre Art einpleuen.*
+
+{ed.-* Hier sind im Original einige Wortspiele, die man lieber
+weggelassen hat, da sie an sich selbst frostig genug sind; und
+wenn sie auch noch das Verdienst des Doppelsinns, den sie nur in
+der Original-Sprache haben, verliehren, unertraeglich werden.  Man
+hat es mit dem groesten uebrigen Theil dieser Scene eben so gemacht,
+wo Dromio alle seine ungeheure Menge Wiz in Wortspielen auslaesst,
+die seinen Herrn, und vermuthlich auch die Zeitgenossen unsers
+Poeten eben so sehr belustigten, als sie unserm verwoehnten Geschmak
+albern und ekelhaft vorkommen.}
+
+Dromio.
+Ich will euch diese Muehe gern ersparen, wenn ihr mir nur in gutem
+Ernst sagen wollt, warum ihr mich geschlagen habt.
+
+Antipholis.
+Weist du's noch nicht?
+
+Dromio.
+Nichts, Herr, als dass ihr mich geschlagen habt.
+
+Antipholis.
+Soll ich dir sagen warum?
+
+Dromio.
+Ja, Herr, und wesswegen?Denn man pflegt zu sagen, jedes Warum hat
+sein Wesswegen.
+
+Antipholis.
+Fuer's erste, Warum, weil du meiner gespottet hast; und dann
+Wesswegen, weil du es mir das zweyte mal weggelaeugnet hast.
+
+Dromio von Syracus.
+Ich begreiffe weder euer Warum noch euer Wesswegen, noch eure
+Ohrfeigen--Nun gut, Herr, ich danke euch.
+
+Antipholis.
+Du dankst mir?Wofuer?
+
+Dromio von Syracus.
+Mein Six, Herr, fuer das Etwas so ihr mir um Nichts gegeben habt.
+
+Antipholis.
+Ich will es mit naechsten wieder gut machen, und dir Nichts fuer
+etwas geben.  Aber sag', ist es Mittagessens-Zeit?
+
+Dromio von Syracus.
+Nein, Herr, ich glaub', es fehlt dem Essen etwas das ich habe.
+
+Antipholis.
+Mit Erlaubniss, was mag das seyn?
+
+Dromio von Syracus.
+Dass es nicht genug betraeuft ist.**
+
+{ed.-** Der Einfall ligt im Original in der Zweydeutigkeit
+des Worts (basting), welches zugleich eine Tracht Schlaege, und das
+Betraeuffen, dessen was am Spiess gebraten wird, bedeutet.}
+
+Antipholis.
+Gut, Bursche, so wird es troken seyn.
+
+Dromio von Syracus.
+Wenn es so ist, so bitt' ich euch, esset nichts davon.
+
+Antipholis.
+Warum?
+
+Dromio von Syracus.
+Weil es euch cholerisch machen, und mir noch eine andre Tracht
+Schlaege zuziehen wuerde.
+
+Antipholis.
+Gut, junger Herr, lernt eure Zeit wol in Acht nehmen, wenn ihr
+spassen wollt; ein jedes Ding hat seine Zeit.
+
+
+
+Fuenfte Scene.
+(Adriana und Luciana zu den Vorigen.)
+
+
+Adriana.
+Ja, ja, Antipholis, sieh nur fremde und verdrieslich aus, eine
+andre Gebieterin hat deine zaertlichen Blike: ich bin nicht mehr
+Adriana, noch dein Weib.  Es war eine Zeit, da du ungeheissen
+schwurest, dass keine Worte Musik in deinem Ohr seyen, als die ich
+rede; dass kein Gegenstand dein Aug entzueke, als mein Anblik; dass
+keine andre Beruehrung deiner Hand willkommen sey, als die meinige--
+Wie kommt es dann izt, mein Gemal, o sage wie kommt es, dass du so
+fremde gegen dich selbst worden bist--Gegen dich selbst nenn' ich
+es, da du es gegen mich bist, die auf eine so unzertrennliche Art
+dir einverleibt bin, dass ich mehr bin als der groessre Theil von dir
+selbst.  Eher koenntest du einen Tropfen Wassers in die tieffe See
+fallen lassen, und unvermengt mit andern eben diesen Tropfen wieder
+zurueknehmen; als dich von mir losreissen, ohne mich mitzunehmen.
+Wie sehr wuerd' es dich bis in die Seele kraenken, wenn du nur hoeren
+wuerdest, dass ich ausgelassen sey, und dass dieser dir allein
+geheiligte Leib durch unkeusche Lust besudelt wuerde!  Wuerdest du
+mich nicht anspeyen, nicht mit Fuessen stossen, und mir den Namen
+eines Ehmanns ins Gesicht werfen, und die beflekte Haut von meiner
+Huren-Stirne reissen, und von meiner treulosen Hand den Trauring
+abhauen, und ihn mit einem auf ewig uns scheidenden Geluebde
+zerbrechen?Ich weiss du kanst es, also thu es auch--ich bin mit
+einem ehebrecherischen Fleken beschmizt; mein Blut ist mit dem
+Schmuz der Unzucht vermengt; denn wenn wir beyde eins sind, und du
+untreu wirst, so theilst du mir das Gift mit, das in deinen Adern
+schaeumt, und machst mich durch Anstekung zur Hure.  O so kehre dann
+zu deiner Pflicht zuruek, und bleibe deinem keuschen Bette getreu,
+damit ich unbeflekt lebe, und du unentehrt.
+
+Antipholis.
+Klagt ihr ueber mich, schoenes Frauenzimmer?Ich kenne euch ja nicht.
+Ich bin in Ephesus kaum zwoo Stunden alt, und mit eurer Stadt so
+unbekannt als mit euern Reden.  Ich strenge allen meinen Wiz
+vergeblich an, nur ein Wort von allem dem was ihr mir sagtet, zu
+verstehen.
+
+Luciana.
+Fy, Bruder, was fuer eine Veraenderung ist das bey euch?Wenn wart
+ihr gewohnt, meiner Schwester so zu begegnen; Sie schikte den
+Dromio, euch zum Mittag-Essen heim zu holen.
+
+Antipholis.
+Den Dromio?
+
+Dromio von Syracus.
+Mich?
+
+Adriana.
+Ja dich, und du brachtest uns zuruek, dass er dir Maulschellen
+gegeben, und unter den Maulschellen mein Haus und mich als sein
+Weib verlaeugnet habe.
+
+Antipholis.
+Habt ihr mit diesem Frauenzimmer gesprochen?Was fuer ein
+Verstaendniss habt ihr mit ihr, und was soll die Absicht davon seyn?
+
+Dromio von Syracus.
+Ich, Herr, ich habe sie meine Tage nie gesehen als izt.
+
+Antipholis.
+Du luegst, du Galgenschwengel; denn du brachtest mir ihre eigensten
+Worte auf den Markt.
+
+Dromio von Syracus.
+Ich habe sie in meinem Leben nie gesprochen.
+
+Antipholis.
+Woher kan sie uns denn bey unsern Namen nennen, es waere dann, dass
+sie einen Wahrsager-Geist haette?
+
+Adriana.
+Wie uebel steht es euerm Character an, eine so niedertraechtige
+Comoedie mit euerm Sclaven zu spielen, um meiner auf eine grobe Art
+ins Gesicht zu spotten?Ich bin beleidigt genug, dass ihr so
+entfremdet von mir seyd; haeuffet euer Unrecht nicht noch durch
+einen solchen Grad von Verachtung.  Komm, lass mich um deine Schlaefe
+mich winden; du bist eine Ulme, mein lieber Mann, und ich eine
+schwache Rebe, die mit deinem staerkern Stamm vermaehlt, an deiner
+Staerke Antheil nimmt, ohne sie zu vermindern; alles was dich von
+mir trennen will, ist Unkraut, diebischer Epheu und unnuezes Mooss,
+das sich, wenn es nicht bey Zeiten abgeschnitten wird, bis zu
+deinem Mark einfrisst, und von deinem Verderben seine Nahrung zieht.
+
+Antipholis.  (bey Seite.)
+
+Sie spricht mir so ernstlich zu, dass ich nicht weiss, was ich
+denken oder sagen soll.  Bin ich im Traum mit ihr vermaehlt worden?
+Oder schlaf ich izt, und bilde mir ein, dass ich alles diss hoere?Was
+fuer ein Irrthum bethoert unsre Augen und Ohren?Bis ich erfahren kan,
+was ich aus dieser unbegreiflichen Sache machen soll, wird das
+sicherste seyn, den guenstigen Betrug zu unterhalten.
+
+Luciana.
+Dromio, geh, sage den Bedienten, dass sie anrichten.
+
+Dromio von Syracus.  (bey Seite.)
+
+Nun, bey meinem Rosenkranz!  Ich will das Kreuz machen; Gott sey
+bey uns!  wir sind im Feen-Land, wir reden mit lauter Kobolten,
+Gespenstern und Nacht-Frauen; wenn wir nicht thun was sie haben
+wollen, so werden sie uns den Athem aussaugen, und uns braun und
+blau zwiken.
+
+Luciana.
+Was plauderst du da mit dir selber, und antwortest nicht?Dromio,
+du Hummel, du Schneke, du traeger Kerl, du Sot!
+
+Dromio von Syracus.
+Ich bin verwandelt, Herr, nicht wahr?
+
+Antipholis.
+Ich denke du bist's am Gemueth, wie ich selbst.
+
+Dromio von Syracus.
+Nein, Herr, an beydem, an Seel und Leib.
+
+Antipholis.
+Du hast deine eigne Gestalt.
+
+Dromio.
+Nein, ich bin ein Affe.
+
+Luciana.
+Wenn du in etwas verwandelt bist, so ist's in einen Esel.
+
+Dromio.
+Das ist es; sie reitet mich, und es hungert mich nach Gras; es ist
+so, ich bin ein Esel, sonst koennt' es unmoeglich seyn, dass ich sie
+nicht so gut kennte, als sie mich.
+
+Adriana.
+Kommt, kommt, ich will nicht laenger ein Narr seyn, und den Finger
+in die Augen steken und weinen, indess dass Herr und Knecht meines
+Kummers lachen.  Kommt, mein Herr, zum Mittag-Essen; Dromio, huete
+die Thuere.  Mein lieber Mann, ich will heut oben mit euch zu Mittag
+essen, und ihr sollt mir alle eure kleinen Schelmereyen beichten--
+Kerl, wenn jemand nach deinem Herrn fragt, so sag', er isst ausser
+dem Haus, und lass keinen lebendigen Menschen herein.  Kommt,
+Schwester; Dromio, sey du ein guter Thuerhueter.
+
+Antipholis.
+Bin ich auf der Erde, im Himmel oder in der Hoelle?Schlafend oder
+wachend, verruekt oder bey Sinnen?Diesen Leuten bekannt, und mir
+selbst verborgen?Ich will sagen was sie sagen, und es darauf
+ankommen lassen, was aus diesem Abentheuer werden mag.
+
+Dromio von Syracus.
+Herr, soll ich hier Thuerhueter seyn?
+
+Adriana.
+Ja, lass niemand herein, oder ich breche dir den Hals.
+
+Luciana.
+Kommt, kommt, Antipholis, wir werden spaet zu Mittag essen.
+
+(Sie gehen ab.)
+
+
+
+
+Dritter Aufzug.
+
+
+
+Erste Scene.
+(Die Strasse vor Antipholis Haus.)
+(Antipholis von Ephesus, Dromio von Ephesus, Angelo und Balthasar
+ treten auf.)
+
+
+Antipholis von Ephesus.
+Mein lieber Herr Angelo, ihr muesst uns entschuldigen; meine Frau ist
+verdriesslich, wenn ich nicht zur gewoehnlichen Zeit nach Hause komme;
+sagt, ich habe mich bey euch in eurer Werkstatt aufgehalten, um
+der Arbeit ihrer Kette zuzusehen, und ihr wollet ihr sie morgen
+ueberbringen.  Aber hier ist ein Galgenschwengel, der mir ins Gesicht
+behaupten will, er habe mich auf dem Markt angetroffen; und ich
+hab' ihm Schlaege gegeben, und tausend Mark an Gold von ihm gefodert,
+und ich hab' ihm meine Frau und mein Haus abgelaeugnet: Du
+besoffener Kerl, du, was meyntest du mit allem diesem Gewaesche?
+
+Dromio von Ephesus.
+Sagt was ihr wollt, Herr, ich weiss doch was ich weiss; dass ihr mich
+auf dem Markt geschlagen habt, das kan ich mit eurer Hand beweisen;
+waere mein Fell Pergament, und die Ohrfeigen die ihr mir gegeben
+habt, Dinte, so wuerde eure eigne Handschrift sagen was ich denke.
+
+Antipholis von Ephesus.
+Ich denke, du bist ein Esel.
+
+Dromio von Ephesus.
+Mein Six, das erhellet aus den Schlaegen, die ich ohne Ursache
+gekriegt habe.
+
+Antipholis von Ephesus.
+Ihr seyd duester, Herr Balthasar?Der Himmel gebe, dass unsre
+Mahlzeit meinem guten Willen entspreche.  Wenn ihr nicht gut
+bewirthet werdet, so seyd wenigstens versichert, dass ihr nicht
+willkommner seyn koenntet.
+
+(Er will die Thuer aufmachen.)
+
+Sachte!  die Thuer ist verriegelt; geh', Dromio, sag' ihnen, dass sie
+uns einlassen.
+
+Dromio von Ephesus.
+Mathilde, Brigitte, Marian, Caecile, Cathrine, Susanne!
+
+Dromio von Syracus (hinter der Thuer.)
+Flegel, Schlingel, Bengel, Gek, Mauskopf, Frazen-Gesicht!  Entweder
+scherr dich von der Thuere, oder siz' auf die Zaken; was fuer eine
+verzweifelte Menge Menscher beschwoerst du da zusammen, da es an
+einer zuviel gegen einem ist; scherr dich von der Thuer.
+
+Dromio von Ephesus.
+Was fuer ein Flegel ist Thuerhueter bey uns worden?Mein Herr wartet
+hier auf der Strasse, mach auf.
+
+Dromio von Syracus.
+Lass ihn gehn woher er gekommen ist, oder er moechte sich die Fuesse,
+hier erkaelten.
+
+Antipholis von Ephesus.
+Wer redt da drinnen?holla; macht die Thuer auf.
+
+Dromio von Syracus.
+Gleich, Herr, wenn ihr mir nur erst sagen wollt, warum?
+
+Antipholis von Ephesus.
+Warum, Schurke?Weil ich zu mittag essen will; ich habe heute noch
+nichts gegessen.
+
+Dromio von Syracus.
+Und werdet heute auch in diesem Hause nichts zu essen kriegen;
+kommt ein ander mal wieder.
+
+Antipholis von Ephesus.
+Wer bist du, der mich zu meinem eignen Hause hinausschliesst?
+
+Dromio von Syracus.
+Der zeitige Thuerhueter, Herr, und mein Nam ist Dromio, wenn's euch
+lieb ist.
+
+Dromio von Ephesus.
+O du Galgenvogel, hast du mir meinen Namen zusammt meinem Amt
+gestohlen?Bist du Dromio?Ich wollte du waerst es heute gewesen; es
+war ein Anlas, wo ich meinen Namen wohlfeil gegeben haette.*
+
+{ed.-* Man ist genoethiget, hier einen guten Theil von kleinen
+sinnreichen Reden auszulassen, die zwischen den Bedienten und einer
+Magd vorfallen, und in lauter Wortspielen bestehen, so sie einander
+zuwerfen.}
+
+(Weil man den Antipholis nicht einlassen will, fangt dieser an
+ungeduldig werden, und will die Thuer mit Gewalt einstossen, worueber
+ein grosser Lerm entsteht.)
+
+Adriana (hinter der Scene.)
+Wer ist da vor der Thuer, der einen solchen Lermen macht?
+
+Dromio von Syracus.
+Bey meiner Six, es giebt boese Buben in eurer Stadt.
+
+Antipholis von Ephesus.
+Seyd ihr da, Frau?Ihr haettet wol baelder kommen koennen.
+
+Adriana.
+Eure Frau, Herr Spizbube?Geht, pakt euch von der Thuere fort.
+
+Angelo.
+Mein Herr, ich sehe wol, hier ist weder was gutes zu essen, noch
+ein freundlicher Willkomm zu haben--wir halten uns vergeblich auf.
+
+Antipholis von Ephesus.
+Geh', hole mir was, dass ich die Thuer aufbrechen kan.
+
+Dromio von Syracus.
+Versuchts, und brecht hier was, wenn ihr wollt dass ich euch den
+Schaedel zerbrechen soll.
+
+Antipholis von Ephesus.
+Geh', sag' ich, hole mir ein Stemm-Eisen --
+
+Balthasar.
+Habt Geduld, mein Herr; ich bitte euch, fangt nichts dergleichen an;
+ihr wuerdet einen Anfall auf euren eignen guten Namen thun, und die
+nie verlezte Ehre eurer Frauen in Verdacht bringen.  Bedenket nur
+das; die lange Erfahrung, die ihr von ihrer klugen Auffuehrung und
+von ihrer Tugend habt, ihre bekannte Sittsamkeit, und selbst ihr
+geseztes Alter rechtfertigen sie gegen allen Verdacht; es muss
+irgend eine gute Ursache seyn, wenn ihr sie gleich nicht wisst,
+warum die Thueren dissmal so vor euch verriegelt sind; und zweifelt
+nicht, mein Herr, dass sie sich vollkommen desswegen wird
+rechtfertigen koennen.  Folget mir, und zieht euch in Geduld zuruek,
+und lasst uns alle in den Tyger zum Mittag-Essen gehen, auf den
+Abend geht dann allein nach Hause, und erkundigst euch um die
+Ursache dieser seltsamen Begebenheit.  Wenn ihr mit Gewalt ins Haus
+einbrechen wolltet, am hellen Tag und da alle Strassen voller Leute
+sind, so wuerde gleich ein allgemeines Stadt-Maehrchen draus werden;
+und das koennte, so wie die Welt alles aufs schlimmste auszudeuten
+pflegt, eurer Ehre einen Fleken anhaengen, der euch bis ins Grab
+bleiben koennte.
+
+Antipholis von Ephesus.
+Ihr habt mich ueberzeugt; ich will in der Stille abziehen, und ich
+hab' im Sinn mich lustig zu machen, so wenig ich auch Ursache dazu
+habe.  Ich kenne ein Weibsbild von unvergleichlichem Umgang, huebsch
+und wizig, muthwillig, und doch artig.  Dort wollen wir zu Mittag
+essen; meine Frau hat mir sie schon oft, aber versichert ohne
+Ursache, vorgerupft; wir wollen geh'n und bey ihr zu Mittag essen.
+Geht ihr heim, Angelo, und holt die Kette; sie wird izt wol fertig
+seyn; bringt sie, ich bitte euch, zum Stachel-Schwein, denn das ist
+das Haus; ich will die Kette meiner Wirthin dort geben, und wenn es
+auch nur meiner Frauen zum Possen waere.  Saeumt euch nicht, mein
+werther Herr.  Weil meine eigne Thuere mich nicht einlassen will, muss
+ich sehen wo ich eine andre offen finde.
+
+Angelo.
+Mein Herr, ich will euch in einer oder zwo Stunden daselbst
+aufwarten.
+
+Antipholis von Ephesus.
+Gut, mein Herr;
+
+(fuer sich.)
+
+Dieser Spass wird mich Geld kosten.
+
+(Sie gehen ab.)
+
+
+
+Zweyte Scene.
+(Das Haus des Antipholis von Ephesus.)
+(Luciana und Antipholis von Syracus treten auf.)
+
+
+Luciana.
+Wie, ist denn moeglich, dass ihr so ploezlich habt vergessen koennen,
+was die Pflicht eines Ehmanns ist?Wie, Antipholis, sollen schon im
+Fruehling deiner Liebe die Quellen deiner* Liebe vertroknen?Faellt
+das Gebaeude eurer Liebe schon zusammen, da es kaum aufgefuehrt ist?
+Wenn ihr meine Schwester bloss um ihres Vermoegens willen geheurathet
+habt, so begegnet ihr, wenigstens um ihres Vermoegens willen,
+freundlicher; oder wenn ihr irgend eine andre lieber habt, so thut
+es doch heimlich; lasst meine Schwester eure Untreu nicht so
+deutlich in euern Augen lesen, und macht eure Zunge nicht zum
+Redner eurer eignen Schande; seht sie freundlich an, gebt ihr gute
+Worte; seyd mit einer guten Art ungetreu, kleidet das Laster wie
+einen Hausgenossen der Tugend; nehmt eine schoene Gestalt an, wenn
+schon euer Herz besudelt ist; mit einem Wort, seyd heimlich untreu;
+wozu braucht Sie es zu wissen?Welcher Dieb ist so einfaeltig, mit
+seinen eignen Streichen zu pralen?Beredet uns wenigstens, uns arme
+Weiber, die so leicht zu bereden sind, dass ihr uns liebt; wenn
+gleich andre den Arm haben, so zeigt uns wenigstens ein
+freundliches Gesicht; wir werden nur von Euch in Bewegung gesezt,
+und ihr koennt aus uns machen was ihr wollt.  Kommt also wieder mit
+mir hinein, mein lieber Bruder; troestet meine Schwester, thut
+freundlich mit ihr, nennt sie euer Weib; wenn es auch nur
+Schmeicheley ist, so dient es doch zu ihrer Beruhigung.
+
+{ed.-* Ein Wortspiel mit dem Wort Spring, welches Fruehling, und Quelle
+heisst.}
+
+Antipholis von Syracus.
+Anmuthsvolle Gebieterin, (keinen andern Namen weiss ich euch nicht
+zu geben, noch begreiff ich, durch was fuer ein Wunderwerk ihr den
+meinigen entdekt habt,) eure Schoenheit und diese Probe eurer
+Wissenschaft beweisen beyde, dass ihr eher irgend eine Gottheit als
+ein irdisches Wesen seyd; lehre mich, schoenste Gestalt, wie ich
+denken und wie ich reden soll; entfalte vor meinen zu groben
+irdischen, in Irrthum eingehuellten Sinnen, den geheimnisvollen
+Inhalt deiner Reden--Warum bemueht ihr euch so sehr, mich in einem
+unbekannten Feld irre zu fuehren?Seyd ihr eine Goettin?Wollt ihr
+mich neu erschaffen?So verwandelt mich dann, ich unterwerffe mich
+eurer Macht.  Aber so lang ich ich selbst bin, weiss ich gewiss, und
+es ist umsonst die lautre Wahrheit meiner Seele einer Falschheit
+anzuklagen, dass eure weinende Schwester mein Weib nicht ist, und
+dass ich keine von diesen Pflichten ihr schuldig bin, die ihr mir
+einschaerfet.  Warum wollt ihr mich dann noethigen sie zu lieben, da
+mein Herz weit staerker, weit staerker zu euch gezogen wird?O, loke
+mich nicht, holdes Meer-Maedchen, durch dein Zauberlied, um in der
+Thraenenfluth deiner Schwester mich zu ertraenken; sing' fuer dich
+selbst, Syrene, und ich bin lauter Liebe; spreite deine goldnen
+Loken ueber die Silberwellen, und ich will sie zu meinem Bette
+machen, und da ligen, und den Tod, den du mir geben wirst, mit
+Entzueken annehmen.
+
+Luciana.
+Wie, seyd ihr wahnwizig, dass ihr so schwaermt?
+
+Antipholis von Syracus.
+Nicht wahnwizig, aber geblendet; wie, weiss ich selbst nicht.
+
+Luciana.
+Der Fehler ligt in euern Augen.
+
+Antipholis von Syracus.
+Weil ich zu lang, o schoene Sonne, in eure Stralen schaute.
+
+Luciana.
+Schaut wohin ihr sollt, das wird euer Gesicht wieder aufklaeren.
+
+Antipholis von Syracus.
+Das ist soviel, meine suesse Liebe, als ob ihr mir befaehlet, in die
+Nacht zu schauen.
+
+Luciana.
+Warum nennt ihr mich, Liebe?Nennt meine Schwester so.
+
+Antipholis von Syracus.
+Deiner Schwester Schwester.
+
+Luciana.
+Das ist meine Schwester.
+
+Antipholis.
+Nein, das bist du selbst, die bessere Helfte des meinigen, das Auge
+meiner Augen, und meines Herzens theureres Herz; meine Nahrung,
+mein Gluek und mein Anspruch an den Himmel.
+
+Luciana.
+Alles diss ist meine Schwester, oder sollt es doch seyn.
+
+Antipholis von Syracus.
+Nenne dich selbst Schwester, meine Liebe, denn ich meyne dich; dich
+will ich lieben, und mit dir mein Leben leben.  Du hast noch keinen
+Mann; ich noch kein Weib; gieb mir deine Hand.
+
+Luciana.
+O, sachte, mein Herr, haltet noch ein wenig ein; ich will nur
+vorher meine Schwester holen, damit sie ihre Einwilligung geben kan.
+
+(Luciana geht ab.)
+
+
+
+Dritte Scene.
+(Dromio von Syracus, (ueber die Buehne lauffend.)
+
+
+Antipholis von Syracus.
+He, holla, Dromio, wohin laufst du so eilig?
+
+Dromio von Syracus.
+Kennt ihr mich dann, Herr?Bin ich Dromio?Bin ich euer Knecht?Bin
+ich ich selbst?
+
+Antipholis von Syracus.
+Du bist Dromio, mein Knecht, und du selbst.
+
+Dromio von Syracus.
+Ich bin ein Esel, eines Weibes Mann, und ausser mir selbst.
+
+Antipholis von Syracus.
+Was fuer eines Weibes Mann, und wie ausser dir selbst?
+
+Dromio von Syracus.
+Meiner Six, Herr, in so fern ich ausser mir selbst bin, gehoer' ich
+einem Weib an; einer, die Ansprueche an mich macht, die mir
+allenthalben nachlaeuft, und mich haben will.
+
+Antipholis von Syracus.
+Was fuer Ansprueche macht sie an dich?
+
+Dromio von Syracus.
+Sapperment, Herr, so einen Anspruch wie ihr auf euer Pferd machen
+koennt; einen recht bestialischen Anspruch; denn ich muesste nichts
+geringere als ein Stier seyn, wenn ihr Anspruch gueltig waere, so
+aehnlich ist sie einer Kuh aus Flandern.
+
+Antipholis von Syracus.
+Wer ist es dann?
+
+Dromio von Syracus.
+Eine sehr respectable Person, Herr; eine Person, von der man nicht
+reden darf, ohne zu sagen: Mit Respect.  Ich mache nur ein sehr
+mageres Gluek, wenn ich den Handel eingehe, und doch ist sie eine
+erstaunlich fette Parthey.
+
+Antipholis von Syracus.
+Was meynst du damit?
+
+Dromio von Syracus.
+Sapperment, Herr, sie ist das Kuechen-Mensch und lauter Schmeer; ich
+wuesste nicht was man aus ihr machen koennte als eine Lampe, um bey
+ihrem eignen Licht vor ihr davon zu lauffen.  Ich steh' euch dafuer,
+ihre Lumpen und das Talg darinn, wuerden einen Laplaendischen Winter
+lang brennen.
+
+Antipholis.
+Wie heisst sie?
+
+Dromio von Syracus.
+Nell, Herr--Aber ihr Name, Herr, und drey Viertel, (das ist eine
+Ell und drey Viertel,) reichte noch lange nicht zu, sie von einer
+Huefte zur andern auszumessen.
+
+Antipholis.
+Sie ist also raesonnabel breit?
+
+Dromio von Syracus.
+Nicht laenger vom Kopf zum Fuss als von einer Huefte zur andern; sie
+ist rund wie ein Globus: Ich wollte Laender auf ihr finden.
+
+Antipholis.
+Wo wolltest du zum Exempel Irrland finden?
+
+Dromio von Syracus*.
+{ed.-* Der Leser wird uns vielleicht eher verzeihen, dass wir ihm die
+Antwort des Dromio schuldig bleiben, als dass wir ihn und uns
+bereits mit so vielen andern albernen Possen, wovon dieses Stuek
+wimmelt, geplagt haben.  Die Idee von einem Globus hat unserm Autor
+so kurzweilig gedaeucht, dass Dromio seinem Herrn beynahe alle Laender
+des Erdbodens auf dieser seltsamen Weltkugel aufsuchen muss; welches
+er dann auf eine so ekelhafte und schmuzige Art thut, als der
+Gegenstand ist, der seinem poebelhaften Wiz diesen schoenen Anlas
+giebt, sich zu zeigen.}
+
+--Mit einem Wort, diese Unholde machte
+Anspruch an mich, nannte mich Dromio, schwur dass ich mit ihr
+verheurathet sey, sagte mir was fuer geheime Merkmale ich an mir
+habe, als die Fleken auf meiner Schulter, das Gewaechs an meinem
+Hals, die grosse Warze an meinem linken Arm; so dass ich voller
+Schreken davon lief, weil ich wol sah, dass sie eine Hexe seyn musste.
+Ich glaube, meiner Treu, wenn ich nicht ein so guter Christ waere,
+sie haette mich in einen Hund ohne Schwanz verwandelt, und mich
+gezwungen, die Braten in ihrer Kueche zu wenden.
+
+Antipholis von Syracus.
+Geh', so schnell als du kanst, lauf an die Rhede, und wenn irgend
+ein Wind vom Ufer wegtreibt, so will ich keine Nacht mehr in dieser
+Stadt zubringen.  Wenn du ein Schiff findest, das abfahren will, so
+komm auf den Markt; ich will dort auf und ab gehen, bis du wieder
+kommst; wenn uns jedermann kennt, und wir kennen niemand, so ist es
+hohe Zeit, denk' ich, seinen Buendel zu machen, und davon zu gehen.
+
+(Dromio geht ab.)
+
+
+
+Vierte Scene.
+
+
+Antipholis von Syracus.
+Das ist gewiss, dass lauter Zaubervolk hier wohnt, und es ist also
+nicht gut, sich hier lang aufzuhalten.  Es graut mir in der Seele
+vor dem Gedanken, dass diejenige mein Weib seyn sollte, die mich als
+ihren Mann anspricht.  Aber ihre schoene Schwester hat ein so
+unwiderstehlich angenehmes Wesen, und einen so bezaubernden Umgang,
+dass sie mich beynahe zum Verraether an mir selbst gemacht hat.  Aber
+wenn ich mich selbst nicht in Unglueck stuerzen will, muss ich meine
+Ohren gegen den Gesang dieser Syrene verstopfen.  (Angelo tritt mit
+einer goldnen Kette auf.)
+
+Angelo.
+Herr Antipholis--
+
+Antipholis von Syracus.
+Ja, so heiss' ich.
+
+Angelo.
+Das weiss ich wohl, mein Herr: seht, hier ist die Kette; ich dachte
+ich wollte euch im Stachelschwein antreffen, ich musste so lange
+ausbleiben, weil die Kette noch nicht fertig war.
+
+Antipholis von Syracus.
+Was wollt ihr dass ich damit thun soll?
+
+Angelo.
+Was ihr selbst wollt, mein Herr; ich habe sie fuer euch gemacht.
+
+Antipholis von Syracus.
+Fuer mich gemacht, mein Herr?Ich bestellte sie ja nicht.
+
+Angelo.
+Nicht ein oder zweymal, wohl zwanzig mal habt ihr sie bestellt,
+geht heim und macht eurer Frauen eine Freude damit; gleich nach dem
+Nachtessen will ich zu euch kommen, und das Geld dafuer abholen.
+
+Antipholis von Syracus.
+Ich bitte euch, mein Herr, nehmt das Geld lieber izt ein, ihr
+moechtet sonst weder Geld noch Kette wieder sehen.
+
+Angelo.
+Es beliebt euch zu spassen, mein Herr; lebet wohl.
+
+(Er geht ab.)
+
+Antipholis von Syracus.
+Was ich hievon denken soll, kan ich nicht sagen; aber das denk ich,
+es ist niemand so albern, der eine so schoene Kette nicht annehme,
+wenn man sie ihm anbietet.  Ich sehe wohl, es hat einer hier keine
+Kunstgriffe noethig, um leben zu koennen, da einem auf der Strasse so
+kostbare Geschenke in die Haende lauffen.  Ich will nun auf den Markt,
+und den Dromio erwarten, und wenn irgend ein Schiff abgeht, auf
+und davon!
+
+
+
+
+Vierter Aufzug.
+
+
+
+Erste Scene.
+(Die Strasse.)
+(Ein Kauffmann, Angelo und ein Gerichtsdiener treten auf.)
+
+
+Kauffmann.
+Ihr wisst, die Summe war schon um Pfingsten verfallen, und ich hab'
+euch seither nicht viel beunruhiget, und wuerd' es auch izt nicht
+thun, wenn ich nicht eine Reise nach Persien vor mir haette, wozu
+ich Geld brauche; befriedigt mich also auf der Stelle, oder hier
+ist ein Gerichtsdiener, der sich eurer versichern wird.
+
+Angelo.
+Die nemliche Summe, die ihr an mich zu fodern habt, ist Antipholis
+mir schuldig, fuer eine goldne Kette, die ich ihm einen Augenblik eh
+ich euch antraf, zugestellt hatte; diesen Abend um fuenfe soll ich
+das Geld davor einnehmen; seyd nur so gut mit mir zu seinem Hause
+zu gehen, und ich will euch mit Dank bezahlen.  (Antipholis von
+Ephesus, und Dromio von Ephesus, kommen aus dem Hause der
+Courtisane, und begegnen den Vorigen.)
+
+Gerichtsdiener.
+Ihr koennt euch eine Muehe ersparen; seht, da kommt er selbst.
+
+Antipholis von Ephesus.
+Indessen ich zum Goldschmidt gehe, geh' du, und kauf mir ein
+huebsches Stuek von einem Seil; ich will meine Frau und Compagnie
+damit begaben, dafuer dass sie mich heut aus dem Haus hinaus gesperrt
+haben--Aber sachte, da seh' ich den Goldschmidt: Geh' du, und
+kauffe den Strik, und bring ihn mir nach Hause.
+
+(Dromio geht ab.)
+
+Antipholis.
+Dem ist wohl geholfen, der sich auf euch verlaesst; ihr versprachet
+mir eure Gegenwart und die Kette; aber es kam weder Kette noch
+Goldschmidt; ihr habt vermuthlich gedacht, unsre Freundschaft
+moechte zu lange dauren, wenn sie mit einer Kette zusammengebunden
+waere, und darum seyd ihr nicht gekommen.
+
+Angelo.
+Mit Erlaubniss des lustigen Humors, worinn ihr heute seyd, hier ist
+die Note, wie viel eure Kette auf den aeussersten Carath wiegt, die
+Feinheit des Goldes, und die muehsame Arbeit; alles belaeuft sich auf
+drey Ducaten mehr als ich diesem Herrn hier schuldig bin; ich bitte
+euch, uebernehmet es, ihn sogleich zu befriedigen; er muss ueber Meer
+reisen, und wartet nur um dessentwillen.
+
+Antipholis von Ephesus.
+Ich habe nicht so viel baares Geld bey mir, und ueberdas hab' ich
+Geschaefte in der Stadt; mein lieber Herr, fuehrt den Fremden in mein
+Haus, und nehmt die Kette mit euch, und saget meiner Frau, dass sie
+euch nach Empfang derselben bezahlen soll; vielleicht bin ich so
+bald dort, als ihr.
+
+Angelo.
+Wollt ihr also die Kette nicht lieber selbst mitbringen?
+
+Antipholis von Ephesus.
+Nein, tragt ihr sie hin, auf den Fall, dass ich etwann nicht frueh
+genug kommen koennte.
+
+Angelo.
+Ganz gut, mein Herr; habt ihr die Kette bey euch?
+
+Antipholis von Ephesus.
+Wenn ich sie nicht habe, Herr, so hoff' ich, ihr habt sie; oder ihr
+koennt ohne euer Geld wieder fortgehen.
+
+Angelo.
+Nein, mein Herr, ich bitt' euch, gebt mir die Kette; Wind und Fluth
+warten auf diesen Herrn hier, ich darf ihn nicht laenger aufhalten.
+
+Antipholis von Ephesus.
+Mein guter Herr, ihr wollt vermuthlich mit dieser Schaekerey
+entschuldigen, dass ihr euer Wort nicht gehalten und ins
+Stachelschwein gekommen seyd: Ich haette euch desswegen ausschelten
+sollen, aber ihr macht es wie die boesen Weiber; wenn sie Keiffe
+verdient haben, so fangen sie zuerst an zu schnurren.
+
+Kauffmann.
+Die Zeit verlaeuft; ich bitte euch, mein Herr, beschleunigt die
+Sache.
+
+Angelo.
+Ihr hoert ja selbst wie er mir's macht; die Kette --
+
+Antipholis von Ephesus.
+Gebt sie meiner Frauen, sag' ich ja, und lasst euch euer Geld geben.
+
+Angelo.
+Kommt, kommt, ihr wisst ja, dass ich sie euch nur erst gegeben habe.
+Entweder schikt die Kette, oder gebt mir sonst ein Merkzeichen mit,
+wodurch ich mich eurer Frauen legitimiren kan.
+
+Antipholis von Ephesus.
+Fy, Herr, ihr treibt den Spass zu weit; kommt, wo ist die Kette; ich
+bitt' euch, lasst mich sie sehen.
+
+Kauffmann.
+Meine Geschaefte koennen diese Kurzweile nicht aushalten; mein Herr,
+erklaert euch, ob ihr mich bezahlen wollt oder nicht; wenn nicht, so
+will ich ihn dem Gerichtsdiener ueberlassen.
+
+Antipholis von Ephesus.
+Ich euch bezahlen?Was soll ich euch bezahlen?
+
+Angelo.
+Das Geld, so ihr mir fuer die Kette schuldig seyd.
+
+Antipholis von Ephesus.
+Ich bin euch kein Geld schuldig, bis ich die Kette habe.
+
+Angelo.
+Ihr wisst, dass ich sie euch vor einer halben Stunde gegeben habe.
+
+Antipholis von Ephesus.
+Ihr habt mir nichts gegeben; ihr thut mir Unrecht, wenn ihr das
+sagt.
+
+Angelo.
+Ihr thut mir groessers Unrecht, Herr, dass ihr's laeugnet; bedenket,
+dass mir mein Credit darauf steht.
+
+Kauffmann.
+Wohlan, Gerichtsdiener, arretirt ihn auf mein Ansuchen.
+
+Gerichtsdiener.
+Ich thu es, und befehl euch hiemit in des Herzogs Namen mir zu
+folgen.
+
+Angelo.
+Das greift meine Ehre an.  Entweder bezahlt das Geld fuer mich, oder
+ich versichre mich eurer durch diesen Gerichtsdiener.
+
+Antipholis von Ephesus.
+Ich soll fuer etwas bezahlen, das ich nie empfangen habe?Lass mich
+arretiren, du naerrischer Kerl, wenn du das Herz hast.
+
+Angelo.
+Gerichtsdiener, hier ist dein Tax; sez' ihn feste; ich wollte
+meines eignen Bruders nicht schonen, wenn er mir so niedertraechtig
+begegnete.
+
+Gerichtsdiener.
+Mein Herr, ich arretire euch; ihr habt gehoert, dass es an mich
+gefordert wird.
+
+Antipholis von Ephesus.
+Ich unterwerfe mich dir, bis ich dir Buergschaft stellen werde.  Aber
+ihr, Bursche, sollt mir diesen Spass so theuer bezahlen, dass alles
+Metall in euerm Laden nicht zureichen soll.
+
+Angelo.
+Herr, Herr, ich will wol Justiz in Ephesus finden, und ihr werdet
+wenig Ehre davon haben, das glaubt mir.
+
+
+
+Zweyte Scene.
+(Dromio von Syracus zu den Vorigen.)
+
+
+Dromio von Syracus.
+Herr, es ist eine Barke von Epidamnum, die nur noch so lange wartet,
+bis der Schiffspatron an Bord kommt, und dann gleich absegelt.  Ich
+habe unser Gepaeke schon an Bord gebracht, und das Oel, den Balsam
+und den Aquavit gekauft.  Das Schiff ist wohl geladen, es blaesst ein
+muntrer Wind vom Land her; und man wartet nur noch auf den Patron
+und auf euch.
+
+Antipholis von Ephesus.
+Was, zum Henker, bist du toll?Du dummer Schoeps, was fuer ein Schiff
+von Epidamnum wartet auf mich?
+
+Dromio von Syracus.
+Ein Schiff, worauf ihr mich geschikt habt, unsre Ueberfahrt zu
+miethen.
+
+Antipholis von Ephesus.
+Du besoffner Schurke, ich schikte dich um ein Seil, und sagte dir,
+wozu ich es brauchen wollte.
+
+Dromio von Syracus.
+Ich weiss von keinem Seil, ich; ihr schiktet mich an die Rhede, Herr,
+um ein Schiff.
+
+Antipholis von Ephesus.
+Ich will diese Materie zu einer andern Zeit berichtigen, und deine
+Ohren lehren besser aufzumerken, wenn ich dir was sage.  Lauf izt
+straks zu Adriana, du Galgenvogel, gieb ihr diesen Schluessel, und
+sag' ihr, in dem Pult, der mit Tuerkischer Tapezerey ueberzogen ist,
+werde sie einen Beutel mit Ducaten finden, den sie mir schiken soll;
+sag' ihr, ich sey auf der Strasse arretirt worden, und dieses
+muesse mich loskauffen; pake dich, Sclave, geh';--Nur fort,
+Gerichtsdiener, ins Gefaengniss bis es kommt.
+
+(Sie gehen ab.)
+
+Dromio von Syracus.
+Zu Adriana!  Das ist ja, wo wir zu Mittag gegessen haben, und wo
+Dowsebel mir zumuthete, dass ich ihr Mann seyn muesse; ich hoffe sie
+ist zu dik, als dass wir zusammenpassen koennten.  Indessen muss ich
+doch gehen, weil es mein Herr so haben will.
+
+(ab.)
+
+
+
+Dritte Scene.
+(Verwandelt sich in des Ephesischen Antipholis Haus.)
+(Adriana und Luciana treten auf.)
+
+
+Adriana.
+Ah, Luciana, sezt' er dir so zu?Sahest du es wuerklich in seinen
+Augen, dass es ihm Ernst war?Sah' er roth oder blass aus,
+verdriesslich oder aufgeraeumt?Was fuer Beobachtungen machtest du
+ueber die Meteore seines Herzens, die in seinem Gesichte kaempften?
+
+Luciana.
+Fuers erste, so laeugnete er, dass ihr ein Recht an ihn habet.
+
+Adriana.
+Er meynt', er lasse mir mein Recht nicht wiederfahren.
+
+Luciana.
+Hernach schwur er, er sey hier fremde.
+
+Adriana.
+Und schwur die Wahrheit, ob er gleich dadurch meineydig wurde.
+
+Luciana.
+Und da nahm ich eure Parthey.
+
+Adriana.
+Und was sagt' er dazu?
+
+Luciana.
+Die Liebe, um die ich ihn fuer euch bat, erbat er von mir.
+
+Adriana.
+Durch was fuer Ueberredungen sucht' er eure Liebe zu gewinnen?
+
+Luciana.
+Durch Worte, die bey ehrlichen Absichten haetten bewegen koennen; er
+lobte zuerst meine Schoenheit, hernach meinen Verstand.
+
+Adriana.
+Redtest du freundlich mit ihm?
+
+Luciana.
+Seyd geduldig, ich bitte euch.
+
+Adriana.
+Ich kan nicht mehr still halten, ich will nicht; ich will
+wenigstens meiner Zunge den Lauf lassen.  Er ist ungestalt, krumm-
+beinicht, alt und kalt, haesslich, missgeschaffen, lasterhaft,
+ungesittet, albern, grob und unartig; eine Missgeburt am Leib, und
+noch schlimmer am Gemueth.
+
+Luciana.
+Wie moegt ihr denn ueber so einen eifersuechtig seyn?Man beweint den
+Verlust eines Uebels nicht, dessen man los worden ist.
+
+Adriana.
+Ach!  ich denk' ihn doch besser als ich sage; mein Herz betet fuer
+ihn, ob ihm gleich meine Zunge flucht.
+
+
+
+Vierte Scene.
+(Dromio von Syracus zu den Vorigen.)
+
+
+Dromio von Syracus
+
+(ausser Athem.)
+
+
+Hier, geht; der Pult, der Beutel; ich bitt' euch, macht hurtig.
+
+Luciana.
+Wie bist du so aus dem Athem gekommen?
+
+Dromio von Syracus.
+Weil ich stark geloffen bin.
+
+Adriana.
+Wo ist dein Herr, Dromio?Ist er wohl?
+
+Dromio von Syracus.
+Nein, er ist im Tartar-Limbo, der noch aerger als die Hoelle selbst
+ist.  Ein Teufel in einem immerwaehrenden Rok hat ihn; einer, dessen
+Herz mit Stahl zugeknoepft ist; ein boeser Feind, eine unbarmherzige
+Furie, ein Wolf, nein, noch was aergers, ein Kerl ueber und ueber in
+Bueffelsleder; ein Rueken-Freund, ein Schulter-Klopfer, einer der die
+Zugaenge der Strassen, die Schiff-Laenden und enge Paesse besezt;
+einer der, vor Gericht, arme Seelen zur Hoelle fuehrt; mit einem Wort,
+Frau, ein Gerichtsdiener.
+
+Adriana.
+Wie, Mann, was ist die Sache?
+
+Dromio von Syracus.
+Das weiss ich nicht; aber das weiss ich, dass er im Arrest ist.  Wollt
+ihr ihm kein Loesegeld schiken, Frau?Das Geld ist in seinem Pult.
+
+Adriana.
+Geht, Schwester, holt es.
+
+(Luciana geht ab.)
+
+Das ist wunderbar, dass er Schulden haben soll, wovon ich nichts
+weiss!  Sag mir, hat man ihn wegen einer Obligation in Verhaft
+genommen?
+
+Dromio von Syracus.
+Wegen etwas weit staerkerm, wegen einer Kette; einer Kette; hoert ihr
+sie nicht klingeln?
+
+Adriana.
+Was, die Kette?
+
+Dromio von Syracus.
+Nein, die Gloke; es ist Zeit, dass ich gehe; es war zwey, da ich ihn
+verliess, und nun schlaegt die Glok, eins.
+
+Adriana.
+Das hab ich nie gehoert, dass die Stunden zuruek gehen.
+
+Dromio von Syracus.
+O ja, wenn eine Stunde einen Gerichtsdiener antrift, so lauft sie
+vor Schreken zuruek.  (Luciana kommt wieder.)
+
+Adriana.
+Geh, Dromio; hier ist das Geld, trag es hin, und bring deinen
+Herren unmittelbar nach Hause.--Kommt, Schwester, ich weiss nimmer,
+wo ich hin denken soll --
+
+
+(Sie gehen ab.)
+
+
+
+Fuenfte Scene.
+(Verwandelt sich in die Strasse.)
+(Antipholis von Syracus tritt auf.)
+
+
+Antipholis.
+Es begegnet mir kein Mensch auf der Strasse, der mich nicht gruesse,
+als ob ich laengst mit ihm bekannt waere, und jedermann nennte mich
+bey meinem Namen.  Einige bieten mir Geld an, andre laden mich ein,
+andre danken mir fuer Hoeflichkeiten die ich ihnen erwiesen haben
+soll; andre tragen mir Sachen zum Kauf an.  Diesen Augenblik rief
+mir ein Schneider in seine Werkstatt, und zeigte mir einen seidnen
+Zeug den er fuer mich gekauft habe, und wozu er das Maass von mir
+nahm.  Es kan nicht anders seyn, es besteht hier alles in lauter
+Einbildungen, und es wohnen lauter laplaendische Zauberer hier.
+(Dromio von Syracus tritt auf.)
+
+Dromio von Syracus.
+Herr, hier ist das Geld, warum ihr mich geschikt habt; wie, seyd
+ihr von dem neugekleideten Ebenbild des alten Adams los gekommen?
+
+Antipholis von Syracus.
+Was fuer Geld ist das?Und was meinst du fuer einen Adam?
+
+Dromio von Syracus.
+Nicht den Adam der das Paradies huetete, sondern den Adam, der das
+Gefaengniss huetet; den, der in des Kalbs Fell geht, das fuer den
+verlohrnen Sohn geschlachtet wurde; der, wie ein boeser Engel hinter
+euch hergeschlichen kam, und euch eure Freyheit vergessen liess.
+
+Antipholis von Syracus.
+Ich verstehe dich nicht.
+
+Dromio von Syracus.
+Nicht?die Sache ist doch ganz deutlich; der Kerl, der dahergieng,
+wie eine Bassgeige in einem ledernen Ueberzug--* mit einem Wort, den
+Gerichtsdiener.
+
+{ed.-* Hier folgen im Original noch etliche sinnreich seyn-sollende
+Umschreibungen, die aber in lauter Wortspielen bestehen, so sich
+nicht deutsch machen lassen.}
+
+Antipholis von Syracus.
+Lass einmal deine unzeitige Schaekereyen, und sag' mir, hast du ein
+Schiff gefunden, das diese Nacht abgeht?
+
+Dromio von Syracus.
+Wie, Herr?ich brachte euch ja Nachricht, dass die Barke Expedition
+diese Nacht auslauffe, aber ihr wurdet von dem Gerichtsdiener
+aufgehalten, euch an Bord zu begeben; hier sind die Engel, nach
+denen ihr mich schiktet, um euch zu befreyen.
+
+Antipholis von Syracus.
+Der Bursche weiss nicht recht wo ihm der Kopf steht; und so gehts
+mir auch; wir irren hier unter lauter Blendwerken herum; irgend ein
+guter Geist bring uns unbeschaedigt wieder hinweg!
+
+
+
+Sechste Scene.
+(Die Courtisane zu den Vorigen.)
+
+
+Courtisane.
+Wir treffen einander recht gelegen an, Herr Antipholis.  Ich seh'
+ihr habt endlich den Goldschmidt gefunden; ist das die Kette, so
+ihr mir heute versprochen habt?
+
+Antipholis von Syracus.
+Zuruek, Satan!  Versuche mich nicht, sag' ich dir.
+
+Dromio von Syracus.
+Herr, ist dieses Frauenzimmer der Satan?
+
+Antipholis von Syracus.
+Es ist der Teufel.
+
+Dromio von Syracus.
+Nein, sie ist noch etwas aergers, sie ist des Teufels Grossmutter.*
+
+Courtisane.
+Euer Diener und ihr seyd erstaunlich spasshaft, mein Herr.  Wollt ihr
+mit mir gehen, wir wollen unser Mittag-Essen hier verbessern.
+
+Antipholis von Syracus.
+Zuruek, boeser Feind!  Was sagst du mir vom Nacht-Essen?Du bist eine
+Hexe, wie ihr alle seyd; ich beschwoere dich, dass du von mir
+ablassest, und deines Wegs gehest.
+
+Courtisane.
+Gebt mir entweder meinen Diamant-Ring wieder, den ihr mir beym
+Essen abgezogen, oder die Kette, die ihr mir versprochen habt, so
+will ich gehen und euch nicht beunruhigen.
+
+Dromio von Syracus.
+Andre Teufel verlangen nur Kleinigkeiten, einen abgeschnittnen
+Nagel, einen Strohhalm, ein Haar, einen Tropfen Bluts, eine
+Steknadel, eine Nuss oder einen Kirschenstein; aber diese ist so
+gierig, dass sie eine Kette haben will.  Herr, seyd gescheidt; wenn
+ihr's thaetet, wer weiss was fuer ein Ungluek daraus entstehen wuerde.
+
+Antipholis von Syracus.
+Pake dich, du Hexe!  Komm, Dromio, wir wollen gehen.
+
+Dromio von Syracus.
+Es wird das sicherste seyn--
+
+(Sie gehen ab.)
+
+{ed.-* Hier ist man wieder genoethigt, die Einfaelle des Dromio
+wegzulassen, die sich alle um die Zweydeutigkeit des Worts (light)
+herumdrehen, welches Licht und leicht heisst.  (a light Wench) (ein
+leichtes Mensch) ist im Englischen so viel als eine Hure.  Diss giebt
+dann dem Dromio Anlas zu sagen: Dieses Frauenzimmer sey des Teufels
+Mutter in Gestalt einer Hure
+
+(of a light Wench.)
+
+Nun (sagt er) steht geschrieben, die Teufel erscheinen den Leuten
+in Gestalt der Engel des Lichts,
+
+(Angels of light.)
+
+Licht ist eine Wuerkung des Feuers, und Feuer brennt, ergo brennen
+die Huren,
+
+(light-Wenches will burn)
+
+folglich kommt ihr nicht zu nahe.}
+
+
+
+Siebende Scene.
+(Die Courtisane bleibt zuruek.)
+
+
+Courtisane.
+Ausser allem Zweifel ist Antipholis naerrisch worden, sonst wuerd' er
+sich nimmermehr so auffuehren.  Er hat einen Ring von mir, der
+vierzig Ducaten werth ist; er versprach mir eine Kette fuer den Ring,
+und nun schlaegt er mir beydes ab.  Noch ein andrer Umstand, der
+mir's glaublich macht, dass er toll ist, ist ein naerrisches Maehrchen
+so er heute bey Tisch erzaehlte, man habe seine eigne Hausthuere vor
+ihm verschlossen; seine Frau muesste es dann darum gethan haben, weil
+sie schon weiss, wenn er seinen Anstoss von Tollheit zu kriegen
+pflegt.  Izt will ich nach seinem Hause gehen, und seiner Frau
+erzaehlen, er sey heute, da er eben in seiner tollen Stunde gewesen,
+in mein Haus eingedrungen, und habe mir mit Gewalt meinen Ring
+genommen.  Das daeucht mir das sicherste; denn vierzig Ducaten
+verliehren, das waere zuviel auf einmal.
+
+(Sie geht ab.)
+
+
+
+Achte Scene.
+(Die Strasse.)
+(Antipholis von Ephesus, mit einem Kerkermeister.)
+
+
+Antipholis von Ephesus.
+Besorge nichts, guter Freund; ich will nicht ausreissen; ich will
+dir, eh ich dich verlasse, so viel Geld zum Unterpfand geben, als
+die Summe betraegt um derentwillen ich in Verhaft bin.  Meine Frau
+ist heute nicht im guten Zeichen; sie wird meinem Bedienten nicht
+getraut haben.  Ich versichre dich, es wuerd' ihr hart in den Ohren
+toenen, wenn sie hoerte, dass ich in Ephesus feste sizen soll.  --
+(Dromio von Ephesus mit einem Strik.)--Hier kommt mein Knecht; ich
+denk', er bringt das Geld.  Nun, Herr Patron, habt ihr das, wornach
+ich euch geschikt habe?
+
+Dromio von Ephesus.
+Hier ist etwas, ich bin euch gut dafuer, das sie alle bezahlen soll.
+
+Antipholis von Ephesus.
+Aber wo ist das Geld?
+
+Dromio von Ephesus.
+Wie, Herr, ich gab es fuer den Strik.
+
+Antipholis von Ephesus.
+Zu was Ende befahl ich dir denn nach Hause zu gehen?
+
+Dromio.
+Zum* End' eines Seils, Herr, und zu dem Ende bin ich wieder da.
+
+Antipholis von Ephesus.
+Und zu dem Ende will ich dich bewillkommen.
+
+(Er giebt ihm Schlaege.)
+
+Gerichtsdiener.
+Mein lieber Herr, habt Geduld.
+
+Dromio von Ephesus.
+Wahrhaftig, es ist an mir, Geduld zu haben; ich bin in der
+Anfechtung.
+
+Gerichtsdiener.
+Halt du dein Maul, guter Freund.
+
+Dromio von Ephesus.
+Beredet ihn vielmehr, dass er seine Haende halte.
+
+Antipholis von Ephesus.
+Du Hurensohn von einem sinnlosen Galgenschwengel.
+
+Dromio von Ephesus.
+Ich wollt' ich waere sinnlos, Herr, so wuerd' ich eure Schlaege nicht
+fuehlen.
+
+Antipholis von Ephesus.
+Du bist fuer nichts empfindlich als fuer Schlaege, wie ein andrer Esel
+auch.
+
+Dromio von Ephesus.
+Dass ich ein Esel bin, dass ist wahr; das koennt ihr mit meinen langen
+Ohren beweisen.  Ich hab' ihm von meiner Geburts-Stund' an gedient,
+und habe fuer alle meine Dienste noch nichts von ihm empfangen, als
+Ohrfeigen.  Wenn mich friert, so waermt er mich mit Schlaegen; wenn
+mir warm ist, so kuehlt er mich mit Schlaegen ab; er wekt mich mit
+Schlaegen, wenn ich schlafe; und macht mich mit Schlaegen aufstehn,
+wenn ich size; mit Schlaegen treibt er mich zur Thuer hinaus, wenn
+ich ausgehe, und bewillkommt mich wieder mit Schlaegen, wenn ich
+zuruekkomme; ich trage seine Schlaege auf meinen Schultern, wie eine
+Bettlerin ihr Kind; und ich denke, wenn er mich lahm geschlagen hat,
+so werd ich noch damit von Haus zu Haus betteln gehen muessen.
+
+{ed.-*
+Der Geist dieser Scherze ligt wie durchgaengig in diesem Stuek, in
+einem Wortspiel.  (End), hat wie das deutsche Wort Ende, mehrere
+Bedeutungen--(- rope), heisst ein Seil, und (a rope's-end), (ein
+Ende von einem Seil,) ein Strik.  Antipholis befahl dem Dromio (a
+rope's-end) zu kauffen; da er nun izt fragt, zu was End
+
+(to what end)
+
+schikt ich dich; so antwortet dieser: (to a rope's-end.)}
+
+
+
+Neunte Scene.
+(Adriana, Luciana, die Courtisane und Doctor Zwik, zu den Vorigen.)
+
+
+Antipholis von Ephesus.
+Kommt weiter; ich sehe dort meine Frau kommen.
+
+Dromio von Ephesus.
+(Respice finem), Madam, schaut auf euer End; nehmt euch vor dem
+Strik in acht --
+
+
+Antipholis von Ephesus.
+Willst du das Maul halten.
+
+(Er schlaegt ihn wieder.)
+
+Courtisane.
+Was sagt ihr izt?Ist euer Mann nicht toll?
+
+Adriana.
+Ich kan nicht mehr daran zweiflen, da er so wild thut.  Lieber
+Doctor Zwik, ihr seyd ein Beschwoerer, gebt ihm seine Vernunft
+wieder, und fordert was ihr nur wollt dafuer.
+
+Luciana.
+Au weh, wie feurig und wild er um sich schaut!
+
+Courtisane.
+Bemerkt, wie er vor Wuth zittert.
+
+Zwik.
+Gebt mir eure Hand, damit ich euern Puls befuehlen kan.
+
+Antipholis von Ephesus (giebt ihm eine Ohrfeige.)
+Hier ist meine Hand, die euer Ohr befuehlen soll.
+
+Zwik.
+Ich beschwoere dich, Satan, der du diesen Mann besessen hast, bey
+allen Heiligen des Himmels beschwoer' ich dich, auszufahren, und in
+deinen Ort der Finsterniss straks zuruek zu kehren.
+
+Antipholis von Ephesus.
+Stille, wahnwiziger Hexenmeister, ich bin nicht toll.
+
+Adriana.
+O wollte Gott, du waer'st es nicht, arme verruekte Seele!
+
+Antipholis von Ephesus.
+Ihr Schaezgen, ihr, sind das eure Gesellschafter?War es dieser
+Geselle mit dem saffrangelben Gesicht hier, der heut in meinem
+Hause mit euch schmausste und lustig machte, indessen dass die Thuere
+schaendlicher Weise vor mir verschlossen, und der Eingang in mein
+Haus mir mit Gewalt verwehrt wurde?
+
+Adriana.
+O mein lieber Mann, Gott weiss, dass ihr bey Hause zu Mittag gegessen
+habt; wollte der Himmel ihr waeret dort geblieben, und haettet euch
+nicht so oeffentlich auf der Strasse in ein boeses Geschrey gebracht.
+
+Antipholis von Ephesus (zu Dromio.)
+Ass ich in meinem Hause zu Mittag, Galgenschwengel?Was sagst du?
+
+Dromio von Ephesus.
+Herr, die Wahrheit zu sagen, ihr habt nicht bey Hause zu Mittag
+gegessen.
+
+Antipholis von Ephesus.
+Waren meine Thueren nicht verriegelt, und wurd' ich nicht
+ausgesperrt?
+
+Dromio von Ephesus.
+Parbleu, eure Thueren waren verriegelt, und ihr ausgesperrt.
+
+Antipholis von Ephesus.
+Und wies sie mich nicht selbst schimpflich ab?
+
+Dromio von Ephesus.
+Scherz (a part), sie wies euch schimpflich ab.
+
+Antipholis von Ephesus.
+Schimpfte und verspottete mich nicht ihr Kuechen-Mensch?
+
+Dromio von Ephesus.
+Ma foi, die Kuechen-Vestalin verspottete euch.
+
+Antipholis von Ephesus.
+Und gieng ich nicht endlich voller Wuth fort?
+
+Dromio von Ephesus.
+(En verite), das thatet ihr; meine Knochen sind Zeugen, die seitdem
+die Staerke eurer Wuth gefuehlt haben.
+
+Adriana (zu Zwik.)
+Ist es gut, ihm in diesen verkehrten Einfaellen recht zu geben?
+
+Zwik.
+Es ist nicht unrecht; der Kerl merkt wo es ihm fehlt, und, um ihn
+nicht noch mehr aufzubringen, sagt er zu allen seinen phrenetischen
+Reden ja.
+
+Antipholis von Ephesus (zu Adriana.)
+Du hast den Goldschmidt aufgehezt, dass er mich in Verhaft nehmen
+lassen sollte.
+
+Adriana.
+Himmel!  Durch diesen Dromio hier hab ich euch Geld geschikt, euch
+zu befreyen, da er in groester Eil dafuer gelauffen kam.
+
+Dromio von Ephesus.
+Ihr schiktet Geld durch mich?Guten Willen moegt ihr wol geschikt
+haben; aber das versichre ich euch, nicht einen Heller Geld.
+
+Antipholis von Ephesus.
+Giengest du nicht zu ihr, um einen Beutel mit Ducaten zu holen?
+
+Adriana.
+Er kam zu mir, und ich gab ihn ihm.
+
+Luciana.
+Und ich bin Zeuge, dass sie es gethan hat.
+
+Dromio von Ephesus.
+Gott und der Seiler sind Zeugen, dass ich nach nichts als nach einem
+Strik geschikt worden bin.
+
+Zwik.
+Madam, der Herr und der Knecht ist einer so besessen als wie der
+andre; ich seh es an ihrem blassen und toedtlichen Aussehen; man muss
+sie binden, und in ein dunkles Gemach einsperren.
+
+Antipholis von Ephesus.
+Sag', warum verschlossest du das Haus vor mir; und du, Kerl, warum
+laeugnest du den Beutel mit Geld ab?
+
+Adriana.
+Ich habe euch nicht ausgeschlossen, mein lieber Mann.
+
+Dromio von Ephesus.
+Und ich, mein lieber Herr, ich habe kein Gold empfangen; aber das
+bekenn' ich, Herr, dass wir ausgeschlossen worden sind.
+
+Adriana.
+Du verstellter Galgenstrik, du luegst beydes.
+
+Antipholis von Ephesus.
+Du verstellte Meze, du bist in allem falsch, und hast dich mit
+einem verdammten Gesindel zusammen verschworen, mich um meine Ehre
+zu bringen, und zum Spott und Scheusal vor der Welt zu machen.  Aber
+mit diesen Naegeln will ich dir diese falschen Augen ausreissen,
+welche ihre Lust daran sehen wollen, dass ein so schaendliches Spiel
+mit mir getrieben wird.  (Drey oder vier Kerle treten auf, und
+erbieten sich, ihn zu binden; er wehrt sich.)
+
+Adriana.
+O bindet, bindet ihn, lasst ihn mir nicht nahe kommen.
+
+Zwik.
+Noch mehr Leute--Der boese Feind ist maechtig in ihm.
+
+Luciana.
+O weh, der arme Mann, wie bleich und verstellt er aussieht!
+
+Antipholis von Ephesus.
+Wie, wollt ihr mich ermorden?Du, Gerichtsdiener, ich bin dein
+Gefangner; willst du leiden, dass sie mich dir entfuehren?
+
+Gerichtsdiener.
+Ihr Herren, lasst ihn gehen; er ist mein Gefangner, und ihr sollt
+ihn nicht haben.
+
+Zwik.
+Geht, bindet diesen Mann auch, er ist so gut mondsuechtig als die
+andern.
+
+Adriana.
+Was willt du hier, du unverstaendiger Gerichtsdiener?Was fuer eine
+Freude hast du daran, zu sehen, dass ein armer verruekter Mann sich
+selbst Schaden und Leids zufuegt?
+
+Gerichtsdiener.
+Er ist mein Gefangner; wenn ich ihn gehen lasse, muss ich die Schuld
+bezahlen, wegen welcher er in Verhaft gekommen ist.
+
+Adriana.
+Ich will dich stehendes Fusses befriedigen; fuehre mich nur zu
+seinem Gelaeubiger;
+
+(Sie binden Antipholis und Dromio.)
+
+sobald ich weiss, wie hoch sich die Schuld belaeuft, will ich sie
+bezahlen.  Lieber Herr Doctor, sorget dafuer, dass er unversehrt heim
+in mein Haus gebracht werde.  O ungluekseliger Tag!
+
+Antipholis von Ephesus.
+O ungluekselige Meze!
+
+Dromio von Ephesus.
+Herr, ich bin hier euertwegen in Banden.
+
+Antipholis von Ephesus.
+Geh' zum T** du Galgenschwengel!  Willst du mich rasend machen?
+
+Dromio von Ephesus.
+Wollt ihr denn um nichts gebunden seyn?Raset, mein lieber Herr;
+ruft, der Teufel --
+
+Luciana.
+Gott helf uns!  Die armen Troepfe, was sie fuer Reden fuehren!
+
+Adriana.
+Geht, fuehrt ihn weg; Schwester, bleib du bey mir.
+
+(Zwik, Antipholis und Dromio gehen ab.)
+
+Nun, sagt mir, auf wessen Klag ist er im Verhaft?
+
+Gerichtsdiener.
+Auf eines Goldschmidts, Namens Angelo; kennt ihr ihn?
+
+Adriana.
+Ja; wie viel ist er ihm schuldig?
+
+Gerichtsdiener.
+Zweyhundert Ducaten.
+
+Adriana.
+Und wofuer?
+
+Gerichtsdiener.
+Fuer eine Kette, die euer Mann von ihm hatte.
+
+Adriana.
+Er bestellte eine Kette fuer mich, aber er hat sie noch nicht
+empfangen.
+
+Courtisane.
+Gleich darauf, nachdem euer Mann in seiner Tollheit in mein Haus
+eingefallen war, und mir meinen Ring genommen hatte, begegnet' ich
+ihm auf der Strasse, und sah' dass er eine Kette am Halse trug.
+
+Adriana.
+Es mag seyn, aber ich habe sie nie gesehen.  Kommt, Gerichtsdiener,
+fuehrt mich zu dem Goldschmidt; es verlangt mich sehr, die Umstaende
+von der Sache zu erfahren.
+
+
+
+Zehnte Scene.
+(Antipholis von Syracus mit gezognem Degen, und Dromio von Syracus
+ zu den Vorigen.)
+
+
+Luciana.
+Um's Himmels willen, sie sind schon wieder los.
+
+Adriana.
+Und kommen mit blassen Degen auf uns zu; wir wollen um Huelfe ruffen,
+dass wir sie wieder binden koennen.
+
+Gerichtsdiener.
+Fort, fort, oder sie bringen uns um.
+
+(Sie lauffen davon.)
+
+Antipholis von Syracus.
+Ich sehe, diese Hexen fuerchten sich vor blossen Degen.
+
+Dromio von Syracus.
+Sie, die eure Frau seyn wollte, lief izt zuerst davon.
+
+Antipholis von Syracus.
+Komm, zum Centaur, und hol dort unsre Sachen ab; ich kan es kaum
+erwarten, bis wir mit ganzer Haut von hinnen und am Bord sind.
+
+Dromio von Syracus.
+Glaubt mir, bleibt diese Nacht noch hier; sie thun uns gewiss nichts;
+ihr habt ja gesehen, dass sie freundlich mit uns redten und uns
+Gold gaben; mich daeucht, sie sind ein so leutseliges Volk, dass,
+wenn der Berg von abgestandnem Fleisch nicht waere, der ehliche
+Ansprueche an mich macht, ich recht von Herzen gern immer hier
+bleiben, und selbst ein Zauberer werden moechte.
+
+Antipholis von Syracus.
+Nicht um die ganze Stadt wollt' ich hier ueber Nacht bleiben; fort
+also, und pake unser Zeug zusammen.
+
+(Sie gehen ab.)
+
+
+
+
+Fuenfter Aufzug.
+
+
+
+Erste Scene.
+(Eine Strasse vor einem Frauen-Kloster.)
+(Der Kauffmann und Angelo treten auf.)
+
+
+Angelo.
+Es ist mir sehr leid, mein Herr, dass ich euch habe aufhalten muessen;
+ich versichre euch aber, er hatte von mir eine Kette, ob er's
+gleich so schaendlicher Weise laeugnet.
+
+Kauffmann.
+Was fuer einen Namen hat der Mann sonst in der Stadt?
+
+Angelo.
+Einen sehr ehrenvollen Namen, mein Herr; er ist ein Mann von
+unendlichem Credit, sehr beliebt, und weicht keinem einzigen in der
+Stadt, wer es sey; ein Wort von ihm gilt immer soviel, als mein
+ganzes Vermoegen.
+
+Kauffmann.
+Redet leise; mir daeucht, dort seh ich ihn gehen.  (Antipholis und
+Dromio von Syracus treten auf.)
+
+Angelo.
+Es ist so; und er traegt eben diese Kette um seinen Hals, die er
+empfangen zu haben auf eine so unerhoerte Art weglaeugnete.  Mein
+werther Herr, kommt mit mir, ich will ihn anreden--Herr Antipholis,
+ich verwundre mich nicht wenig, warum ihr mich in solche Schmach
+und Unruh habt sezen moegen, und dass ihr nicht wenigstens fuer eure
+eigne Ehre mehr Sorge getragen, als mit solchen Umstaenden und
+Schwueren diese Kette abzulaeugnen, die ihr izt so oeffentlich am
+Halse tragt?Ausser der Beschimpfung und dem Verhaft, so ihr mir
+und euch selbst zugezogen, habt ihr diesem meinem wakern Freund
+einen grossen Schaden zugefuegt, indem er, durch unsern Streit
+aufgehalten, um die Gelegenheit, heute von hier abzufahren,
+gekommen ist.  Koennt ihr's laeugnen, dass ihr diese Kette von mir
+hattet?
+
+Antipholis von Syracus.
+Ich denk', ich hatte sie von euch; ich hab' es nie gelaeugnet.
+
+Kauffmann.
+Ja, das thatet ihr, Herr; und schwuret noch dazu.
+
+Antipholis von Syracus.
+Wer hoerte mich's laeugnen und verschwoeren?
+
+Kauffmann.
+Diese meine Ohren, du weissst es, hoerten dich; schaeme dich,
+niedertraechtiger Mann; es ist zu bedauren, dass es dir erlaubt ist,
+unter ehrlichen Leuten frey herum zu gehen.
+
+Antipholis von Syracus.
+Du selbst bist ein Schurke, mir solche Dinge schuld zu geben; ich
+will diesen Augenblik meine Ehre und meine Unschuld gegen dich
+beweisen, wenn du das Herz hast, stand zu halten.
+
+Kauffmann.
+Das hab' ich, und fordre dich als einen Schurken heraus --
+
+
+(Sie ziehen den Degen.)
+
+
+
+Zweyte Scene.
+(Adriana, Luciana, Courtisane, und andre zu den Vorigen.)
+
+Adriana.
+Haltet ein, thut ihm kein Leid, um Gottes willen haltet ein; er ist
+rasend; bemaechtigt euch seiner, ihr; nehmt ihm seinen Degen; bindet
+den Dromio auch, und fuehrt sie in mein Haus.
+
+Dromio von Syracus.
+Lauft, Herr, lauft; um Gottes willen, fluechtet euch in ein Haus;
+hier ist ein Kloster, denk' ich; hinein, oder wir sind verlohren.
+
+(Sie lauffen in das Kloster.)
+Die Frau Abbtissin tritt nach einer Weile auf.)
+
+Abbtissin.
+Seyd ruhig, ihr Leute; warum draengt ihr euch so zu?
+
+Adriana.
+Um meinen armen verruekten Mann abzuholen; lasst uns hinein, damit
+wir ihn binden, und heim fuehren, um ihn wieder zurechte zu bringen.
+
+Angelo.
+Ich merkt's, dass er nicht recht bey Vernunft seyn muesse.
+
+Kauffmann.
+Wenn es so ist, so ist mir leid, dass ich gegen ihn gezogen habe.
+
+Abbtissin.
+Wie lang' ist der Mann schon in diesem Zustande?
+
+Adriana.
+Diese ganze Woche war er immer schwermuethig, dunkel und
+niedergeschlagen, und gar nicht, gar nicht mehr der Mann, der er
+ehmals war; aber bis zu diesem Nachmittag ist seine Krankheit nie
+bis zur voelligen Wuth ausgebrochen.
+
+Abbtissin.
+Hat er etwann durch einen Schiffbruch grosses Gut verlohren?Hat er
+vielleicht irgend einen geliebten Freund begraben?Oder haben
+etwann seine Augen sein Herz zu einer gesezwidrigen Liebe
+verleitet?Eine Suende, die bey jungen Maennern, die ihren Augen die
+Freyheit herumzuschweiffen gestatten, nur allzugewoehnlich ist.
+Welches von diesen dreyen ist die Ursache seiner Zerruettung?
+
+Adriana.
+Keine davon, es muesste dann die lezte seyn; nemlich, irgend eine
+Liebe, die ihn oft aus seinem Hause zog.
+
+Abbtissin.
+Ihr haettet ihn desswegen zur Rede stellen sollen.
+
+Adriana.
+Ey, das that ich auch.
+
+Abbtissin.
+Ja, aber nicht scharf genug.
+
+Adriana.
+So scharf, als es mir meine Schamhaftigkeit erlauben wollte.
+
+Abbtissin.
+Vermuthlich nur, wenn ihr allein waret.
+
+Adriana.
+Nein, auch vor andern Leuten.
+
+Abbtissin.
+Aber vielleicht nicht oft genug.
+
+Adriana.
+O, es war der bestaendige Innhalt unsers Umgangs; im Bette schlief
+er nicht, so sehr ruekt' ich's ihm vor; bey Tische ass er nicht, so
+sehr ruekt ich's ihm vor; allein, war es das Thema meiner
+Beschwerungen; in Gesellschaft stichelt' ich immer darauf;
+unaufhoerlich sagt ich ihm, wie schlimm und unrecht es sey.
+
+Abbtissin.
+Und daher kam es, dass der Mann naerrisch wurde.  Das giftige Geschrey
+eines eifersuechtigen Weibes verwundet toedtlicher als der Biss eines
+wuethenden Hunds.  Du gestehst, dass ihn dein Schmaelen nicht schlafen
+gelassen, daher kam es dass ihm sein Hirn austroknete; du sagst, du
+habest ihm sein Essen mit deinen Vorwuerfen gewuerzt, unruhige
+Mahlzeiten verursachen ueble Verdauung: Daher zulezt das tobende
+Feuer des Fiebers, und was ist Fieber anders als ein Anstoss von
+Raserey?Du sagst, dein Gezaenke hab' ihn bis in seine Ergoezungs-
+Stunden verfolgt; wenn einem Mann alle angenehme Zeitkuerzung
+verwehrt wird, was kan daraus erfolgen, als duestre Melancholie, ein
+verstoertes Temperament, ein zaehes Blut, und verdorbne
+Feuchtigkeiten, die endlich das Leben selbst untergraben?In seiner
+Nahrung, in seinen Ergoezungen, und in seinem Schlaf gestoert werden;
+das waere genug, einen Menschen zu einem Thier zu machen.  Der Schluss
+ist also leicht gemacht, dass es bloss deine eifersuechtigen Grillen
+sind, die deinen Mann um seinen Verstand gebracht haben.
+
+Luciana.
+Sie macht' ihm niemals andre Vorstellungen als sehr gelinde, da er
+hingegen sich muerrisch und wild auffuehrte--Warum leidet ihr diese
+Vorwuerfe so geduldig, Schwester?Warum antwortet ihr nicht?
+
+Adriana.
+Sie hat mir das Gewissen ein wenig geruehrt.--Lieben Leute, geht
+hinein, und bemaechtigt euch seiner.
+
+Abbtissin.
+Nein, kein lebender Mensch untersteh' sich in mein Haus
+einzudringen.
+
+Adriana.
+So lasst eure Bedienten meinen Mann heraus bringen.
+
+Abbtissin.
+Auch diss nicht; er waehlte diesen heiligen Ort zu seiner Freystatt,
+und er soll darinn vor euern Haenden sicher seyn; er soll so lange
+darinn bleiben, bis ich ihn wieder zurechte gebracht, oder alle
+meine Muehe im Versuch verlohren habe.
+
+Adriana.
+Ich will meinem Mann schon abwarten, ich will seine Krankenwaerterin
+seyn, es ist (meine) Pflicht; ich will keine andre Waerterin bey ihm
+leiden, als mich selbst; und also gestattet, dass ich ihn mit nach
+Hause nehme.
+
+Abbtissin.
+Geduldet euch, ich werd' ihn ganz gewiss nicht fortlassen, bis ich
+meine bewaehrten Mittel an ihm versucht haben werde.  Gesunde Saefte,
+Traenke und heilige Fuerbitten, werden ihn, wie ich hoffe, in den
+gehoerigen Stand wieder herstellen; es ist eine Pflicht der
+Christlichen Milde, die mein Ordens-Geluebde mir auflegt; begebt
+euch also weg, und lasst ihn hier bey mir.
+
+Adriana.
+Ich will nicht fort, und meinen Mann hier lassen; es steht Euer
+Hochwuerden sehr uebel an, Mann und Weib von einander trennen zu
+wollen.
+
+Abbtissin.
+Sey ruhig und geh', du sollst ihn nicht haben.
+
+Luciana.
+Beschwert euch bey dem Herzog ueber diese Gewaltthaetigkeit.
+
+(Die Abbtissin geht ab.)
+
+Adriana.
+Kommt mit mir; ich will ihm zu Fuessen fallen, und nicht aufstehen,
+bis meine Thraenen und Bitten Se.  Durchlaucht gewonnen haben, in
+eigner Person hieher zu kommen, und meinen Mann der Abbtissin mit
+Gewalt abzunehmen.
+
+Kauffmann.
+Ich seh' an der Uhr, dass es bald fuenfe seyn wird; ich bin
+versichert, der Herzog wird nicht lange mehr verziehen, in Person
+diesen Weg zu kommen, zu dem melancholischen Thal hinter den Graeben
+der Abbtey hier, wo die zum Tode Verurtheilten gerichtet zu werden
+pflegen.
+
+Angelo.
+Warum dieses?
+
+Kauffmann.
+Um einen Syracusischen Kauffmann sterben zu sehen, der unglueklicher
+Weise gegen die Geseze dieser Stadt, hier angelaendet ist, und
+desswegen den Kopf verliehren muss.
+
+Angelo.
+Seht, da kommen sie schon; wir wollen der Hinrichtung zusehen.
+
+Luciana (zu Adriana.)
+Thut einen Fussfall vor dem Herzog, indem er bey der Abtey
+vorbeygeht.
+
+
+
+Dritte Scene.
+(Der Herzog, und sein Gefolge, Aegeon mit blassem Haupt, der
+ Nachrichter und andre Gerichtsdiener treten auf.)
+
+
+Herzog.
+Noch einmal ruft es oeffentlich aus; wenn irgend ein Freund die
+Summe fuer ihn bezahlen will, so soll er nicht sterben; das ist
+alles, was wir fuer ihn thun koennen.
+
+Adriana.
+Justiz, Gnaedigster Herr, gegen die Abbtissin.
+
+Herzog.
+Sie ist eine tugendhafte und ehrwuerdige Frau; es kan nicht seyn,
+dass sie dir unrecht gethan haben sollte.
+
+Adriana.
+Erlaubet mir zu reden, Gnaedigster Herr; Antipholis, mein Mann, (den
+ich auf euere vollgueltige Empfehlung zum Herrn von meiner Person
+und meinem Vermoegen machte,) bekam an diesem unglueklichen Tag einen
+so heftigen Anstoss von Raserey, dass er in seiner Tollheit durch die
+Strassen lief, und den Leuten in der Stadt Ungemach zufuegte, indem
+er in die Haeuser einfiel, und Ringe, Juweelen, und was ihm nur in
+der Wuth anstaendig war, mit sich nahm.  Ich bemaechtigte mich endlich
+seiner, liess ihn binden und heimbringen; indess dass ich den Schaden
+zu vergueten bemueht war, den er hier und da in der Raserey
+angerichtet hatte.  Allein er riss, ich weiss nicht wie, sich von
+denen wieder los die ihn hueten sollten, und begegnete uns, er und
+sein Knecht, der so rasend als sein Herr ist, abermal voller Wuth
+und mit gezognem Degen auf der Strassen, fiel uns an, und jagte uns
+fort; wie wir aber in staerkerer Anzahl zuruek kamen, um sie zu
+binden, flohen sie in diese Abbtey, wohin wir ihnen folgten; und
+hier schlaegt die Abbtissin die Thuere vor uns zu, und will weder
+leiden, dass ihr ihn holen, noch ihn heraus schiken, damit wir ihn
+forttragen koennen.  Lasst also, Gnaedigster Herr, lasst ihn auf euern
+Befehl heraus gebracht, und zu seiner Wiederherstellung
+heimgetragen werden.
+
+Herzog.
+Dein Mann hat mir vor langer Zeit schon in meinen Kriegen gute
+Dienste gethan; und ich versprach dir, (da du ihn zum Herrn von
+deinem Bette machtest,) bey meinem fuerstlichen Wort, dass ich ihm
+allezeit so viel Gnade und Gutes beweisen wolle, als ich koenne.
+Geh' jemand von euch, und klopfe an der Pforte an, und heisse die
+Abbtissin zu mir heraus kommen; ich will diese Sache ausmachen, eh
+ich weiter gehe.
+
+
+
+Vierte Scene.
+(Ein Bote zu den Vorigen.)
+
+
+Bote.
+O Frau, Frau, eilet und rettet euch; mein Herr und sein Diener
+haben sich beyde losgerissen, die Maegde im Reihen herum gepruegelt,
+und den Doctor gebunden; sie haben ihm den Bart mit Feuerbraenden
+angestekt, und da er aufloderte, gossen sie ganze Kuebel voll
+Mistpfuezen-Wasser ueber ihn her, um das Haar wieder zu loeschen: Mein
+Herr predigt ihm Geduld, und unterdessen zwikt ihn sein Diener mit
+einer Scheere, dass er naerrisch werden moechte; wenn ihm nicht
+augenbliklich jemand zu Huelfe geschikt wird, so bin ich gewiss, sie
+werden den armen Teufelsbanner ums Leben bringen.
+
+Adriana.
+Schweige, du alberner Kerl, dein Herr und sein Diener sind hier; es
+ist alles falsch was du uns da erzaehlst.
+
+Bote.
+Frau, auf mein Leben, ich sagte euch die Wahrheit; ich habe kaum
+Athem geholt, seitdem ich es mit meinen Augen gesehen habe; er tobt
+entsezlich ueber euch, und schwoert, wenn er euer habhaft werde, so
+woll' er euch so zeichnen, dass ihr euch selbst nimmermehr gleich
+sehen sollet.
+
+(Man hoert ein Geschrey hinter der Buehne.)
+
+Horcht, horcht, ich hoer ihn, Frau; flieht, flieht.
+
+Herzog.
+Kommt, steht neben mich, fuerchtet nichts; Wache, habet Acht!
+
+Adriana.
+Weh mir, es ist mein Mann; ihr seyd Zeugen, dass er unsichtbar
+wieder heraus gekommen ist.  Eben izt sahen wir ihn in die Abbtey
+hier hinein fluechten, und nun ist er hier, ohne dass ein Mensch
+begreiffen kan, wie es zugegangen ist.
+
+
+
+Fuenfte Scene.
+(Antipholis und Dromio von Ephesus zu den Vorigen.)
+
+
+Antipholis von Ephesus.
+Justiz, Gnaedigster Herr, o, lasset mir Justiz angedeyhen.  Um des
+Dienstes willen den ich euch einst that, da ich in der Schlacht
+meinen Leib zu euerm Schild machte, und die Wunden auffieng, die
+auf euch gezielt waren; um des Blutes willen, so ich damals verlohr,
+euer Leben zu retten; lasset mir izt Justiz angedeyhen.
+
+Aegeon.
+Wenn Todesfurcht mein Auge nicht verfaelscht, seh' ich hier meinen
+Sohn Antipholis und Dromio.
+
+Antipholis von Ephesus.
+Justiz, theurer Fuerst, gegen dieses Weibsbild hier; sie, die ihr
+selbst mir zum Weibe gegeben habt, und die mich auf den aeussersten
+Grad betrogen und beschimpft hat.  Sie uebersteigt alles was man sich
+einbilden kan, die Beleidigung, so sie mir heute angethan hat.
+
+Herzog.
+Erzaehle worinn, und du sollst mich gerecht finden.
+
+Antipholis von Ephesus.
+An diesem heutigen Tag, grosser Herzog, schloss sie die Thuere vor
+mir zu, und schmausste indessen mit Huren in meinem Hause.
+
+Herzog.
+Ein schweres Vergehen; sag', Weibsbild, thatest du das?
+
+Adriana.
+Nein, Gnaedigster Herr; ich selbst, er und meine Schwester haben
+heute mit einander zu Mittag gegessen; moege meine Seele verlohren
+seyn, wenn dieses falsch ist; er legt mir das ungebuehrlich zu.
+
+Luciana.
+Nimmermehr moeg' ich den Tag wieder sehen, wenn das nicht die reine
+Wahrheit ist, was sie Euer Durchlaucht gesagt hat.
+
+Angelo.
+O meineidige Weibsstueke!  Sie schwoeren beyde falsch; hierinn klagt
+sie der tolle Mann mit Recht an.
+
+Antipholis von Ephesus.
+Gnaedigster Herr, ich weiss was ich rede; ich bin weder betrunken
+noch von Zorn und Wuth verruekt, ob ich gleich auf eine Art
+beleidiget bin, die einen gescheidtern Mann als ich bin, rasend
+machen koennte.  Dieses Weibsbild rigelte mich heut, um Mittagessens-
+Zeit zum Hause hinaus; dieser Goldschmidt hier, wenn er nicht mit
+ihr in Verstaendniss waere, koennt' es bezeugen, denn er war damals bey
+mir; und hernach verliess er mich um eine Kette zu holen, die er mir
+ins Stachelschwein zu bringen versprach, wo Balthasar und ich mit
+einander zu Mittag assen.  Wie wir gegessen hatten, und er nicht kam,
+gieng ich aus, ihn aufzusuchen; ich traf ihn auf der Strasse an,
+und diesen Herrn hier in seiner Gesellschaft.  Hier schwur mich
+dieser meineidige Goldschmidt zu Boden, dass ich die Kette wuerklich
+schon von ihm empfangen haette, die ich doch, weiss Gott, nicht
+gesehen habe; und um deswillen liess er mich durch einen
+Gerichtsdiener in Verhaft nehmen.  Ich bequemte mich, und schikte
+meinen Kerl um eine Summe Ducaten nach Hause, er brachte mir aber
+nichts zuruek.  Darauf bat ich den Gerichtsdiener hoeflich, dass er in
+Person mit mir in mein Haus gehen moechte.  Unterwegs traffen wir auf
+mein Weib, ihre Schwester, und ein ganzes Pak ihrer nichtswuerdigen
+Mitgenossen; sie brachten einen gewissen Zwik mit, einen
+ausgehungerten duerren Spizbuben, ein pures Gerippe, einen
+Marktschreyer, der den Leuten wahrsagt, einen armseligen, hol-
+augichten, scharfblikenden Tropf, einen lebendigen Todten-Koerper;
+dieser verfluchte Lumpen-Kerl, den sie als einen Beschwoerer
+mitgebracht hatten, gaffte mir in die Augen, fuehlte mir den Puls,
+und schrie: Ich sey besessen.  Sogleich fielen sie alle ueber mich
+her, banden mich, fuehrten mich heim, und liessen mich und meinen
+Knecht dort, beyde zusammengebunden, in einem dunkeln und dumpfigen
+Gewoelbe ligen; bis ich, nachdem ich meine Bande mit den Zaehnen von
+einander gebissen, meine Freyheit wieder erhielt, und unmittelbar
+hieher zu Eu.  Durchlaucht lief; welche ich ersuche, mir wegen
+solcher unerhoerten Beschimpfungen und Kraenkungen die vollstaendigste
+Genugthueung zu verschaffen.
+
+Angelo.
+Gnaedigster Herr, in so weit kan ich ihm Zeugniss geben, dass er nicht
+bey Hause zu Mittag ass, sondern hinaus geschlossen wurde.
+
+Herzog.
+Aber hatte er eine solche Kette von dir, oder nicht?
+
+Angelo.
+Er hatte sie, Gnaedigster Herr, und da er hieher gelauffen kam,
+sahen diese Leute, dass er die Kette am Halse trug.
+
+Kauffmann.
+Ueberdiss kan ich darauf schwoeren, dass diese meine Ohren euch
+bekennen gehoert haben, dass ihr die Kette von ihm empfangen, nachdem
+ihr vorher auf dem Markte das Gegentheil geschworen hattet; ich zog
+desswegen den Degen gegen euch, und da flohet ihr in diese Abtey
+hier, aus der ihr, denk ich, durch ein Wunderwerk wieder heraus
+gekommen seyn muesst.
+
+Antipholis von Ephesus.
+Ich bin niemals in diese Abtey hinein gekommen, und niemals hast du
+deinen Degen gegen mich gezogen; auch hab ich, so wahr mir der
+Himmel helfe, die Kette nie gesehen; ihr beschuldiget mich alles
+dessen mit Unrecht.
+
+Herzog.
+Wie, was fuer ein verworrener Handel ist das?Ich glaube, ihr habt
+alle aus Circe's Becher getrunken: Wenn ihr ihn in dieses Kloster
+getrieben haettet, so wuerd' er drinn seyn; wenn er rasend waere, so
+wuerd' er seine Klage nicht mit so kaltem Blut vorbringen.  Ihr sagt
+er habe zu Hause mit euch zu Mittag gegessen; der Goldschmidt hier
+widerspricht euch das--Kerl, was sagst du?
+
+Dromio von Ephesus.
+Gnaedigster Herr, er ass mit dieser hier zu Mittag, im Stachelschwein.
+
+Courtisane.
+Das that er, und da zog er mir den Ring vom Finger.
+
+Antipholis von Ephesus.
+Das ist wahr, Gnaedigster Herr, diesen Ring hatt' ich von ihr.
+
+Herzog (zur Courtisane)
+Sahst du ihn in die Abbtey hier hinein gehen?
+
+Courtisane.
+So gewiss, Gnaedigster Herr, als ich izt Eu.  Durchlaucht sehe.
+
+Herzog.
+Wie, das ist wunderlich; geht, ruft die Abbtissin heraus; ich denke
+ihr seyd alle bezaubert oder toll.
+
+(Einer geht zu der Abbtissin ab.)
+
+
+
+Sechste Scene.
+
+
+Aegeon.
+Grossmaechtigster Herzog, verstattet mir ein Wort zu reden: Ich sehe
+hier glueklicher Weise einen Freund, der mein Leben retten, und mein
+Loesegeld bezahlen wird.
+
+Herzog.
+Rede frey, Syracusaner, was du willst.
+
+Aegeon (zu Antipholis.)
+Mein Herr, ist euer Name nicht Antipholis?Und ist das nicht euer
+Sclave, Dromio?Ich bin gewiss, ihr werdet mich beyde kennen--Wie?
+Warum seht ihr mich so fremd an?Ihr kennet mich wol.
+
+Antipholis von Ephesus.
+Ich hab' euch, bis izt, in meinem Leben nicht gesehen.
+
+Aegeon.
+O!  Gram und Kummer haben mein Gesicht unkenntlich gemacht, seitdem
+wir das leztemal uns sahen; aber sag' mir, kennst du nicht
+wenigstens meine Stimme?
+
+Antipholis von Ephesus.
+Eben so wenig.
+
+Aegeon.
+Du auch nicht, Dromio?
+
+Dromio von Ephesus.
+Nein, meiner Treu, Herr, ich nicht.
+
+Aegeon.
+Ich bin gewiss, du kennst mich!
+
+Dromio von Ephesus.
+Und ich bin gewiss, dass ich euch noch nie gesehen hab' als izt!
+
+Aegeon.
+Meine Stimme nicht mehr kennen!  O Zeit, hast du denn in sieben
+kurzen Jahren meine arme Zunge so gebrochen, dass mein einziger Sohn
+hier ihren sorgenvollen Ton nicht mehr erkennt?Obgleich diss mein
+graues Gesicht in des saftverzehrenden Winters Schnee eingehuellt
+ist, und alle Canaele meines Bluts zugefroren sind; so hat doch die
+Nacht meines Lebens einiges Gedaechtniss, meine ausgebrannte Lampe
+noch einen schwachen Schimmer uebrig, und meine tauben Ohren noch
+ein wenig Gehoer; alle diese Zeugen lassen mich nicht irren, indem
+sie mir sagen, dass du mein Sohn Antipholis bist.
+
+Antipholis von Ephesus.
+In meinem Leben hab' ich meinen Vater nie gesehen.
+
+Aegeon.
+Und doch weissst du, dass es erst sieben Jahre sind, dass wir in der
+Bay von Syracus von einander Abschied nahmen; aber vielleicht
+schaemest du dich izt, mein Sohn, mich in meinem elenden Zustande zu
+erkennen.
+
+Antipholis von Ephesus.
+Der Herzog und alle in der Stadt die mich kennen, koennen meine
+Zeugen seyn, dass es nicht so ist; ich habe Syracus in meinem Leben
+nie gesehen.
+
+Herzog.
+Ich sage dir, Syracusaner, zwanzig Jahre bin ich des Antipholis
+Patron gewesen, und in dieser ganzen Zeit hat er Syracus nie
+gesehen.  Ich sehe, dein Alter und die Todesfurcht machen dich
+schwaermen.
+
+
+
+Siebende Scene.
+(Die Abbtissin mit Antipholis und Dromio von Syracus zu den Vorigen.)
+
+
+Abbtissin.
+Gnaedigster Herr, sehet hier einen Mann, dem das groeste Unrecht
+geschehen ist.
+
+(Alle draengen sich, ihn zu sehen.)
+
+Adriana.
+Was seh ich?betruegen mich meine Augen?Ich seh meinen Mann
+gedoppelt.
+
+Herzog.
+Einer von diesen beyden Maennern ist der Genius des andern.  Und so
+ist es auch mit diesen.  Welcher von Beyden ist der natuerliche
+Mensch, und welcher der Geist?Wer entziefert sie?
+
+Dromio von Syracus.
+Ich, Herr, bin Dromio; heisst ihn fortgehen.
+
+Dromio von Ephesus.
+Ich bin Dromio, Herr; lasst mich da bleiben.
+
+Antipholis von Syracus.
+Bist du nicht Aegeon, mein Vater?oder bist du sein Geist?
+
+Dromio von Syracus.
+O!  mein guter alter Herr, wer hat euch so gebunden?
+
+Abbtissin.
+Wer ihn auch so gebunden haben mag, ich will ihn los machen, und
+durch seine Freyheit einen Ehemann gewinnen.  Rede, alter Aegeon,
+wenn du der Mann bist, der einst ein Weib, Aemilia genannt, hatte,
+die dir auf einmal zween schoene Soehne gebahr?O wenn du eben dieser
+Aegeon bist so rede, und rede zu eben dieser Aemilia.
+
+Herzog.
+Wie, hier fangt die Geschichte, die er diesen Morgen erzaehlte, sich
+zu entwikeln an; diese zween Antipholis und diese zween Dromio sind
+diese Brueder, die nicht von einander unterschieden werden konnten;
+hier sind die Eltern dieser Kinder, und der Zufall hat sie heute
+zusammen gebracht.
+
+Aegeon.
+Wenn ich nicht traeume, so bist du Aemilia, wenn du sie bist, so
+sage mir wo ist der Sohn, der mit dir auf dem fatalen Boote schwamm?
+
+Abbtissin.
+Er und ich, und der Zwilling Dromio, wurden alle von Maennern von
+Epidamnum aufgefangen; allein bald darauf nahmen ihnen rohe
+Fischers-Leute von Corinth, Dromio und meinen Sohn mit Gewalt ab,
+und mich liessen sie bey denen von Epidamnum.  Was hernach aus ihnen
+wurde, kan ich nicht sagen; ich bin in diesen Stand gekommen,
+worinn ihr mich seht.
+
+Herzog (zum Antipholis von Syracus.)
+Antipholis, du kamst ja anfangs von Corinth hieher?
+
+Antipholis von Syracus.
+Nicht ich, Gnaedigster Herr; ich kam von Syracus.
+
+Herzog.
+Stellt euch einander gegen ueber; ich verwechsle euch immer mit
+einander.
+
+Antipholis von Ephesus.
+Ich kam von Corinth, Gnaedigster Herr.
+
+Dromio von Ephesus.
+Und ich mit ihm.
+
+Antipholis von Ephesus.
+Von dem beruehmten Helden, dem Herzog Menaphon, euerm ehren-vollen
+Oheim, in diese Stadt gebracht.
+
+Adriana.
+Welcher von euch beyden ass heute mit mir zu Mittag?
+
+Antipholis von Syracus.
+Ich, werthe Madam.
+
+Adriana.
+Ihr seyd also nicht mein Mann?
+
+Antipholis von Ephesus.
+Nein, dazu sag' ich nein.
+
+Antipholis von Syracus.
+Das thu ich auch, ob ihr mich gleich so nenntet, und dieses schoene
+Frauenzimmer, eure Schwester, mich Bruder hiess.  Was ich euch damals
+sagte, werde ich, wie ich hoffe, Gelegenheit bekommen, zu
+bestaetigen, wenn anders das, was ich sehe und hoere nicht ein Traum
+ist.
+
+Angelo.
+Diss ist die Kette, mein Herr, die ihr von mir bekamet.
+
+Antipholis von Syracus.
+Ich denk' es ist so; ich laeugn' es nicht.
+
+Antipholis von Ephesus.
+Und ihr, Herr, seztet mich um dieser Kette willen in Verhaft?
+
+Angelo.
+Ich denk', ich that es; ich laeugn' es nicht.
+
+Adriana.
+Ich schikt' euch durch den Dromio Geld, mein Herr, um euch wieder
+frey zu machen; aber, ich denk, er bracht' es euch nicht.
+
+Dromio von Ephesus.
+Nicht durch mich.
+
+Antipholis von Syracus.
+Diesen Beutel mit Ducaten erhielt ich von euch, und Dromio, mein
+Sclave, bracht ihn mir.  Ich sehe, wir begegneten immer einer des
+andern seinem Diener, und er wurde fuer mich, und ich fuer ihn
+gehalten; und daraus entstanden alle diese Irrungen.
+
+Antipholis von Ephesus.
+Diese Ducaten verpfaende ich fuer meinen Vater hier.
+
+Herzog.
+Es ist nicht noethig, dein Vater hat sein Leben.
+
+Courtisane.
+Mein Herr, ich muss diesen Diamant wieder haben.
+
+Antipholis von Ephesus.
+Hier nehmt ihn, und grossen Dank fuer meine gute Bewirthung.
+
+Abbtissin.
+Gnaedigster Herzog, geruhet die Muehe zu nehmen, und mit uns in diese
+Abbtey hier zu gehen, und der umstaendlichen Erzaehlung aller unsrer
+Schiksale zuzuhoeren; und ihr alle hier, die durch den
+sympathetischen Irrthum dieses Tages Unrecht erlidten habt, kommt
+und leistet uns Gesellschaft, und ihr sollt vollstaendige
+Genugthueung erhalten.  Fuenf und zwanzig Jahre, meine Soehne, bin ich
+mit euch in Kinds-Noethen gewesen, und erst in dieser glueklichen
+Stunde, bin ich meiner schweren Buerden entbunden.  Der Herzog, mein
+Mann, meine beyden Kinder, und ihr, die Calender ihrer Geburt,
+sollen alle mit mir zu einem Gevatterschmaus kommen, und nach so
+vielem Weh ueber diese Geburt sich mit mir freuen.
+
+Herzog.
+Von Herzen gern will ich euer froelicher Gast seyn.
+
+(Sie gehen ab.)
+
+
+
+Achte Scene.
+(Die beyden Antipholis, und die beyden Dromio bleiben.)
+
+
+Dromio von Syracus.
+Herr, soll ich euere Sachen wieder von dem Schiff abholen?
+
+Antipholis von Ephesus.
+Dromio, was fuer Sachen von mir hast du eingeschifft?
+
+Dromio von Syracus.
+Eure Waaren, Herr, die in unserm Gasthof zum Centaur lagen.
+
+Antipholis von Syracus.
+Er redt mit mir; ich bin euer Herr, Dromio.  Kommt, geht mit uns,
+wir wollen hernach fuer das sorgen; umarme deinen Bruder hier, freut
+euch mit einander.
+
+(Die beiden Antipholis gehen ab.)
+
+Dromio von Syracus.
+Es ist eine gewisse fette Freundin in euers Herrn Haus, die mich
+heut beym Essen in der Kueche fuer euch ansah; sie wird nun meine
+Schwester seyn, nicht mein Weib.
+
+Dromio von Ephesus.
+Mir daeucht, ihr seyd mein Spiegel, nicht mein Bruder; ich seh' an
+euch, dass ich ein huebscher junger Kerl bin; wollt ihr hinein gehen,
+und sehen wie sie sich lustig machen?
+
+Dromio von Syracus.
+Nicht ich; ihr seyd ja mein aelterer Bruder.
+
+Dromio von Ephesus.
+Das ist noch die Frage; wie wollt ihr das beweisen?
+
+Dromio von Syracus.
+Wir wollen Halme ziehen, wer der aeltere sey; bis dahin, geht ihr
+zuerst.
+
+Dromio von Ephesus.
+Nein, so soll es seyn.
+
+(Er schlingt den Arm um ihn.)
+
+Wir kamen zugleich mit einander in die Welt, und Hand in Hand
+wollen wir auch hier neben einander hinein gehen.
+
+(Sie gehen ab.)
+
+
+Ende dieses Projekt Gutenberg Etextes Die Irrungen, von William
+Shakespeare (Uebersetzt von Christoph Martin Wieland)
+
+
+
+
+
+End of the Project Gutenberg EBook of Die Irrungen (The Comedy of Errors)
+by William Shakespeare
+
+*** END OF THE PROJECT GUTENBERG EBOOK DIE IRRUNGEN ***
+
+This file should be named 7gs0610.txt or 7gs0610.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 7gs0611.txt
+VERSIONS based on separate sources get new LETTER, 7gs0610a.txt
+
+Produced by the Gutenberg Projekt-DE.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+
